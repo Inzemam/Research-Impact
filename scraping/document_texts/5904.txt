@@ -1,0 +1,2810 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/5904Electronic Commerce for the Procurement of Construction andArchitect-Engineer Services: Implementing the FederalAcquisition Streamlining Act60 pages | 6 x 9 | PAPERBACKISBN 978-0-309-05932-9 | DOI 10.17226/5904Federal Facilities Council, Standing Committee on Procurement and Contracting,National Research CouncilElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Electronic Commercefor the Procurement ofConstruction andArchitect-EngineerServicesImplementing the Federal Acquisition Streamlining
+Act Conference Summary
+Federal Facilities Council Standing Committee on Procurement and
+ContractingTechnical Report #134
+NATIONAL ACADEMY PRESSWashington, DC 1997
+iElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.NOTICEThe Federal Facilities Council (FFC) (formerly the Federal Construction
+Council) is a continuing activity of the Board on Infrastructure and the
+
+Constructed Environment (BICE) of the National Research Council (NRC). The
+
+purpose of the FFC is to promote continuing cooperation among the sponsoring
+
+federal agencies, and between the agencies and others in the building
+community, to advance building science and technology, especially for the
+design, construction, acquisition, evaluation, and operation of federal facilities.
+
+The following agencies currently sponsor the FFC:
+Department of the Air Force, Air National Guard
+Department of the Air Force, Office of the Civil Engineer
+
+Department of the Army, Corps of Engineers
+Department of Energy, Office of Associate Deputy Secretary of Field
+ManagementDepartment of the Navy, Naval Facilities Engineering Command
+Department of State, Office of Foreign Buildings Operations
+Department of Veterans Affairs, Office of Facilities Management
+
+Food and Drug Administration
+General Services Administration, Public Buildings Service
+Indian Health Service
+National Aeronautics and Space Administration, Facilities Engineering Division
+
+National Institutes of Health
+National Institute of Standards and Technology, Building and Fire Research
+LaboratoryNational Endowment for the Arts, Design Arts Program
+National Science FoundationSmithsonian Institution, Office of Facilities Services
+
+U.S. Information Agency, International Broadcasting Bureau
+U.S. Postal Service, Facilities Department
+U.S. Public Health Service, Office of Management
+As part of its activities, the FFC periodically publishes reports that have been
+prepared by committees of government employees. Since these committees are
+
+not appointed by the NRC, they do not make recommendations, and their reports
+
+are considered FFC publications rather than NRC publications.
+For further information on the FFC program or FFC reports, please write to:
+Director, Federal Facilities Council, Board on Infrastructure and the Constructed
+
+Environment, 2101 Constitution Avenue, N.W., Washington, D.C. 20418, or
+
+visit us on the Internet at 
+http://www2.nas.edu/ffc.iiElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.FEDERAL FACILITIES COUNCIL STANDING
+COMMITTEE ON PROCUREMENT AND CONTRACTING
+ChairJoyce Runyan
+, Acquisition Policy Division, Naval Facilities Engineering
+CommandMembersRonald Adam
+, Office of Facilities Management, Department of Veterans Affairs
+Wade Belcher
+, Public Buildings Service, General Services Administration
+Lewis Butt
+, Maintenance and Repair Division, International Broadcasting Bureau
+Donald W. Dormstetter
+, Office of Design and Construction, Smithsonian
+InstitutionJon Erikson, Network Engineering, International Broadcasting Bureau
+Donald Evick
+, Engineering Management Branch, U.S. Army Corps of Engineers
+Catherine Fairlie
+, Installation Restoration Program Branch, Air National Guard
+Robert Fraga, Major Facilities Purchasing, U.S. Postal Service
+Chris Guevin, Military Construction, Department of the Air Force
+Gary Heidle, Acquisition Policy Division, Air National Guard
+Bob Henry
+, Division of Engineering Services, National Institutes of Health
+Tom Kasper, Acquisition Policy Division, Air National Guard
+Deanna Bentz Murphy
+, Environmental Management Division, National
+Aeronautics and Space Administration
+Walt Norko, Construction Policy Branch, U.S. Army Corps of Engineers
+Brent Peavler
+, Acquisition Division, International Broadcasting Bureau
+Tim Ruckle, Management Information Division, U.S. Army Corps of Engineers
+iiiElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Donna Smigel
+, Engineering Management Branch, U.S. Army Corps of Engineers
+Frank Sullivan
+, Office of Facilities Management, Department of Veterans
+AffairsJoyce Sweasy
+, Office of Procurement Management, National Institutes of Health
+William Timperley
+, Contracts Policy Division, Naval Facilities Engineering
+CommandDan Troyan, Office of the Principal Assistant for Contracting, U.S. Army Corps
+of Engineers
+Leroy Wallin, Acquisitions Department, U.S. Department of State
+Gerald Zaffos, Public Buildings Service, General Services Administration
+Program Committee Liaison Member
+Roger Bell
+, Facilities Division, Air National Guard
+Nonfederal Liaison MembersJeffrey Beard, Design-Build Institute of America
+Stuart Binstock, American Institute of Architects
+Nick Kolesnikoff, The Associated General Contractors of America
+Felix Martinez, American Consulting Engineers Council
+Christopher Monek
+, The Associated General Contractors of America
+Howard Noel, Council on Federal Procurement of Architect-Engineer Services
+Brian Pallasch
+, American Subcontractors Association, Inc.
+Bruce Vogelsinger, National Institute of Building Sciences
+Michael Wilson, Associated Builders and Contractors
+StaffLynda Stanley
+, Director, Federal Facilities Council
+Lena Grayson
+, Program Assistant, Federal Facilities Council
+ivElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.PrefaceElectronic commerce is a strategic element in achieving cost, time, and
+resource savings in the federal procurement of goods and services. To promote
+efficiencies in procurement, the Federal Acquisition Streamlining Act (FASA)
+requires that federal government transform its acquisition system from a
+
+paperwork process to a computer-based system that is readily accessible to
+
+government and private sector users. FASA encourages the purchase of
+
+commercial goods and services, establishes the Federal Acquisition Computer
+
+Network (FACNET), and over time, transforms the procurement system to an
+
+electronic on-line system.
+This one-day conference of the Federal Facilities Council focused on the
+procurement of construction and architect-engineer services, providing a forum to
+exchange information on related recent developments:
+Ł   FASA's provisions for electronic commerce, the architecture of
+electronic commerce and FACNET, government approaches to
+implementation, and the outlook for the future
+  Federal agency experiences with electronic commerce and FACNET,
+barriers to implementation, alternative computer/electronic systems, and
+initiatives underway
+  Private sector contractors' perspectives on the advantages and
+disadvantages of electronic commerce, barriers to implementation,
+methods of overcoming barriers, and future prospects
+  The purposes and services of the Electronic Commerce Resource
+Centers for small and medium-sized businesses.
+JOYCE RUNYAN, CHAIR
+COMMITTEE ON PROCUREMENT AND CONTRACTING
+PREFACEvElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.PREFACEviElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Contents  Executive Summary
+ 1  Electronic Commerce: Implementing FASA
+Delores (Dee) Smith, Department of Defense Electronic Commerce
+Office 8  Electronic Commerce: Perspectives of Four Federal Agencies
+Ron Grover, Naval Facilities Engineering Command
+G. Doyle Dodge, General Services Administration
+
+Frank D. (Dan) Troyan, James Justin Taylor, and Ronson Kung,
+
+Army Corps of Engineers
+
+Ken Stepka, National Aeronautics and Space Administration
+ 16  Electronic Commerce Resource Centers and Value-added Networks
+Bosquet (Biscuit) N. Wev, Jr., Fairfax Electronic Commerce
+
+Resource Center 36  Speaker Biographies
+ 46CONTENTSviiElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.CONTENTSviiiElectronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Executive SummaryElectronic commerce (EC) and electronic data interchange (EDI) represent
+one of today's fastest growing areas of business technology.
+1 Government has
+recognized the potential of such technologies in recent major legislative and
+executive actions to reform procurement. The object of these efforts is to convert
+
+federal processes, beginning with acquisition, from labor-and paper-intensive
+
+processes to streamlined electronic exchanges. However, EC/EDI has not been
+
+employed often in the government procurement of construction and architect-
+
+engineer (AE) services. To explore these new applications, the Federal Facilities
+
+Council (FFC), of the National Research Council's Board on Infrastructure and
+
+the Constructed Environment, hosted a one-day symposium in May 1996. This
+
+report presents symposium papers and Summarizes some of the principal themes
+
+and issues of the presentations and of the exchange among participants in the
+
+meeting's final open discussion.
+BackgroundThe Federal Acquisition Streamlining Act (FASA) of 1994 was enacted to
+make government procurement processes simpler and more cost-effective. Long
+agreed to be cumbersome, traditional procurement processes are both expensive
+
+and slow. FASA realized the far-reaching recommendations of two major
+
+studies, which themselves built on many others
+Ša Department of Defense
+1 "Electronic commerce (EC)" refers to a paperless process, including electronic mail,
+electronic bulletin boards, electronic funds transfer, electronic data interchange, and
+similar techniques, for accomplishing business transactions. "Electronic data interchange
+(EDI)" refers to any technique for electronically transferring and storing formatted
+information between computers, using established and published formats and codes, as
+
+authorized by the applicable Federal Information Processing Standards.
+EXECUTIVE SUMMARY1
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.(DOD) study of procurement reform, issued by the so-called Section 800 Panel,
+2and Vice President Gore's much broader effort to streamline government, the
+National Performance Review (NPR).
+Among other changes, FASA instituted new Simplified Acquisition
+Procedures for smaller government purchases, trying the new procedures partly to
+
+the use of EC/EDI. FASA, together with subsequent changes in the Federal
+
+Acquisition Regulations (FAR), established the Federal Acquisition Computer
+
+Network (FACNET), which is managed by the Defense Information Systems
+
+Agency (DISA) and is specifically designed to carry out government business
+using EC/EDI.
+While, according to FASA, the new simplified procedures could be used for
+any procurement of up to $50,000, they could also be used for procurements of
+
+from $50,000 to $100,000 as well
+Šif a government purchasing office was
+FACNET-certified by October 1996. The Federal Acquisition Reform Act
+
+(FARA) of 1996 extended this date to December 1999, permitting the use of the
+simplified procedures in the meantime for procurements of up to $100,000,
+regardless of the office's certification status. FARA also permitted agencies to
+
+experiment with forms of electronic communication other than FACNET in
+
+conducting business.
+Symposium Scope
+The use of EC/EDI, particularly as envisioned by FASA and FARA, poses
+special challenges for both contractors and government in AE and construction
+
+contracting. Problem areas include the time it takes to transmit drawings
+
+electronically; the ways drawings can be secured from unauthorized changes; the
+
+ways to procure AE contracts electronically, given that these contracts have their
+own procedures and forms; the difficulties of involving in the FACNET system
+the many small contractors who do construction work of under $100,000; as well
+
+as the general difficulties that have been reported in implementing EC/EDI
+
+through FACNET.The FFC symposium was thus designed to exchange information on several
+related basic topics:2 The 1991 authorizing legislation for the Department of Defense stipulated that a
+government-industry study be conducted on streamlining the department's acquisition
+process; the Section 800 Panel authored this study.
+EXECUTIVE SUMMARY2
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.   FASA's provisions for electronic commerce, the architecture of
+electronic commerce and FACNET, government approaches to
+
+implementation, and possible future developments
+   Federal agency experiences with electronic commerce, the availability of
+FACNET, barriers to implementation, alternative computer/electronic
+
+systems in use, and related initiatives
+   Private sector contractors' perspectives on the advantages and
+disadvantages of electronic commerce, barriers to implementation, ways
+
+to circumvent barriers, and future developments
+   The services of the Electronic Commerce Resource Centers, which are
+sponsored by the Advanced Research Projects Agency and funded by the
+
+Department of Defense, and whose mission is to help small to medium-
+
+sized businesses and government offices establish electronic commerce.
+FACNETFollowing on FASA and high-level executive orders, DISA assumed
+responsibility for putting the FACNET infrastructure in place. FACNET is based
+
+on the concept of presenting a single government face to industry. While
+
+electronic commerce had already long been used between government and
+
+industry in particular cases, these efforts represented an array of machines,
+languages, and practices. To provide a more comprehensive, user-friendly
+system, ANSI X12 and UN EDIFACT were established as standards for the
+
+structure, format, and content of FACNET's EDI transactions.
+3 Related initiatives
+to standardize business practices across federal agencies
+Šwhich is the more
+difficult problem
+Šare ongoing. DISA was also challenged to use commercial,
+off-the-shelf systems in developing new infrastructure, to reduce costs and
+
+leverage resources.
+Within four months of its charge, DISA implemented an electronic
+commerce infrastructure using existing DOD and civilian federal gateways to
+
+effect translation from other languages to ANSI X12. Various capabilities have
+
+since been added, including an encore massively parallel processor, to improve
+3 ANSI
+Šthe American National Standards Institute
+Šis the coordinator and
+clearinghouse for national standards in the United States. UN EDIFACT refers to the
+United Nations rules for Electronic Data Interchange for Administration, Commerce, and
+Transport.EXECUTIVE SUMMARY3
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.production capability, and improved communications systems. A variety of
+additional developments are envisioned, and special activities are underway in
+
+such areas as developing digital signature hash and encryption.
+Transactions over this DISA network with commercial value-added
+networks (VANs, the commercial equivalents of federal gateways) have doubled
+
+in the last year, to well over one million transactions per month. While the new
+
+infrastructure has greatly shortened transaction times (delivering 80 percent of
+
+transactions in less than two hours), it has yet to meet the growing demand.
+The new infrastructure is scalable
+Šmore processors can be added at will.
+But even today, it is capable of handling larger engineering files, such as those
+
+required for AE and construction procurements. The questions in this area may be
+
+economic rather than technical. For example, it may not be cost-effective,
+
+particular for contractors, to transmit a public request for quote along with all its
+
+engineering drawings to all potential trading partners.
+Both DOD and the Army have pursued the implementation of FACNET. In
+DOD alone, approximately 280 acquisition sites have been established in the last
+
+two years. This fast-track implementation approach has yielded both benefits and
+
+problems. Buyers have a broader means of advertising for goods and services,
+
+which encourages more competition, and procurement lead times have been
+
+sharply reduced. Among the problems of the new system, the volume of
+
+transactions overall remains low. Additionally, while selected contracting
+functions have been shifted to electronic commerce
+Šrequests for quotes and
+purchase and delivery orders
+Šmany other paperwork processes have not been
+adapted or simplified. Extensive outreach efforts to assist contracting offices and
+
+their vendors, for example, in choosing commercial VANs, are being carried out
+
+with the help of the Electronic Commerce Resource Centers (ECRCs).
+Beyond these DOD activities focused on contracting, the department is
+developing transaction types in many other functional areas; logistics and finance
+
+area transactions will shortly be on-line. DOD plans to proceed with establishing
+
+EC/EDI in areas in keeping with the order of the actual procurement process. A
+
+challenge for the use of electronic commerce in these multiple areas is to ensure
+
+functional business areas are well integrated.
+In spite of the challenges, electronic commerce offers great opportunities for
+savings in DOD alone. One study found that billions of dollars could be saved by
+
+shifting the department's paperwork procurement processes to the new technology
+
+(90 percent of DoD actions represent less than $100,000). In some cases, EC/EDI
+
+may allow the bypassing of transactions completely
+Šdie Defense Commissary
+Agency has already eliminated invoicing. However, many
+EXECUTIVE SUMMARY4
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.obstacles to implementation remain, including the difficulty of making any major
+change in any organization in an era of constrained resources and downsizing.
+The U.S. Army Corps of Engineers has also pursued FACNET extensively.
+Of its 50 automated contracting offices, 45 have interim FACNET certification.
+
+Together with the Tri-Service CADD/GIS Technology Center, the Corps has also
+
+developed its own Corps-wide approach to delivering documents for construction
+
+contracts in an electronic format. These electronic bid sets, which are distributed
+
+both via the Internet and on CD-ROM, include the contract forms, clauses and
+
+conditions of the contract, and related drawings and technical specifications. Five
+pilot projects using these bid sets are now in progress. Use of the bid sets should
+eliminate some paper processes (including expensive mailing and filing costs),
+
+and enable greater lead times, just-in-time delivery, and efficient use of project
+
+data throughout the project life cycle.
+Central Contractor Registration.
+ Central Contractor Registration (CCR) is
+an EC/EDI initiative inspired by the recommendations of DOD contracting
+
+officers. Previously, contractors were required to register separately with any
+
+individual DOD site to do business at that site. Additionally, they had to update
+
+their registration annually at all the individual sites where they did business. This
+
+registration system was clearly very labor-and paper-intensive on all sides.
+The new CCR, which is now operational, is designed to allow a contractor to
+register only once annually to do business at any federal site. The development of
+
+the CCR database was supported by interagency cooperation, particularly in the
+
+sharing of software. Major outreach efforts, carried out by the Electronic
+
+Commerce Resource Centers, are now underway to increase CCR registration,
+
+which is still low. While the CCR is closely associated with FACNET, vendors
+
+are encouraged to register with the CCR whether they choose to do business by
+
+FACNET or not.
+The CCR is potentially a much more efficient way for vendors to do
+business with government. The ability to register through the World Wide Web is
+
+expected soon. State governments are already seeking to use the CCR for their
+
+own procurements and other functions. The repository may be useful in other
+
+environments as well, such as for non-profit organizations.
+Alternative Agency Approaches
+The Naval Facilities Engineering Command (NAVFAC) encountered
+several large barriers in its recent initiation of electronic commerce. While
+
+attempting to implement EDI at its contracting offices within the period of a
+EXECUTIVE SUMMARY5
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.year, NAVFAC also faced the Department of Defense order to avoid buying or
+developing new software systems until the new DOD Standard Procurement
+
+System (SPS) for contracting processes was emplaced
+Šan expected wait of
+roughly seven years.
+To implement its own electronic commerce, then, NAVFAC had to obtain a
+waiver from the SPS, a step requiring a thorough economic analysis to justify new
+
+software costs. Another challenge was ensuring that the new software would
+
+work well with all relevant NAVFAC processes. The new software finally
+
+acquired is now being installed.
+Additionally, NAVFAC is helping to develop a Navy Internet site, as an
+alternative approach to FACNET in advertising contract jobs. It is also
+
+developing its own contract page. A remarkable demonstration of the new
+
+technology's potential is the real-time availability on the Internet of Department
+
+of Labor wage determinations, accessible through such home pages of any
+
+military organization.The General Services Administration (GSA), in its own efforts, has been
+concerned foremost with the general goal of providing the information needed on
+
+electronic contracting as easily and inexpensively as possible to around 500,000
+
+people worldwide. Immediately after FACNET was developed, the Internet was
+
+commercialized, followed by the arrival of much improved software, allowing
+
+platform-and application software-independence. A variety of important
+acquisition-related material is already available on the Internet, including the FAR
+and other policies and regulations. GSA's philosophy is that there is a place for
+
+all these approaches, which the market can best determine.
+The National Aeronautics and Space Administration (NASA) has developed
+an innovative Internet service, the NASA Acquisition Internet Service (NAIS),
+
+instead of using FACNET. NASA's approach was prompted partly by concern
+
+over FACNET costs, especially for small businesses. NAIS is based on World
+
+Wide Web browser technology
+Š''click and point'' technology
+Šthat, unlike
+FACNET, requires very little training. NAIS now provides immediate access to
+all NASA acquisitions, synopses, competitive proposals under $25,000, and
+requests for proposals (RFPs). It is platform-independent, an important
+
+characteristic in the view of NASA users. Additionally, NASA sites are linked to
+
+other Internet acquisition sites, and will be linked to FACNET shortly. NASA
+
+continually improves NAIS in light of both customer feedback, which is
+
+encouraged via the system's e-mail capability, and commercial market
+
+developments. The Air Force has used some elements of the NASA approach as a
+
+model, and other agencies are looking at it as well.
+EXECUTIVE SUMMARY6
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Private Sector Initiatives and Requirements
+According to private sector representatives, any electronic commerce used in
+architect-engineer and construction contracting must handle special
+
+requirements. The type of information that FACNET is designed to handle differs
+
+from architecture and engineering contracts, in that the latter are typically not
+
+repeat transactions, but rather project-unique. FACNET also presents barriers to
+
+many small construction businesses, which would have difficulty supporting the
+costs of FACNET training. Many AE and construction procurements are also
+largeŠoften for more than $300,000. These procurements are obviously
+inappropriate for FACNET. Moreover, these large projects raise their own
+
+problems for electronic commerce, such as the costs, reliability, and ease of
+
+transmitting very large documents. The electronic commerce systems for large
+
+and small projects may therefore need to be considered separately. Additionally,
+
+the transmission of AE and construction documents entails special issues of
+
+logistics, copyright, and liability. Proposal submission would also require a high
+
+level of security.
+Private AE and construction firms already use electronic commerce in the
+form of e-mail systems and the Internet. Some have their own well-developed
+
+electronic initiatives, for example, in project planning, project management, and
+
+financial systems. Teleconferencing is also commonly used in these industries.
+
+However, while commercial electronic commerce is already integrated in industry
+
+practices, the professional societies, such as the American Institute of Architects
+and the Associated General Contractors of America, have not been much
+involved to date.
+Like many agency representatives, symposium participants from the private
+sector emphasized the importance of following and capitalizing on the fast-paced
+
+developments in the commercial world of electronic commerce. Laws and
+
+regulations should be flexible enough to allow this to happen.
+Follow-on Activities
+Symposium discussion identified several further activities toward
+implementing electronic commerce in AE and construction contracting. Industry
+
+leaders, including professional society representatives, might meet, to clarify
+
+their requirements for electronic commerce. In addition to technical questions,
+
+this group might address process issues, such as legal and security concerns.
+
+Agencies with experience in implementing electronic commerce might also meet
+to exchange more detailed information about their progress and the barriers they
+face in developing systems specifically for AE and construction contracting.
+EXECUTIVE SUMMARY7
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Electronic Commerce: Implementing the
+Federal Acquisition Streamlining Act
+Ms. Delores (Dee) Smith
+Department of Defense Electronic Commerce Program
+The Electronic Commerce Program has had an eventful beginning in the
+Department of Defense (DOD) during the last two years. The experience has been
+
+quite a challenge
+Šin engineering, contracting, and business areas
+Šfor both the
+department and industry.This new electronic commerce infrastructure grew out of a Process Action
+Team (PAT) that started in June 1993. DOD has a two-year program paralleling
+
+the Federal Acquisition Streamlining Act (FASA) of 1994. The DOD program
+
+goal has been to implement simplified purchases during this time, at 244 sites
+
+that carry out 98 percent of simplified procurements. Initially, these purchases
+
+were defined as up to $25,000. However, during implementation, the Deputy
+
+Under Secretary of Defense for Acquisition Reform worked with the Office of
+
+Federal Procurement Policy to have legislation raise the threshold, up to
+
+$100,000, for simplified purchases by electronic commerce. This is a rare event:
+
+legislation being written in cooperation with a department division, and executed
+
+at the same time.Cooperation among the program's direct participants was also high.
+Together they established not only the interim electronic commerce capability
+
+called for by FASA
+Šthe Federal Acquisition Computer Network (FACNET)
+Šbut also had the infrastructure in place with sites beginning to deploy. Within the
+
+department alone today, 286 sites are up and operating.
+While there have been many program initiatives, however, the current
+volume of ANSI X12 transactions is still low. The delay has been attributed
+especially to infrastructure problems. However, there have been many other
+
+problems as well, which are currently being resolved just as the infrastructure
+
+issues have been. This next year is likely to be a very aggressive program year
+
+for the department, as well as for the 37 participating federal agencies' sites.
+The other problems in implementing electronic commerce derive from the
+general paradigm shift, the move from paperwork to electronic commerce. To
+date, the new system offers little new from the operational viewpoint of DOD
+
+contracting officers. They do not have an advantageous method of execution
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+8Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.yet; the principal difference for them so far is simply the nature of their
+connection with industry in requests for quotes, purchase orders, and delivery
+
+orders.The problem for the buy in itself, and for the acceptance of the new
+approach, is that additional accompanying processes have not been improved or
+
+electronically adapted to date. In other words, when contracting officers execute
+
+an EC/EDI award, they must also send papers to the Defense Finance Accounting
+
+Service (DFAS), contract administration, and still other offices. Currently, then,
+
+contracting officers simply have a broader means to advertise information for
+goods and services.However, they also have the opportunity to reduce procurement lead times
+significantly. In simplified purchases, we are seeing reduction of 15 to 20 days in
+
+the procurement process. More and more, we are generating an award within 24
+
+hours of closing a solicitation. So we are supporting our business goal, and
+
+supporting the warfighter.
+Even under a peacetime or peacekeeping scenario, it is very important that
+we respond to our customers quickly
+Šprocurement is at the end of the process.
+The requisite user of goods and services does not see the tremendous lead time in
+
+front of the procurement officer.
+In the last two and one-half years, we have embarked on outreach efforts of
+$2.5 million with the Small Business Administration (SBA), training over 1,000
+
+small business centers, 106 procurement technical assistance centers, and 11
+
+Electronic Commerce Resource Centers (ECRCs). All these people have also
+
+joined with us in vigorous educational outreach to industry, and additionally, for
+that matter, in helping me personally to understand the technical issues and
+internal workings of the relevant activities.
+In 1993, the electronic commerce infrastructure that DOD Secretary Perry
+specified was one supporting all business areas. The first area addressed was
+
+contracting, because this business area was the first to reduce personnel in
+
+streamlining. A defense management review directive in 1990 eliminated
+numerous positions and salaries. To accomplish the old paper pushing process
+was impossible, and some type of streamlining had to be done.
+Unfortunately, we could not carry out a true business process re-engineering
+in the streamlining. I would simply say we paved the cow path in this first effort.
+Today, most of DOD sends out engineering technical data whether the
+recipient wants them or not. In fact, many of the technical data and aperture card
+
+submissions end up in trash cans.
+4 Most of those who receive this
+4 Aperture cards are 3" 
+× 3" microfilm incorporating technical engineering data.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+9Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.information already maintain it in some way. They may need only certain parts of
+it for the purposes of the bid. So we will need to determine policies about how
+
+such information is provided in the future.
+The ANSI X12 (841) is the transaction set for engineering technical data; its
+review by the Standards Management Council (SMC), as well as the Federal
+
+Standards Management Council, is complete.
+For the last two years, my office has sponsored funding of the prototype for
+engineering technical data that crosses DOD. We just released a $1.6 million
+
+prototype demonstration that will deploy this capacity in the next 9 months to our
+
+DLA sites, which are four large Inventory Control Points (ICP).
+Some of that information on those types of documents is coming out very
+soon. We will be able to force the envelope again, to determine the cost-
+
+effectiveness, the speed, the service, and the medium through which we will
+
+transfer engineering data in the future.
+Another big issue affecting the buyer at the moment is our downsizing and
+right-sizing. Many are afraid for their jobs. Bases will be closing, in keeping with
+
+the Base Closure and Realignment Act. This kind of environment in many ways
+
+subverts an aggressive approach to putting electronic commerce in place.
+To be sure that buyers' requirements are satisfied, I have visited most of the
+286 sites for feedback on the quality of the information they received both in
+
+their in-house administered training and through all the outreach activities. This
+feedback, now arriving, indicates that a good number of people were not able to
+attend; and many want further information. In short, while electronic commerce/
+
+electronic data interchange (EC/EDI) may not sound that difficult, it has been
+
+quite hard to execute and demonstrate adequately.
+For these reasons, we have numerous outreach efforts underway, including
+through all the educational capabilities that we have
+Šuniversities, Defense
+Acquisition University, Defense System Management College (DSMC), other
+institutionalized training and materials, and even an 800 number, for
+
+procurement people and others. Educational outreach is certainly very important,
+
+including activities like this conference. We try to support as many as we can.
+I currently spend all day answering the telephone, sending out anything from
+bits of information in response to specific requests, to an overall general view.
+We have fact sheets and we have full handbooks available to the public, either
+through our 1-800-EDI-3414 hotline or World Wide Web site.
+If you ask industry about the new system today, you hear a wide variety of
+opinions. It is surprising that not more of them are negative, given the thousands
+of transactions and processes that have been involved, and the pressure to
+
+establish the system. We are hearing many success stories. Last
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+10Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.week, we heard about 25 from the Burlington area of Washington State alone,
+from small businesses of 1 to 500 people, who through working with the
+
+Procurement Technical Assistance Center (PTAC) and Electronic Commerce
+
+Resource Centers (ECRC) have recouped their investment, documenting up to
+
+500 percent savings in basic business areas.
+Most businesses today are computer-equipped and ready to participate. In
+fact, even six or more years ago, small businesses serving the Air Force had
+
+startlingly high computing power. These organizations are not bureaucratically
+
+encumbered in changing their legacy systems. They can move relatively swiftly.
+
+Our value-added networks facilitate the industry side of that EC/EDI as well.
+We also work with the Computer Aided Logistic System (CALS) Industry
+Steering Group (ISG), for prime contractors. We are very interested in these
+
+organizations' requirements for EC/EDI, and in their requirements for their
+
+subcontractors and sub-tiers. A meeting today in Los Angeles is addressing this
+
+issue, so that we can all work better as a team. At least within DOD, 60 percent
+
+of our purchases are actually through large contractors, so this type of teaming
+
+with contractors at all levels
+Šnot just with small businesses
+Šis important.We are very proud of our development of the Central Contractor
+Registration (CCR). The PAT, in its 60-day study, did not specify this capability,
+
+but only recommended its use. Our top contracting officers came up with ideas
+
+that they felt would be particularly helpful to them in streamlining acquisition.
+
+CCR was one of them.
+DOD form 129 is only one part of the transaction set 838. Actually, we have
+already replaced about three or four other forms with the 838 transaction.
+
+Nevertheless, if you were doing business with 10 DOD sites, you had to fill out
+
+10 DOD forms 129 separately as well as submit them separately to those sites.
+
+Moreover, this would have to be done annually, updating 10 separate
+
+certifications and representations. I once worked in an office that collected such
+
+information, and buyers were always in and out, trying to find out whether a
+
+contractor was registered.
+I can assure you that this arrangement has not changed today. It is a very
+paper-intensive process, extremely expensive for contractors to keep updated, and
+
+a tremendous problem if you want to do business with much more than one DOD
+
+site.CCR gives us the capability of registering once to capture the information
+for all potential DOD and federal buyers. Annual updating is also done just once.
+In addition, CCR is not just for those who are doing EC/EDI; our intent is to
+cover all DOD registration. It would certainly facilitate our work if contractors
+
+registered with CCR, even if they are not EC/EDI compliant yet.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+11Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.The Federal Acquisition Regulations (FAR) do in fact state that a contracting
+officer is not required to provide a solicitation to anyone who is not CCR-
+
+registered. However, such refusal is often not made, as I hope it never has to be.
+
+Our primary concern is simply to get the CCR fully operational and populated.
+At least, after numerous challenges, it is now operational. We still do not
+have some of the features that we want in on-line capability. For example, we
+
+want to have World Wide Web capability to register in October 1996.
+This software was released just three weeks ago to our ECRCs. Also, about
+18 months ago we began looking at every data repository across all federal
+
+agencies. After a year of analysis, we found 208,000 contractors doing business
+
+with DOD and the federal agencies who have been active with us in the last two
+
+years.I sent letters to these contractors, informing them of the CCR, the outreach
+efforts, and ways to obtain more information, and asking them to register with the
+
+CCR. We are now receiving 38,000 faxes and over 750 phone calls per week.
+
+Some 18,000 have received information brochures and are queued for assistance
+
+to register. The 18,000 who are queued are interested in EC/EDI, as well as
+
+registration.There are still other repositories that we are trying to add to the system. We
+will be converting one Air Force system that has remained outside our
+
+infrastructureŠthe Government Acquisition Through Electronic Commerce
+(GATEC) system at Wright-Patterson Air Force Base, which has 4,000 record
+
+filesŠand it will be running on FACNET within the next 45 days. Again, the
+ECRCs are helping us to populate the CCR with this information.
+CCR applications are also being considered in areas other than contracting.
+California and eight other states are very actively seeking to use this repository
+
+for state procurements, and for sourcing of documents and other functions. The
+
+CCR may well be used not only federally, but in other environments where it
+
+appears to be useful. The one critical issue is that the CCR's integrity be
+
+maintained.The PAT also briefly covered the issue of past performance, but offered no
+recommendations given its limited timeframe. In July of 1996, the Under
+
+Secretary of Defense for Acquisition and Technology, Dr. Kaminski, mandated
+
+that past performance be used in making acquisition procurements. I believe on
+
+source selections of procurements it is in excess of $1 million. There is currently
+
+no one past performance system in DOD. In the last two years, we have been
+analyzing the current seven contract writing systems to see what capabilities DOD
+and the federal agencies have to assess past performance. The Arthur D. Little
+
+Company will be issuing a related business case study, to be delivered to us at the
+
+end of May 1996. We have a $1.6 million contract requirement to
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+12Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.prototype and demonstrate this report's recommended actions for the Secretary of
+Defense within the next 12 months. The area of contractor performance, then,
+
+represents potentially additional data elements for the CCR, or at least a data
+
+pool of some sort, so that we can better analyze and manage this parameter.
+Another activity is PASS, supported by the SBA. PASS was originally slated
+to lose all of its funding last month, though it was subsequently funded for some
+
+time. Because of concerns about the disappearance of this process, the Office of
+
+Federal Procurement Policy asked our office to see if we could manage the PASS
+
+data as well as the CCR
+Šand not only the PASS data points, which represent
+perhaps less than 10 percent of the quantity of information already in the CCR,
+but other PASS functionality. We therefore have an ongoing analysis of this area.
+Additionally, we have over 15 other ongoing projects and prototypes in all
+business areas, such as contracting, logistics and transportation, that have been
+
+active for anywhere from 4 to 6 months. We will be adapting all types of
+
+instruments, including 18 different contractual instruments. We need a lot of
+business process re-engineering.
+Ultimately, our goal is to eliminate the paper process for our buyers,
+facilitating their development of smarter contracting instruments. The new system
+
+should allow them to process administrative details efficiently, permitting
+
+industry and the contracting officer both to develop more innovative contractual
+
+instruments, streamlining the current high volume of procurement. Electronic
+cataloguing of goods and services, for example, is one new idea.
+My three-year assignment is up in June 1997. By then we should have the
+sites operational, but we may not have the volume of transactions hoped for
+
+because of the difficulties. However, we continue to promote EC/EDI
+
+aggressively, at least on the DOD side, with the services and agencies. The
+
+electronic commerce processing nodes that other speakers will report on today
+may in fact help allow us a success story.
+At the same time, we have the challenge of getting much greater registration
+in the CCR
+Š3,500 registrants is not very many. Still, there is significant action in
+these areas, and we may well accomplish much in the next 12 months in
+
+contracting alone.Project results in the other functional areas are also exciting, particularly
+because, when different business areas begin sharing information, the synergy
+
+has tremendous value. There are activities in financial transfer capability and
+
+engineering technical data. We just funded what we call "EDI Afloat." All Navy
+ships will have translators (a total of 330 translators, one for each ship), which
+will transmit requirements back and forth via satellite in the next 18 months,
+
+primarily for the procurement of goods and services. This
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+13Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.should greatly reduce administrative lead time, and speed up the process for both
+the Navy and the industries involved.
+Another area that is already on-line is within the Defense Commissary
+Agency. They have been up and on-line with ANSI X12 for the last 12 months
+
+and have done some business process re-engineering in eliminating the invoicing
+
+process. There are real opportunities to bypass transactions completely. An
+
+interesting sideline to this case is that, while there was concern originally about
+
+industry partners who did not use ANSI X12, most were found to be moving to
+
+this standard
+Šin fact, today they are moving aggressively to the more
+internationally oriented UN EDIFACT standard.
+Another large return on our investment for us within DOD will be the
+material safety data sheets. A variety of information is available in this area.
+
+Ongoing projects are looking at three different phases of material safety data
+
+sheets, in what is essentially a proof-of-concept, prototype demonstration within
+
+the business areas of our interest. Once these projects have been completely
+
+demonstrated and briefed, through all services and agencies and the Office of the
+
+Secretary of Defense, requirements will be provided to the Slidell EC node for a
+
+proof-of-concept test on the infrastructure itself.
+5 If all goes well, the information
+will then be provided to appropriate sites for deployment. Material data sheets do
+not relate to EC in any way. This document is just another business form being
+
+transmitted by EC/EDI in a transaction set eliminating the paper document and
+
+providing an opportunity to import data once in any system via EC/EDI and use
+
+it multiple times without rekeying.
+In all these major activities underway, we work very closely with the D7
+section of the Defense Information Systems Agency, our counterpart within the
+
+DISA infrastructure who helps define functional users' requirements with the
+
+functional user and my office. I am an constituent of the Office of the Secretary
+
+of Defense, with the role of facilitating oversight and review of all functional
+
+areas. I do have dollars for prototyping demonstration, as well as deployment, and
+
+can obtain out-year funding for the requirements of the services and agencies
+once a package is put together for preparation.
+Dr. Michael Mestrovich is the deputy director of D7 and his office works
+very actively with us in those areas, with the goal of providing a full package to a
+
+systems engineer, to be sized not only for today, but for the future requirements
+
+of the capability.
+5 Slidell, Louisiana, is our third electronic commerce procuring node and will support
+prototypes. The other two nodes are in Columbus, Ohio, and Ogden, Utah.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+14Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.In short, this is where DOD is going. We seem to have a good and forceful
+plan. We now have, for the first time, a DOD draft strategic plan on electronic
+
+commerce, which is currently circulating within the department. A DOD directive
+
+also institutionalizes roles and responsibilities by office; there have been some
+
+problems in this area over the last three years. Those federal agencies who work
+
+with us are certainly aware of the problems in trying to figure out who is
+responsible and accountable for what. These issues are best defined among
+ourselves. In general, I do believe we are well on the road to success.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+15Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.THE ELECTRONIC COMMERCE EXPERIENCE IN THE
+NAVAL FACILITIES ENGINEERING COMMAND
+Commander Ron GroverNaval Facilities Engineering Command
+
+The Naval Facilities Engineering Command (NAVFAC) performs many
+services for the Navy, including contracts for construction, environmental
+
+services, and public works services. When I arrived at NAVFAC almost a year
+
+ago, my first job was to see that electronic commerce (EC) was implemented at
+
+all our contracting offices within one year. Today, I will relate some of the
+
+barriers we faced in implementing electronic commerce, in the hope that this
+experience is useful to others. I will also describe some new initiatives underway.
+Barriers to Implementation
+The first barrier to implementation was the standard procurement system
+(SPS). The goal of the SPS is to standardize all the contract business practices
+
+throughout the Department of Defense (DOD). All DOD agencies are to use the
+
+same procurement software, which is now in development. We were directed to
+
+avoid reinventing the wheel
+Šwe were not to buy, develop, or expand our
+automation systems or the contracting process. At the time this freeze on buying
+and development occurred, many of our offices were not adequately automated.
+
+However, it is impossible to implement EC when an office is not automated.
+The SPS is now at the proposal review stage, and another amendment
+requiring the contractors to change and resubmit their proposals will be sent out
+
+soon. If this amendment has a fast turnaround, the best result is likely to be a
+
+''flyoff'' award in August or September 1996. In such a flyoff, the software of two
+
+competing contractors will be tested at several locations, and then just one will
+
+finally be selected. The chosen software will then be installed at all DOD
+contracting offices, over a five-year period. Again, over the roughly seven-year
+process, we are not to buy, expand, or develop any software. Since most of our
+
+offices did not have any procurement software, this freeze forestalled our EC
+
+implementation.ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+16Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.A second barrier to implementation was a Navy-initiated moratorium on any
+new certifications for the federal acquisition computer network, known as
+
+FACNET. Only one of NAVFAC's sites had achieved interim certification before
+
+the moratorium was enacted at the end of August 1995. Four other sites did buy
+
+and demonstrate automation capabilities. They are ready to operate as soon as the
+
+Navy moratorium is lifted.
+The Navy established the moratorium because some problems were observed
+in this electronic commerce infrastructure that the Defense Information Systems
+
+Agency (DISA) was establishing. In particular, information was lost in the
+
+system; for example, some solicitations did not reach potential trading partners.
+
+NAVFAC itself has not experienced many problems with its one FACNET site,
+
+but some of our Navy counterparts want DISA to continue to improve, and they
+wanted to send a message to higher levels indicating that. Another problem with
+FACNET brings to mind one of the Dilbert cartoon strips. In it, Dilbert defines
+
+"total quality management" as "a complex process whereby you transfer your
+
+funds to consultants." Agencies and contractors are really fearful about the
+
+ultimate costs of FACNET. Many feel they will simply be transferring their
+
+money to value-added networks (VANs) or DISA. Currently, there is no charge to
+
+government agencies for the FACNET infrastructure, but they are concerned that
+
+DISA will have to recoup its costs in the future through fees. Many agencies are
+
+therefore reluctant to commit themselves to FACNET. Moreover, since few
+
+agencies or contracting activities are now using FACNET, contractors obtain
+
+little benefit by paying a VAN to use the FACNET.
+Overcoming Barriers to Implementation
+To proceed with implementation of electronic commerce, the first step was
+obtaining a waiver from the SPS. The waiver was approved because we were able
+
+to provide an economic analysis which showed that all of the costs of a particular
+
+software would be recouped well before the SPS arrives. We evaluated relevant
+
+off-the-shelf software and found that, while no one software package would be
+
+perfect for a government agency, some of the available software is adequate for
+
+the job.Another major step was ensuring that all the needed interfaces would be
+established among our NAVFAC automation systems, such as our financial
+
+system. It is not easy to get our different commands and departments to agree on
+
+how they will communicate, or to establish standard business practices. Yet this
+
+is one of the critical considerations in identifying an automation system: making
+
+sure it will work with the different processes involved.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+17Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.NAVFAC InitiativesCurrently, NAVFAC is installing some of the chosen off-the-shelf software
+at a few sites. First, this effort will automate our contract processes, improving
+
+the quality of our products and increasing our productivity. Second, it will enable
+
+us to implement EC when the FACNET moratorium is lifted.
+We are also helping the Navy design an Internet site, as an alternative
+approach to advertising contract jobs. The Navy is developing a home page where
+
+contract jobs will be listed, along with brief descriptions. Hyperlinks will allow
+
+readers to click on the name of a job to get a complete job synopsis. The site will
+
+also have built-in search features.
+DOD is linking all its acquisition home pages into one system, the
+Acquisition Reform Net. Once developed, it will be accessible via search
+
+functions. Our NAVFAC contract home page should be ready by November
+
+1996.Another DOD success in electronic commerce also illustrates the incredible
+potential of computers. The labor specialists in the military services convinced
+
+the Department of Labor (DOL) to provide current wage determinations via the
+
+Internet. The Service Contract Act and Davis-Bacon Act require every service
+
+and construction contract to have a DOL wage determination. These wage
+determinations establish the minimum wage a contractor can pay in every county
+of the United States, for every type of work, such as carpenter, electrician, and
+
+janitor. Previously, all wage determination requests had to be mailed into DOL.
+
+DOL would then process them and send the paperwork back, which generally
+
+took one to three months. Now DOL maintains a database that can be accessed
+
+via the Internet on wages for all areas and types of work. The Army is developing a
+
+home page with search features that accesses this database. Any military
+
+organization will be able to go through this Army home page and immediately
+
+download the needed wage determination for their area and by type of service.
+This system has not been fully implemented. Some personnel training and
+refining of the home pages are still required. Once in operation, it will be a
+
+tremendous boost to the government contracting business. Essentially, a
+
+contracting officer will be able to get a wage determination in ten minutes or less
+
+using the Internet, as opposed to the current one to three months.
+There are other possibilities for using the Internet for acquisition that we are
+just beginning to explore. Recently someone suggested that the Internet might be
+
+used to give notice of likely future work that is not yet advertised.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+18Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Obviously, such notice would be of great help to the contracting community in its
+planning, although there are still legal issues and other factors to consider.
+NAVFAC is also working with the Army Corps of Engineers on the
+electronic bid set project. Two of the first three contracts to be advertised on an
+
+Army home page will be NAVFAC projects. A contractor will be able to
+
+download all or part of the plans and specifications for these solicitations via the
+
+Internet, instead of ordering a set of specifications through the mail.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+19Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.ELECTRONIC COMMERCE AT THE GENERAL SERVICES
+ADMINISTRATIONG. Doyle Dodge
+General Services Administration
+
+In the electronic commerce (EC) program at the General Services
+Administration (GSA), we continually look across and coordinate with the major
+
+federal agencies, including interagency activities, seeking a consensus for
+
+processing and disseminating all the information needed for electronic commerce
+
+initiatives. In federal procurement activities, a great deal of information must be
+
+made available as easily and inexpensively as possible to about 500,000 people in
+government and industry all over the world. Designing an EC system and network
+for the paperless procurement of federal goods and services is a considerable
+
+challenge. We designed the entire concept first, then established interagency
+
+groups and started developing and implementing modules in manageable units.
+Two and one-half years ago, the interagency Federal Electronic Commerce
+Acquisition Program Management Office was formed. They began working on
+
+the optimal architecture and implementation conventions to route the relevant
+
+information among the people who use it, from the federal agencies to private
+
+sector vendors and back. They created FACNET, and decided to use electronic
+data interchange (EDI) transaction sets to disseminate information between
+dissimilar computer systems.
+During this same time, the Internet became commercialized, making its use
+easily and widely available. Also arriving on the scene was important,
+
+interoperable new technology software, allowing computer operating system
+
+independence for Macintosh computers, personal computers, and UNIX
+computers, and independent of any specific application software. In other words,
+when using this new software, the authors and the users of information can be on
+
+either the same or different types of computers, as in Macintosh to Macintosh,
+
+personal computer to Macintosh, and UNIX to personal computer exchanges,
+
+using either the same or different application software. After authoring the
+
+desired text and graphics in a computer, the information can be transmitted
+
+electronically, with or without EDI transaction sets, and the user can see, store,
+
+and print the text and graphics information exactly as it was authored.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+20Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.This capability is significant for those using text, forms, and graphics, and in
+the architect-engineering, construction, and other industries. All the architectural
+
+drawings, floor plans, and other information produced on computers today can be
+
+simply and easily processed by the author through this new technology software.
+
+The processed information can then be disseminated electronically on CD-ROM,
+
+floppy disks, e-mail, or the Internet. Users at the receiving end, applying the free
+reader software supplied by the software manufacturer, can see, store, and print
+the information as an exact copy.
+With these new technologies and advanced telecommunications methods,
+and making use of the talent we have in many different agencies, we are able to
+
+put together a better program for faster, less expensive, and more accurate federal
+
+procurement using a paperless method. In today's world of diminished budgets,
+
+interagency cooperation is easier to establish. Many agencies are providing
+
+working group help from the users and the technicians. How do the users want to
+
+see and use the information? How do the contractors want to see and use it? The
+lawyers? And so forth. The technical support staff from the participating agencies
+listen to the opinions, consider the options, and reach a consensus on how one
+
+system should operate across the government, to present a "single face" to the
+
+users.GSA brings that consensus into being by coordinating interagency activities.
+GSA and the other major procuring agencies have many conceptual, user
+
+understanding, technical, and computer equipment resources and operating
+
+methods that all agencies and vendors need and can share. We believe that these
+
+resources and methods will find their way through the marketplace to the users in
+
+the best manner. The information can be provided either directly through the
+
+Internet and CD-ROM disk, or by downloading the information from the
+
+Internet, putting it into EDI transaction sets, and sending it via FACNET.
+There is a place for both Internet and FACNET approaches in providing the
+information to the users. We happen to feel that the Internet transmission is much
+
+simpler, easier to use, and less expensive, but the marketplace should be allowed
+
+to determine what approach to use. Federal contracting officers will decide which
+
+approach they want to use and private sector contractors will also. Between these
+
+two users, the decision should become apparent over a short period of time, and
+
+the parties will soon migrate to it.
+Fortunately, it is not necessary to develop standards for this program. When a
+users' consensus is reached, it does not take us long to get it designed, developed,
+
+and put in place. When using consensus rather than standards, we are able to
+
+work with each other and move quickly to reach the goal of how to provide the
+
+information.ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+21Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.A number of the government's procurement documents
+Špolicies,regulations, procurement letters, and so forth
+Šare now on the Internet, and the
+Federal Acquisition Regulation (FAR) and the Federal Travel Regulation (FTR)
+
+are on CD-ROM as well. Internet documents include the FAR, FTR, the Defense
+
+Federal Acquisition Regulation Supplement (DFARS), the Air Force Federal
+
+Acquisition Regulation Supplement (AFFARS), the NASA FAR Supplement, and
+the Department of Energy Acquisition Regulation (DEAR).
+Major federal procurement agencies are striving to use the Internet to
+provide notices of business opportunities, including forecasts of requirements,
+
+synopses, solicitations, and contract awards for subcontracting activities. NASA's
+
+approach of using the Internet for displaying business opportunities is being
+
+followed by other agencies, and there is some consensus that NASA's approach
+works well.
+Wage determinations and the debarred bidders list are very widely used by
+federal contracting officers and by prime contractors. GSA wants to be sure that
+
+this information can be easily accessed through a single face approach, with a
+
+similar format used by all government agencies, one that does not require
+
+formatting or translation changes after transmission. Users rely on a variety of
+application software programs, such as WordPerfect 5.1 and 6. 1, Microsoft Word
+in various versions, Quark Xpress, and Pagemaker. Some users need to send
+
+graphics, tables, or forms electronically. All this information needs to reach its
+
+destination efficiently, accurately, and in a readable format.
+The Interagency Shared Databases Steering Committee agreed to leave the
+regulation formats "as authored," and if the FAR Council wants to change the
+
+format later, that will be their responsibility. The regulations will be available in
+
+just two formats: in Hyper Text Markup Language (HTML), which is an ASCII
+
+format; and in Acrobat PDF (Portable Document Format), which is exactly as
+authored, and independent of the operating system and application software. This
+PDF format is exceptionally good for those who want to transmit graphics or
+
+forms electronically, and want to view, store, and print them on varying computer
+
+platforms.GSA's main goal is to have all the required federal procurement information
+accessible on the Internet and CD-ROM, so that it can be obtained quickly and
+
+accurately. It is easy to take the original material, process it through HTML and
+
+PDF software programs, and distribute the resulting files electronically. The
+
+program concept and plan have been initiated in parts at several agencies, but
+implementation is far from complete. The FAR, archived back to FAR 90
+Œ34, is
+available on the Internet at 
+http://www.gsa.gov/far/, in both HTML and Acrobat
+PDF formats, and the FAR forms are being placed on the Internet as quickly as
+
+possible in PDF.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+22Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Each agency will migrate to handling their FAR Supplements the same way
+as the FAR and load them on the server of their choice. An agency can use its
+
+own server, or GSA could probably handle it at a cost much lower than the
+
+agency purchasing a server and software, and hiring a Web master. Currently,
+
+there are hyperlinks from the FAR World Wide Web site to many other Web
+
+sites, including the NASA FAR Supplement, the DFARS, AFFARS, DEAR, and
+others. More hyperlinks will be added as soon as additional federal procurement
+information is loaded.
+These developments and trends in electronic commerce will yield
+tremendous benefits for both public and private sectors. Information should be
+
+distributed more accurately and expeditiously. Some users receive FAR changes
+
+in the printed version up to four months after the changes are published in the
+
+Federal Register
+. With the Internet, FAR changes could be available within a few
+days after publication. Moreover, users will not have to reach for different
+
+documents and manuals, both old and new, to find the information they need
+Šitwill all be available electronically.
+All government agencies should be able to present a "single face" format to
+all users, and users, conversely, should be able to access all the agencies'
+
+information they need from the Internet and CD-ROM. Value-added networks
+
+(VANs) will have access to this information, and their customers' jobs will be
+
+that much easier and less expensive. For these and many more reasons, the system
+
+should improve the return on investment for everyone.
+One of the most important parts of implementing EC is involvement of the
+system users. This approach incorporates good feedback mechanisms and can be
+
+modified as needed through user experience. GSA and other agencies work with
+
+the private sector, and particularly with the VANs and the training people, to
+
+answer their questions and to meet their needs by system refinement.
+As I mentioned before, GSA works by consensus. We try not to set
+standards, nor to initiate long-term projects, or involve dozens of people in
+
+decision making because it slows the process. Instead, we identify the 6 to 10
+
+people from various agencies who are most knowledgeable about an issue and
+
+seek their advice and input. Then we all work together to make it happen.
+The agencies have shown increasing willingness to share their information,
+and their solutions. For example, the software package that GSA chose to convert
+
+WordPerfect 6.1 to HTML resulted in the Environmental Protection Agency
+
+being able to eliminate a lot of time and contractor expense on conversion. The
+
+design and development of loading procurement synopses on the Internet, by the
+
+National Aeronautics and Space Administration, National Institutes of Health,
+
+and other agencies, are refining this important part of federal procurement. This
+
+cooperative approach helps greatly.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+23Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.One of our goals is to eliminate the paper documents sent out. The sooner
+the agencies and vendors start retrieving all their information electronically, the
+
+sooner we will be able to stop printing. Everyone will benefit in this regard from
+
+EC.Another high priority is developing a good search engine on the FAR
+server, one that will index the FAR and all databases on other servers with related
+
+information. For example, a phrase could be sought in the FAR, in the NASA
+
+FAR Supplements, and in the DEAR, all at the same time. Today's search engines
+
+are sophisticated, listing instances where a phrase occurs and where related
+material is as well (even where the selected phrase does not appear). Any listed
+instance can then be immediately accessed as desired in the full document.
+In summary, I want to state again that the GSA goal of providing all the
+information required for complete electronic federal contracting has been
+
+accepted by the major procurement agencies, and the initial functions are now
+
+provided through the Internet. The broader implementation, refinement,
+improvement, and addition of related modules can be put in place over the next
+several months and the remaining agencies can climb on board for complete
+
+paperless contracting. This concept encompasses the following tasks:
+   Author the formats of the information packages.
+   Convert each authored document into HTML (for ASCII) and into
+Acrobat PDF (for as authored) formats.
+   Convert all graphics, engineering drawings, forms, tables, and so forth to
+Acrobat PDF for electronic transmission.
+   Load the HTML and Acrobat PDF files onto an Internet server.
+   Develop hyperlink pointers between each major federal procurement
+document or file on all the agencies' Internet servers.
+   Establish interagency steering committees, made up of six to ten of the
+major procurement agencies, to establish a consensus direction on each
+
+topic and to provide a member to each users' working group and
+technical working group.
+   Provide the federal procurement information directly via the Internet, or
+download it for use via EDI transmission over FACNET.
+   Transmit the information each quarter (or some other established time
+frame) to the Government Printing Office to be placed on CD-ROM
+
+disks.   Make the federal procurement information available, as described
+above, for the 500,000 people in the public and private sectors.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+24Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.   Eliminate the printing and disseminating of paper copies of all federal
+procurement information as soon as reasonably possible.
+   Implement a powerful search engine on the FAR server that will index
+each operative word in each file of federal procurement information on
+
+the dispersed servers throughout the government. With this capability,
+
+users will be able to find the location of similar information wherever it
+
+is.   Make available the business opportunities, including forecasts,
+synopses, and solicitations of government requirements, and the award
+
+of government contracts for subcontracting opportunities.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+25Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.U.S. ARMY CORPS OF ENGINEERS FEDERAL ELECTRONIC
+COMMERCE PROGRAM AND ELECTRONIC BID SET TEST
+PROJECTDan Troyan, Justin Taylor, and Ronson Kung
+U.S. Army Corps of Engineers
+
+The Federal Acquisition Streamlining Act (FASA) of 1994, with the
+electronic commerce it specifies
+Šincluding the Federal Acquisition Computer
+Network (FACNET)
+Šbrings changes and new advantages to the acquisition
+process, in particular for the area of interest here today, engineering and
+
+construction contracting.The U.S. Army Corps of Engineers is pursuing several new options in
+contracting. Of the Corps' 50 automated contracting offices, 90 percent (45) now
+
+have interim FACNET certification, giving them a small-purchase threshold of
+
+$100,000. This is significant because 90 percent of all annual Corps' purchase
+
+transactions are for less than $100,000, and the electronic commerce method can
+
+readily accomplish these acquisitions.
+The $100,000 ceiling, however, does not lend itself specifically to
+engineering and construction contracts, which usually start at about $300,000 and
+
+go up. The Corps of Engineers is considering how to fit in small engineering and
+
+construction procurements, when such acquisitions can provide an advantage to
+
+project management, and enhance customer service and support. Prospects for
+
+this kind of electronic commerce include quick procurement of last-minute low-
+cost items needed for a construction project or for building maintenance and
+repairs.In the world of engineering and construction services today, if you fail to
+deliver within budget and on time, you are not doing a good job. Besides saving
+
+time and money directly, electronic commerce also eliminates the business of
+
+stockpiling and ordering for future work needs. Electronic commerce makes it
+
+possible to order something that you might need, but that you did not anticipate in
+
+the original project management plan, and still receive it just-in-time. Electronic
+
+commerce thus provides an even greater edge in delivering within budget and on
+timeŠor ahead of time.
+Currently, in the early and developmental phase of FACNET use, it is
+difficult to communicate on that network. Consequently, better electronic success
+
+can be realized if only basic requests for quotes and award traffic is
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+26Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.exchanged. Off-line from FACNET, between the time of the buyer's request and
+making the award to the vendor, related information and specifications may be
+
+exchanged for the transaction using facsimile or CD-ROM. This hybrid electronic
+
+commerce process saves time, money, and effort.
+In addition to adopting the Federal and Department of Defense Electronic
+Commerce Program with its FACNET System, the Army Corps of Engineers is
+
+conducting a test project of electronic bid sets over the Internet for advertising of
+
+construction contracts. It is expected that, eventually, this Corps project will lead
+
+to a totally paperless engineering and construction design process. In the
+meantime, the electronic bid set process itself shows great promise for electronic
+advertising by by saving costs, time, and other resources over current paper
+
+methods, and should greatly boost productivity and efficiency. By taking
+
+advantage of today's technology, including use of CD-ROM, the cost of printing
+
+contract documents can be borne by the location creating the demand
+Šwhetherthe designer, reviewer, contracting office, contractor, or supplier.
+The Electronic Bid Set Project
+Originally, several Army Corps of Engineers groups began their own
+initiatives in providing electronic bid packages, that is, in putting their documents
+
+for construction contracts into an electronic medium to deliver to the contractor.
+
+In delivering specifications and contract forms and clauses through an electronic
+
+medium, these Corps groups substantially cut their printing and mailing costs.
+The Corps' Chief of Engineers endorsed those initiatives, and charged
+headquarters staff with developing a Corps-wide approach for consistency of the
+
+electronic bid packages. While the Corps encompasses an extensive network of
+
+40 or so districts, and handles all types of information and initiatives, it did not
+
+want 40 different ways of doing business to confront the contractor. The
+
+headquarters office of the Army Corps of Engineers was charged with finding a
+
+way to do it corporately and smartly.
+At the same time, the Tri-Service CADD/GIS Technology Center was
+working on a prototype to deliver contract documents or engineering documents
+
+to the contractor. The Tri-Service CADD/GIS Technology Center is a laboratory
+
+that supports joint Army-Navy-Air Force work on computer-aided design and
+
+drafting (CADD) and geographic information systems (GIS) initiatives. The
+
+center is located in Vicksburg, Mississippi.
+Initially in our Corps-wide project, we involved all the interested parties in a
+working group. The working group met in Mobile, Alabama, early in 1995
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+27Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.and identified the members of this committee, representing a number of Corps
+program areas: Military Programs Directorate; Information Management
+
+Directorate; Laboratory at Waterways Experiment Station; Civil Works; and
+
+Military Programs Construction. The Corps districts involved are Fort Worth,
+
+Mobile, Omaha, and Sacramento. Also included, because of the Tri-Service
+
+effort, are Air Force and Navy representatives.
+One of the working group's first steps was to define an electronic bid set.
+The complete development of electronic commerce was not our task. Rather, it
+
+was to come up with a deliverable to a contractor to reduce Corps effort. We
+
+therefore defined an electronic bid set as the contract forms, the clauses and
+
+conditions of that contract, and related drawings and technical specifications.
+
+Originally, then, the project goal was simply to convert these contract bid
+documents from print media to an electronic format.
+There are a number of good reasons to make this conversion. Technology
+and electronic imaging can be more fully exploited, because these documents are
+
+electronically prepared right now. CADD programs are already used to create
+
+drawings, and word-processing and other text applications are used to prepare the
+
+manuscript. Currently, however, these electronic documents
+Šfor solicitations,
+bids, and construction contracts
+Šare converted to print for delivery to the
+contractor. This final time-consuming step could be eliminated.
+Construction and contracting projects would be more efficient, providing
+more lead time, for example, so that better products could be obtained at lower
+
+price, and mitigating bid and contractual protests because the information
+
+delivered would be identical to the information we have. This helps to assure a
+fair and competitive environment.
+Additionally, the use of electronic data could be optimized through the
+project's life cycle. Once data were captured electronically for the solicitation
+
+process, they could be readily transferred to other documents. One electronic file
+
+could be used to retain both pre-award and post-award data. These capabilities
+
+would make the old manual filing systems unnecessary. If one central location
+were used to index all the documentation for a project, storage and archiving
+could be reduced as well. This approach is compliant with our mandated
+
+electronic commerce initiative.
+For implementation of the electronic bid sets, we identified five pilot sites.
+We specified the use of commercial, off-the-shelf, conversion/reader software, so
+
+that a contractor can easily view the Corps documents, prepare solicitations, and
+
+send that information back. Our objective was to develop a system that was
+
+simple and user friendly.The first project, advertised on April 29, 1996, will involve the Fort Worth
+and Los Angeles Corps districts, in the construction of a dormitory at Edwards
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+28Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Air Force Base. The Fort Worth district is responsible for life-cycle management,
+design, and official solicitation for the project. The Los Angeles district is
+
+covering the bid opening, award, and contract administration. Bids will be open
+
+on May 29.In our current process, solicitations are announced through the 
+CommerceBusiness Daily (CBD). We will continue to use this approach, but will also make
+use of our electronic network. All Corps districts are now electronically
+
+connected to one another internally and to the Internet. They can publish Web
+
+pages and be accessed through the Internet. For this reason, we also have an
+announcement on the Internet (the same solicitation seen in the CBD).
+Previously, a contractor would visit or phone to request plans and
+specifications. This can still be done, but using the Internet, the contractor can
+
+now request the plans and specifications without leaving home. We will also
+
+distribute plans and specifications on CD-ROM.
+The electronic bid sets permit transferring many electronic file formats to a
+common one. We chose Adobe PDF for the text engine, and we are using
+
+Computer Aided Logistic System (CALS) format, which is a Department of
+
+Defense standard for the raster images of drawings.
+The CD-ROM distributed in our first project will contain the entire project
+Šall the plans, specifications, and contract documents, including 250 drawings.
+Instead of costing $16 per set to mail, it will cost 85 percents, which is a huge
+savings in mailing costs alone. The technology yields a 75 percent savings in
+project printing and advertising costs.
+The procurement process will not be changed from the current approach.
+Bids will be submitted in paper form. Bid openings and awards will be made as
+
+before. However, we are looking at the engineering aspects of electronic
+
+commerce for these functions as well.
+The estimated price range for the first joint project is $10 to $25 million. We
+chose a large project, because a survey of contractors and contracting agents in
+
+the western area found that 80 to 90 percent of them could utilize CD-ROM
+technology.We will evaluate the pilot projects against success factors. Procedures will
+be modified as required and results will be analyzed to provide guidance and
+education so that subsequent projects reflect what we have learned. The Tri-
+Service CADD/GIS Center will provide technical assistance, monitor pilot
+
+projects, and make recommendations about the process and standards.
+The results of the process will provide implementation guidance for all the
+Corps districts in implementing electronic bid sets. We will start with a single
+
+project in every district, probably beginning next year. As districts progress, they
+will take on additional projects.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+29Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.ELECTRONIC COMMERCE AT NASA: PROCUREMENT ON
+THE INTERNETKen StepkaNational Aeronautics and Space Administration
+
+The National Aeronautics and Space Administration (NASA) is using the
+Internet for procurement of a wide variety of goods and services, including
+
+architect/engineer and construction contracts. I will describe the NASA
+
+Acquisition Internet Service, also known as NAIS (
+http://procurement.nasa.gov/ )and the Federal Acquisition Jumpstation (
+http://procure.msfc.nasa.gov/fedproc/home.html ).NASA is changing dramatically in the way we do business. The NASA
+budget for fiscal year 1997 is roughly $13 billion; approximately 90 percent of
+
+that budget is spent as procurement dollars. While NASA will likely face
+
+challenging budgets over the next several years, substantial portions of these
+
+budgets will still be spent for procurement of goods and services. Our Internet
+
+service allows us to publicize business opportunities to a broad vendor audience
+efficiently and economically.
+One of NASA's challenges is encouraging our centers to communicate as a
+single face to industry. This single face concept is a keystone of the federal
+
+electronic commerce (EC) initiative, and includes primary elements:
+   Single means of supplier registration
+   Standard transaction formats
+   A network for delivering standardized transactions
+   Standard government databases allowing agencies to share information.
+Together, these elements allow vendors and agencies to conduct business in
+a uniform, cost-effective manner.
+I should mention that NASA is not currently promoting an Electronic Data
+Interchange (EDI) presence. EDI and other EC technologies are being looked at
+
+under an agencywide business process re-engineering initiative. Although the
+single face concept can certainly simplify and standardize the process of
+conducting business with the federal government, the FACNET approach is
+
+challenging to agencies and businesses. FACNET is not inexpensive to use. Some
+
+of those costs are financial; others take the form of sweat equity, in
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+30Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.terms of specialized training, hardware/software configuration challenges, value-
+added networks, and building new business relationships based on these new
+
+business standards. Some FACNET features require quite a bit of training to
+
+operate effectively.At NASA, we are concerned about the customers at both ends of our
+business transaction. In the President's memorandum on electronic commerce, (58
+
+Federal Register
+ 58095, October 28, 1993), a significant goal is to expand the
+opportunities for businesses, especially small businesses. For a small business to
+
+use FACNET and become proficient, it has to make an investment of time,
+resources, and money. If there is not enough payback from that investment, the
+businesses are not going to pursue FACNET until the business case to participate
+
+becomes more favorable. That may explain why the initial surge of participation
+
+and transactions has not materialized. It may over time.
+Since the federal government's electronic commerce initiative began in the
+fall of 1993, much has changed in computer technology and capabilities. In the
+
+fall of 1993, Netscape did not exist. Today, Netscape is competing head to head
+
+with Microsoft for Internet browser supremacy. The Internet was available, but
+
+browser technology and the enhanced plug-in applications on today's browsers
+were on the drawing board somewhere
+Šcertainly not available for routine,
+productive use.
+We see electronic commerce as a tool set. There is such a range of
+procurement types, from micro to small purchases, to major procurements, that no
+
+one tool today can handle them all. For example, some procurement initiatives,
+
+such as on-line catalogs, are satisfying the same transactions that EDI goes after.
+Many of the procurements that appeared very suitable for EDI transactions three
+years ago can now be carried out with significantly less effort by using IMPAC
+
+cards, the government's credit card equivalent
+Šthe buyer simply calls up
+suppliers, such as CompUSA or Staples, and places an order; and it is delivered
+
+the next day, with the delivery scanned in at the customer's desktop by the
+
+delivery service, such as United Parcel Service or Federal Express. Little training
+
+is required to use the IMPAC card. These quick success initiatives have become
+
+very popular with federal agencies.
+If we continue to promote one system for all types of procurements, we will
+lose valuable time and endanger our credibility with our vendor community. Our
+
+job as procurement officers is to complete the procurements for the user. We are
+
+going to use the tool that works best at the time. We do not want to invest all
+resources into one tool or electronic commerce system.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+31Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.NASA Acquisition Internet Service (NAIS)
+NASA delivers acquisition documents over the Internet to slash lead times
+and paperwork, and to save money. NASA's Internet service, NAIS, provides
+
+immediate access to all NASA synopses and competitive acquisitions over
+
+$25,000. NASA is the first federal agency to use this type of procurement system
+
+agencywide.Although NASA has 10 centers, most small companies probably do business
+in a certain geographical area. In the past, a business on the West Coast would
+
+probably focus on the Dryden Flight Research Center or the Ames Research
+
+Center. NAIS now allows a business to access any NASA procurements from a
+
+desktop computer.Why a World Wide Web service? Because it is a commercial marketplace.
+Internet technology is exploding, including the tools to use the Internet. The tools
+
+that have emerged in the last few years are what has brought the Internet to the
+
+forefront. The browsers were first, and now there are the plug-ins that work with
+
+the browsers. These tools make the Internet more functional and accessible.
+Often when people think of NASA, they think of leading edge technologies.
+We are not inventing Internet tools at NASA, but rather using commercial
+
+Internet standards, such as HTML, to develop our procurement processes. In the
+
+NASA Office of Procurement, our strategy is, ''Follow industry's lead
+Štwo stepsbehind.'' We want to try technologies, but we do not want to buy into
+
+technologies that will change overnight, or perhaps six months from now. There
+
+is no incentive for us to be the first to use a new technology. We listen to
+
+customer and user feedback on both sides of the procurement transaction. Our
+
+service provides customer feedback forms, where vendors can suggest what they
+like and don't like
+Šand they respond. We test what is available, and let the
+market lead us. As the market determines the best technology or best standard,
+
+then we move in that direction.
+One of the more important features of our approach is that it is platform-
+independentŠcan work within any computer environment, such as Windows-
+based personal computers or Apple Macintosh computers. Customers and NASA
+
+users are often parochial about their computer hardware. Moving to a single
+
+platform within NASA is not realistic. The fact that World Wide Web Internet
+
+access is independent of computer hardware at our end, and also independent for
+
+the user at the other end of the business transaction, is beneficial as these new
+
+technologies emerge in the business environment.
+Our approach also allows a business to access information on NASA
+procurements from anywhere in the world, from home or office. If you want to
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+32Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.know the latest NASA procurement information, you can log-on through an
+Internet provider, or through any commercial on-line provider, such as America
+
+On-Line or Prodigy.
+Our strategy also minimizes entry barriers for small businesses. I previously
+mentioned the investment in training, the investment in software, and the
+
+investment in value-added networks that are all needed to use an EDI-based
+
+system. If a business has high-volume transactions, then an EDI-based system has
+
+a place. However, in the architect-engineer and construction businesses, how
+
+many procurements are available in a given year for all government? Not
+hundreds and thousands, but handfuls. So a highly automated environment may
+not be needed to access the required procurement information.
+Benefits of NAIS
+NASA is significantly reducing procurement lead times and saving money.
+In the past, publishing a solicitation
+Šwith all the reproduction and assembly and
+mailingŠcost about $15 per package. After mailing 400 copies of the
+solicitations, NASA might only receive three or four responses. Today, if a
+
+vendor wants to search NASA synopses, he can point to the search button, which
+
+leads to a synopsis search page. By scrolling down, the vendor can choose the
+
+NASA centers for which a search is desired. After choosing a specific NASA
+center to search, the vendor can go to a classification code, which mirrors the
+codes in the 
+Commerce Business Daily
+. These include architect and engineering
+services. The file can be searched by date. A vendor can also add key words for
+
+the search. In a few moments, depending on modem speed, the results appear.
+
+The search engine is based on shareware.
+The search results appear as an abstract of hot links to information on the
+procurements of interest at the specific center identified. Since the links are hot, a
+
+vendor can select an item of interest and pull up the synopsis. If it piques her
+
+interest, any available solicitation documents can simply be downloaded to a
+
+computer's hard drive. Another nice feature is that, for the user's response to the
+
+solicitation, these documents can be cut and pasted because they are word-
+
+processed documents. If the vendor's e-mail application is associated with his
+browser, and the synopsis sparks his interest, he can e-mail the contracting
+officer with any questions directly via the synopsis. Within a day or so, a
+
+response should appear. If a vendor is on a deadline to respond to a bid, it
+
+certainly helps to get the right information. And there is an electronic record as
+
+well. The solicitation documents, when issued, can be found by simply scrolling
+
+down the synopsis.ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+33Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Other agencies are looking at NAIS as a business model. Eventually, the
+interaction of agencies providing this information on the Internet should lead to a
+
+search capability that covers not just NASA procurements, but all procurements
+
+of a given type across the agencies. By whatever means greater competition
+
+comes about, it means better products and services and lower prices for
+
+government.What to watch for in the coming months? This arena changes so quickly that
+we no longer talk in terms of years. NASA has an on-line feedback form that
+
+allows users to key in their opinions about the system. We are using these
+
+opinions as a key to system improvements.
+NASA will soon roll out automatic e-mail notification, which offers great
+potential. This capability is now working in pilot form, and we hope to have it
+
+fully operational during fiscal year 1997. By filling out an on-line form with an
+
+e-mail address, a user will be able to identify the procurements and NASA
+
+centers for which more information is desired. The service then sends an e-mail
+notification when those procurements are posted on the Internet. Thus, a business
+will not have to come to NASA, NASA will go to the business with procurement
+
+opportunities. Once again, our goal is to lower the entry barrier and associated
+
+costs for reaching and responding to our procurements.
+For proposals, NAIS currently requires a business to send back a paper
+document. We are working on an electronic proposal pilot that should be
+
+available in the near future when the interest and technology permits. NASA will
+
+establish a secured server so that we can ensure the security of proposals when
+
+they are submitted.
+At the present time, NAIS does not qualify for FACNET certification. We
+are working with the Office of Federal Procurement Policy and with Congress to
+
+expand the definition of what types of electronic commerce qualify for FACNET
+
+certification.In searching for architect and engineering construction contracts, NASA has
+a page that anyone can access from a desktop personal computer via the Internet
+
+(http://procurement.nasa.gov). This page is a link to all of NASA's business
+opportunities by field installation.
+These new NASA electronic commerce capabilities were developed without a
+specific budget, often by staff in their spare time. The staff saw the need and the
+
+opportunities presented by the tools available. A tribute is owed to those in the
+
+trenches who worked together to develop the system, standardize it agencywide,
+and make it available to the business community.
+ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+34Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.The Federal Acquisition Jumpstation
+The Federal Acquisition Jumpstation, an Internet site (
+http://procure.msfc.nasa.gov/fedproc/home.html ), provides hot links to all federal
+procurement information on the Internet. From this site, a vendor can link to
+
+departments and agencies throughout government, to retrieve acquisition
+
+forecasts, announcements, solicitations, how to guides, small business assistance
+
+information, and federal acquisition regulations. NASA maintains this site, and it
+has grown rapidly.
+The Jumpstation is updated frequently. This is an Internet address that a
+vendor would certainly want to bookmark and check frequently. Through the
+
+Jumpstation, all the agencies listed can be accessed, including the NASA centers.
+
+For example, if you access the Air Force through the Jumpstation, you will find
+
+that their business opportunities search capabilities closely resemble NASA's.
+One of our goals in working with other agencies is to link these opportunities
+closely so that when the user searches for architect and engineering or
+
+construction contracts, for example, the search can be carried out across the
+
+participating agencies. Several interagency working groups are active in
+
+development, and we are always looking for more participants with new ideas.
+From the Jumpstation, the user can also access and, in some cases, search
+the FAR and applicable agency supplements. The Jumpstation also links to
+
+commercial resources providing information similar to NASA's. Enter those sites
+
+at your own risk. Some are very good actually, and most are still free, so if you
+have the access, go ahead and take a look at them.
+Please access NASA's sites often. If there are ways to improve them, please
+let us know.ELECTRONIC COMMERCE: IMPLEMENTING THE FEDERAL ACQUISITION
+STREAMLINING ACT
+35Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Electronic Commerce Resource Centers and
+Value-Added NetworksBosquet N. Wev, Jr.
+Fairfax Electronic Commerce Resource Center (ECRC)
+The main subjects I will address are the Electronic Commerce Resource
+Centers (ECRCs) and value-added networks (VANs).
+The ECRC program is intended to meet the critical need for assisting small
+to medium businesses and small government offices in introducing electronic
+commerce practices and principles into their business. In short, the mission of the
+
+ECRC network is simply to help businesses and government offices move into
+
+electronic commerce. The ECRC network has 11 centers around the country,
+6sponsored and managed currently by the Advanced Research Projects Agency
+
+(ARPA), and as of October 1996, by the Defense Logistics Agency (DLA), and
+
+funded by the Department of Defense (DOD). One of the requirements for the
+
+establishment of an ECRC is to be associated with an institution of higher
+
+learning. Our center, the Fairfax ECRC, was established in 1993 in association
+
+with Dimensions International (the prime contractor and an 8A firm), George
+
+Mason University (GMU), and Iris, Limited Liability Company. Our ECRC
+
+operates as a seamless (or a "virtual") organization and currently have several
+
+doctoral students from GMU who work for us full-time. They operate our lab, and
+do most of our enterprise integration and process change work. Our contract has
+been extended to 2002.
+Each ECRC has a contractually defined area of core functions and
+technology expertise. The Fairfax ECRC area of expertise is information
+
+technology. My company, Iris, is the third party in our center, and we are the
+
+experts in CALS. CALS stands for Continuous Acquisition and Lifecycle
+
+Support. The concept originated in DOD in 1985, to take a weapons system and
+
+operate it from birth to death
+Šfrom design, to manufacture, to implementation,
+to operation, to repair parts, to phase-out
+Šusing applied technology. We think of
+CALS more generically, as a way to do business.
+6 Scranton and Johnstown, Pennsylvania; Cleveland and Dayton, Ohio; Fairfax,
+Virginia; Atlanta, Georgia; Palestine, San Antonio, and Orange, Texas; Bremerton,
+Washington; and Oakland, California.
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS36
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.The Fairfax ECRC mission is to work with the small to medium-sized
+enterprises and government offices in the electronic commerce area, to help them
+
+do business as trading partners through the application of methods and
+
+information technologies that enable process improvements. We do a lot of work
+
+for DOD, but we are starting to work with other federal agencies as well.
+First, the ECRC provides consultation and training to the enterprises and
+government offices. Second, we develop strategies for business process
+
+improvements; and third, we recommend and help implement enabling
+
+technologies.That order is very important. We have seen and consulted with companies
+who have gone out with great pride, bought 10 personal computers, and installed
+
+and networked them all, so that they can very nicely do bad things quicker. We
+
+have to uninstall all of that and look at their business process. It must be changed
+
+to do what they want.
+Most of you have heard of the "as is" and the "to-be" ("as is'' being the way a
+business process works today, and "to-be" the way it should work to take
+
+advantage of today's technology). We apply these concepts all the time, and it
+
+works. We look at a company and determine the "as is,'' and only then do we help
+
+the company determine the "to be." Once the company is reorganized, then we
+
+assist in installing the technology to suit.
+We have an intensive training and education program, and conduct
+numerous courses both on-and off-site. We also provide technical support.
+Our outreach activities include trade shows, expositions, conferences, and
+seminars. The 25 people of the Fairfax center are all involved in outreach. We use
+
+outreach activities to find the companies requiring assistance.
+Consultation and technical support is provided as a follow-on service. We
+answer many questions by phone, and when necessary, go to the offices of a
+
+company or government agency and work with them at no charge for up to 40
+
+hours. Much work can be accomplished in 40 hours. Beyond those hours, the
+
+ECRCs are permitted to negotiate fee-for-service arrangements.
+Subjects we often address are legacy data management and legacy
+management conversion. Every time someone writes a check, a piece of legacy
+
+data is created. Legacy data fill offices, file cabinets, computers, storerooms,
+
+boxes, and so on. We teach people how to manage such data in adapting to the
+
+world of electronic commerce.
+The ECRC network is a cooperative rather than a competitive network. The
+ECRCs regularly call one another for help
+Šscanning and conversion help,
+automated design help, help in whatever the problem area happens to be. A team
+
+from another ECRC may come in to help find the solution.
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS37
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Once we find a company or agency who is interested in our services, we
+complete an initial assessment with them. Then there are a number of further
+
+steps in our strategy to work with a company:
+   Initial team agreement with the client
+   "Tiger Team" formation (such a team is composed of selected personnel
+from the client and the ECRC, with the team leader always from the
+
+client)   Planning, high-level and business case analysis
+   Final agreement with the client
+   Detailed analysis
+   Implementation planning
+   Implementation.We feel that an 80 percent solution today is better than a 100 percent
+solution some day, and much better than no solution at all.
+Many people, including those in government offices, are afraid to set-up
+electronic commerce for fear they will look foolish. Our suggestion is, let's all do
+
+it together.Even those in remote locations, such as Fort Ritchie in northern Maryland,
+have now had vendor conferences, and they are excited about getting involved,
+
+even though they began with little knowledge about electronic data interchange
+
+(EDI).What are the three most important things in real estate? Location, location,
+location. The three biggest problems we have today in electronic commerce are
+
+culture, culture, culture. The principal reason people fail to become involved is
+
+that they refuse to stop doing what they have been doing for the last 25 years.
+Automating a business is rarely a technology issue, but almost always a cultural
+issue.Some businesses would not, in fact, benefit from our technological
+improvements, and we help identify these cases as well. If there is not a business
+
+case that points to automation, we do not recommend it.
+There has been much discussion about the costs of the Defense Information
+Systems Agency (DISA) infrastructure and the difficulty of implementation. But
+
+there are no rose gardens in this field. It is hard. The DISA infrastructure (the
+
+Federal Acquisition Computer Network, FACNET) has had vigorous growing
+pains. However, the system is getting better by the day, because responsible
+people recognized the problems and are working extremely hard to resolve them.
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS38
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.What challenges must be overcome for businesses to work with government
+via EDI? Again, culture is the biggest problem. Companies and government
+
+agencies must also demonstrate both management and financial commitment.
+
+Managing legacy data is another major challenge. How many office files must be
+
+converted to digital information?
+Standards, such as ANSI [American National Standards Institute] X12 and
+UN EDIFACT [United Nations rules for Electronic Data Interchange for
+
+Administration, Commerce and Transport] are still another issue. When you pick
+
+up the telephone, are you surprised by the dial tone? Of course not. It is a
+
+standard around the world. The standards are in place. ANSI X12 is the standard
+
+for EDI.The sharing of information is important. Today the power is neither in the
+sword nor the pen, but in information, more specifically, information retrieval and
+
+the sharing of information. Business process and organizational structure are very
+
+important as well.
+At the ECRC, we can only achieve our mission if we can demonstrate
+measurable success in our client organizations. We work often with small
+
+manufacturing firms, primarily in southwest Virginia and in North Carolina, and
+
+help them change their processes. About 85 percent of those firms will let us
+
+analyze their profits and loss statements. We may review these accounts
+
+monthly, to help the businesses continually improve. Whenever possible, we like
+to measure our success by more than mere compliments, however genuine. While
+a large number of specific benefits may result from a business's use of electronic
+
+commerce, they all derive from reducing costs, improving quality, and decreasing
+
+time to market. If electronic commerce is well implemented, it can certainly
+
+produce these three results.
+Value-Added Networks (VANs)
+Value-added networks (VANs) are part of the DISA infrastructure for
+electronic commerce. A VAN provides trading partners a common environment
+
+through which to transmit, receive, and store EDI messages. DOD has a
+
+certification program that all VANs must go through; 26 VANs have now been
+
+certified.There are certain qualifications that VANs will have to meet. VANs need to
+transmit, receive, and store EDI messages, with a two-hour maximum for
+
+government transmission to supplier mail boxes. The VANs must be open 24
+
+hours a day, 7 days a week, and they must be able to archive data for at least 30
+
+days. They must to be able to protect data and have a backup and recovery plan
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS39
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.in the event of a "crash." To be certified, VANs must also handle "one-to-all
+interested parties" transaction sets. This means VANs must be able to connect
+
+with all other people in the network, and all other functional areas.
+A VAN is little more than an electronic mailbox. The government, on one
+side, goes through a so-called gateway, which does nothing more than translate
+
+business information into ANSI X12, the standard for EDI. From the gateway
+
+this information goes to the Network Entry Point (NEP), where it is distributed to
+
+the VANs, which in turn distribute it to the vendors.
+Value-added service (VAS) adds significant value to the basic VAN function
+of storing and forwarding EDI data. Typically, a VAS provides communications
+
+and translation software. Choosing a VAN or a VAS is largely a filtering process
+
+in which you identify those features that best meet your business needs. There are
+
+two general approaches. You can sign up with a VAN that has the software you
+
+need included (so-called bundled software); or, you can choose a VAN and a
+
+third party's software. The software selected must be compatible with your own
+system, so that you can connect to the DOD and commercial VANs you want to
+reach.Some commercial entities already do business like this. K-Mart, Wal-Mart,
+Sam's, J.C. Penny, Sears
+Šthey all have their own VANs. If you want to sell your
+widgets to Wal-Mart, you have to do it electronically. This is a consideration if
+
+you are going to do business not only with the government, but also with a
+
+commercial entity. Your choice should also depend in part on the volume of
+
+business that you expect to do. You should estimate VAN costs for light,
+
+moderate or heavy use, as appropriate.
+Cost. There are several kinds of costs to consider in choosing a VAN. The
+initial set-up fee is usually about $200. For electronic mailboxes, there are
+
+account, access, and storage fees. You might select a per character charge, a
+
+volume discount, or a flat rate. And there are interconnect fees. Of the 26 VANs
+
+we have talked to, we find people are generally moving toward the flat rate
+
+because it is easier.
+Reporting. Everybody wants to look at reports. But you need to consider
+exactly what it is you want to see, because you will pay for it. Ask for a sample
+
+invoice and a sample monthly report. Are they easy to read and understand? Look
+
+at report features such as characters transmitted, connection time, failed
+
+transmissions, and failed log-on attempts.
+Our ECRC maintains a list of 20 questions to ask a VAN, as follows.
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS40
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Questions to Ask a VAN
+1.What are the initial fees for establishing an account?
+
+2.What are the recurring fees (monthly and annual) for maintaining an account?
+
+3.What are the per transaction or per character charges?
+
+4.What are the access charges (per transmission or per minute)?
+
+5.Does the VAN offer volume discount rates?
+
+6.What communications methods are supported by the VAN?
+
+7.What are the rates for using different communication protocols and speeds?
+
+8.Does the VAN support your selected transaction sets and standards?
+
+9.Does the VAN provide a local access telephone number?
+
+10.What levels of archiving does the VAN support (on-line and off-line)?
+
+11.Does the VAN support interconnects with other VANs?
+
+12.Does the VAN provide translation between different standards and versions?
+
+13.Does the VAN provide compliance checking?
+
+14.What is the VAN's record of availability and reliability (amount of downtime)?
+
+15.What type of store and forward messaging services are provided?
+
+16.What is the geographical coverage of the VAN (regional, national,
+international)?17.What is the industry coverage of the VAN (transportation, government, etc.)?
+
+18.What reporting is provided by the VAN?
+
+19.What levels of security are provided by the VAN (password, automatic call-
+back)?20.What additional features does the VAN support (broadcasting, BBS, etc.)?
+Other criteria. Another important criterion to consider is market coverage.
+Can the VAN connect with your trading partners, commercial and otherwise? The
+
+Defense Logistics Agency (DLA) uses a special system, as does the Air Force.
+
+Does the VAN provide training with its bundled software? Are
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS41
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.there other value-added services? You should obtain and check references of the
+VAN that are businesses similar to yours.
+Special needs.
+ You should consider whether you have other special needs.
+Fax-to-EDI is one capability. If you have a very low volume of transactions, and
+
+are not EDI-capable, then for a minimal VAN fee you can arrange with your VAN
+
+that, if it receives an EDI transaction from a buyer (either the government or a
+
+commercial enterprise) that relates to what you sell, the VAN can fax that
+
+transaction to you. Then you can write up a quote, fax it back to the VAN, and
+
+the VAN will send it back to the buyer via EDI.
+VANs can also be Internet service providers. They can scan bulletin boards.
+They can translate your business information to other softwares (such as to
+
+commercial VANs, such as those of K-Mart or Wal-Mart).
+Activity level.
+ In choosing a VAN, you need to weigh the costs and benefits
+by activity level. What does that mean, activity level? If you have various
+
+departments within your company
+Šsay, accounting, finance, shipping and
+receiving, inventory, and manufacturing, and a request for quote, or some other
+
+EDI transaction set comes in, you would like to know whether you should route
+
+that information to any or all of your departments. You cannot do this routing
+unless you have an integrated database. This is the type of issue to be considered
+in this context. EDI cost/benefit is usually volume-based.
+Translation software.
+ The software you select to go with the VAN must be
+able to translate data into and out of standard EDI formats. In this case, the ANSI
+
+X12 standard is what is used. There are several DOD versions of ANSI X12, so
+
+you must be sure that your software, whether it is bundled into a VAN or
+
+provided by a third party, has the capability to look at all versions. Again, you
+
+may want to be able to exchange data not only with DOD, but also with
+
+commercial trading partners.
+The simplest and least expensive way to do business is to use a stand-alone
+personal computer and EDI translation software, either bundled with a VAN or as
+
+third party software. This software takes business information (either from the
+
+buyer or the seller), and, through the ANSI X12 standard, translates it into
+
+computer language and transmits it to the recipient (either the buyer or seller).
+
+Once received, the information is translated back into business information that
+can be read. The process is proceeds continually, back and forth. This approach is
+straightforward to implement.
+Of the many software vendors out there, roughly half offer DOS systems,
+and half offer Windows-based software. But many are moving to
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS42
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Windows, and the DOS environment will likely eventually fade away in the EDI
+world. The drawback of the stand-alone personal computer approach is the lack
+
+of integration with existing software. Integrated EDI software is similar to stand-
+
+alone software, but can integrate with other applications and allow the integration
+
+of a company's entire database, so that all departments can communicate with one
+
+another.Information goes into the system once, but you use it many, many times.
+You can route an incoming request for a quote through all the departments
+
+automatically. The information goes all the way through, and if you happen to
+
+win the bid and get a purchase order, the same thing happens again. The
+
+information can go directly to manufacturing and to shipping and receiving.
+I recently took a tour through the local Safeway warehouse in Landover,
+Maryland. It was an amazing experience. Almost their entire process is
+
+automated. They have little buggies running around on the floor with magnetic
+
+tracks. They have high-rise buildings with forklifts that go up five stories and
+
+grab a crate of whatever, bring it down, and put it on a little cart. The cart runs
+
+over, dumps the crate on a truck, and the order is gone. No one has touched it.
+
+The whole operation has been run from an operations center. That's the kind of
+operation we are headed for. They are saving enormous amounts of money using
+this system.
+Finally, a company can develop its own proprietary software. We highly
+discourage this option. Proprietary software is written to fit a specific use in a
+
+specific company or pad of a company. This software usually is poorly
+
+documented and becomes obsolete very quickly. If and/or when the author leaves
+
+the company, the documentation left behind is rarely adequate for successors to
+
+maintain or troubleshoot the software.
+People are concerned about the privacy of their information. But information
+can be fire-walled, or compartmented. The only information that is available and
+
+shared with everyone else is the information that you want them to see. It is not
+
+hard to arrange this, simply more expensive.
+Other EDI software capabilities.
+ It is also valuable to have built-in
+communications software included with the software package, so this software
+
+does not have to be bought separately.
+You might also want to arrange for unattended batch transmissions. If you
+are going to be receiving large batch transmissions of transaction sets from the
+
+VAN during off-hours, then you want to be able to say when to do that. You
+
+arrange this, by the way, when you register using the Trading Partner Profile
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS43
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.transaction set (TS 838). You can provide a lengthy list of times when you want
+to talk to people.
+It is important to ensure that the EDI communications software you choose
+allows multiple VAN connections in case you wish to do business with both
+
+government and commercial enterprises.
+In software system utilities, if you want security, you want to arrange for a
+password. It is also helpful that your VAN or third party software have automatic
+
+recovery and restart capability, so that if the VAN (or third party software)
+
+crashes, they can recover, and the crash is transparent to you. Installation routines
+
+should be fairly simple. It also helps if the software package allows manipulation
+
+of the screen, so that you like what you see.
+With regard to system maintenance, the software should provide automatic
+purging and archiving. It should be able to save information for an adequate
+
+period, say, for about 10 days; and the program should be updatable when ANSI
+
+X12 standards are updated. The software should have good phone support, with
+
+extended hours and knowledgeable technical support staff. Error reports, which
+
+tell you of any errors the software may be experiencing, are important. Be sure
+
+you can receive these error reports. There should be inbound/outbound
+transaction set reporting. You ought to be able to receive a report at periodic
+intervals that indicates all the transaction sets you have received and sent over any
+
+given period.Functional acknowledgments.
+ Functional acknowledgments can be
+important, but you must sometimes pay for this feature (depending on the VAN).
+
+Acknowledgment is something developers have struggled with, though it is
+
+nothing more than a notice indicating that someone received what you sent them.
+
+The problem is that such messages fail to go end-to-end; they only go from the
+
+gateway to the VAN and back. They do not travel the full route from the agency
+to the vendor and back. If you want such capability, it will generally cost you
+extra money. The better VANs will pass this feature along as part of their flat rate
+
+plan.There is also a transaction set called an 836, which is an awards, or
+unsuccessful bidders, notice. It tells you who won and for how much, so that if
+
+you are not the winner, you can learn more about the competition. This
+
+communication can be a useful marketing tool.
+Cost considerations
+. Regarding software costs, you should consider the
+initial cost, whether maintenance is ongoing (and whether you should get a
+
+contract or not), and whether you will be charged for upgrades in the software.
+ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS44
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.When transaction set 841 (Technical Information) is finally approved, will
+you have to pay the VAN extra to receive it, or will it be received as part of the
+
+flat rate package? Sooner or later the costs of developing the new transaction sets
+
+will have to be passed along. Will an ANSI X12 standards update be possible,
+
+and how much will it cost?
+The total costs of EDI vary greatly, depending on your choices. You can buy a
+personal computer today for $1,000, and it will do the job. You can get a 486
+
+model with everything you need, and a modem for $100, and have the capacity to
+
+do EDI. A VAN, after the initial investment of about $200, should not cost more
+
+than $50 to $100 per month. Software can be expensive, particularly the more
+
+advanced integration software.
+Good assessments of software are available, and the ECRCs can also be
+readily accessed through our Fairfax center's home page (
+http://www.ecrc.gmu.edu ). The Dayton ECRC is building a valuable matrix with cost
+comparison charts, to help both vendors and government agencies to select VANs
+
+and software vendors.ELECTRONIC COMMERCE RESOURCE CENTERS AND VALUE-ADDED NETWORKS45
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Speaker Biographies
+All of the following people participated in the symposium as speakers or
+moderators. The Federal Facilities Council is grateful for their contributions.
+G. DOYLE DODGE,
+ as Senior Advisor to the Assistant Commissioner,
+Office of Network Applications for the U.S. General Services Administration, is
+
+responsible for governmentwide management direction in a wide range of
+advanced electronic commerce programs. Among his current activities, he heads
+an interagency steering committee in designing, developing, and publishing on
+
+the Internet the electronically shared databases necessary for electronic
+
+contracting for the $200 billion of supplies and services required annually by the
+
+federal government. For several years, Mr. Dodge has been involved in designing
+
+and managing the electronic publishing and dissemination of federal acquisition
+
+information. Mr. Dodge earned his B.S degree in business from Oregon State
+
+University and his MBA in finance from Indiana University. He worked in
+
+business analysis, development, administration, and management positions in the
+
+steel and aerospace industries for 14 years before moving to the federal
+
+government in 1972. He has headed regional professional associations, authored
+
+many technical papers in his field, and has lectured frequently at regional and
+
+national conventions of related professional organizations.
+PETER G. DOYLE
+ is a Fellow of the American Institute of Architects and a
+principal in the firm Doyle and Synan. In a 26 year career with the Linbeck
+Corporation, a Texas-based national builder, Mr. Doyle rose from engineer/
+estimator and project manager to corporate executive, and was directly involved
+
+in the planning and construction of buildings worth more than $1 billion. These
+
+include the Biosphere visitor center in Arizona, a 16,000 seat
+SPEAKER BIOGRAPHIES46
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.arena in Miami, and a 55 story office tower in Houston. In his professional
+affiliations, Mr. Doyle has held leadership roles in the Associated General
+
+Contractors of America, as chair, officer, and board member at local and national
+
+levels. He has also been a board member and chairman of the National Institute
+
+of Building Sciences. Mr. Doyle holds a bachelor of architecture degree from
+
+Notre Dame University and a master of architecture from Rice University, and
+has completed the Advanced Management Program at Harvard University. Peter
+Doyle is known throughout the United States in both building and architectural
+
+arenas as an industry leader, skilled negotiator, and client-focused general
+
+manager.RON GROVER
+ is Deputy Commander for Contracts at the Naval Facilities
+Engineering Command Headquarters and a member of the Navy Electronic Data
+
+Interchange Core Group. He was commissioned in the Civil Engineer Corps in
+
+1976. In his 20 year career, Commander Grover has held a number of positions at
+
+stations in the United States and abroad. These include assistant public works
+officer and assistant resident officer in charge of construction, in Argentia,
+Newfoundland; deputy resident officer and assistant officer in charge of
+
+construction, in Fallon, Nevada; deputy officer in charge of contracts and
+
+assistant public works officer at the Naval Submarine Base, in Kings Bay,
+
+Georgia; and environmental and public works department head at Engineering
+
+Field Activity in Washington, D.C. Commander Grover received a bachelor's
+
+degree in electrical engineering from the University of Iowa and a master's degree
+
+in civil engineering from Texas A&M University. He is a registered professional
+
+engineer in the State of Nevada.
+RONSON KUNG
+ is a 1988 graduate from Texas A&M University, where
+he received a B.S. in industrial engineering. Mr. Kung began his federal civil
+
+service career as an industrial engineer in the Naval Facilities Engineering
+
+Command's (NAVFAC) three-year professional development program. In 1991,
+
+he joined the relatively new public works support team at Southwest Division.
+
+His primary duties were to assist in establishing the southwest region's public
+works management automation program and serve on facilities evaluation
+assessment team visits, which provide process improvement recommendations to
+
+Navy and Marine Corps installations throughout the southwest. After providing a
+
+year of technical support to over 60 personnel in computer and network issues,
+
+and involvement with implementation of NAVFAC's CAD2 program, Mr. Kung
+
+accepted a position in 1994 with the Tri-Service CADD/GIS Technology Center.
+SPEAKER BIOGRAPHIES47
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.He is currently responsible for various tri-service projects, development, and
+implementation.MICHAEL R. McFARREN
+ is currently assigned to the Defense
+Information Systems Agency as the managing engineer for the Electronic
+
+Commerce/Electronic Data Interchange (EC/EDI) project. In this position, Lt.
+
+Colonel McFarren is responsible for the design, development, construction,
+
+installation, and testing of the infrastructure to support electronic commerce for
+
+the entire federal government. Additionally, he is chair of the EC/EDI standards
+
+management committee and the Department of Defense representative to the
+federal standards management coordinating committee. In his career, Lt. Colonel
+McFarren has also served as a senior scientist for the Air Combat Command at
+
+Langley Air Force Base, a research analyst at Armstrong Laboratories at
+
+Wright-Patterson Air Force Base, an intercontinental ballistics missile combat
+
+crew commander instructor at Grand Forks Air Force Base, and an assistant
+
+professor of aerospace studies at Cornell University. He holds a B.S. in chemistry
+
+education from Purdue University, an M.B.A. from the University of North
+
+Dakota, and an M.S. in operations research from the Air Force Institute of
+
+Technology. Lt. Colonel McFarren is currently completing his dissertation for a
+
+Ph.D. in information technology at George Mason University.
+JOYCE L. RUNYAN
+ is the Chair of the Federal Facilities Council
+Procurement and Contracting Committee and has 16 years of experience as a
+
+contract specialist with the Naval Facilities Engineering Command (NAVFAC).
+
+In her current position as assistant for construction, architect-engineering, and
+
+environmental contracts policy in the contracts policy division, Ms. Runyan is
+
+responsible for recommending NAVFAC construction and architecture-
+
+engineering policy and reviewing requests for waivers and approvals. She is the
+
+NAVFAC liaison with contractors' professional organizations. She is also the
+Navy representative on the construction, architecture-engineering, and bonds
+committee of the Defense Acquisition Regulation System, which recommends
+
+revisions to the Federal Acquisition Regulation (FAR) or the Defense FAR
+
+Supplement, to implement new policy and law. Ms. Runyan holds a B.A. from
+
+Methodist College and a masters degree in contracting and acquisition
+
+management from the Florida Institute of Technology.
+SPEAKER BIOGRAPHIES48
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.DELORES (DEE) SMITH
+ is Director of the Department of Defense
+Electronic Commerce Office. She was chair of the DOD electronic commerce in
+
+contracting process action team, established by the Deputy Under Secretary of
+
+Defense for Acquisition Reform, a group chartered to develop a comprehensive
+
+implementation plan for DOD. The team included representatives from all
+
+relevant entities, who worked full-time to analyze existing components of EC/
+EDI contracting initiatives, determine the associated risks and benefits, establish
+the educational requirements, and assess the costs associated with the plan. The
+
+successful effort of the DOD charter laid the groundwork for the formulation and
+
+signature of the President's Executive Memorandum, signed October 26, 1993,
+
+which directed a similar effort to be performed by all federal agencies by March
+
+1994. Ms. Smith previously was assigned to Sacramento Air Logistics Center, as
+
+the Office of the Secretary of Defense program manager for defense electronic/
+
+continuous acquisition and life-cycle support. Additionally, Ms. Smith was
+
+aircraft contracting division chief in support of the F111, A-7, and A-10 aircraft
+
+for five years, and served for 23 years in contracting at Oklahoma City Air
+
+Logistics Center, Oklahoma. She received her bachelor's degree in accounting
+
+and master's degree from Central State University of Oklahoma.
+KEN STEPKA
+ joined the Office of Procurement at the National
+Aeronautics and Space Administration Headquarters in May 1992. Since
+
+December 1993, he has led the NASA's acquisition initiative in electronic
+
+commerce. Today, NASA's Office of Procurement pursues electronic commerce
+
+as a ''tool set,'' matching the appropriate electronic commerce solution to the wide
+
+variety of federal procurements. The goals are to enhance accessibility and
+transaction performance across the entire business process, at the lowest practical
+cost. Prior to joining NASA, Stepka served as the contracting officer for the
+
+Sidewinder and Sparrow air-to-air missile systems during a 12 year tour at the
+
+Naval Air Systems Command, Washington, D.C. His procurement career began
+
+as a Navy intern in Albany, Georgia.
+JAMES JUSTIN TAYLOR
+ is a program manager in the Engineering
+Management Branch, Headquarters, U.S. Army Corps of Engineers. He is
+
+currently program coordinator for the Electronic Bid Set Project and provides
+
+technical advice and management for computer-aided engineering programs and
+
+applications. Mr. Taylor has held various engineering positions within the Corps,
+
+including project manager for the Automated Review
+SPEAKER BIOGRAPHIES49
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.Management System Technical Center of Expertise at the Corps Sacramento
+District. From July 1983 to July 1988, he was assigned to the design branch in the
+
+Omaha District, where his responsibilities included the structural design for
+
+projects ranging from enlisted and officer housing, and administrative and dining
+
+facilities, to flight simulators and aircraft hangars. In July 1988, he was assigned
+
+to the design quality assurance section, engineering division, Sacramento
+District, where he was responsible for project compliance on in-house and
+architect/engineer designed projects. He earned a B. S. in architectural
+
+engineering in 1983 from Tennessee State University.
+FRANK D. (DAN) TROYAN
+ is Chief of Contracting Automation and
+Federal Information Processing Resources Acquisition Programs Division at the
+
+U.S. Army Corps of Engineers. He is also program manager for the Standard
+
+Army Automated Contracting System (SAACONS) and electronic commerce in
+
+the Office of the Principal Assistant Responsible for Contracting at
+
+Headquarters. Mr. Troyan is responsible for developing, managing, and
+overseeing contract automation, contract program policies and procedures
+involving audit and reporting functions, and information resource procurement
+
+activities accomplished by the Corps at 57 worldwide contracting offices. He is
+
+also responsible for implementation of federal, Department of Defense, and
+
+Department of the Army requirements in Corps-wide automated information
+
+systems used for acquisition. In previous positions with the Army, Mr. Troyan
+
+engineered and built extensive communications facilities throughout Alaska and
+
+managed one of the Army's earliest large-scale data reduction centers for digital
+
+computer processing of radar, telemetry, film, and oscillographic information. As
+
+a department head, he developed and expanded curricula at the Department of
+
+Defense Computer Institute (now the Information Resources Management
+
+College of the National Defense University). He holds a B.S. from the U.S.
+Military Academy at West Point, an M.S. in electrical engineering from the
+University of Arizona, and an M.A. in business and personnel management from
+
+Central Michigan University.
+BOSQUET (BISCUIT) N. WEV, Jr.,
+ is Senior Vice President of Iris,
+Limited Liability Company, and director of outreach at the Fairfax Electronic
+
+Commerce Resource Center (ECRC) in Fairfax, Virginia. At the Fairfax ECRC,
+
+he is responsible for increasing the awareness of the community (MD, DE, DC,
+
+VA and NC) of the benefits that small to medium-sized enterprises can derive
+
+from the services offered by the ECRC in the field of
+SPEAKER BIOGRAPHIES50
+Electronic Commerce for the Procurement of Construction and Architect-Engineer Services: Implementing the ...Copyright National Academy of Sciences. All rights reserved.electronic commerce. Additionally, Mr. Wev instructs business owners and
+government officials about how to do business with the federal government using
+
+electric commerce. He has been the general tutorials chair for the last three
+
+Continuous Acquisition and Life-Cycle Support (CALS) expositions and will also
+
+be in the next. Mr. Wev is a well-known speaker on CALS/EC/EDI in North
+
+America, Europe, and Asia. Prior to 1992, Mr. Wev owned a retail business for
+10 years, worked in the Washington, D.C., military-industrial complex for 13
+years, served as a U.S. Navy submarine officer for 20 years, and graduated from
+
+the U.S. Naval Academy in 1952.
+SPEAKER BIOGRAPHIES51

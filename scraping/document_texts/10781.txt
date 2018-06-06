@@ -1,0 +1,1931 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/10781Key Capabilities of an Electronic Health Record System:Letter Report35 pages | 8.5 x 11 | PAPERBACKISBN null | DOI 10.17226/10781Committee on Data Standards for Patient Safety; Board on Health Care Services;Institute of MedicineKey Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.     Key Capabilities of an  Electronic Health Record System  
+ Letter Report 
+   
+ 
+ 
+ 
+ 
+ Committee on Data Standard
+s for Patient Safety   Board on Health Care Services 
+     
+   
+     Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.  THE NATIONAL ACADEMIES PRESS     500 FIFTH STREET, N.W.     Washington, DC  20001 
+ NOTICE: The project that is the subject of this report was approved by the Governing Board of the 
+National Research Council, whose members are draw
+n from the councils of the National Academy of 
+Sciences, the National Academy of Engineering, an
+d the Institute of Medicine. The members of the 
+committee responsible for the report were chosen fo
+r their special competences and with regard for 
+appropriate balance. 
+ Support for this project was provided by the U.S. De
+partment of Health and 
+Human Services. The views presented in this report are those of the Institute 
+of Medicine Committee on Da
+ta Standards for Patient 
+Safety and are not necessarily those of the funding agencies.  
+ 
+Additional copies of this report are available in limited quantities from the Committee on Data Standards 
+for Patient Safety through the Board on Health Care
+ Services, 500 Fifth Street, N.W., Washington, DC 
+20001. This report is also available online at 
+www.nap.edu
+.  For more information about the Institute 
+of Medicine, visit the IOM home page at: 
+www.iom.edu. 
+  
+Copyright 2003 by the National Academ
+y of Sciences. All rights reserved.  Printed in the United States of America. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.  Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.   The National Academy of Sciences
+ is a private, nonprofit, self-perpetuating so
+ciety of distinguished scholars engaged in 
+scientific and engineering research, dedica
+ted to the furtherance of science and technology and to their use for the general 
+welfare.  Upon the authority of the charter granted to it by th
+e Congress in 1863, the Academy has a mandate that requires it t
+o advise the federal government on scientific 
+and technical matters.  Dr. Bruce M. Albe
+rts is president of the National Academy o
+f Sciences. 
+The National Academy of Engineering
+ was established in 1964, under the charter of
+ the National Academy of Sciences, as a 
+parallel organization of outstandi
+ng engineers.  It is autonomous in its administ
+ration and in the selection of its members, sh
+aring with the National Academy of Sciences
+ the responsibility for advising the federal government.  The National Academy of 
+Engineering also sponsors engineering prog
+rams aimed at meeting national needs, 
+encourages education and research, and 
+recognizes the superior achievements of engi
+neers.  Dr. Wm. A. Wulf is president 
+of the National Academy of Engineering. 
+The Institute of Medicine
+ was established in 1970 by the Na
+tional Academy of Sciences to s
+ecure the services of eminent 
+members of appropriate professions in the examination of policy 
+matters pertaining to the health
+ of the public.  The Institute 
+acts 
+under the responsibility given to the National Academy of Sciences 
+by its congressional charter to be an adviser to the federal
+ government and, upon its own initiative, to identify issues of medica
+l care, research, and education.  Dr. Harvey V. Fineberg i
+s president of the Institute of Medicine. 
+The National Research Council
+ was organized by the National Academy of Scie
+nces in 1916 to associate the broad community 
+of science and technology with the Acad
+emy™s purposes of furthering knowledge a
+nd advising the federal government.  
+Functioning in accordance with
+ general policies determined by
+ the Academy, the Council has become the principal operating 
+agency of both the National Academy of 
+Sciences and the National Academy of E
+ngineering in providing services to the 
+government, the public, and the scientific and engineering communitie
+s.  The Council is administered jointly by both Academies 
+and the Institute of Medicine.  Dr. Bruce M. Alberts and Dr. Wm. A. Wulf are chair and vice chair, respectively, of the Nationa
+l Research Council. 
+ www.national-academies.org 
+ Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved. 1 KEY CAPABILITIES OF AN ELECTRONIC HEALTH RECORD SYSTEM 
+ Letter Report 
+  
+ 
+ 
+July 31, 2003 
+ 
+Dr. Carolyn Clancy Director, Agency for Healthcare Research and Quality 
+
+John M. Eisenberg Building 
+540 Gaither Road 
+Rockville MD, 20850 
+
+ Dear Dr. Clancy:  
+In May 2003, the Department of Health and Human Services
+ (DHHS) asked the Institute of Medicine (IOM) to provide guidance on the key care delivery-related capabilities of an 
+electronic health record (EHR) system. An EHR system in
+cludes (1) longitudinal collection of electronic health information for and about persons, where health information is defined as 
+information pertaining to the health of an individu
+al or health care provided to an individual; (2) immediate electronic access to 
+person- and population-level information by authorized, and only 
+authorized, users; (3) provision of knowledge and decision-support that enhance the quality, safety, and efficiency of patient care; and (4) support of efficient processes for health care 
+delivery.  Critical buildin
+g blocks of an EHR system are th
+e electronic health records (EHR) 
+maintained by providers (e.g., hospitals, nursing ho
+mes, ambulatory settings) and by individuals 
+(also called personal health records). There is a great deal of interest within both the public and private sect
+ors in encouraging all health care providers to migrate fr
+om paper-based health records to a system that stores health 
+information electronically and employs computer-a
+ided decision support systems.  In part, this 
+interest is due to a growing recognition that a stronger informa
+tion technology (IT) infrastructure is integral to addressing such national concerns as the need to improve the safety and quality of health care, rising health care cost
+s, and matters of homeland security
+ related to the health sector.  
+The efforts of all partiesŠpurchasers, regulators, providers, and vendorsŠto advance the deployment of EHR systems, would benefit fr
+om a common set of expectations about EHR capabilities. 
+The IOM was asked to respond very rapidly to this request from DH
+HS.  Fortunately, a sizable project focused on patient safety data 
+standards was already under way at the IOM, and this new task proved to be an appropriate expansion of that ongoing work.  Thus the charge to the IOM Committee on Data Standards for Patient 
+Safety (the IOM Committee) was expanded to 
+address this additional task, and the committee devoted a portion of its previously scheduled 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 2 meeting of June 9Œ10, 2003, to the development of th
+is letter report.  The IOM Committee™s full report on data standards will be issued in fall 2003. 
+BACKGROUND The development of an IT infrastructure ha
+s enormous potential to improve the safety, 
+quality, and efficiency of health care in the 
+United States (Institute of Medicine, 2001).  
+Computer-assisted diagnosis and chronic care
+ management programs can improve clinical 
+decision making and adherence to clinical guideli
+nes, and can provide focus on patients with those diseases (Durieux et al., 2000; Evans et al., 1998).  Computer-based reminder systems for 
+patients and clinicians can improve compliance with
+ preventive service pr
+otocols (Balas et al., 2000).  More immediate access to computer-based c
+linical information, such as laboratory and 
+radiology results, can reduce redundancy and improve
+ quality.  Likewise, the availability of complete patient health information  at the point 
+of care delivery, together with clinical decision support systems such as those for medication or
+der entry, can prevent many errors and adverse 
+events (injuries caused by medical management
+ rather than by the underlying disease or condition of the patient) from occurring (Bates
+ et al., 1998, 1999; Evans et al., 1998).  Via a  secure IT infrastructure, patient health information can be shared amongst all authorized  
+participants in the health care community (National Research Council, 2000). An IT infrastructure also has great potential to contribute
+ to achieving other important 
+national objectives, such as enhanced homeland security and 
+improved and informed public 
+health services (Institute of Medicine, 2002b; National Committee 
+on Vital and Health Statistics, 2001; Wagner et al., 2001).   EHRs, combined 
+with Internet-based communication, may enable early detection of and rapid response to bioterrorism attacks, including the organization and 
+execution of large-scale inoculation campaigns
+ and ongoing monitoring, detection, and treatment 
+of complications arising from exposure to bioc
+hemical agents or immunizations (Tang, 2002; 
+Teich et al., 2002).  A more advanced health information infrastr
+ucture is also crucial for various forms of biomedical and health systems resear
+ch, as well as educating patients, informal 
+caregivers, and citizens about 
+health (Detmer, 2003; Nationa
+l Committee on Vital and Health 
+Statistics, 2001). EHR system implementation and its continuing 
+development is a critical element of the 
+establishment of an IT infrastruc
+ture for health care.  In 1991, the IOM issued a report calling for the elimination of paper-based pa
+tient records within 10 years, but progress has been slow, and this goal has not yet been met (In
+stitute of Medicine, 1991; Overha
+ge et al., 2002).  It should be noted that the motivation is not to have a paperl
+ess record per se, but to make important patient 
+information and data readily available and us
+eable. In addition, computerizing patient data 
+enables the use of various computer-aided decision supports. 
+There are some noteworthy examples of health 
+care settings in both the private and public sectors in which EHRs have been deployed.  A handful of communities and systems have 
+
+established secure platforms for the exchange 
+of data among providers; 
+suppliers; patients; and other authorized users, such as the Veterans 
+Health Administration, the New England Healthcare 
+Electronic Data Interchange Network, the Indian
+a Network for Patient Care, the Santa Barbara 
+County Care Data Exchange, the Patient Safety Institute™s National Benefit Trust Network, and 
+the Markle Foundation™s Healthcare Collaborative Network (CareScience, 2003; Kolodner and Douglas, 1997; Markle Foundation, 2003b; New England Healthcare EDI Network, 2002; Overhage, 2003; Patient Safety Institute, 2002).  But these examples are the exception, not the 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 3rule. In most of the nation™s hospitals, orders fo
+r medications, laboratory te
+sts, and other services 
+are still written on paper, and ma
+ny hospitals lack even the capability to deliver laboratory and 
+other results in an automated fashion.  The s
+ituation is no different in most small practice 
+settings, where there has been little if
+ any migration to electronic records. 
+In addition to the technical challenges, there are sizable policy, 
+organizational, financial, and technological challenges that must be addresse
+d to facilitate the adoption of EHR systems 
+(Overhage et al., 2002). Some attempts to introd
+uce order entry systems 
+and other components of an EHR system have been unsuccessful (A
+uber and Hamel, 2001; Ornstein, 2003).  Also, 
+currently available personal health records, which allow patients to enter their own information, 
+have demonstrated limited functionality
+ to date (Kim and Johnson, 2002).   
+Government health care programs, along with 
+various private-sector stakeholders, are considering options for encouraging the impl
+ementation of EHR systems by providers.  To 
+achieve widespread implementation, some ex
+ternal funding or incentive programs will be 
+necessary (Institute of Medicine, 2001, 2002a).  
+For example, the Centers for Medicare and 
+Medicaid Services might provide so
+me form of financial reward to
+ providers participating in the Medicare program that have deployed EHR syst
+ems.  On the private-sector side, various 
+insurers, purchasers, and employer groups are 
+instituting quality incentive programs for specific 
+EHR system functionalities, such as computeriz
+ed provider order entry for prescription drugs and electronic reporting of performance measur
+es (National Health Care Purchasing Institute, 
+2003).  In addition, a number of employers, health 
+plans, and physicians have recently formed a 
+coalition called Bridges to Excellence, which will provide financial bonuses to providers to encourage improved patient care management 
+systems, including EHR systems (Bridges to 
+Excellence, 2003).  Another option is to provide gr
+ant funding or access to ﬁlow-costﬂ capital to 
+enable providers, especially those with a safety net role, to invest in acquiring EHR systems 
+(Health Technology Center and Manatt, Phelps and Phillips, LLP, 2003).  Certain regulatory strategies might also be pursued, such as requi
+ring providers to have an EHR system as a 
+condition of participation in Medicare (Department of Health and Huma
+n Services, 2003).   To implement any of the above strategies, one mu
+st first clearly define a functional model of 
+key capabilities for an EHR system.  There have been many different views of what constitutes 
+
+an EHR system.  Some EHR systems include virtua
+lly all patient data, while others are limited to 
+certain types of data, such as medications and 
+ancillary results.  Some EHR systems provide 
+decision support (e.g., preventive service reminders,
+ alerts concerning possible drug interactions, clinical guideline-driven prompts), while ot
+hers do not.  Most current EHR systems are 
+enterprise-specific (e.g., operate within a specif
+ic health system or mu
+lti-hospital organization), 
+and only a few provide strong support for communication and interconnectivity across the providers in a community.  The functionality 
+of EHR systems also varies across multiple 
+settingsŠfrom the perspective of 
+both what is available from vendors and what has actually been implemented.  Some EHR systems have been 
+developed locally and others by commercial 
+vendors. In summary, EHR systems are actively 
+under development and will remain so for many 
+years. A ﬁfunctional modelﬂ of an EHR system will 
+assist providers in acquiring and vendors in 
+developing software.  For most providers, the mi
+gration to an electronic environment will take 
+place over a period of years.  The development of a common set of requirements for the 
+functional capabilities of various EHR system 
+software components would allow providers to 
+compare and contrast the systems that are availabl
+e, and enable vendors to build systems more in 
+line with providers™ expectations.  To be most 
+useful, a functional model 
+of an EHR system must 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 4 also reflect a balance between what is desi
+rable and what can feas
+ibly be implemented 
+immediately or within a short time frame.  It
+ will be important to upda
+te the functional model 
+from time-to-time to reflect advancements 
+in health care technology and care delivery.  PROJECT OVERVIEW In response to the request from DHHS in May 2003, the charge to the IOM Committee on 
+Data Standards for Patient Safety was expanded as follows:   Provide guidance to DHHS on a set of ﬁbasic functionalitiesﬂ that an electronic health record system should possess 
+to promote patient safety.  The IOM 
+committee will consider functions, such as
+ the types of data that should be 
+available to providers when making clini
+cal decisions (e.g., diagnoses, allergies, laboratory results); and the types of decision-support capabilities that should be 
+present (e.g., the capability to alert provide
+rs to potential drug-drug interactions). 
+The IOM Committee was asked to focus on 
+care delivery functions, and did not address infrastructure functions, such as database manage
+ment and the use of health care data standards 
+(e.g., terminology, messaging standards, network pr
+otocols).  Although not within the scope of this project, the IOM Committee would like to 
+emphasize the importance of two infrastructure 
+functionsŠprivacy and security (e.g., access control, en
+cryption).  It is absolutely critical that an 
+EHR system be capable of safegua
+rding privacy and security.   DHHS requested a rapid response because of its desire to implement various programs in 
+2004 that would benefit from th
+e availability of a functional model for an EHR system.  Specifically, the Center for Medi
+care and Medicaid Services (CMS) is considering offering financial and other incentives to providers to 
+encourage the deployment of EHR systems.  The 
+Agency for Healthcare Research and Quality is 
+implementing an applied research program that 
+will provide funding for the implementation and 
+evaluation of innovative IT-related programs.  
+The federal government is also 
+working collaboratively with private sector stakeholders to facilitate the development of a national health in
+formation infrastructure (Department of Health 
+and Human Services, 2003). 
+In addition, the IOM work is the first step of a two-step process.  IOM is being asked to identify core care deliveryŒrelated functionalities of an EHR system.  Health Level Seven (HL7), 
+a leading standards-setting organization working on the development 
+of an EHR functional model, will incorporate these core functionalitie
+s into the model, and further specify each 
+functionality along three dimensions:  (1) devel
+op a functional statement or definition (what), 
+(2) establish a rationale for the functionality (why included), and (3) establish a compliance 
+metric or test (Dickinson et al., 2003). 
+Because of the quick turnaround required, the IOM  Committee convened a small working 
+group that met at the National Academies™ 
+Jonsson Conference Center in Woods Hole, Massachusetts, on June 7Œ8, 2003.  The work of this group served as a starting point for 
+discussions of the full IOM Commi
+ttee at its June 9Œ10, 2003, meeting. 
+FRAMEWORK FOR IDENTIFYING CORE EHR FUNCTIONALITIES 
+In recent years, several IOM reports have recommended that the U.S. health care system 
+make a commitment to the development of a he
+alth information infrastructure by the year 2010 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 5(Institute of Medicine, 2001, 2002a, 2002c).  This IOM Committee concurs with those 
+recommendations.   
+It is recognized that the EHR 
+system will be built incrementall
+y utilizing clinical information 
+systems and decision support tools as building bl
+ocks of the EHR, and the IOM Committee has strived to identify reasonable steps that can be
+ taken by health care providers over the next 7 years to advance the accomplishment of this overall 
+goal.  It will be important for the Agency for 
+Healthcare Research and Quality and others to 
+pursue a robust research agenda if the EHR 
+system is to reach full maturity in the years ahead. 
+Key EHR functionalities have been identified for four settingsŠhospital, ambulatory care, 
+nursing home, and care in the community (i.e., th
+e personal health record). Additional settings 
+will need to be addressed in the future, such as home health agencies, pharmacies, and dental 
+
+care. In considering the core functionalities of EHR systems, it is important to recognize their 
+many potential uses (see Box 1).  EHR systems mu
+st support the delivery of personal health care services, including care delivery (e.g., care processes), care mana
+gement, care support processes, 
+and administrative processes (e.g., billing and reim
+bursement).  As individuals engage more 
+actively in management of their own health, they 
+too become important users of electronic health 
+information.  There are also important sec
+ondary uses, including education, regulation (e.g., credentialing), clinical and health services re
+search, public health and homeland security, and 
+policy support.  There are both individual users (e.g., patients, clinicians, managers) and 
+institutional users (e.g., hospitals, public health departments,
+ accreditation organizations, educators, and research entities).    Box 1.  Primary and Secondary Uses of 
+an Electronic Health Record System Primary Uses Secondary Uses 
+! Patient Care Delivery 
+! Education 
+! Patient Care Management 
+! Regulation 
+!    Patient Care Support Processes ! Research 
+! Financial and Other Administrative Processes  
+! Public Health and Homeland Security 
+!    Patient Self-Management  !  Policy Support 
+ SOURCE:  Adapted from Institute of Medicine (1997). 
+ To guide the process of identifying core EHR system functionalities, the IOM Committee 
+formulated five criteria, which are listed belo
+w.  Although each functi
+onality independently may 
+not fulfill all five criteria, when taken together as part of an EHR system, the core functionalities 
+
+should address all criteria.  ! Improve patient safety.  Safety is the prevention of harm
+ to patients.  Each year in the United States, tens of thousands of people die as a result of preventable adverse events 
+due to health care (Institute of Medicine, 2000).   ! Support the delivery of effective patient care.  Effectiveness is providing services based 
+on scientific knowledge to those who could benefit and at the same time refraining from 
+providing services to those not likely to bene
+fit (Institute of Medicine, 2001).  Only about 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 6 one-half (55 percent) of Americans receive 
+recommended medical care that is consistent 
+with evidence-based practice guidelines (McGlynn et al., 2003).   ! Facilitate management of chronic conditions
+.  Chronic conditions are now the leading 
+cause of illness, disability, and death in the United States (Hoffman et al., 1996).  Persons with chronic conditions account for over 75 percent of all health care spending, and more than half of that spending is on behalf
+ of people with multiple such conditions 
+(Partnership for Solutions, 2002; U.S. Departme
+nt of Health and Human Services, 2002).  
+More than half of those with chronic conditions have three or more different providers 
+and report that they often receive conflicting 
+information from those providers; moreover, 
+many undergo duplicate tests and procedures, 
+but still do not receive recommended care (Leatherman and McCarthy, 2002; Partnership 
+for Solutions, 2002).  Physicians also report difficulty in coordinating care for their patients w
+ith chronic conditions, and believe that this lack of coordination produces poor outcomes (Partnership for Solutions, 
+2002).   ! Improve efficiency.  Efficiency is the avoidance of waste, in particular, waste of equipment, supplies, ideas, and energy (Inst
+itute of Medicine, 2001).  Methods must be 
+found to enhance the efficiency of health care professionals and reduce the administrative 
+and labor costs associated with health care delivery and financing.  Staffing shortages have developed in multiple health care professions, placing added pressure on providers 
+
+to continually improve care processes with
+ current staffing levels (AHA Commission on 
+Workforce for Hospitals and Health Systems, 20
+02).  The cost of private health insurance is increasing at an annual rate of greater than 12 percent, while individuals are paying more out of pocket and receiving fewer benef
+its (Edwards et al., 2002; Kaiser Family 
+Foundation and Health Research and Educational Trust, 2002).  And rising health care costs will likely contribute to growing numbers of uninsured, who currently total over 41 
+million, or 1 in 7 Americans (U.S. Census Bureau, 2002). Addressing these issues 
+
+represents a major challenge.   
+! Feasibility of implementation
+.  The IOM Committee consid
+ered this criterion in 
+determining the time frames within which 
+it is reasonable to e
+xpect providers™ EHR systems will be capable of demonstrating th
+e key functionalities.  The timing of this 
+study did not allow for a thorough evaluation of
+ feasibility, so the IOM Committee had to 
+rely on its collective knowledge of the field. 
+ In assessing feasibility, the IOM Committee 
+considered whether software is currently available or under development; the time period 
+necessary for vendors to develop, produce, and market new software to achieve certain functionalities; and the willingness of users to 
+purchase and implement such systems.  It 
+would be advisable to reassess periodically the feasibility of implementing certain EHR 
+functionalities and modify expectati
+ons regarding timing, as appropriate. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 7CORE EHR FUNCTIONALITIES 
+The IOM Committee identified core functionalities
+ falling into eight 
+categories (see Box 2).  Box 2.  Core Functionalities for an Electronic Health Record System 
+! Health information and data 
+! Patient support 
+! Results management 
+! Administrative processes 
+! Order entry/management 
+! Reporting & population health  
+! Decision support  managemen
+t ! Electronic communication and 
+connectivity  Health Information and Data  
+Although not truly a functionality attribute per se, in order to achieve the objectives set forth for an EHR system, it must contain certain data
+ about patients.  Physicians and other care providers require certain information to ma
+ke sound clinical decisions; however, their information needs are often not met (Bates et 
+al., 2003; Covell et al., 1985; McKnight et al., 2001; Tang et al., 1994).  This lack of information 
+can lead to lesser-quality and inefficient care. As noted, for example, the capability to disp
+lay previous laboratory test results can 
+significantly reduce the number 
+of redundant tests ordered, not only saving money, but also 
+preventing the patient from undergoing unnecessary test
+s (Bates et al., 1999; Stair, 1998; Tierney 
+et al., 1987).  Also as noted earlier, information on patient alle
+rgies and other medications, in 
+combination with alerts and reminders, can decr
+ease the number of medication-related adverse 
+events and improve the prescribing practices of physicians and nurse practitioners (Bates et al., 
+1999; Kuperman et al., 2001; McDonald, 1976; Teich 
+et al., 2000).  In addition, urgent matters, 
+such as abnormal test results, can be addresse
+d on a more timely basis if the physician has the 
+information at the point of care (Bates et al., 
+2003).  EHR systems with a defined dataset that 
+includes such items as, medical and nursing 
+diagnoses, a medication list, allergies, 
+demographics, clinical narratives, and laborator
+y test results, can ther
+efore ensure improved 
+access to at least some types of information 
+needed by care providers when they need it. 
+It is also important to note that too much in
+formation and data may overwhelm or distract the 
+end user, so EHR systems must have well designe
+d interfaces.  The health information and data 
+captured by an EHR system must also evolve 
+over time, as new knowledge becomes available, 
+both clinical knowledge and knowledge regarding the information needs of different users. Results Management 
+Managing results of all types (e.g., laboratory test results, radiology procedure results reports) electronically has several distinct advantages over paper-based reporting in terms of 
+improved quality of care.  Computerized results 
+can be accessed more easily by the provider at 
+the time and place they are needed; the reduced 
+lag time increases both efficiency and patient 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 8 safety by allowing for quicker recognition and treatment of me
+dical problems (Bates et al., 
+2003).  Additionally, the automated display of prev
+ious test results makes it possible to reduce 
+redundant and additional testing, thus not only improving efficiency of treatment, but also 
+decreasing costs (Bates et al., 2003; Shea et al., 2002; Tierney et al., 1987).  Having electronic results can allow for better interpretation a
+nd for easier detection of abnormalities, thereby 
+ensuring appropriate follow-up (Bates et al., 2003; Overhage et al., 2001; Schiff et al., 2003).  Finally, access to electronic consu
+lts and patient consents can establish critical linkages and 
+improve care coordination among multiple provider
+s, as well as between provider and patient 
+(Bates et al., 2003). Order Entry/Order Management The benefits of computerized provider orde
+r entry (CPOE) have been well documented 
+(Bates and Gawande, 2003; Bates et al., 1998, 1999; Butler and Bender, 1999; Kuperman and 
+Gibson, 2003; Kuperman et al., 2001; Mekhjian et
+ al., 2002; Schiff and Rucker, 1998; Sittig and Stead, 1994; Teich et al., 2000; Tierney et al., 1993).  Even with little or no decision support capabilities, such systems can improve workflow
+ processes by eliminating lost orders and 
+ambiguities caused by illegible handwriting, genera
+ting related orders automatically, monitoring 
+for duplicate orders, and reducing the time to fill 
+orders (Lepage et al., 1992; Mekhjian et al., 
+2002; Sittig and Stead, 1994).  The use of comp
+uterized order entry, in conjunction with an electronic health record, is also beginning 
+to demonstrate a positive effect on clinician 
+productivity (Overhage et al., In press). The strongest evidence of the clinical effectiveness of CPOE is seen in medication order entry.  Relatively simple systems have been shown to reduce the number of non-intercepted 
+
+medication errors by up to 83 percent by usi
+ng ﬁforcing functionsﬂ for medication dose and 
+frequency (Bates and Gawande, 2003), displaying relevant laboratories, and checking for drugŒallergy and drugŒdrug interactions.  CPOE is expected to offer similar benefits for laboratory, 
+microbiology, pathology, radiology, nur
+sing, and supply orders, as well as for ancillary services and consults (Butler and Bender, 1999; Sanders and Miller, 2001; Schiff et al., 2003; Schuster et al., 2003; Teich et al., 1992; Wa
+ng et al., 2002).  Financial benefitsŠsuch as reducing the amount of money spent on preprinted forms, assu
+ring that prescribing practices are consistent with a facility™s established formulary, and info
+rming physicians and othe
+r providers about cost-saving options and duplicate test ordersŠhave also been demonstrated (Butler and Bender, 
+1999; Mekhjian et al., 2002; Sittig and Stead, 1994).   Decision Support Computerized decision support systems have dem
+onstrated their effectiveness in enhancing clinical performance for many aspects of health 
+care, including prevention, prescribing of drugs, diagnosis and management, and de
+tection of adverse events and disease outbreaks (Bates and Gawande, 2003; Hunt et al., 1998; Johnston et al., 1994; Tang et al., 1999b).  In two meta-
+analyses, computer reminders and prompts were
+ shown to significantly improve preventive practices in such areas as vaccinations, breast 
+cancer screening, colore
+ctal screening, and 
+cardiovascular risk reduction (Balas et al., 2000; Shea et al., 1996).  Several studies have also been conducted on the use of computerized 
+decision support to improve drug dosing, drug 
+selection, and screening for drug interactions; these studies have shown overall positive effects Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 9on the quality of patient care (Abookire et al., 2000; Evans et al., 1998; Hunt et al., 1998; Schiff 
+and Rucker, 1998).  A study comparing clinical 
+decisions made by physicians in the same 
+practice using an EHR system and traditional pa
+per records found that the former group made 
+more appropriate clinical decisions as a result
+ of all the tools available in an EHR system, 
+including decision support (Tang et al., 1999a).   There is also a small but growing evidence base 
+for the effectiveness of such systems in the 
+area of computer-assisted diagnosis and disease treatment and ma
+nagement.  In 1992, an expert 
+diagnostic system demonstrated the ability to de
+tect more serious quality
+ problems arising from 
+diagnostic errors than those detected by a state-based peer review organization, suggesting that computerized tools may help prevent such dia
+gnostic misadventures (L
+ee and Warner, 1992).  A 
+1999 study comparing the performance of clinicians
+ with and without the aid of a diagnostic computerized decision support system found a si
+gnificant improvement in
+ the generation of correct diagnoses when the system was used 
+(Friedman et al., 1999).  Two additional recent 
+studies have revealed that decision support tools could improve clinician compliance with 
+established evidence-based guidelines and protocols (Morris, 2003; Starmer et al., 2000).  Other 
+studies on the use of decision support tools have not found improvements, however (Eccles et al., 
+2002; Rollman et al., 2002).   More sophisticated tools, such as artificial neural networks, 
+have also demonstrated their 
+effectiveness in detecting acute myocardial infarction, breast can
+cer, and cervical cancer (Bates and Gawande, 2003; Heden et al., 1997; Kok and Boon, 1996; Petrick et al., 2002).  In addition, computerized tools can be used to identify and tr
+ack the frequency of adverse events (Bates et 
+al., 2001; Classen et al., 1991; Honigman et al., 2001) and hospital-acquired infections (Evans et 
+al., 1986), as well as disease outbreaks and bioterrorism events (Pavlin, 2003; Tsui et al., 2003). 
+Electronic Communication and Connectivity Effective communicationŠamong h
+ealth care team members and 
+other care partners (e.g., laboratory, radiology, pharmacy) and 
+with patientsŠis critical to the provision of quality health care.  Its lack can contribute to the occurrence of adverse events (Bates and Gawande, 2003; Petersen et al., 1994; Schmidt and Svarstad, 2002; Wanl
+ass et al., 1992).  Improved 
+communication among care partners, such as la
+boratory, pharmacy, and radiology, can enhance 
+patient safety and quality of care (Schiff et al., 2003), and improve publ
+ic health surveillance (Schiff and Rucker, 1998; Wagner et al., 2001).  El
+ectronic connectivity is essential in creating and populating EHR systems, especially for 
+those patients with chronic conditions, who 
+characteristically have multiple providers in multiple settings that must coordinate care plans 
+
+(Wagner, 2000; Wagner et al., 1996).  While
+ communication interfaces are becoming well 
+established for administrative data exchange, there are very few such interfaces for the exchange 
+
+of clinical data.   Electronic communication tools, such as e-ma
+il and web messaging, have been shown to be 
+effective in facilitating communi
+cation both among providers and 
+with patients, thus allowing 
+for greater continuity of care (Balas et al., 1997; Liederma
+n and Morefield, 2003; Worth and 
+Patrick, 1997) and more timely interventions 
+(Kuebler and Bruera, 2000).  One recent study 
+found that automatic alerts to providers regard
+ing abnormal laboratory results reduced the time 
+until an appropriate treatment was ordered 
+(Kuperman et al., 1999).  Another important 
+communication tool is an integrated health reco
+rd, both within a setting and across settings and institutions.  Such a record allows for improved 
+access to patient data at the point where clinical 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 10 decisions are made (Institute of 
+Medicine, 1997).  In addition, telemedicine has demonstrated 
+effectiveness in certain setti
+ngs, including pulmonary clinics a
+nd intensive care units (Pacht et 
+al., 1998; Rosenfeld et al., 2000; Shafazand et al.,
+ 2000); home telemonitoring has been shown to 
+be successful as well (Finkelstein et al., 2000; Johnston et al., 2000; Rogers et al., 2001; Shea et al., 2002; Whitlock et al., 2000).   
+Patient Support Patient education has demonstrated significant effectiveness in
+ improving control of chronic 
+illnesses (Weingarten et al., 2002). 
+ Computer-based patient educat
+ion in particular has been 
+found to be successful in primary care (Balas et 
+al., 1996).  In a 1997 study of 22 clinical trials, 
+interactive educational interventions showed
+ positive results for several major clinical 
+applications, the most frequently targeted of 
+these being diabetes (Krishna et al., 1997).  Additionally, as noted earlier, several studies have demonstrated the feasibility of home 
+monitoring by patients (Finkelstein et al., 2000; Johnston et al., 2000; Rogers et al., 2001; 
+Whitlock et al., 2000).  In a recent study, for instan
+ce, spirometry self-testing by asthma patients 
+during home telemonitoring was found to provide va
+lid results comparable to those of tests 
+collected under the supervision of a clinicia
+n (Finkelstein et al., 2000).  A multidimensional 
+telehealth system has also demonstrated the ab
+ility to decrease stress for some caregivers of 
+patients with Alzheimer™s disease (Bass et al., 1998). 
+Administrative Processes Electronic scheduling systems for hospital admi
+ssions, inpatient and outpatient procedures, and visits not only increase the efficiency of heath care organiza
+tions, but also provide better, more timely service to patients (Everett, 2002; 
+Hancock and Walter, 1986; Woods, 2001).  Use 
+of communication and content st
+andards is equally important 
+in the billing and claims 
+management areaŠclose coupling of authorizatio
+n and prior approvals can, in some cases, 
+eliminate delays and confusion.  Additionally, 
+immediate validation of 
+insurance eligibility 
+should add value for both providers and patie
+nts through improved access to services, more 
+timely payments and less paperwork. 
+Moreover, computerized decision support tools ar
+e being used in a variety of settings to 
+identify eligible or potentially eligible patients for clinical trials (Breitfeld et al., 1999; Carlson et al., 1995; Ohno-Machado et al., 1999; Papaconstan
+tinou et al., 1998).  Other effective electronic administrative tools include re
+porting tools that support drug recalls (Schiff and Rucker, 1998) and artificial neural networks that can assi
+st in identifying candidates for chronic disease management programs (Heden et al., 1997;
+ Kok and Boon, 1996; Petrick et al., 2002). Reporting and Population Health Management  Institutions currently have multiple public a
+nd private sector reporting requirements at the 
+federal, state, and local levels for patient safety and quality, as well as for public health.  In addition, the internal quality improvement effort
+s of many health care organizations include 
+routine reporting of key quality indicators (sometimes referre
+d to as clinical dashboards) to clinicians.  Most of the data for these reports must
+ be abstracted from claims data, paper records, 
+and surveys, a process that is labor-intensive and time-c
+onsuming, and usually occurs Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 11retrospectively.  Thus such reporting is often limited to en
+tities that have sufficient 
+administrative infrastructure to develop the n
+ecessary data (Institute of Medicine, 2002c).  
+Additionally, chart abstraction has been shown to involve a number of significant errors (Green 
+and Wintfeld, 1993).  Having clinical
+ data represented with a standardized terminology and in a 
+machine-readable format would reduce the significant data collection burden at the provider 
+
+level, as well as the associated costs, and would li
+kely increase the accuracy
+ of the data reported.   CORE FUNCTIONAL REQUIREMENTS 
+When identifying the core functional requirements for an EHR system, the IOM Committee 
+was asked to consider both the care setting of each function and the time frame for its 
+introduction
+.  Table 1 at the end of this report lists the eight key EHR system capabilities 
+described above, broken down at a more detailed 
+level, according to these two dimensions.  The 
+committee was asked to provide guidance pertaini
+ng to four care settings:  (1) hospitals; (2) 
+ambulatory care settings, including small practic
+e settings, community health centers, and group 
+practices; (3) nursing homes; a
+nd (4) care in the community. 
+In addressing the fourth se
+tting, care in the community, the IOM Committee focused on 
+functional requirements for the pers
+onal health record (PHR), defined to include (1) a subset of data from the individual™s EHR, and (2) informa
+tion recorded by the individual, including health maintenance and monitoring data. A PHR may be us
+ed in a number of ways by the patient to support their care, disease management, and 
+clinical communication. (Markle Foundation, 
+2003a). As computer-based PHRs become part of
+ the EHR system, being 
+able to access patients™ 
+own narratives of their illnesses will become a va
+luable source of information for improving care 
+through comparisons with the clinicians™ records.  
+Assuming that the migration from paper record
+s to a comprehensive EHR system will take 7 
+or more years for most provide
+rs, the IOM Committee strived to identify functional requirements 
+for three time periods: 
+ ! In the immediate future (2004Œ2005), it is assu
+med that providers (i.e., ambulatory care 
+settings, hospitals, and nursing homes) will focus on (1) the capture of essential patient 
+
+data already found frequently in electronic form, such as la
+boratory and radiology results; (2) the acquisition of limited decision support capabilities for which software is readily available in the marketplace (e.g., order en
+try, electronic prescribing); and (3) the 
+generation of reports required by external organizations for quality and safety oversight and public health reporting.   ! In the near term (2006Œ2007), providers™ EHR 
+systems should (1) allow for the capture 
+of defined sets of health information, (2) 
+incorporate a core set of decision support functions (e.g., clinical guideline support, care plan impl
+ementation), and (3) support the 
+exchange of basic patient care data and communication (e.g., laboratory results, medication data, discharge summaries) 
+among the care settings (e.g. pharmacies, 
+hospitals, nursing homes, home health 
+agencies, etc.) within a community. 
+! In the longer term (2008Œ2010), the committee believes that fully functional, 
+comprehensive EHR systems will be availabl
+e and implemented by some health systems 
+and regions.  It may take considerably longer,
+ however, for all providers to be using a comprehensive EHR system that provides fo
+r the longitudinal collection of complete 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 
+ 12 health information for an individual; im
+mediate access to patient information by all 
+authorized users within a secure environment; extensive use of knowledge support and 
+decision support systems; and extensive s
+upport for applications that fall outside 
+immediate patient care (e.g., homeland securi
+ty, public health, clinical research).  
+In identifying core functionalities for specifi
+c provider settings, the IOM Committee also 
+considered the current level of information tec
+hnology capabilities within a sector.  Specifically, the IOM Committee assumed that the migration path
+way for hospitals would be more rapid than 
+that for nursing homes, recognizing that many ho
+spitals have some EHR system capabilities 
+already in place while most nursing homes do not, 
+and that hospitals generally have greater 
+access to technical expertise.  Th
+e migration can also be expected
+ to take longer for physicians™ 
+offices than for hospitals, given the differences between the two in financial resources available for IT investments. The IOM Committee set thes
+e targets within the context of the current 
+momentum it is observing in the public and 
+private sectors. A loss of momentum would 
+adversely affect these estimates. It is recognized
+ that not every provider will meet the functional 
+requirements by the times indicated. The functional 
+requirements are intende
+d to be challenging but achievable for a sizable proportion of the health care sector. CONCLUSION 
+The IOM Committee is pleased to have had 
+the opportunity to provide guidance on this important issue.  The committee hopes its work w
+ill be useful to HL7 in its efforts to develop 
+functional statements for an EHR system; to 
+government programs and private purchasers in 
+their efforts to encourage and 
+assist health care providers 
+in deploying EHR systems; to 
+providers and vendors as they strive to acquire and build software products that form part of the 
+foundation for a comprehensive health information in
+frastructure; and to patients as they seek to participate more fully in decisi
+ons regarding their own care.    Paul C. Tang, Chair Committee on Data Standards for Patient Safety 
+ 
+ Cc: Ann Marie Lynch, Acting Assistant Secret
+ary for Planning and Evaluation (ASPE), Department of Health and Human Services 
+Thomas A. Scully, Administrator, Centers for 
+Medicare and Medicaid Services, Department 
+of Health and Human Services 
+Gary Christopherson, Senior Advisor for the U
+ndersecretary for Health, Department of 
+Veterans Affairs 
+  Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.  Electronic Health Record Functiona
+l Model:  Letter Report     13 
+Table 1  EHR System Capabilities 
+by Time Frame and Site of Care 
+ Core Functionality
+ Hospitals Ambulatory Care Nursing Homes 
+Care in the Community 
+(Personal Health Record) 
+ 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 
+1. Health Information and Data 
+Key data (using standardized 
+code sets where available) 
+Œ Problem list 
+
+Œ Procedures 
+Œ Diagnoses 
+Œ Medication list  
+Œ Allergies  Œ Demographics 
+
+Œ Diagnostic test results 
+Œ Radiology results 
+
+Œ Health maintenance 
+Œ Advance directives 
+Œ Disposition 
+Œ Level of service    X 
+X 
+X 
+X X X 
+X 
+X 
+X X X     
+ 
+ 
+   
+ 
+ 
+   X    X 
+X 
+X 
+X X X 
+X 
+X 
+X X X 
+X    
+ 
+ 
+   
+ 
+ 
+   
+     
+ See Minimum Dataset Below 
+   
+ 
+ 
+     X 
+X 
+X 
+X X X 
+X 
+X 
+X X X    
+ 
+ 
+   
+ 
+ 
+   X  Minimum dataset (MDS) for 
+nursing homes 
+Œ Defined MDS for nursing  
+ homes 
+Œ Expanded/refined MDS    
+ NA NA     
+ NA NA     
+ X   
+ 
+ X    
+ NA NA   Note: NA=not applicable Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Table 1 continued 
+ 14 Electronic Health Record Functional Model:  Letter Report 
+ Functionality
+ Hospitals Ambulatory Care Nursing Homes 
+Care in the Community 
+(Personal Health Record) 
+ 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 
+1. Health Information and Data 
+continued
+ Narrative (clinical and patient narrative) Œ Free text 
+Œ Template-based 
+
+Œ Deriving structure from  
+ unstructured text 
+- Natural Language  Processing Œ Structured and coded 
+- Signs and Symptoms 
+
+- Diagnoses - Procedures - Level of service Œ Treatment plan 
+- Single discipline 
+- Interdisciplinary 
+   X  
+ 
+   
+ 
+ X X X  X     X    
+ 
+ 
+  X  X    
+ 
+ X   X  
+ 
+   
+ 
+ X X X    X  
+   
+ 
+ 
+   
+ X    
+ 
+ 
+  X  X    
+ 
+ X    
+ 
+ 
+   
+ 
+ X X NA    X    X  
+  X  X    
+ X 
+X   X 
+X  
+  NA  
+ X X NA  
+ 
+    
+    
+ 
+ 
+   
+ X    
+ X 
+X  Patient acuity/severity of 
+
+illness/risk adjustment Œ Nursing workload 
+Œ Severity adjustment 
+   X    X    NA     X       X    X   NA NA   Capture of identifiers Œ People and roles 
+
+Œ Products/devices 
+Œ Places (including 
+directions)   X 
+X 
+X    X 
+X 
+X     
+X 
+X 
+X     X 
+X 
+X   Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.  Electronic Health Record Func
+tional Model:  Letter Report
+     
+15  2. Results Management 
+Results Reporting 
+Œ Laboratory 
+
+Œ Microbiology 
+
+Œ Pathology 
+Œ Radiology Reports 
+Œ Consults   X 
+X 
+X X    
+ 
+  X   X 
+X 
+X X   
+ 
+  X   
+ 
+    X   X 
+X X X   X 
+X 
+X X   
+   
+ 
+  X Results Notification 
+ X   X    X  X   
+Multiple views of data / 
+Presentation 
+  X    X     
+X    
+X  Multimedia support 
+Œ Images 
+Œ Waveforms Œ Scanned documents 
+- Patient consents Œ Pictures 
+Œ Sounds 
+    
+  X  X 
+X   X 
+X    
+  X  X 
+X   X 
+X    
+X 
+X  X 
+X 
+X    
+X 
+X  X 
+X 
+X 3. Order Entry/Management
+ Computerized provider order 
+entry 
+Œ Electronic prescribing Œ Laboratory 
+Œ Microbiology 
+
+Œ Pathology 
+
+Œ XR 
+Œ Ancillary 
+Œ Nursing Œ Supplies 
+Œ Consults    X X X 
+X 
+X 
+X X X 
+X      X X X 
+X 
+X   
+   
+ 
+ X X X 
+X    X   
+ X  
+ 
+ 
+   X   
+  X 
+X 
+X 
+X X X   NA NA NA 
+NA 
+NA 
+NA NA NA 
+NA     Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Table 1 continued 
+ 16 Electronic Health Record Functional Model:  Letter Report 
+ Core Functionality
+ Hospitals Ambulatory Care Nursing Homes 
+Care in the Community 
+(Personal Health Record) 
+ 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 
+4. Decision Support Access to knowledge sources Œ Domain knowledge 
+Œ Patient education 
+  X X      X X     
+X  
+   X  X X   Drug alerts Œ Drug dose defaults 
+
+Œ Drug dose checking 
+Œ Allergy checking 
+Œ Drug interaction  
+ checking Œ DrugŒlab checking 
+Œ DrugŒcondition checking Œ DrugŒdiet checking 
+  X  X  X   X    X 
+X 
+X   X  X  X   X    X 
+X 
+X   X  X  X   X   
+ 
+   X 
+X 
+X  NA 
+NA 
+NA  NA 
+NA 
+NA 
+NA   Other rule-based alerts (e.g., 
+significant lab trends, lab test 
+because of drug) 
+    X    
+ X    
+ X    NA   Reminders 
+Œ Preventive services 
+  X    X     
+X   X   Clinical guidelines and pathways 
+Œ Passive Œ Context-sensitive passive Œ Integrated    X   
+ X X    X   
+ X X    
+ X   
+ X X   X  NA   
+ X  Chronic disease management 
+ NA    X    X  X  
+ Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.  Electronic Health Record Func
+tional Model:  Letter Report
+     
+17  Clinician work list  X   X    X  NA   
+Incorporation of patient and/or 
+family preferences 
+
+   X    
+X     
+X   X  Diagnostic decision support 
+   X   X   X NA   
+Use of epidemiologic data    X   X   X NA   
+Automated real-time 
+surveillance Œ Detect adverse events and  
+ near misses 
+Œ Detect disease outbreaks 
+
+Œ Detect bioterrorism 
+     X 
+X 
+X    
+  X 
+X 
+X     
+ 
+ NA    X 
+X      NA 
+NA 
+NA   5. Electronic Communication & Connectivity 
+ProviderŒprovider 
+ X    X   X   
+ NA   
+Team coordination 
+  X    X   X NA   
+PatientŒprovider 
+Œ E-mail 
+Œ Secure web messaging 
+  X X    X X    NA NA    X X   Medical devices   X    X  X    X 
+Trading partners (external) 
+Œ Outside pharmacy 
+
+Œ Insurer 
+Œ Laboratory 
+
+Œ Radiology 
+   X 
+X  X  
+ X    X 
+X  X  
+ X    
+X 
+X 
+X   
+ 
+ X  X 
+X NA 
+NA    Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Table 1 continued 
+ 18 Electronic Health Record Functional Model:  Letter Report 
+ Core Functionality Hospitals Ambulatory Care Nursing Homes 
+Care in the Community 
+(Personal Health Record) 
+ 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 2004Œ5 2006Œ7 2008Œ10 
+5. Electronic Communication & Connectivity 
+continued Integrated medical record 
+1 Œ Within setting Œ Cross-setting - InpatientŒoutpatient - Other cross-setting 
+Œ Cross-organizational   X  X    
+ X    
+ 
+ X  X  X    
+ X    
+ 
+ X   X    X 
+X 
+X  NA  
+ 
+ 
+    X 
+X    
+ 
+ X  6. Patient Support 
+Patient education Œ Access to patient  
+ education materials Œ Custom patient education 
+
+Œ Tracking    X    X 
+X    X    X 
+X    
+ X X     X   X    X 
+X  Family and informal caregiver 
+education 
+   X    
+X    
+X    
+X  Data entered by patient, 
+family, and/or informal 
+caregiver Œ Home monitoring 
+
+Œ Questionnaires 
+     NA X    
+  X 
+X    
+  NA 
+NA      X    X  7. Administrative Processes 
+Scheduling management 
+Œ Appointments 
+
+Œ Admissions 
+
+Œ Surgery/procedure  
+ schedule   X 
+X  X    X NA  X     
+ 
+ NA   X 
+X  X NA  NA                                                    1 Defined as the extent to which a single record integrates data 
+from different settings, providers, and organizations (e.g., Pri
+mary Care Physician, 
+specialist, hospital). Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.  Electronic Health Record Func
+tional Model:  Letter Report
+     
+19  Eligibility determination 
+Œ Insurance eligibility 
+
+Œ Clinical trial recruitment 
+Œ Drug recall Œ Chronic disease  
+ management   X 
+X X  X    X 
+X X  X    X NA NA   
+   X   X  NA  NA   X  8. Reporting and Population Health Management 
+Patient safety and quality  
+reporting Œ Clinical dashboards 
+Œ External accountability 
+reporting Œ Ad hoc reporting 
+   X  X X    
+ 
+   
+    X  X X    
+ 
+   
+    X  X X    
+ 
+   
+    NA  NA NA    
+ 
+   
+  Public health reporting 
+Œ Reportable diseases 
+
+Œ Immunization 
+  X 
+X    X 
+X    X   X   NA 
+NA   Deidentifying data 
+  X   X   X  NA   
+Disease registries 
+ X   X   X    X  
+ Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.20  
+Electronic Health Record Functional Model:  Letter Report 
+ REFERENCES 
+Abookire, S. A., J. M. Teich, H. Sandige, M. D. Paterno, 
+M. T. Martin, G. J. Kuperman, and D. W. Bates.  2000.  
+Improving Allergy Alerting in a Computerized Physician Order Entry System.  
+ Proc AMIA Symp
+  :2-6. 
+AHA Commission on Workforce for Hospitals and Health Systems.  2002. 
+In Our Hands:  How Hospital Leaders 
+Can Build a Thriving Workforce.
+ Washington, D.C.: American Hospital Association. 
+Auber, B. A., and G. Hamel.  2001.  Adoption of Smart Cards in the Medical Sector: the Canadian Experience.  
+Soc 
+Sci Med
+  53  (7):879-94. 
+Balas, E. A., S. M. Austin, J. A. Mitc
+hell, B. G. Ewigman, K. D. Bopp, and G. D. Brown.  1996.  The Clinical Value 
+of Computerized Information Services. A Review of 98 Randomized Clinical Trials.  
+Arch Fam Med
+  5 (5):271-
+8. Balas, E. A., F. Jaffrey, G. J. Kuperman, S. A. Boren, G. D. Brown, F. Pinciroli, and J. A. Mitchell.  1997.  
+Electronic Communication With Patients. Evaluation of Distance Medicine Technology.  
+JAMA
+  278 (2):152-9. 
+Balas, E. A., S. Weingarten, C. T. Garb, D. Blumenthal
+, S. A. Boren, and G. D. Brown.  2000.  Improving 
+Preventive Care by Prompting Physicians.  
+Arch Intern Med
+  160 (3):301-8. 
+Bass, D. M., M. J. McClendon, P. F. Brennan, and C. 
+McCarthy.  1998.  The Buffering Effect of a Computer 
+Support Network on Caregiver Strain.  
+J Aging Health
+  10 (1):20-43. 
+Bates, D. W., M. Cohen, L. L. Leape, J. M. Overhage
+, M. M. Shabot, and T. Sher
+idan.  2001.  Reducing the 
+Frequency of Errors in Medicine Using Information Technology.  
+J Am Med Inform Assoc
+  8 (4):299-308. 
+Bates, D. W., M. Ebell, E. Gotlieb, J.
+ Zapp, and H. C. Mullins.  2003.  A Proposal for Electronic Medical Records in 
+U.S. Primary Care.  
+J Am Med Inform Assoc
+  10 (1 ):1-10. 
+Bates, D. W., and A. A. Gawande.  2003.  Improving Safety With Information Technology.  
+N Engl J Med
+  348 
+(25):2526-34. 
+Bates, D. W., G. J. Kuperman, E. Rittenberg, J. M. Te
+ich, J. Fiskio, N. Ma'luf, A. Onderdonk, D. Wybenga, J. 
+Winkelman, T. A. Brennan, A. L. Komaroff, and M. Tanasijevic.  1999.  A Randomized Trial of a Computer-
+Based Intervention to Reduce Utilization of Redundant Laboratory Tests.  
+Am J Med
+  106 (2):144-50. 
+Bates, D. W., L. L. Leape, D. J. Cullen, N. Laird, L. A. 
+Petersen, J. M. Teich, E. Burdick, M. Hickey, S. Kleefield, 
+B. Shea, M. Vander Vliet, and D. L. Seger.  1998.  Effect of Computerized Physician Order Entry and a Team 
+Intervention on Prevention of 
+Serious Medication Errors.  
+JAMA
+  280 (15):1311-6. 
+Bates, D. W., J. M. Teich, J. Lee, D. Seger, G. J. Kupe
+rman, N. Ma'Luf, D. Boyle, and L. Leape.  1999.  The Impact 
+of Computerized Physician Order Entry on Medication Error Prevention.  
+J Am Med Inform Assoc
+  6 (4):313-
+21. 
+Bellazzi, R., A. Riva, S. Montani, C. Larizza, G. d'Annunzio, R. Lorini, A. Monteforte, and M. Stefanelli.  1998.  A 
+Web-Based System for Diabetes Management:  
+the Technical and Clinical Infrastructure.  
+Proc AMIA Symp
+  :972. 
+Breitfeld, P. P., M. Weisburd, J. M. Overhage, G. Sledge 
+Jr, and W. M. Tierney.  1999.  Pilot Study of a Point-of-
+Use Decision Support Tool for Cancer Clinical Trials Eligibility.  
+J Am Med Inform Assoc
+  6 (6):466-77. 
+Bridges to Excellence. 2003. "Bridges to Excellence:  
+Rewarding Quality Across the Healthcare System." Online. 
+Available at http://www.bridgestoexce
+llence.org [accessed 
+July 1, 2003]. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 21 
+ Butler, M. A., and A. D. Bender.  
+1999.  Intensive Care Unit Bedside Documentation Systems. Realizing Cost 
+Savings and Quality Improvements.  
+Comput Nurs
+  17 (1):32-8; quiz 39-40. 
+CareScience. 2003. "Santa Barbara County Ca
+re Data Exchange." Online. Available at 
+http://www.carescience.com/h
+ealthcare_providers/cde/care_data_excha
+nge_santabarbara_cde.shtml [accessed 
+July 10, 2003]. 
+Carlson, R. W., S. W. Tu, N. M. Lane, T. L. Lai, C. 
+A. Kemper, M. A. Musen, an
+d E. H. Shortliffe.  1995.  
+Computer-Based Screening of Patients With 
+HIV/AIDS for Clinical-Trial Eligibility.  
+Online J Curr Clin Trials
+  Doc No 179:[3347 words; 32 paragraphs]. 
+Classen, D. C., S. L. Pestotnik, R. S.
+ Evans, and J. P. Burke.  1991.  Co
+mputerized Surveillance of Adverse Drug 
+Events in Hospital Patients.  
+JAMA
+  266 (20):2847-51. 
+Covell, D. G., G. C. Uman, and P. R. Manning .  1985.  
+Information Needs in Office Practice: Are They Being Met?  
+Ann Intern Med
+  103 (4):596-9. 
+Detmer, Don E. 2003.
+ Building the National Health Information Infrastructure for Personal Health, Health Care 
+Services, Public Health,a Nd Research.  
+BioMed Central
+  3(1) 
+Dickinson, Gary, Linda Fische
+tti, and Sam Heard.  2003. 
+EHR Functional Model and Standard.
+ (PowerPoint 
+Presentation): Health Leve
+l Seven (HL7) EHR SIG. 
+Durieux, Pierre, Remy Nizard, Philippe Ravaud, et al. 2000.
+ A Clinical Decision Support 
+System for Prevention of 
+Venous Thromboembolism.  
+JAMA   283 (21):2816-21. 
+Eccles, M., E. McColl, N. Steen, N. Rousseau, J. Grim
+shaw, D. Parkin, and I. Pu
+rves.  2002.  Effect of 
+Computerised Evidence Based Guidelines on Management 
+of Asthma and Angina in Adults in Primary Care: 
+Cluster Randomised Controlled Trial.  
+BMJ
+  325 (7370):941. 
+Edwards, J. N., M. M. Doty, and C. Schoen.  2002. 
+The Erosion of Employer-Based Health Coverage and the 
+Threat to Workers' Health Care:  Findings From the Commonwealth Fund 2002 Workplace Health Insurance 
+Survey.
+ New York, NY: The Commonwealth Fund. 
+Evans, R. S., R. A. Larsen, J. P. Burke, R. M. Gardner, F. 
+A. Meier, J. A. Jacobson, M. 
+T. Conti, J. T. Jacobson, and 
+R. K. Hulse.  1986.  Computer Surveillance of 
+Hospital-Acquired Infections and Antibiotic Use.  
+JAMA  256 
+(8):1007-11. 
+Evans, R. S., S. L. Pestotnik, D. C. Classen, T. P. Clemme
+r, L. K. Weaver, J. F. Orme Jr, J. F. Lloyd, and J. P. 
+Burke.  1998.  A Computer-Assisted Management Program for Antibiotics and Other Antiinfective Agents.  
+N Engl J Med
+   338 (4):232-8. 
+Everett, J. E.  2002.  A Decision Support Simulation 
+Model for the Management of an Elective Surgery Waiting 
+System.  
+Health Care Manag Sci
+  5 (2):89-95. 
+Finkelstein, J., M. R. Cabrera, and G. Hripcsak.  2000. 
+ Internet-Based Home Asthma Telemonitoring: Can Patients 
+Handle the Technology?  
+Chest
+  117 (1):148-55. 
+Friedman, C. P., A. S. Elstein, F. M. 
+Wolf, G. C. Murphy, T. M. Franz, P. S.
+ Heckerling, P. L. Fine, T. M. Miller, 
+and V. Abraham.  1999.  Enhancement of Clinicians' Diagnostic Reasoning by Computer-Based Consultation: a 
+Multisite Study of 2 Systems.  
+JAMA
+  282 (19):1851-6. 
+Green, J., and N. Wintfeld.  1993.  How Accurate Are 
+Hospital Discharge Data for Evaluating Effectiveness of 
+Care?  
+Med Care
+  31 (8):719-31. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.22 Electronic Health Record Functional Model:  Letter Report 
+ Hancock, W. M., and P. F. Walter.  1986.  Reduce Hospital Costs With Admissions and Operating Room 
+Scheduling Systems.  
+Softw Healthc
+  4 (1):42-6. 
+Health Technology Center and Manatt, Phelps and Phillips, LLP.  2003.  
+Spending Our Money Wisely: Improving 
+America™s Healthcare System By Investing 
+in Healthcare Information Technology.  
+New York, NY: Manatt, 
+Phelps and Phillips, LLP. 
+Heden, B., H. Ohlin, R. Rittner, and L. Edenbrandt.  1997
+.  Acute Myocardial Infarction Detected in the 12-Lead 
+ECG by Artificial Neural Networks.  
+Circulation
+  96 (6):1798-802. 
+Hoffman, C., D. Rice, and H. Y. Sung.  1996.  Person
+s With Chronic Conditions. Their Prevalence and Costs.  
+JAMA  276 (18):1473-9. 
+Honigman, B., J. Lee, J. Rothschild, P. Light, R. M. Pullin
+g, T. Yu, and D. W. Bates.  2001.  Using Computerized 
+Data to Identify Adverse Drug Events in Outpatients.  
+J Am Med Inform Assoc
+  8 (3):254-66. 
+Hunt, D. L., R. B. Haynes, S. E. Hanna, and K. Smith.  
+1998.  Effects of Computer-Bas
+ed Clinical Decision Support 
+Systems on Physician Performance and Patient Outcomes: a Systematic Review.  
+JAMA
+  280  (15):1339-46. 
+Institute of Medicine.  1991. 
+The Computer-Based Patient Record:  An Essential Technology for Health Care.
+ eds. 
+R. S. Dick and E. B. Steen. Washington, D.C: National Academy Press. 
+ŠŠŠ.  1997. 
+The Computer-Based Patient Record:  An Essentia
+l Technology for Health Care (Revised Edition).
+ eds. R. S. Dick, E. B. Steen, and D. E. De
+tmer. Washington, D.C: National Academy Press. 
+ŠŠŠ.  2000. 
+To Err Is Human: Building a Safer Health System.  
+ Linda T. Kohn, Janet M. Corrigan, and Molla S. 
+Donaldson, eds. Washington, D.C: National Academy Press. 
+ŠŠŠ.  2001. 
+Crossing the Quality Chasm:  A New Health System for the 21st Century.
+ Washington, D.C.: 
+National Academy Press. 
+ŠŠŠ.  2002a. 
+Fostering Rapid Advances in Health Care: Learning From System Demonstrations.
+ J. M. Corrigan, 
+A. Greiner, and S. M. Erickson, eds. Washington, D.C.: National Academy Press. 
+ŠŠŠ.  2002b. 
+The Future of the Public's Health in the 21st Century.
+ Washington, D.C.: National Academies 
+Press. ŠŠŠ.  2002c. 
+Leadership by Example: Coordinating Governmen
+t Roles in Improving Health Care Quality.
+ eds. J. 
+M. Corrigan, J. Eden, and B. M. Smith. 
+Washingon, D.C.: National Academy Press. 
+Johnston, B., L. Wheeler, J. Deuser, and K. H. Sousa. 
+ 2000.  Outcomes of the Kaiser Permanente Tele-Home 
+Health Research Project.  
+Arch Fam Med
+  9 (1):40-5. 
+Johnston, M. E., K. B. Langton, R. B. Haynes, and A. Mathie
+u.  1994.  Effects of Comput
+er-Based Clinical Decision 
+Support Systems on Clinician Performance and Patient
+ Outcome. A Critical Appraisal of Research.  
+Ann Intern 
+Med  120 (2):135-42. 
+Kaiser Family Foundation and Health Research and Educational Trust. 2002. "2002 Employer Health Benefits 
+Survey." Online. Available at 
+http://www.kff.org/content/2002/20020905a/ 
+[accessed Sept. 13, 2002]. 
+Kim, M. I., and K. B. Johnson.  2002.  Personal H
+ealth Records: Evaluation of Functionality and Utility.  
+J Am Med 
+Inform Assoc
+  9 (2):171-80. 
+Kok, M. R., and M. E. Boon.  1996.  Consequences of Neural Network Technology for Cervical Screening: Increase 
+in Diagnostic Consistency and Positive Scores.  
+Cancer
+  78 (1):112-7. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 23 
+ Kolodner, R. M. and J. V. Douglas, eds.  1997. 
+Computerized Large Integrated Health Networks:  The VA Success.
+ New York, NY: Springer-Verlag. 
+Krishna, S., E. A. Balas, D. C. Spencer, J. Z. Griffin, 
+and S. A. Boren.  1997.  Clinical Trials of Interactive 
+Computerized Patient Education: Im
+plications for Family Practice.  
+J Fam Pract
+  45 (1):25-33. 
+Kuebler, K. K., and E. Bruera.  2000.  Interactive 
+Collaborative Consultation Model in End-of-Life Care.  
+J Pain 
+Symptom Manage
+  20 (3):202-9. 
+Kuperman, G. J., and R. F. Gibson.  2003.  Computer Physician Order Entry: Benefits, Costs, and Issues.  
+Ann 
+Intern Med
+  139 (1):31-9 . 
+Kuperman, G. J., J. M. Teich, T. K. Gandhi, and D. W. Bates.  2001.  Patient Safety and Computerized Medication 
+Ordering at Brigham and Women's Hospital.  
+Jt Comm J Qual Improv
+  27 (10):509-21. 
+Kuperman, G. J., J. M. Teich, M. J. Tanasijevic, N. Ma'L
+uf, E. Rittenberg, A. Jha, J. Fiskio, J. Winkelman, and D. 
+W. Bates.  1999.  Improving Response to Critical Laboratory Results With Automation: Results of a 
+Randomized Controlled Trial.  
+J Am Med Inform Assoc
+  6 (6):512-22. 
+Leatherman, S. and D. McCarthy.  2002. 
+Quality of Health Care in the United States: A Chartbook.
+ New York, NY: 
+The Commonwealth Fund. 
+Lee, M. L., and H. R. Warner.  1992.  Performance of a Di
+agnostic System (Iliad) As  Tool for Quality Assurance.  
+Comput Biomed Res
+  25 (4):314-23. 
+Lepage, E. F., R. M. Gardner, R. M. Laub, and O. K. Golubjatnikov.  1992.  Improving Blood Transfusion Practice: 
+Role of a Computerized Hospital Information System.  
+Transfusion (Paris)
+  32 (3):253-9. 
+Liederman, E. M., and C. S. Morefield.  2003.  Web Messaging: a New Tool for Patient-Physician Communication.  
+J Am Med Inform Assoc
+  10 (3):260-70. 
+Markle Foundation. 2003a . "Connecting for Health - A Pu
+blic-Private Collaboration:  The Personal Health Working 
+Group, Executive Summary.
+" Online. Available at 
+http://www.connectingfor
+health.org/resources/PHWG_Report
+.pdf [accessed Ju
+ly 16, 2003a]. ŠŠŠ. 2003b. "Connecting for Health Unites Over 100 Organizations To 
+Bring American Hea
+lthcare System into 
+Information Age." Online. Availabl
+e at http://www.markle.org/news/_ne
+ws_pressrelease_060503.stm [accessed 
+July 10, 2003b]. 
+McDonald, C. J.  1976.  Protocol-Based Computer Remi
+nders, the Quality of Care and the Non-Perfectability of 
+Man.  
+N Engl J Med
+  295 (24):1351-5. 
+McGlynn, E. A., S. M. Asch, J. Adams, 
+J. Keesey, J. Hicks, A. DeCristofaro, an
+d E. A. Kerr.  2003.  The Quality of 
+Health Care Delivered to Adults in the United States.  
+N Engl J Med
+  348 (26):2635-45. 
+McKnight, L., P. D. Stetson, S. Bakken, C. Curran, an
+d J. J. Cimino.  2001.  Perceived Information Needs and 
+Communication Difficulties of Inpatient Physicians and Nurses.  
+Proc AMIA Symp
+  :453-7. 
+Mekhjian, H. S., R. R. Kumar, L. Kuehn, T. D. Bentley, 
+P. Teater, A. Thomas, B. Payn
+e, and A. Ahmad.  2002.  
+Immediate Benefits Realized Following Implementation 
+of Physician Order Entry at an Academic Medical 
+Center.  
+J Am Med Inform Assoc
+  9 (5):529-39. 
+Morris, A. H.  2003.  Treatment Algorithms and Protocolized Care.  
+Curr Opin Crit Care
+  9 (3):236-40. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.24 Electronic Health Record Functional Model:  Letter Report 
+ National Committee on Vital and Health Statistics. 2001
+. "Information for Health: A Strategy for Building the 
+National Health Information Infrastructure." Online. Av
+ailable at http://ncvhs.hhs.gov/nhiilayo.pdf [accessed 
+Apr. 18, 2002]. 
+National Health Care Purchasing Institute. 2003. "Profile
+s of Organizations Using Quality Incentives." Online. 
+Available at http://nhcpi.net/prof
+iles.cfm [accessed Ju
+ly 10, 2003]. 
+National Research Council.  2000. 
+Networking Health:  Prescriptions for the Internet.
+ Washington, D.C.: National 
+Academy Press. 
+New England Healthcare EDI Network. 
+2002. "NEHEN About Us." Online. 
+Available at http://www.nehen.net/ 
+[accessed July 10, 2003]. 
+Ohno-Machado, L., S. J. Wang, P. Mar, and A. A. Boxwala.
+  1999.  Decision Support for Clinical Trial Eligibility 
+Determination in Breast Cancer.  
+Proc AMIA Symp
+  :340-4. 
+Ornstein, C. Jan. 22, 2003.  California; Hospital Needs Doct
+ors, Suspends Use of Software; Cedars-Sinai Physicians 
+Entered Prescriptions and Other Orders In It, But Called It Unsafe. 
+Los Angeles Times.
+  Sect. B-1 
+Overhage, J. M.  2003.  Enhancing Public Health, Health 
+Care System, and Clinician Preparedness:  Strategies to 
+Promote Coordination and Communication--The Indiana Network for Patient Care [PowerPoint Presentation].  
+Overhage, J. M., B. Middleton, R. A. 
+Miller, R. D. Zielstorff, and Hersh W.
+ R.  2002.  Does National Regulatory 
+Mandate of Provider Order Entry Portend Greater Benefit Than Risk for Health Care Delivery?  The 2001 
+ACMI Debate.  
+J Am Med Inform Assoc
+  9 (3):199-208. 
+Overhage, J. M., S. Perk
+ins, and C. J. McDonald.  In press.  The Im
+pact of Direct Physician Time Utilization on a 
+University Affiliated, Ambulatory Primary Care Internal Medicine Practice.  
+J Am Med Inform Assoc
+   Overhage, J. M., J. Suico, and C. J. McDonald.  2001. 
+ Electronic Laboratory Reporting: Barriers, Solutions and 
+Findings.  
+J Public Health Manag Pract
+  7 (6):60-6. 
+Pacht, E. R., J. W. Turner, M. Gailiun, L. A. Violi, D. Ralston, H. S. Mekhjian, and R. C. St John.  1998.  
+Effectiveness of Telemedicine in the Outpatient Pulmonary Clinic.  
+Telemed J
+  4 (4):287-92. 
+Papaconstantinou, C., G. Theocharous, and S. Mahadevan.  1998.  An Expert System for Assigning Patients into 
+Clinical Trials Based on Bayesian Networks.  
+J Med Syst
+  22 (3):189-202. 
+Partnership for Solutions, Johns Hopkins University, Prepared for The Robert Wood Johnson Foundation.  2002. 
+Chronic Conditions: Making the Case for Ongoing Care.
+ Baltimore, MD: Johns Hopkins University. 
+Patient Safety Institute. 2002. "Patient Safety Institute
+:  Presentation to the Fifth National HIPAA Summit--Beyond 
+HIPAA:  Clinical Data Standards 
+and the Creation of an Interconnect
+ed Electronic Health Information 
+Infrastructure." Online. Available at
+ http://www.ehcca.com/presentations
+/HIPAA5/walker.pdf [accessed July 
+10, 2003]. 
+Pavlin, J. A.  2003.  Investigation of Disease Outb
+reaks Detected by "Syndromic" Surveillance Systems.  
+J Urban 
+Health
+  80 (Suppl 1):I107-14. 
+Petersen, L. A., T. A. Brennan, A. C. O'Neil, E. F. Cook, 
+and T. H. Lee.  1994.  Does Housestaff Discontinuity of 
+Care Increase the Risk for 
+Preventable Adverse Events?  
+Ann Intern Med
+  121 (11):866-72. 
+Petrick, N., B. Sahiner, H. P. Chan, M. A. Helvie, S.
+ Paquerault, and L. M. Hadjiiski.  2002.  Breast Cancer 
+Detection: Evaluation of a Mass-Detection Algorithm for Computer-Aided Diagnosis -- Experience in 263 
+
+Patients.  
+Radiology
+  224 (1):217-24. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 25 
+ Rogers, M. A., D. Small, D. A. Buchan, C. A. Butch, C. M. Stewart, B. E. Krenzer, and H. L. Husovsky.  2001.  
+Home Monitoring Service Improves Mean Arterial Pr
+essure in Patients With Essential Hypertension. A 
+Randomized, Controlled Trial.  
+Ann Intern Med
+  134 (11):1024-32. 
+Rollman, B. L., B. H. Hanusa, H. J. Lowe, T. Gilbert, W. N. Kapoor, and H. C. Schulberg.  2002.  A Randomized 
+Trial Using Computerized Decision Support to Improve 
+Treatment of Major Depression in Primary Care.  
+J Gen Intern Med
+  17 (7):493-503. 
+Rosenfeld, B. A., T. Dorman, M. J. Breslow, P. Pronovost, M. Jenckes, N. Zhang, G. Anderson, and H. Rubin.  
+2000.  Intensive Care Unit Telemedicine: Alternate Pa
+radigm for Providing Continuous Intensivist Care.  
+Crit Care Med
+  28 (12):3925-31. 
+Sanders, D. L., and R. A. Miller.  
+2001.  The Effects on Clinician Ordering Patterns of a Computerized Decision 
+Support System for Neuroradiology Imaging Studies.  
+Proc AMIA Symp
+  :583-7. 
+Schiff, G. D., D. Klass, J. Peterson, G. Shah, and D.
+ W. Bates.  2003.  Linking Laboratory and Pharmacy: 
+Opportunities for Reducing Errors and Improving Care.  
+Arch Intern Med
+  163 (8):893-900. 
+Schiff, G. D., and T. D. Rucker.  1998.  Computerized Pr
+escribing: Building the Electronic Infrastructure for Better 
+Medication Usage.  
+JAMA   279 (13):1024-9. 
+Schmidt, I. K., and B. L. Svarstad.  2002.  Nurse-Ph
+ysician Communication and Quality
+ of Drug Use in Swedish 
+Nursing Homes.  
+Soc Sci Med
+  54 (12):1767-77. 
+Schuster, D. M., S. E. Hall, C. B. Couse, D. S. Swayng
+im, and K. Y. Kohatsu.  2003.  Involving Users in the 
+Implementation of an Imaging Order Entry System.  
+J Am Med Inform Assoc
+   
+Shafazand, S., H. Shigemitsu, and A. 
+B. Weinacker.  2000.  A Brave New Wo
+rld: Remote Intensive Care Unit for 
+the 21st Century.  
+Crit Care Med
+  28 (12):3945-6. 
+Shea, S., W. DuMouchel, and L. Bahamonde.  1996.  A Meta-Analysis of 16 Randomized Controlled Trials to 
+Evaluate Computer- Based Clinical
+ Reminder Systems for Preventive Care in the Ambulatory Setting.  
+J Am Med Inform Assoc
+  3 (6): 399-409. 
+Shea, S., J. Starren, R. S. Weinstock, P. E. Knudson, J. 
+Teresi, D. Holmes, W. Palmas, L. Field, R. Goland, C. Tuck, 
+G. Hripcsak, L. Capps, and D. Liss.  2002.  Columbia
+ University's Informatics 
+for Diabetes Education and 
+Telemedicine (IDEATel) Project: Rationale and Design.  
+J Am Med Inform Assoc
+  9 (1):49-62. 
+Sittig, D. F., and W. W. Stead.  1994.  Computer-Bas
+ed Physician Order Entry: the State of the Art.  
+J Am Med 
+Inform Assoc
+  1 (2):108-23. 
+Stair, T. O.  1998.  Reduction of 
+Redundant Laboratory Orders by Access 
+to Computerized Patient Records.  
+J Emerg Med
+  16 (6):895-7. 
+Starmer, J. M., D. A. Talbert, and 
+R. A. Miller.  2000.  Experience Us
+ing a Programmable Rules Engine to 
+Implement a Complex Medical Protocol During Order Entry.  
+Proc AMIA Symp
+  :829-32. 
+Tang, P. C.  2002.  AMIA Advocates Na
+tional Health Information System in Fi
+ght Against National Health Threats.  
+J Am Med Inform Assoc
+  9 (2):123-4. 
+Tang, P. C., D. Fafchamps, and E. H. 
+Shortliffe.  1994.  Traditional Medical Records As a Source of Clinical Data in 
+the Outpatient Setting.  
+Proc Annu Symp Comput Appl Med Care
+  :575-9. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.26 Electronic Health Record Functional Model:  Letter Report 
+ Tang, P. C., M. P. LaRosa, and S. M. Gorden.  1999a.  Use of Computer-Based Records, Completeness of 
+Documentation, and Appropriateness of
+ Documented Clini
+cal Decisions.  
+J Am Med Inform Assoc
+  6 (3):245-
+51. 
+Tang, P. C., M. P. LaRosa, C. Newcomb, and S. M. Gorden.  1999b.   Measuring the Effects of Reminders for 
+Outpatient Influenza Immunizations at the Point of Clinical Opportunity.  
+J Am Med Inform Assoc
+  6 (2):115-
+21. 
+Teich, J. M., J. F. Hurley, R. F. Beckley, and M. Aranow
+.  1992.  Design of an Easy-to-Use Physician Order Entry 
+System With Support for Nursing and Ancillary Departments.  
+Proc Annu Symp Comput Appl Med Care
+  :99-103. 
+Teich, J. M., P. R. Merchia, J. L. Schmiz, G. J. Kuperman, C. D. Spurr, and D. W. Bates.  2000.  Effects of 
+Computerized Physician Order En
+try on Prescribing Practices.  
+Arch Intern Med
+  160 (18):2741-7. 
+Teich, J. M., M. M. Wagner, C. F. Mackenzie, and K. O.
+ Schafer.  2002.  The Inform
+atics Response in Disaster, Terrorism, and War.  
+J Am Med Inform Assoc
+  9 (2):97-104. 
+Tierney, W. M., C. J. McDonald, D. K. Martin, and M. 
+P. Rogers.  1987.  Computerized Display of Past Test 
+Results. Effect on Outpatient Testing.  
+Ann Intern Med
+  107 (4):569-74. 
+Tierney, W. M., M. E. Miller, J. M. Overhage, and C. 
+J. McDonald.  1993.  Physician Inpatient Order Writing on 
+Microcomputer Workstations. Eff
+ects on Resource Utilization.  
+JAMA
+  269 ( 3):379-83. 
+Tsui, F. C., J. U. Espino, V. M. Dato, 
+P. H. Gesteland, J. Hutman, and M. M.
+ Wagner.  2003.  Technical Description 
+of RODS: A Real-Time Public Health Surveillance System.  
+J Am Med Inform Assoc
+  [Epub ahead of print] 
+U.S. Census Bureau. 2002 . "Health Insuran
+ce Coverage:  2001." Online. Available at 
+http://www.census.gov/prod/
+2002pubs/p60-220.pdf [accessed Sept. 30, 2002]. U.S. Department of Health and Human Services, Centers for Disease Control and Prevention.  2002. 
+The Burden of 
+Chronic Diseases and Their Risk Fact
+ors: National and State Perspectives.
+ Atlanta, GA: Centers for Disease 
+Control and Prevention. 
+Wagner, E. H.  2000.  The Role of Patient Care Teams in Chronic Disease Management.  
+BMJ   320 (7234):569-72. 
+Wagner, E. H., B. T. Austin, and M. Von Korff.  1996. 
+ Organizing Care for Patients With Chronic Illness.  
+Milbank 
+Q  74 (4):511-44. 
+Wagner, M. M., F. C. Tsui, J. U. Espino, V. M. Dato, D. F.
+ Sittig, R. A. Caruana, L. F. McGinnis, D. W. Deerfield, 
+M. J. Druzdzel, and D. B. Fridsma.
+  2001.  The Emerging Science of
+ Very Early Detection of Disease 
+Outbreaks.  
+J Public Health Manag Pract
+  7 (6):51-9. 
+Wang, S. J., B. H. Blumenfeld, S. E. Roche, J. A. Grei
+m, K. E. Burk, T. K. Gandhi, D. W. Bates, and G. J. 
+Kuperman.  2002.  End of Visit: Design Consider
+ations for an Ambulatory Order Entry Module.  
+Proc AMIA 
+Symp
+  :864-8. 
+Wanlass, R. L., S. L. Re
+utter, and A. E. Kline. 
+ 1992.  Communication Among Rehabilitation Staff: "Mild," 
+"Moderate," or "Severe" Deficits?  
+Arch Phys Med Rehabil
+   73 (5):477-81. 
+Weingarten, S. R., J. M. Henning, E. Badamgarav, K. Knight, V. Hasselblad, A. Gano Jr, and J. J. Ofman.  2002.  
+Interventions Used in Disease Management Programmes
+ for Patients With Chronic 
+Illness-Which Ones Work? 
+Meta-Analysis of Published Reports.  
+BMJ  325 (7370):925. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report 27 
+ Whitlock, W. L., A. Brown, K. 
+Moore, H. Pavliscsak, A. Dingbaum, D. Lacefie
+ld, K. Buker, and S. Xenakis.   2000.  
+Telemedicine Improved Diabetic Management.  
+Mil Med  165 (8 ):579-84. 
+Woods, L.  2001.  What Works: Scheduling. Picture Perfect Solution. The Right Technology and an ASP Solution 
+Bring Scheduling Efficiency and Added Revenue to a Community Hospital's Radiology Department.  
+Health 
+Manag Technol
+   22 (8):48-50. 
+Worth, E. R., and T. B. Patrick.  1997.  Do Electronic Mail Discussion Lists Act As Virtual Colleagues?  
+ Proc 
+AMIA Annu Fall Symp
+  :325-9. 
+Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.28 Electronic Health Record Functional Model:  Letter Report 
+ Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Electronic Health Record Functional Model:  Letter Report
+  29
+  Appendix A Committee and Staff COMMITTEE ON DATA STANDARDS FOR PATIENT SAFETY  PAUL C. TANG 
+(Chair), Chief Medical Information Offi
+cer, Palo Alto Medical Foundation MOLLY JOEL COYE 
+(Vice Chair), Chief Executive Officer, H
+ealth Technology Center SUZANNE BAKKEN, Alumni Professor of Nursing and Professor of Biomedical 
+Informatics, Columbia University 
+E. ANDREW BALAS, 
+Dean, School of Public Health, Saint Louis University DAVID W. BATES, 
+Chief, Division of General Medicine, Brigham and Women™s Hospital 
+JOHN R. CLARKE, Professor of Surgery, Drexel University 
+DAVID C. CLASSEN, 
+Associate Professor of Medicine, Vice
+ President, University of Utah, 
+First Consulting Group SIMON P. COHN, National Director of Health Information Policy, Kaiser Permanente 
+CAROL CRONIN, Consultant JONATHAN S. EINBINDER, 
+Assistant Professor, Harvard 
+Medical School and Corporate Manager, Partners Health Care Information Systems 
+LARRY D. GRANDIA, 
+Chief Technology Officer, Executive Vice President, Premier, Inc. 
+W. ED HAMMOND, Professor, Division of Medical Informatics, Duke University 
+BRENT C. JAMES, 
+Executive Director, Intermountain Health Care Institute for Health Care Delivery Research, and Vice President for Medical Research, Intermountain Health Care KEVIN JOHNSON, Associate Professor and Vice Chair, Department of Biomedical 
+Informatics and Associate Professor, Depart
+ment of Pediatrics, Vanderbilt University 
+JILL ROSENTHAL, 
+Program Manager, National Acad
+emy for State Health Policy TJERK W. van der SCHAAF, Associate Professor of Human Factors in Risk Control, Eindhoven University of Technology, Eindhoven Safety Management Group, Department of 
+Technology Management 
+Special Consultant J. MARC OVERHAGE, Associate Professor of Medicine and Investigator, Regenstrief Institute for Health Care, Indiana 
+University School of Medicine  Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.30 Electronic Health Record Functional Model:  Letter Report 
+ Study Staff JANET M. CORRIGAN
+, Director, Board on Health Care Services PHILIP ASPDEN, Study Director JULIE WOLCOTT, 
+Program Officer 
+SHARI ERICKSON, Research Associate REBECCA LOEFFLER, 
+Senior Project Assistant ANTHONY BURTON, Administrative Assistant 
+ 
+The committee wishes to thank the co-chair
+s of the Health Level Seven (HL7) Special Interest Group (SIG), 
+Linda Fischetti (U.S. Department of Veterans Affairs), 
+Gary L. 
+Dickinson
+ (Misys Healthcare), and Sam Herd (Ocean Informatics, Australia),
+ for the briefing and background materials they provided to 
+the committee at its J
+une 2003 meeting.  The 
+committee would also like to thank 
+Gary Christopherson 
+of the U.S. Department of Veterans 
+Affairs, William C. Rollow 
+of the Centers for Medicare 
+and Medicaid Services, and Scott Young of the Agency for Healthcare Research and Quality for their helpful contributions to the 
+report.  Key Capabilities of an Electronic Health Record System: Letter ReportCopyright National Academy of Sciences. All rights reserved.Reviewers  31 
+  Appendix B Reviewers 
+This report has been reviewed in draft form by individuals chosen for their diverse 
+perspectives and technical expertise, in accord
+ance with procedures approved by the NRC's 
+Report Review Committee.  The purpose of this i
+ndependent review is to provide candid and critical comments that w
+ill assist the institution
+ in making its
+ published report as sound as possible and to ensure that the report meets in
+stitutional standards for objectivity, evidence, and 
+responsiveness to the study charge. The review comments and draft manuscript remain 
+confidential to protect the integrity of the deliber
+ative process.  We wish to thank the following 
+individuals for their review of this report: 
+ 
+REED M. GARDNER
+, Professor, Medical Informa
+tics, University of Utah 
+BLACKFORD MIDDLETON, Director of Clinical Informatics Research and 
+Development, Partners Healthcare Syst
+em, Inc., Brigham and Women™s Hospital 
+DAVID N. MOHR
+, Professor of Medicine, Area Medicine, Mayo Clinic JUDITH J. WARREN, Associate Professor, School of 
+Nursing, University of Kansas  
+Although the reviewers listed above have provided many constructive comments and 
+suggestions, they did not see the final draft of the report before its release.  The review of this 
+report was overseen by Don E. Detmer, 
+Dennis Gillings Professor of Health Management, The 
+Judge Institute of Management Studies, Univer
+sity of Cambridge, and Professor Emeritus, 
+Professor of Medical Education, University of Virginia, appointed by the National Research Council and Institute of Medicine, he was responsible for making certain that an independent 
+examination of this report was carried out in acco
+rdance with institutional procedures and that all review comments were carefully considered.  Res
+ponsibility for the final content of this report rests entirely with the authoring committee and the institution.   

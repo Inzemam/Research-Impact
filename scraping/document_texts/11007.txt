@@ -1,0 +1,3281 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/11007Summary of a Forum on Spectrum Management Policy Reform57 pages | 8.5 x 11 | PAPERBACKISBN 978-0-309-09243-2 | DOI 10.17226/11007Committee on Wireless Technology Prospects and Policy Options; Computer Scienceand Telecommunications Board; National Research CouncilSummary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.Summary of a Forum on
+Spectrum Management
+Policy Reform
+Committee on Wireless Technology Prospects and Policy Options
+Computer Science and Telecommunications Board
+THE NATIONAL ACADEMIES PRESS
+Washington, D.C.
+wwwwwwwwwwwwwww.nap.edu.nap.edu.nap.edu.nap.edu.nap.eduSummary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS   500 Fift
+h Street, N.W.   Wa
+shington, DC 20001 
+ NOTICE: The project that is the subject of this report was approved by the Governing Board of the 
+National Research Council, whose members are drawn from the councils of the National Academy of 
+
+Sciences, the National Academy of Engineering, an
+d the Institute of Medicine. The members of the 
+committee responsible for the report were chosen for their special competences and with regard for 
+
+appropriate balance. 
+
+ Support for this project was provided by the Department of Commerce, National Telecommunications and 
+Information Administration, under Contract No. DG133504CN0054.  Any opinions, findings, conclusions, 
+
+or recommendations expressed in this publication are th
+ose of the authors and do not necessarily reflect the 
+views of the organization that provided support for the project. 
+
+ International Standard Book Number 0-309-09243-4 (Book) 
+International Standard Book Number 0-309-53290-6 (PDF) 
+
+ Cover designed by Jennifer M. Bishop. 
+ 
+Copies of this report are available from the Nati
+onal Academies Press, 500 Fifth Street, N.W., Lockbox 
+285, Washington, D.C. 20055; (800) 624-6242 or (
+202) 334-3313 in the Washington metropolitan area.  
+Internet, <http://www.nap.edu>. 
+
+ Copyright 2004 by the National Academy of Sciences. All rights reserved. 
+ 
+Printed in the United States of America 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.   The National Academy of Sciences
+ is a private, nonprofit, self-perpetuating society of 
+distinguished scholars engaged in scientific and engineering research, dedicated to the furtherance 
+of science and technology and to their use for th
+e general welfare.  Upon the authority of the 
+charter granted to it by the Congress in 1863, 
+the Academy has a mandate that requires it to 
+advise the federal government on scientific and technical matters.  Dr. Bruce M. Alberts is 
+president of the National Academy of Sciences. 
+The National Academy of Engineering was established in 1964, under the charter of the 
+National Academy of Sciences, as a parallel orga
+nization of outstanding engineers.  It is 
+autonomous in its administration and in the selec
+tion of its members, sharing with the National 
+Academy of Sciences the responsibility for a
+dvising the federal government.  The National 
+Academy of Engineering also sponsors engineer
+ing programs aimed at meeting national needs, 
+encourages education and research, and recognizes th
+e superior achievements of engineers.  Dr. 
+Wm. A. Wulf is president of the National Academy of Engineering. 
+The Institute of Medicine
+ was established in 1970 by the National Academy of Sciences to 
+secure the services of eminent members of appropriate professions in the examination of policy 
+matters pertaining to the health of the public.  
+The Institute acts under the responsibility given to 
+the National Academy of Sciences by its congressiona
+l charter to be an adviser to the federal government and, upon its own initiative, to id
+entify issues of medical care, research, and 
+education.  Dr. Harvey V. Fineberg is 
+president of the Institute of Medicine. 
+The National Research Council
+ was organized by the National Academy of Sciences in 1916 to 
+associate the broad community of science and technology with the Academy™s purposes of 
+
+furthering knowledge and advising the federal 
+government.  Functioning in accordance with general policies determined by the Academy, 
+the Council has become the principal operating 
+agency of both the National Academy of Scien
+ces and the National Academy of Engineering in 
+providing services to the government, the public, and the scientific and engineering communities.  
+The Council is administered jointly by both Academies and the Institute of Medicine.  Dr. Bruce 
+
+M. Alberts and Dr. Wm. A. Wulf are chair and vice chair, respectively, of the National Research 
+Council.  www.national-academies.org
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  ivCOMMITTEE ON WIRELESS TECHNOLOGY PROSPECTS AND POLICY OPTIONS 
+ DAVID E. LIDDLE, U.S. Venture Partners, 
+Chair YOCHAI BENKLER, Yale Law School DAVID BORTH, Motorola Labs 
+
+ROBERT W. BRODERSEN, University of California at Berkeley 
+
+DAVID D. CLARK, Massachusetts Institute of Technology 
+THOMAS E. DARCIE, University of Victoria, British Columbia 
+ANDREA GOLDSMITH, Stanford University 
+
+DALE N. HATFIELD, University of Colorado at Boulder 
+
+MICHAEL KATZ, University of California at Berkeley 
+
+PAUL J. KOLODZY, Stevens Institute of Technology 
+LARRY LARSON, University of California at San Diego 
+DAVID P. REED, Massachusetts Institute of
+ Technology and Hewlett-Packard Labs 
+GREGORY L. ROSSTON, Stanford University 
+
+DAVID SKELLERN, Cisco Systems 
+
+ Staff  
+JON EISENBERG, Study Director and Senior Program Officer 
+JULIE ESANU, Program Officer 
+
+KRISTEN BATCH, Research Associate 
+
+MARGARET MARSH HUYNH, Senior Program Assistant 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  vCOMPUTER SCIENCE AND 
+TELECOMMUNICATIONS BOARD  DAVID D. CLARK, Massachusetts Institute of Technology, 
+Chair ERIC BENHAMOU, 3Com Corporation 
+ELAINE COHEN, University of Utah 
+
+THOMAS E. DARCIE, University of Victoria, British Columbia 
+
+MARK E. DEAN, IBM Research 
+
+JOSEPH FARRELL, University of California at Berkeley 
+JOAN FEIGENBAUM, Yale University 
+HECTOR GARCIA-MOLINA, Stanford University 
+
+RANDY H. KATZ, University of California at Berkeley 
+
+WENDY A. KELLOGG, IBM T.J. Watson Research Center 
+
+SARA KIESLER, Carnegie Mellon University 
+BUTLER W. LAMPSON, Microsoft Corporation, CSTB member emeritus 
+DAVID LIDDLE, U.S. Venture Partners 
+
+TERESA H. MENG, Stanford University 
+
+TOM M. MITCHELL, Carnegie Mellon University 
+
+DANIEL PIKE, GCI Cable and Entertainment 
+
+ERIC SCHMIDT, Google Inc. FRED B. SCHNEIDER, Cornell University 
+BURTON SMITH, Cray Inc. 
+
+WILLIAM STEAD, Vanderbilt University 
+
+ANDREW J. VITERBI, Viterbi Group, LLC 
+
+JEANNETTE M. WING, Carnegie Mellon University 
+  
+CHARLES BROWNSTEIN, Director 
+KRISTEN BATCH, Research Associate 
+
+JENNIFER M. BISHOP, Program Associate 
+JANET BRISCOE, Administrative Officer 
+JON EISENBERG, Senior Program Officer 
+
+RENEE HAWKINS, Financial Associate 
+
+PHIL HILLIARD, Research Associate 
+
+MARGARET MARSH HUYNH, Senior Program Assistant 
+ALAN S. INOUYE, Senior Program Officer 
+HERBERT S. LIN, Senior Scientist 
+
+LYNETTE I. MILLETT, Program Officer 
+
+DAVID PADGHAM, Research Associate 
+
+CYNTHIA A. PATTERSON, Program Officer 
+JANICE SABUDA, Senior Program Assistant 
+BRANDYE WILLIAMS, Staff Assistant 
+
+STEVEN WOO, Dissemination Officer 
+
+ 
+For more information on CSTB, see its Web site
+ at <http://www.cstb.org>, write to CSTB,  The National Academies, 500 Fifth Street, N.W., Washington, DC 20001, call at 202-334-2605, 
+or e-mail CSTB at cstb@nas.edu.
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  vii  Preface   
+   
+ 
+ 
+   
+ 
+ Pursuant to a May 29, 2003, executive 
+memorandum, which established a Federal 
+Government Spectrum Task Force and an asso
+ciated public outreach program, the National 
+Telecommunications and Information Administratio
+n convened a series of public forums to bring 
+together a variety of stakeholders to present 
+their views on spectrum management policy.  The 
+Computer Science and Telecommunications Boar
+d (CSTB) of the National Research Council was 
+asked to convene one of these forums.  
+CSTB organized a public forum on February 12-13, 2004, at which a variety of 
+government and private sector stakeholders were
+ asked to present their views on spectrum policy 
+(the agenda appears in Appendix A).  The foru
+m was organized and this summary report was 
+prepared under the auspices of CSTB™s Comm
+ittee on Wireless Technology Prospects and Policy 
+Options, which is currently also carrying out a 
+comprehensive assessment of wireless technology 
+and application trends and their implicati
+ons for spectrum management and policy.  
+Speakers at the forum were given roughly 
+10 minutes to provide their views on issues 
+identified in the executive memorandum (Box P-1). 
+  A brief period was provided at the end of 
+each session for discussion among panelists and for 
+questions from the organizing committee and 
+attendees.  Many speakers prepared slides for 
+use in their presentations; copies of most are 
+available from CSTB™s Web site, <www.cstb.org>. 
+This report  provides the committee™s summary of a number of the remarks made by 
+panelists.  Although the summary was prep
+ared by the National Academies based on 
+presentations and discussion at the forum, the comm
+ents do not necessarily reflect the view of the 
+committee, nor are they findings or recommendations of the National Academies.   The 
+
+committee™s broader consideration of spectrum 
+policy and its findings and recommendations will 
+appear in its final report, to be released in early 2005. 
+The committee would like to thank all the par
+ticipants in the forum for their thoughtful 
+presentations.  It would also like to thank th
+e National Telecommunications and Information 
+Administration (NTIA) for sponsoring the event,
+ and it extends special thanks to Norbert 
+Schroeder at NTIA for all his help in making the forum possible. 
+
+ David E. Liddle, 
+Chair Committee on Wireless Technology 
+
+Prospects and Policy Options 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  viii  BOX P-1  Mission and Goals of the Department of Commerce™s Spectrum Policy 
+Initiative Sec. 2. Mission and Goals. The Initiative shall undertake a comprehensive review of 
+spectrum management policies (including any re
+levant recommendations and findings of the 
+study conducted pursuant to section 214 of the E-Government Act of 2002) with the objective 
+of identifying recommendations for revising policies and procedures to promote more 
+efficient and beneficial use of spectrum wit
+hout harmful interference to critical incumbent 
+users. The Department of Commerce shall prepare legislative and other recommendations to: 
+ (a) facilitate a modernized and im
+proved spectrum management system; 
+ (b) facilitate policy changes to create incentiv
+es for more efficient and beneficial use of spectrum and to provide a higher degree of pr
+edictability and certainty in the spectrum 
+management process as it applies to incumbent users; 
+ (c) develop policy tools to streamline the 
+deployment of new and expanded services and 
+technologies, while preserving national security
+, homeland security, and public safety and 
+encouraging scientific research; and 
+ (d) develop means to address the critical spectrum needs of national security, homeland 
+security, public safety, the federal transportation infrastructure, and science. 
+ ___________________________ 
+SOURCE:  Executive Office of 
+the President (EOP), 2003, 
+Executive Memorandum: Spectrum Policy 
+for the 21st Century
+, Washington, D.C., May 29, available online at 
+<http://spectrumreform.ntia.doc.gov/execmemo.htm>. 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  ix  Acknowledgment of Reviewers   
+   
+ 
+ 
+   
+ 
+ This report has been reviewed in draft form by individuals chosen for their diverse 
+perspectives and technical expertise, in accord
+ance with procedures approved by the National 
+Research Council™s Report Review Committee.  Th
+e purpose of this independent review is to 
+provide candid and critical comments that will assist
+ the institution in making its published report 
+as sound as possible and to ensure that the report meets institutional standards for objectivity, 
+
+evidence, and responsiveness to the study charge. The review comments and draft manuscript 
+remain confidential to protect the integrity of 
+the deliberative process. We wish to thank the 
+following individuals for their review of this report: 
+
+ 
+ Gerald R. Faulhaber, University of Pennsylvania, 
+
+ Kevin C. Kahn, Intel Corporation, 
+
+ Dipankar Raychaudhuri, Rutgers University, and 
+ Steven S. Wildman, Michigan State University. 
+ Although the reviewers listed above prov
+ided many constructive comments and 
+suggestions, they were not asked to endorse th
+e conclusions or recommendations, nor did they see 
+the final draft of the report before its release.  
+The review of this report was overseen by James J. 
+Mikulski, Motorola (retired).  Appointed by th
+e National Research Council, he was responsible 
+for making certain that an independent examina
+tion of this report was carried out in accordance 
+with institutional procedures and that all re
+view comments were carefully considered.  
+Responsibility for the final content of this repor
+t rests entirely with the authoring committee and 
+the institution.  Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  xi  Contents   
+   
+ 
+ 
+   
+ 
+ 
+1 SUMMARY OF REMARKS MADE BY FORUM PANELISTS 1 
+
+Federal Spectrum Users: Defense, Justice, Transportation, and Aviation, 1 
+Federal Spectrum Users: Scientific Uses, 2 
+State and Local Government Users, 4 
+
+Federal Spectrum Management Authorities, 5 
+
+Frequency Managers a
+nd Amateur Radio, 6 
+Consumer Advocacy Organizations, 8 
+Cellular Carriers, 8 
+Broadcasting Services, 9 
+Commercial and Government Se
+rvices and Applications, 10 
+Technology, Standards, and Commercial R&D, 11 
+
+Wi-Fi and Broadband Wireless Access Technologies, 12 
+Government and Academic Re
+search and Development, 13 
+   
+APPENDIXES 
+ A   Forum Agenda 17 
+B List of Slide Presentations 22 
+
+C   Biographies of Speakers 24 
+
+D Biographies of Committee and Staff Members 39 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.   Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.1 1  Summary of Remarks Made by Forum Panelists     
+     
+   FEDERAL SPECTRUM USERS: DEFENSE, JUSTICE, TRANSPORTATION, AND 
+AVIATION 
+In Session 1A, panelists from several federal agencies
+1 discussed spectrum management 
+from the perspective of the defense, homeland 
+security, justice, transportation, and aviation missions.  Speakers made a number of points emphasizing the special nature of federal spectrum 
+use, noting that 
+ Ł   Many federal spectrum applicationsŠsuch 
+as defense, safety-of-life operations for 
+commercial aviation, and law enforcement and 
+other public safety usesŠrequire very high 
+reliability and interoperability. 
+Ł   Some federal uses of spectrum are tied to nongovernmental users, which complicates 
+efforts to modernize wireless systems.   For ex
+ample, the Federal Aviation Administration (FAA) 
+cannot easily change some of its services becau
+se the costs of new equipment would fall on 
+airlines and pilots. Ł   Technology changes must often be carefully
+ coordinated to address interdependencies 
+among systems and to align spectrum use with bot
+h U.S. and international spectrum allocations. 
+Ł   New demands for spectrum continue to em
+erge in the federal government.  For 
+example, the Intelligent Vehicle Initiative, whic
+h is headed by the National Highway Traffic 
+Safety Administration and the Federal Highway 
+Administration and carried out in partnership 
+with the automobile industry, aims to create a wire
+less alert system to warn drivers of changing 
+road conditions.  Implementation of this and 
+other new transportation systems will depend, in 
+part, on the availability of spectrum. 
+ 
+Regarding the efficiency of federal spectr
+um use, the panelists noted the following: 
+ Ł   Federal spectrum allocation and assignment 
+processes provide greater flexibility than does the process of allocating and assigning nonfederal spectrum, which tends to be more service-  
+
+and use-specific.  This gives fe
+deral users greater freedom, for ex
+ample, to exploit technological 
+innovation and thus the potential for more efficient use. 
+                                                          
+ 1 Badri Younes, Department of Defense; David G. Boyd, Department of Homeland Security; 
+Merri Jo Gamble, Department of Justice; Tyler Duva
+ll, Department of Transportation; and Donald Willis, 
+Federal Aviation Administration.  Biographies for panelists are provided in Appendix C. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 2 Ł   Sharing of spectrum among federal users occu
+rs today.  For example, the FAA and 
+Department of Defense (DOD) share spectrum, as the FAA coordinates and authorizes DOD 
+electronic attack exercises and global positioning jamming activities. 
+Ł   The Integrated Wireless Network Initiative under development by the Departments of Justice, Treasury, and Homeland Security is a goo
+d example of a program that seeks to provide 
+interoperability and improve spectral efficien
+cy by building a national land-based, mobile, 
+encrypted radio network to serve the diverse needs of multiple agencies. 
+Ł   Spectrum sharing is central to the next generation of global positioning systems, for 
+which frequency allocations will support 
+both public- and private-sector use.  
+ Comments by panelists regarding possible 
+changes in spectrum management policy 
+included these: 
+
+ Ł   Changes to spectrum management policy sh
+ould balance potential economic benefits 
+against current and future needs of federal u
+sers.  Potential commercial benefits should be 
+weighed against the operational requirements for pr
+otecting health and safety.  A panelist also 
+argued that imposing spectrum fees on federal 
+spectrum use would probably not be a useful 
+mechanism for increasing efficiency.  It would, for 
+example, be difficult to determine the value of 
+spectrum required for safety-of-life missions. 
+Ł   A national strategic plan should be created 
+to collectively identify how the federal 
+government could make use of spectrum as efficiently as possible given its operational needs.  
+
+Based on input from individual agencies, the pl
+an should identify the mission requirements 
+driving spectrum needs and identify new technology 
+under consideration by the agencies. The list 
+of priorities based on federal uses, along with other public and commercial needs, should serve as 
+a basis for spectrum allocation decisions. 
+Ł  Automation of federal spectrum administrative processes, which would permit 
+spectrum use to be monitored and analyzed in
+ real time, would make spectrum management 
+easier and permit spectrum to be used more effectively and efficiently. 
+Ł   An integrated testbed should be developed to run trials 
+of new technologies.  This 
+would make it easier for government agenci
+es to explore and adopt new technologies and 
+determine future possibilities for spectrum sharing.  
+ FEDERAL SPECTRUM USERS: SCIENTIFIC USES 
+In Session 1B, panelists from the Nationa
+l Aeronautics and Space Administration 
+(NASA), the National Oceanographic and Atmospheric Administration (NOAA), and the 
+University of California at Berkeley
+2 discussed the characteristics of
+ several scientific uses of 
+federal spectrum and implications for spectrum 
+policy. Outlining the characteristics of several 
+scientific uses, the panelists observed that  Ł   Services supporting basic research, scien
+ce missions to outer space, and weather 
+forecasting require high reliability.  Both p
+assive measurements and communications with 
+spacecraft depend on the detection of very 
+weak signals and are highly susceptible to 
+interference.                                                           
+ 2 Scott Pace, National Aeronautics and Space Admi
+nistration; Richard Barth, National Oceanic 
+and Atmospheric Administration; Karen St. Germain, National Oceanic and Atmospheric Administration; 
+and Don Backer, University 
+of California at Berkeley. 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF REMARKS MADE BY FORUM PANELISTS 
+3Ł   Radio astronomy and the Earth Exploration 
+Satellite Service (EESS) are both passive 
+spectrum users.  Because they are passive observe
+rs, they depend on the reception of very weak 
+signals.  Each also has to operate in particular spectral bands dictated by physicsŠemission and 
+absorption in the atmosphere in the case of EESS 
+and emissions of elements, molecules, and 
+stellar objects in the case of radio astronomy.  
+ Ł   EESS data are important for weather forecasting, the development of meteorological 
+and climate models, and other scientific research
+.  EESS measures changes in the natural thermal 
+background and is thus very sensitive to interfe
+rence.  Observations are made globally by a 
+constellation of satellites, which means that spectru
+m has to be protected worldwide.  Because the signals of interest are very weak, the entire allo
+cated bandwidth is used to squeeze out the best 
+possible signal-to-noise ratio.   Ł   Radio astronomy data have been critical 
+to improving our understanding of the 
+universe.  The level of tolerable interferen
+ce for radio astronomy, which measures naturally 
+occurring radiation from outer space, is roughly 10 
+orders of magnitude below that of remote-
+sensing systems.  Operation depends on dedicated
+ spectrum allocations and geographic protection 
+in the form of radio quiet zones and coordinated 
+operation zones in the vicinity of observatories.  
+Ł   Satellite-based sensors look down at Earth a
+nd thus look at potential interferers, as opposed to radio telescopes, which can look away from interferers. 
+Ł   Passive uses raise particular concerns about proposals made in the Federal 
+Communications Commission™s (FCC™s) 
+Spectrum Policy Task Force report.
+3   First, remote-
+sensing systems depend on detecting signals signi
+ficantly weaker than the existing noise floor 
+level tolerated by commercial systems, ra
+ising questions about how one would establish 
+permissible interference levels in remote-sen
+sing bands.  Second, passive users cannot be 
+detected for the purpose of dynamica
+lly controlling access to unused spectrum. 
+ Speakers noted several efforts to make
+ more efficient use of spectrum: 
+ Ł   New generations of satellite systems la
+unched by NOAA and NASA have increased 
+their bandwidth efficiency. These improve
+ments have been necessary because ongoing 
+improvements to space sensing equipment have increased the volume of data that must be 
+transferred from the satellites to ground stations. 
+Ł   The consolidation of separate polar weathe
+r satellite programs operated by NOAA and 
+DOD into a single system called the National Pola
+r-orbiting Operational Environmental Satellite 
+System (NPOESS) will improve the spectral effici
+ency of communications with the satellites in 
+the system. 
+ Panelists offered a number of comments a
+bout future spectrum policy, including 
+ Ł   Making frequency assignments based on good-neighbor policies that aim to place 
+compatible technologies in adjacent bands of
+ spectrum would be a useful approach. 
+Ł   The impact on current and future scientific spectrum uses of the cumulative noise floor 
+level increases that may result from po
+licy changes should be considered.  
+Ł   Different burdens of proof with respect to safety are, appropriately, applied to safety-
+critical services like communication with spacecraf
+t and to normal commercial services.  These 
+differing standards represent an obstacle to shared operation between these services. 
+                                                           
+ 3 Federal Communications Commission (FCC).  2002. 
+Spectrum Policy Task Force Report, 
+ET 
+Docket No. 02- 135.  FCC, Washington, D.C., November.  Available online at 
+<http://www.fcc.gov/sp
+tf/reports.html>. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 4 STATE AND LOCAL GOVERNMENT USERS 
+In Session 2, public safety professionals and state and local officials
+4 discussed public safety communication needs as they relate to current and emerging technologies and spectrum 
+availability.  Comments made by panelists include the following: 
+ Ł   The operational needs of public safety (i.e., 
+protection of life and property) cannot be 
+fully served by today™s commercial systems. 
+ One reason is coverage.  Public safety 
+communications requires ubiquitous coverage in
+ rural and wilderness areas that are not well-
+covered by commercial services.  In urban areas,
+ commercial systems do not always reach into 
+subway systems or interiors of buildings despite 
+the density of base stations.  Another reason is 
+that public safety communications must be able 
+to handle high-volume surges when and where an 
+emergency occurs, which implies system overprovisioning.  Finally, public safety systems must 
+
+robustly support one-to-many as well as one-to-one communications.     
+Ł   Emerging technologies, such as microsensor arrays, mobile robots, radio frequency 
+identification systems, and augmented reality tech
+nology to overlay visual and audio data onto 
+real-world views for first responders, represent significant opportunities for public safety.  
+Realizing this potential would require the building of new communications networks, would lead 
+to significantly greater demand for public safety 
+spectrum, and would heighten tensions between 
+public safety and commercial uses.    
+Ł   Interoperability is a major technical and orga
+nizational issue.  At a technical level it requires coordination and sharing of informa
+tion about frequency allocations and technology 
+standards.  At an organizational level, it re
+quires coordination between local first responders, local elected officials, and state and federal l
+eaders.  Current interoperability guidelines produced 
+by the Department of Homeland Security™s SAFECOM program and the National 
+Telecommunications and Information Administra
+tion (NTIA) have been important steps.  
+Ł   Local government budgets, which provide most of the funding for public safety 
+communications, are coming under increased pressure
+. Eighty-three percent of cities are less able 
+to fund operations today than one year ago, acco
+rding to a survey by the National League of 
+Cities.  Ł   Understanding the nature and limitation of cu
+rrent public safety systems is the biggest 
+challenge facing local elected officials seeking 
+to develop a plan and strategy to mitigate 
+problems.  
+Ł   Local elected officials have limited time and technical resources to engage in or stay 
+abreast of the numerous activities at the federal le
+vel examining public safety issues. However, it 
+is important for local elected officials as well 
+as public safety officials to be involved in these 
+activities. Ł   Public safety radios are expensive compar
+ed with commercial handsetsŠthey cost 
+about $3,000Šreflecting their specialized nature 
+and the comparatively sm
+all market. If the costs 
+of these radios are to be significantly reduced, greater economies of scale will be necessary.   
+Ł   Current attempts to provide enhanced ser
+vices include establishment of a statewide 
+network in New York and a partnership in W
+ashington, D.C., with Motorola and Flarion 
+Technologies that aims to build a broadband data network.   
+Ł   Using dedicated infrastructure rather than commercial services for public safety 
+services is costly and is one reason that public saf
+ety technology lags the state of the art.  Yet 
+                                                          
+ 4 Glen Nash, State of California Department of General Services; Capt. Thomas Cowper, New 
+York State Wireless Project; Marilyn Praisner, Montgomery County (Md.) Council; Nancy Jesuale,  
+NetCity Engineering; Robert LeGrande, Office of the 
+Chief Technology Officer, District of Columbia; and 
+Thera Bradshaw, City of Los Angeles. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF REMARKS MADE BY FORUM PANELISTS 
+5today™s commercial systems have not been designed to meet public safety requirements.  One 
+possible remedy is to move to nondedicated spectrumŠand possibly nondedicated 
+
+infrastructureŠwhile providing public safety user
+s with priority access.  Implementation would 
+require the incorporation of public safety requirements into the design of new systems and the 
+
+development of technologies supporting robust authen
+tication of public safety users and priority 
+access to shared networks.  Generally, more research
+ is needed on future directions for public safety communications. 
+Ł   Wide-area mobile data app
+lications will require more spectrum than planned new 
+allocationsŠ4.9 GHz for broadband hotspot a
+nd fixed communication and 24 MHz in the 700 
+MHz band, which may or may not become availa
+ble in 2006.  Use of the 4.9 GHz band is 
+complicated by FCC rules that currently prohibit use of the 802.11j technology currently being 
+
+developed for use in the Japanese market.  The 
+Spectrum Coalition for Public Safety advocates 
+the allocation of an additional 10 MHz in the upper 700 MHz band. 
+
+ FEDERAL SPECTRUM MANAGEMENT AUTHORITIES 
+In Session 3, panelists discussed current developments in spectrum policy.
+5   Panelists noted that several spectrum reform initiatives were under way: 
+
+ Ł   Considerable progress has been made recently in several areas.  For example, new 
+allocations have been made for ultrawideband, 5 GHz unlicensed, and 70 GHz, 80 GHz, and 90 
+GHz services, and new allocations are under consideration for third-generation (3G) wireless 
+services.  Since the implementation of spectrum 
+auctions, more than 25,000 licenses have been 
+made available and more than $14 billion in reve
+nue has been received by the U.S. Treasury.  
+More flexible services rules and rules encourag
+ing private spectrum transactions have provided 
+additional opportunities and incentives for efficient use. Ł   The administration™s spectrum policy 
+initiative, as outlined in the executive 
+memorandum, will recommend improvements to spectr
+um management policies and procedures.  
+One particularly useful outcome anticipated fro
+m the  presidential initiative would be a concise 
+summary of what spectrum users, regulators, a
+nd Congress should be doing to improve spectrum 
+policy over the next 5 to 10 years.  
+Ł   Areas under current FCC consideration include cognitive radios,
+6 receiver standards,
+7 interference temperature,
+8 standards for broadband over power lines,
+9 and the identification of 
+                                                          
+ 5 Michael Gallagher, National Telecommunications and Information Administration, Department 
+of Commerce; John Muleta, Wireless Telecommunications Branch, Federal Communications Commission;  
+Julius Knapp, Office of Engineering and Technology, Federal Communications Commission; Andrea 
+
+Petro, Office of Management and Budget; and David Siddall, Paul, Hastings, Janofsky & Walker LLP. 
+6 Federal Communications Commission. 2003. Notice of Proposed Rule-Making and Order. 
+Facilitating Opportunities for Flexible, Efficient, and Reliable Spectrum Use Employing Cognitive Radio 
+Technologies; Authorization and Use of Software De
+fined Radios. ET Docket No. 03-108, ET Docket No. 
+00-47 (terminated), FCC 03-322 (rel
+. December 30). Av
+ailable online at 
+<http://hraunfoss.fcc.gov/edocs_public
+/attachmatch/FCC-03-322A1.pdf>. 
+7 Federal Communications Commission. 2003. Notice of Inquiry. Interference Immunity 
+Performance Specifications for Radio Receivers, Review
+ of the Commission™s Rules and Policies Affecting 
+the Conversion to Digital Television. ET Docket No. 03-65, MM Docket No. 00-39, FCC 03-54 (rel. 
+
+March 24).  Available online at <http://hraunfoss.f
+cc.gov/edocs_public/attachmatch/FCC-03-54A6.pdf >. 
+8 Federal Communications Commission. 2003. Notice of Inquiry and Notice of Proposed 
+Rulemaking. Establishment of an Interference Temper
+ature Metric to Quantify and Manage Interference 
+and to Expand Available Unlicensed Operation in Ce
+rtain Fixed, Mobile and Satellite Frequency Bands. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 6 additional spectrum for advanced wireless service
+s.  More spectrum for unlicensed use is being 
+explored in the TV broadcast bands, in bands 
+below 900 MHz, and for the 50-MHz reallocation 
+from federal government use to a mixed-use basis at
+ 3.65 to 3.7 GHz.  NTIA is also developing 
+recommendations for the mixed-use band. 
+Ł   Current legislative proposals include th
+e following:  (1) establishing a spectrum 
+reallocation fund that would reimburse federal user
+s that give up spectrum as a way of increasing 
+overall spectral efficiency and encouraging more
+ effective allocation among public and private 
+sector users; (2) authorizing the FCC to char
+ge fees on unauctioned spectrum licenses; and  
+(3) extending the FCC™s auction authority, due to expire in 2007.  
+Panelists also raised a number of questio
+ns to be explored further in spectrum 
+management reform initiatives, including these: 
+ Ł   How many of the 90,000 frequency assignme
+nts require thorough review, and which 
+areas deserve the highest focus?  
+Ł   What resources are the agencies that have e
+quity in the spectrum applying to achieve 
+the goals of their mission for a sound spectrum policy? 
+Ł   Are federal agencies applying sufficient leadership and resources (including 
+information technology) to address oft-cited spect
+rum challenges?  Are the resources comparable 
+to those in the private sector and commensurat
+e with the increasing attention being given to 
+spectrum issues? 
+Ł   Alternatives to the current public safety bus
+iness model, which is based on exclusive 
+use of spectrum and self-provisioning, should be considered.  Issues to explore include (1) how to 
+
+separate network access from the provisioning and management of the network, (2) how to 
+
+increase choice among equipment vendors, and (3) 
+how priority access can be used to provide 
+public safety communications with commercial systems and infrastructure.  
+Ł   What enables the FCC and NTIA to work we
+ll together? What is the value of meeting 
+together on a monthly basis? 
+Ł   How is interference testing done today?  
+What are its motives, methods, and costs? 
+Would a centralized testing process and facility be useful? 
+Ł   How does one tell if engineering principlesŠ
+e.g., interference, harmful interference, 
+signal-to-noise-ratio, noise floorŠare be
+ing invoked legitimatelyŠor not?   
+Ł   To what extent can economic incentives re
+place traditional spectrum planning?   To 
+what extent will competition and consumer pres
+sure provide incentives for industry to address 
+interference problems?  How much of an 
+incentive does purchasing spectrum rights provide 
+companies to invest in more efficient tec
+hnologies rather than seeking new allocations?   FREQUENCY MANAGERS AND AMATEUR RADIO 
+ In Session 4, panelists from the Association of Public-Safety Officials, Comsearch, the 
+United Telecom Council, and the 
+American Radio Relay League
+10 discussed issues relating to 
+                                                                                                                               
+                                             
+ ET Docket No. 03-237, FCC 03-289 (rel.
+ November 28). Available online at 
+<http://hraunfoss.fcc.gov/edocs_public
+/attachmatch/FCC-03-289A1.pdf>. 
+9 Federal Communications Commission. 2004. Notice of Proposed Rule Making. Carrier Current 
+Systems, Including Broadband Over Power Line Systems, Amendment of Part 15 Regarding New 
+
+Requirements and Measurement Guid
+elines for Access Broadband. ET Do
+cket No. 03-104, ET Docket No. 
+04-37, FCC 04-29 (rel. February 23). Available online at 
+
+<http://hraunfoss.fcc.gov/edocs_public
+/attachmatch/FCC-04-29A1.pdf>. 
+10 Robert Gurss, Association of Public-Safet
+y Officials; Kenneth Ryan, Comsearch; William 
+Moroney, UTC; and Paul Rinaldo, American Radio Relay League. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF REMARKS MADE BY FORUM PANELISTS 
+7frequency management and c
+oordination for public safety, utilities and other critical 
+infrastructure, commercial applications, and amateur radio.   
+Panelists made several obser
+vations about requirements for public safety and critical 
+infrastructure uses of spectrum: 
+ Ł   Voice and data services for the control, operation, and maintenance of utility and other 
+critical infrastructure companies require a very 
+high level of reliability, which has been provided 
+by dedicated networks and radio systems. 
+Ł   In life-safety applications, efficiency shoul
+d not be based simply on a measure of users 
+per channel, but rather on how spectrum can 
+best be used to support these missions.  
+ With regard to providing broadband services over power lines, panelists offered contrasting views: 
+
+ Ł   The utility industry is encouraged about th
+e potential of the technology to offer 
+broadband over power lines and 
+provide an additional true facilities-based competitor in 
+broadband services.  The industry is actively exam
+ining the interference issues that may result 
+from the service offering, and it is working with 
+groups that could be affected by interference 
+problems. 
+Ł   Amateur radio operators are concerned a
+bout emissions from broadband over power 
+lines.  The interference concern is heightened
+ because overhead power 
+lines, many in close 
+proximity to amateur receivers, would act as transm
+itters.  These segments would be  resonant at 
+different frequencies depending on their length (e.g
+., reflecting pole spacing) and thus cannot be 
+planned for or filtered out properly.  Because of 
+the high potential for interference, discussions at 
+the FCC have focused on establishing a power limit that would accommodate both uses. 
+
+ Panelists also offered several suggestions 
+for improving spectrum management policies: 
+ Ł   Amateur radio operators have long made
+ successful use of dynamic frequency 
+assignment by applying a listen-before-transmit rule
+ and asking if a given channel is occupied 
+before transmitting.  Ł   Software tools used by commercial fr
+equency coordination and management 
+organizations, such as geographical information sy
+stems and databases, and the best practices of 
+those organizations could be useful in improvi
+ng the efficiency and effectiveness of federal 
+spectrum management.  
+Ł   Spectrum policy should provide flexibility 
+to enable interoperability and spectrum 
+sharing between public safety and critical infrastructure users.  There is also interest in exploring 
+the deployment of joint radio systems. 
+Ł   Access to government databases contai
+ning nonrestricted data for frequency 
+assignments could improve the identification of 
+relevant licensees and users and the coordination 
+of licenses for commercial services, especially tho
+se that are deployed in bands shared with the 
+government.   
+Ł   Shared databases and common tools could 
+also eventually allow for real-time 
+registration and coordination of commercial ser
+vices, permitting same-day frequency clearance, 
+deployment, and operation. 
+
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 8 CONSUMER ADVOCACY ORGANIZATIONS  
+In Session 5, panelists from the Consumer 
+Federation of America and the Media Access 
+Project11 discussed several issues of concern to consumer advocacy organizations with regard to 
+spectrum policy and associated issues of media ac
+cess.  The comments provided by the speakers 
+included these: 
+ Ł   Radio spectrum is a public resource that shoul
+d be used to promote the widest possible 
+dissemination of information from diverse and even
+ antagonistic sources.  Broadcast licensees are 
+supposed to serve the public interest.  
+Ł   As illustrated by the successful campaign to block low-power FM broadcasting, 
+incumbents tend to act to exclude competing or
+ potentially disruptive technologies and services. 
+Ł   A balance should be sought between un
+licensed spectrum; exclusive licenses by 
+service, such as the family radio service that can
+ only be used for voice services; and other 
+exclusive licensing to ensure that each broadcaster serves the public interest in its own broadcast 
+area.. Ł   The view of spectrum licenses as property 
+rights goes beyond the original premise 
+behind licensing.  The granting of exclusive licen
+ses to provide a service to the public reflected 
+the view at the time that this was the only 
+way to make broadcasting economically viable. 
+Ł   The adoption of secondary markets in spectrum is not likely to increase the number of 
+media voices, as large media firms will be able 
+to outspend new competitors and prevent them 
+from developing competitive services. 
+ CELLULAR CARRIERS 
+In session 6A, panelists from two national cellular carriers, Cingular Wireless and 
+Verizon Wireless, and an industry association,
+ the Cellular Telecommunications & Internet Association (CTIA),12 discussed the impact of spectrum policy on cellular voice and data 
+services.  Observations made by panelists included these: 
+
+ Ł   Innovation and investment by cellular carriers 
+have resulted in substantial growth and 
+increased spectral efficiency.  Substantial inv
+estments in upgraded infrastructure and increased 
+capacity have been necessary to meet subscriber
+ demand within existing spectrum allocations.  
+For example, the number of subscribers has grow
+n by a factor of 12 over the past decade (from 
+12 million subscribers to over 150 million subscribers), the number of minutes used per 
+
+subscriber has grown fourfold, and the speed of commercially available data services has 
+increased roughly 100-fold (from 4.8 kbps to over 
+500 kbps).  Only a fourfold increase in 
+spectrum, from 50 MHz to roughly 190 MHz, has 
+been required to achieve these increases (this 
+does not include spectrum to be assigned for 3G services). 
+Ł   Adding other users to cellular bands would 
+be costly, create potential risks, and not yield customer benefits in the form of new applica
+tions or services.  It is appropriate to consider 
+ways of exploiting so-called white space, but th
+is is not appropriate fo
+r bands where long-term 
+stability is required for investment and innovation 
+to continue.  New concepts introduced by the 
+                                                          
+ 11 Harold Feld, Media Access Project, and Mark
+ Cooper, Consumer Fe
+deration of America. 
+12 Jim Bugel, Cingular Wireless; Jim Smoak, Verizon Wireless; and Diane Cornell, Cellular 
+Telecommunications & Internet Association. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF REMARKS MADE BY FORUM PANELISTS 
+9FCC™s Spectrum Policy Task Force,
+ such as spectrum sharing, will require careful economic and 
+technological analysis to understand the short-
+ and long-term effects of such changes. 
+Ł   A mix of licensed and unlicensed spectrum uses is appropriate, and cellular carriers 
+are making use of both today.  Exclusive use 
+over a spectrum band for licensed services provides 
+carriers with incentives to invest 
+in infrastructure and to innovate, and it provides carriers with 
+needed protection from interference.  
+Ł   Both government and commercial spectrum use should be subject to a cost-benefit 
+analysis that includes technical and ec
+onomic aspects and opportunity costs. 
+Ł   A useful approach to spectrum management 
+reform would be the establishment of an 
+independent commission of spectrum experts to review spectrum allocations, analogous to the 
+reviews of military facilities conducted under 
+the Base Realignment and Closure Act. 
+Ł   A longer term for the U.S. ambassador to
+ the World Radiocommunication Conference 
+would allow more attention to be devoted to in
+ternational harmonization of spectrum allocations. 
+Although technological advances have made it po
+ssible to build handsets that can use multiple 
+bands, spectrum allocation differences from country
+ to country add costs and ultimately increase 
+consumer prices.  Ł   Panelists saw opportunities with respect to public safety spectrum use, both to improve 
+the spectral efficiency of these services and to 
+establish new mechanisms for sharing or trading 
+public safety spectrum in exchange for 
+priority access to commercial services.  
+ BROADCASTING SERVICES 
+In Session 6B, panelists from a broadcast industry association, a broadcaster , and a 
+satellite service provider13 discussed spectrum policy on  terrestrial broadcasting and associated 
+satellite services.  The panelists made the following observations: 
+ Ł   There are long-standing broadcast spectrum sharing arrangements between television 
+broadcasters and other users such as public safety and radio astronomy.  
+Ł   Investments in digital transmitters by broadcasters are improving spectral efficiency 
+by doubling the number of digital television (DTV
+) stations in the same amount of spectrum.  
+Ł   Progress is being made on the transmission si
+de, with digital broadcasting operational at 1,155 digital television stations in 203 tele
+vision markets, containing 99.4 percent of U.S. 
+television households.  In the receiver side, howev
+er, digital television penetration is well below 10 percent of households.  
+Ł   Digital transmission for the broadcasters is 
+expected to generate additional revenue from such services as high-definition television, 
+multicasting, and data transmission and other 
+value-added services. Ł   Digital repacking efforts aim to move all DT
+V stations to channels 2 to 51, returning 
+108 MHz of spectrum to the government.  However,
+ repacking has proved challenging in urban 
+areas and is complicated by the existence of lo
+w-power television stations and the congressional desire for 175 additional DTV licenses. 
+Ł   Changing the licensing structure by geographic area and increasing co-location, which 
+would permit greater use of adjacent channels, would promote further efficiency in the broadcast 
+
+spectrum and would create economic incentives 
+for completing the transition to DTV. 
+Ł   Although an estimated 85 percent of U.S. households receive a television signal from 
+cable or satellite antennas, roughly 80 million television sets, or one-third of all television sets in 
+                                                          
+ 13 David Donovan, MSTV; Greg Schmidt, LinTV; and Kalpak S. Gude, PanAmSat. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 10the United States (e.g., second sets in a kitchen or
+ bedroom) receive only over-the-air terrestrial 
+television. The cable and satellite industries also 
+rely on over-the-air television programming that 
+is rebroadcast over those systems.  
+Ł  Underlay or unlicensed operation in broa
+dcast spectrum should be delayed or 
+prohibited because (1) use of broadcast spectrum will undergo numerous changes as DTV 
+stations are repositioned during digital transiti
+on; (2) it will take time to characterize the 
+propagation of new DTV transmissions; (3) recei
+vers, which are provided by the consumer 
+electronic industry and thus have performan
+ce characteristics not under the control of 
+broadcasters, are subject to interference from
+ unlicensed devices; (4) no feedback mechanism 
+exists to advise of digital signal degradation; and (5) adding other users to broadcast bands would 
+undesirably constrain the future evolution of television transmission systems. 
+Ł   Capacity increases being realized by the tr
+ansition to digital technology for satellite 
+transmissions, permitting six regular
+ digital channels or two HDTV channels as compared with 
+one analog channel per 36 MHz trans
+ponder, should not be used to justify the return of spectrum.  
+Instead, such increases should be viewed as providing
+ an opportunity to offer more channels and 
+services, which in turn provides an economic incen
+tive for the investment in the analog-to-digital 
+migration. Ł   Spectrum policies based on definitions of sp
+ectral efficiency that emphasize increasing 
+the number of spectrum users will harm the internal 
+efficiency efforts of existing spectrum users.  
+Ł   The higher-order modulation schemes that have been employed in satellite 
+communications increase both data rates and spectral efficiency but are more susceptible to 
+
+interference.  Additionally, the smaller earth sta
+tion antennas currently used by residential users also render satellite links more susceptible to interference than were earlier generations of 
+antennas.  COMMERCIAL AND GOVERNMENT SERVICES AND APPLICATIONS 
+In Session 6C, panelists from General Dynamics Decision Systems, Boeing, Lockheed 
+Martin, and Iridium
+14 discussed commercial and government ser
+vices and applications.  Panelists offered a number of observations about 
+the evolution of wireless technology: 
+ Ł   Even as new technologies and spectrum manageme
+nt policies come into being, legacy 
+devices and associated management policies will s
+till have to be accommodated for some time. 
+Ł  New adaptive, smart radio technologiesŠsoft
+ware-defined radios, smart antennas, and 
+intelligent signal processingŠcan significantly incr
+ease the processing gain in the spatial domain 
+but the extent to which they do this will depend 
+on a number of factors, including the band in 
+which they operate, the spectrum environmen
+t (propagation environmental condition), cost, 
+application, and platform.  
+Ł   Many licensed spectrum applications, such
+ as public safety, defense, and some 
+internal corporate business networks, are not mark
+et-based, and procuring them from the market 
+would be difficult, as commercial operators would 
+not want to be liable for safety of life and 
+internal business uses that require accuracy
+ 24 hours per day, 7 days per week. 
+ 
+Panelists also offered several observations
+ about current and future policy-making 
+processes: 
+
+                                                           
+ 14 Bruce Fette, General Dynamics Decision Systems; Thomas Walsh, Boeing; Jennifer Warren, 
+Lockheed Martin; and Pat Mahoney, Iridium. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF REMARKS MADE BY FORUM PANELISTS 
+11Ł   The current relationship between NTIA and th
+e FCC, which is based in large part on personality and individual working relationships
+, may not be adequate, especially as increased 
+sharing between federal and nonfederal spectru
+m users raises jurisdictional questions and 
+otherwise complicates decision making.  These complications exist today:  For instance, who 
+resolves disputes involving commercial services th
+at have out-of-band impact on government-
+exclusive bands? Ł   Increased information on coordination betw
+een the Interdepartment Radio Advisory 
+Committee (IRAC) and FCC would be helpful. 
+ A public tracking system to monitor the 
+application request processŠfor example, when 
+the IRAC sends questions to the FCC about an 
+applicationŠwould increase confidence that all necessary information has been received, 
+decrease errors, and reduce the time staff spend responding to questions.   
+Ł   The international dimensions of spectrum decisions, which are not emphasized in the 
+executive memorandum, deserve more attention. 
+For example, domestic decisions can have a 
+significant impact on U.S. licensees that also ope
+rate in other countries and have to obtain 
+spectrum assignments or other regulatory approval there as well.    
+Ł   There is a need to increase U.S. represen
+tation in bilateral and international negotiations, which have broad im
+plications for how U.S. alloca
+tions and operations are carried 
+out.  
+ TECHNOLOGY, STANDARDS, AND COMMERCIAL R&D 
+Panelists in Session 7 discussed various ways
+ in which standards setting and technology 
+development relate to spectrum policy.
+15  Several speakers addressed the issue of standards, 
+noting that 
+ Ł   Standards-based systems have experienced 
+significant growth in both market size and 
+applications over the past few years, despite
+ the recent downturn in the telecommunications 
+industry.  The most notable example is wi
+reless local area networking based on IEEE 802.11 
+standards. Ł   Standards do not freeze technology developmen
+t in time.  Standards are constantly 
+evolving as a result of competition among vendors to introduce new and improved technologies 
+
+and features.  Such evolution drives the standards development organizations to continually 
+improve standards to meet the market demand wh
+ile also maintaining some degree of backward 
+compatibility for current users.  
+Ł   Although the standards process works well for establishing interoperability between 
+devices built to a common standard, it does not address interoperability or coexistence with 
+other systems very well.  There is a potential role 
+for regulators hereŠnamely, the establishment of 
+rules covering the coexistence of different standards.  These rules should be flexible enough to 
+permit continued technology evolution. 
+ On the subject of licensed and unlicensed spectrum, speakers made several points, 
+including the following: 
+ Ł   Licensed and unlicensed approaches to ma
+naging spectrum play useful roles for 
+different technologies and applications, and bot
+h support increasing spectral efficiency.   
+                                                          
+ 15 Carl R. Stevenson, Agere Systems; Charle
+s Wheatley, Qualcomm; Gee Rittenhouse, Lucent 
+Laboratories; Kevin Kahn, Intel Corporation; and Carl M. Panasik, Texas Instruments Inc. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 12Ł  For public safety or homeland security applications, which have demanding 
+requirements, licensed spectrum would offer 
+advantages over unlicensed spectrum because access 
+charges for services have driven efficiency, its
+ reliability is proven, and it leverages world 
+competition to reduce costs. These applications
+ could make use of commercial services if 
+provisions are made for priority access a
+nd if liability concerns are addressed. Ł   Unconstrained interference among different users is possible in unlicensed spectrum, 
+rendering some applications too unreliable.  On
+ the other hand, unlicensed spectrum allows new 
+technologies to enter the market quickly and offe
+rs new opportunities to provide services, such as 
+wide area networks (WANs). Ł   Protection for incumbent licensees will remain important. 
+Ł   Carrier flexibility with respect to the technologies used in their assigned bands is an 
+important enabler of innovation. 
+Ł   Additional spectrum for unlicensed devices would enable further innovation and use.  
+Ł   Innovative technology approaches to identify unused spectrum, such as the 
+interference temperature, might not be applicab
+le across all spectrum bands but could serve to 
+identify available spectrum in particular bands with well-defined incumbents.   
+ Views were mixed about the need to increase interference protection for certain 
+unlicensed devices.  Some panelists felt the 
+increasing maturity and economic importance of 
+some unlicensed uses may be reason enough to create additional protection for certain devices 
+
+within unlicensed bands.  Others were skep
+tical about imposing ruled-based enforcement 
+mechanisms on unlicensed devices 
+because new rules could impede innovation and because there 
+are a variety of technical options that could 
+be used to resolve interference problems.   Several international policy issu
+es were addressed by the panelists: 
+  Ł   Encouraging technology neutrality in interna
+tional allocations would permit operators 
+providing a service, rather than regulators, to
+ determine the best technology architecture to 
+deliver the services and would permit competition on such dimensions as serving more users per 
+
+megahertz, better quality of service, higher data 
+rates, and the introduction of new services. 
+Ł   Establishing common worldwide bands for 
+cellular mobile communications would 
+have substantial benefits.   Handset designers have found ways of accommodating diverse 
+spectrum allocations, but this has made handsets mo
+re complicated than they need to be and has 
+added to their cost.  Harmonization would create greater economies of scale for manufacturers, 
+
+make it more convenient for consumers to use 
+the same device while traveling (especially 
+laptops), and reduce conflicts w
+ith regional regulations when portable devices are taken to other 
+countries.   WI-FI AND BROADBAND WIRELESS ACCESS TECHNOLOGIES 
+ In Session 8, panelists from several firms involved in wireless LAN and broadband 
+technologies16 discussed the implications of these tec
+hnologies for spectrum management policy.  
+Comments made by panelists included these: 
+                                                           
+ 16 Michael Green, Atheros Communications; Leigh Chinitz, Chief Technical Advisor, Proxim; 
+Siavash Alamouti, Vivato; Duane Buddrius, Alvarion
+; Bradley Holmes, Arraycomm, Inc.; and Dewayne 
+Hendricks, the Dandin Group. 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF REMARKS MADE BY FORUM PANELISTS 
+13Ł   Assumptions about spectrum capacity that underlie spectrum management decisions 
+should be carefully examined.  Is spectrum rea
+lly a finite, limited resource (as common wisdom 
+would have it), or is capacity actually infinite, with access constrained by time, geographic 
+location, and frequency?  
+Ł   The benefits of unlicensed spectrum include the accelerated pace of innovation in 
+wireless communications and the ripple effect
+s of these technologies on other segments of the 
+computing and communications market.   
+Ł   Measures that would advance unlicensed 
+applications include the allocation of 
+additional spectrum; reuse or shared use of 
+currently underutilized bands; globally harmonized 
+allocations and harmonized technical rules for 
+operation and compliance testing; the use of 
+advanced radio technologies; and a simplified product certification process.  
+Ł  Wireless broadband could serve as an alterna
+tive means of delivering broadband to the 
+40 percent of households and other underserved gr
+oups that are not served by either cable or 
+digital subscriber line (DSL).   Roughly 90 per
+cent of these underserved customers are located in 
+rural areas.  The following measures would he
+lp expand broadband coverage:  (1) permit 
+increased transmitter power in unlicensed ba
+nds for wireless broadband and (2) identify 
+additional unlicensed spectrum or opportunities fo
+r spectrum underlay for wireless broadband. 
+Ł   Policies should reward more efficient, flex
+ible, and intelligent technologies that permit 
+incremental moves toward a more open, shared ap
+proach to spectrum management and allocation.  
+It would, however, be counterproductive to force spectrum users to become more spectrally 
+efficient only to reassign to others the spectrum that was opened up.    
+Ł   Techniques for spectrum sharing with pr
+iority access provide an opportunity to support and enhance national security and public 
+safety applications without requiring separate 
+allocations. Ł   Smart antenna technologies offer a number 
+of advantages over conventional antennas, 
+including less interference, an increase in bandwid
+th efficiency and wireless system coverage, 
+and a reduction in the number of standard radios 
+and thus the total energy transmitted.   Full 
+exploitation of the technology would be advanced 
+if policy would (1) take account of the antenna 
+gains achieved by smart antennas rather than 
+applying power limits designed for standard 
+antennas systems and (2) emphasize the efficiency 
+of wireless systems rather than individual 
+radios.     GOVERNMENT AND ACADEMIC RESEARCH AND DEVELOPMENT 
+In Session 9, researchers and research managers from Rutgers, the Massachusetts 
+Institute of Technology, and the Defense A
+dvanced Research Projects Agency (DARPA)
+17 discussed several active areas of wireless research and some policy implications. 
+
+ Ł   Inflexible spectrum policies, which can lead
+ to spot shortages, are the driver for research on dynamic spectrum allocation techniques.  
+Ł   DARPA™s XG program is developing tec
+hnology to support radios that can 
+dynamically adapt to the spectral and policy e
+nvironment.  One core program component is 
+dynamic spectrum selection based on propagation characteristics, measured spectrum use, and 
+
+inferred potential interference.  The other core component is a policy language to describe rules 
+for spectrum use that allow the regulations in
+ any particular operating environment to be 
+                                                          
+ 17 Preston Marshall, Advanced Technology Office, DARPA; Dipankar Raychaudhuri, Rutgers 
+University; and Moe Win, Massachusetts Institute of Technology. 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+ 14systematically described and followed by a radi
+o.   Results from the XG program will be placed 
+in the public domain with the expectation that
+ the commercial sector will further develop and 
+commercialize the technologies and thus 
+make radios more cost-effective.  
+Ł   Two areas of research into dynamic freque
+ncy allocation are agile radios and cross-
+layer coordination among radios. 
+Ł   Agile or cognitive radios are able to select frequencies dynamically across a wide 
+bandwidth and to generate a variety of waveforms. 
+Ł   Higher layer spectrum coordination protocol
+s, which provide mechanisms for radio 
+devices to observe each other, are a possible 
+enabler for spectrum sh
+aring scenarios such as 
+spectrum underlay or dense unlicensed band depl
+oyment.  Because interference is a receiver 
+property, spectrum protocols may be needed to 
+overcome the inherent ﬁhidden nodeﬂ problem, in 
+which two transmitters (no matte
+r how agile) cannot hear each other but still interfere at a 
+receiver that is located between them.  Two 
+approaches are being developed to solve this 
+problem.  One is a spectrum policy service that u
+ses an Internet connection to provide a network 
+layer service that identifies what is operating w
+ithin a given locality.  Another approach, a 
+spectrum etiquette protocol, would use a comm
+on wireless signaling channel rather than an 
+Internet connection.  An 802.11-based protocol has already been developed to provide this 
+service.  Experiments to reduce interference betw
+een Bluetooth and 802.11 transmissions suggest 
+that significant improvements can be made in throughput and quality of service.  Either approach 
+would depend on the development of standardi
+zed protocols and could leverage the DARPA XG 
+program™s work on codifying policy. 
+ Ł   Large-scale trials of alternative cognitive radio and spectrum coordination protocol 
+approaches would help establish the viability of
+ these approaches and provide estimates of the spectral efficiency they could achieve. 
+Ł   Ultrawideband (UWB) has had a long history 
+with different meanings and definitions.  
+UWB™s first use was in the spark gap radios pi
+oneered by Marconi.  UWB has come back into 
+play with a recent FCC ruling permitting its use.  Today™s UWB technology uses very narrow, 
+
+short pulses for uses such as short-range, high-speed data for broadband access networks.  Based 
+on the FCC definition, numerous opportunities exist for the deployment of UWB systems, 
+especially with the wide range of unlicensed spect
+rum allocation, from 3.1 to 10 GHz.  There are 
+no backward compatibility issues because its u
+se has not been permitted until recently.  
+Ł   FCC rules permit UWB to be used for many applications but interestingly prohibit its 
+use for toys.  One current area of interest fo
+r UWB is short-range communications within the 
+home.   
+Ł   Today, UWB is permitted in only one country, the United States, so UWB 
+applications under development will eventually be
+ constrained by allocation decisions and rules 
+established by regulators around the world. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.   Appendixes Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.  Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.17 A  Forum Agenda   
+   
+ 
+ 
+   
+ 
+ February 12-13, 2004 
+Washington, D.C. 
+  THURSDAY, FEBRUARY 12 
+ 8:00 a.m. Registration and Continental Breakfast 
+
+ 
+8:30  Welcome 
+
+ Charles Brownstein, Director, Computer Scie
+nce and Telecommunications Board, National 
+Research Council David Liddle, Chair, Committee on Wireless Technology Prospects and Policy Options 
+ 8:45  Opening Remarks 
+ Samuel Bodman, Deputy Secretary, Department of Commerce 
+Session 1: Federal Spectrum Users 
+ 9:00  1A: Defense, Justice, Transportation, and Aviation 
+ Moderator:  Dale Hatfield, University of Colorado 
+David G. Boyd, Deputy Director and Research/Development Director for SAFECOM, 
+Department of Homeland Security  
+Tyler Duvall, Deputy Assistant Secretary of Transportation 
+
+Merri Jo Gamble, Spectrum Manager, Department of Justice  
+
+Donald Willis, Office of Spectrum Policy and 
+Management, Federal Aviation Administration 
+Badri Younes, Director, Spectrum Ma
+nagement, Department of Defense 
+ 10:15  Break 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+18  10:30  1B: Scientific Uses 
+
+ Moderator:  David Skellern, Cisco 
+
+Don Backer, Professor of Astronomy, University of California at Berkeley, and Chair, NRC 
+Committee on Radio Frequencies 
+Richard Barth, Office of Radio Frequency, Na
+tional Oceanic and Atmospheric Administration 
+Scott Pace, Chief Technologist, National Aeronautics and Space Administration 
+Karen St. Germain, NPOESS Integrated Program
+ Office, National Oceanic and Atmospheric 
+Administration  
+ 11:45    Lunch 
+ Session 2:  State and Local Government Users 
+ 12:45 p.m. State and Local Government Users 
+
+ 
+Moderator:  David Liddle, U.S. Venture Partners Thera Bradshaw, Assistant General Manager of In
+formation Technology, City of Los Angeles  
+Capt. Thomas Cowper, Associate Director, New York State Wireless Project
+ Nancy Jesuale, President, NetCity Engineering
+ Robert LeGrande, Agency Liaison, Office of th
+e Chief Technology Officer, District of Columbia
+ Glen Nash, Senior Telecommunications Engineer, State of California Department of General 
+Services  Marilyn Praisner, Member, Montgomery County (Md.) Council
+  
+2:20  Break 
+
+ Session 3:  Federal Spectrum Management Authorities 
+ 2:30  Federal Spectrum Management Authorities 
+ 
+Moderator:  Yochai Benkler, Yale Law School
+ Michael Gallagher, Acting Assistant Secretary 
+for Information and Communications, Department 
+of Commerce 
+Julius Knapp, Deputy Chief, Office of Engin
+eering and Technology, Federal Communications 
+Commission 
+John Muleta, Chief, Wireless Telecommuni
+cations Branch, Federal Communications Commission 
+Andrea Petro, Program Examiner, Offi
+ce of Management and Budget  
+David Siddall, Attorney, Paul, Hastings, Janofsky & Walker LLP 
+ 3:50  Break 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.FORUM AGENDA 
+19Session 4: Frequency Managers and Amateur Radio 
+ 4:00  Frequency Management and Amateur Radio 
+ Moderator:  David Reed, MIT Media Lab and HP Labs
+ Robert Gurss, Director, Legal and Government A
+ffairs, Association of Public-Safety Officials 
+ William Moroney, President, United Telecom Council 
+
+Paul Rinaldo, Chief Technical Offi
+cer, American Radio Relay League
+ Kenneth Ryan, Director, Spectrum Management Solutions, Comsearch   
+ Session 5: Consumers 
+ 5:15  Consumer Organizations  
+
+ Moderator:  Yochai Benkler, Yale Law School
+ Mark Cooper, Director of Research, Consumer Federation of America 
+Harold Feld, Associate Director, Media Access Project 
+ 5:30  Reception 
+FRIDAY, FEBRUARY 13 
+ 8:00 a.m. Registration and Continental Breakfast 
+
+ Session 6: Carriers and Service Suppliers 
+ 8:30  6A: Cellular Carriers  
+ 
+Moderator:  Paul Kolodzy, Stevens Institute of Technology Jim Bugel, Executive Director for Federal Government Affairs, Cingular Wireless 
+Diane Cornell, Vice President for Regulatory Po
+licy, Cellular Telecommunications & Internet 
+Association Jim Smoak, Director, Business Development, Verizon Wireless 
+
+ 9:30  6B: Broadcasting Services 
+ 
+Moderator:  Paul Kolodzy, Stevens Institute of Technology David Donovan, President, MSTV 
+Kalpak S. Gude, Vice President for Government
+ and Regulatory Affairs and Associate General 
+Counsel, PanAmSat 
+Greg Schmidt, Vice President for New Development and General Counsel, LinTV 
+ 10:30  Break 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+20 10:45  6C: Commercial and Government Services and Applications 
+ 
+Moderator:  Dale Hatfield, University of Colorado 
+Bruce Fette, Chief Scientist, General Dynamics Decision Systems  
+Pat Mahoney, Vice President Regulatory and Spectrum Affairs, Iridium 
+
+Thomas Walsh, Boeing Space and Communication Spectrum Management 
+
+Jennifer Warren, Senior Director, Trade a
+nd Regulatory Affairs, Lockheed Martin 
+ 11:45  Lunch 
+  Session 7: Technology, Standards, and Commercial R&D 
+ 12:45 p.m. Technology, Standards, and Commercial R&D 
+ Moderator:  Larry Larson, University of California at San Diego 
+Kevin Kahn, Intel Fellow and Director, Communicat
+ions and Interconnect Technology Lab, Intel 
+Carl M. Panasik, Director, Advanced Architecture, Texas Instruments, Inc. 
+Gee Rittenhouse, Vice President, The Wireless 
+Research Laboratory, Lucent Laboratories 
+Carl R. Stevenson, Senior Manager, Standa
+rds and Regulatory Affairs, Agere Systems  
+Charles Wheatley, Senior Vice President for Technology, Qualcomm
+   Session 8: Wi-Fi and Broadband Wireless Access Technologies 
+ 2:00  Wi-Fi and Broadband Wireless Access 
+ Moderator:  David Skellern, Cisco
+ Siavash Alamouti, Chief Technical Officer, Vivato  
+Duane Buddrius, Director of Product Engineering and Product Management, Alvarion 
+
+Leigh Chinitz, Chief Technical Advisor, Proxim 
+Michael Green, Manager, Global Product Compliance, Atheros Communications 
+Dewayne Hendricks, Founder, The Dandin Group 
+
+Bradley Holmes, Arraycomm, Inc. 
+
+ 3:15  Break 
+ Session 9:  Government and Academic R&D 
+ 3:30  Government and Academic R&D  
+
+ 
+Moderator: Andrea Goldsmith, Stanford
+ Preston Marshall, Program Manager, Advanced Technology Office, DARPA 
+Dipankar Raychaudhuri, Professor, Electrical and Computer Engineering, and Director, Wireless 
+Information Network Laboratory, Rutgers University 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.FORUM AGENDA 
+21Moe Win, Charles Stark Draper Assistant Professor of Aeronautics and Astronautics, 
+Massachusetts Institute of Technology 
+ 4:15  Closing Remarks 
+ David Liddle, Chair, Committee on Wireless Technology Prospects and Policy Options  
+ 4:20  Adjourn
+  Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved. 22 B  List of Slide Presentations   
+   
+ 
+ 
+   
+ 
+ The following presenters used slides in their presentation and made them available to 
+CSTB for public distribution.  Copies of these slides can be viewed at CSTB™s Web site, 
+<www.cstb.org>.  The slides have not been edited, 
+and opinions and statements in them are solely 
+those of the individual persons or participants at the forum and have not necessarily been adopted 
+or endorsed or verified as accurate by the National Academies.    
+ Siavash Alamouti, Chief Technical Officer, Vivato  
+Don Backer, Professor of Astronomy, University of California at Berkeley, and Chair, NRC 
+Committee on Radio Frequency 
+Richard Barth, Office of Radio Frequency, Na
+tional Oceanic and Atmospheric Administration 
+David G. Boyd, Deputy Director and Research/Development Director for SAFECOM, 
+Department of Homeland Security  
+Thera Bradshaw, Assistant General Manager of 
+Information Technology, City of Los Angeles 
+Duane Buddrius, Director of Product Engineering and Product Management, Alvarion 
+
+Jim Bugel, Cingular Wireless 
+
+Leigh Chinitz, Chief Technical Advisor, Proxim 
+
+Capt. Thomas Cowper, Associate Director, New York State Wireless Project 
+
+David Donovan, President, MSTV 
+Tyler Duvall, Deputy Assistant Secretary of Transportation 
+Bruce Fette, Chief Scientist, General Dynamics Decision Systems  
+
+Brian Fontes, Vice President for Federal Regulatory Affairs, Cingular Wireless  
+
+Merri Jo Gamble, Spectrum Manager, Department of Justice  
+
+Michael Green, Manager, Global Product Compliance, Atheros Communications 
+Kalpak S. Gude, Vice President for Government
+ and Regulatory Affairs, Associate General 
+Counsel, PanAmSat 
+Dewayne Hendricks, Founder, The Dandin Group 
+
+Nancy Jesuale, President, NetCity Engineering 
+
+Kevin Kahn, Intel Fellow and Director, Communicat
+ions and Interconnect Technology Lab, Intel 
+Julius Knapp, Deputy Chief, Office of Engin
+eering and Technology, Federal Communications 
+Commission 
+Robert LeGrande, Agency Liaison, Office of the 
+Chief Technology Officer, District of Columbia 
+Pat Mahoney, Vice President Regulatory and Spectrum Affairs, Iridium 
+
+Preston Marshall, Program Manager, Advanced Technology Office, DARPA 
+William Moroney, President, United Telecom Council 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.LIST OF SLIDE PRESENTATIONS 
+23 John Muleta, Chief, Wireless Telecommuni
+cations Branch, Federal Communications Commission 
+Scott Pace, Chief Technologist, National Aeronautics and Space Administration Carl M. Panasik, Director, Advanced Architecture, Texas Instruments, Inc. 
+Dipankar Raychaudhuri, Professor, Electrical and Computer Engineering, and Director of the 
+Wireless Information Network Laboratory, Rutgers University 
+Paul Rinaldo, Chief Technical Offi
+cer, American Radio Relay League 
+Gee Rittenhouse, Vice President, The Wireless 
+Research Laboratory, Lucent Laboratories 
+Karen St. Germain, NPOESS Integrated Program
+ Office, National Oceanic and Atmospheric 
+Administration  
+Greg Schmidt, Vice President for New Development and General Counsel, LinTV 
+
+David Siddall,  Paul, Has
+tings, Janofsky & Walker LLP Jim Smoak, Director, Business Development, Verizon Wireless 
+Carl R. Stevenson, Senior Manager, Standa
+rds and Regulatory Affairs, Agere Systems  
+Thomas Walsh, Boeing Space and Communication Spectrum Management 
+
+Jennifer Warren, Senior Director, Trade a
+nd Regulatory Affairs, Lockheed Martin 
+Charles Wheatley, Senior Vice President for Technology, Qualcomm  
+
+Donald Willis, Office of Spectrum Policy and 
+Management, Federal Aviation Administration 
+Badri Younes, Director, Spectrum Ma
+nagement, Department of Defense 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved. 24 C  Biographies of Speakers   
+   
+ 
+ 
+   
+ 
+ WELCOME AND OPENING REMARKS 
+ Samuel W. Bodman is the Deputy Secretary of the Department
+ of Commerce.  A financier and executive 
+by trade, he is well suited to his role of managing th
+e day-to-day operations of the department, which has 
+40,000 employees and a $5 billion budget.  Dr. Bodman is
+ an engineer by training; he is well qualified for 
+his specific oversight focus on the NOAA, the Patent and Trademark Office, and the National Institute of 
+Standards and Technology.  With 31 years of experience in the private sector, Dr. Bodman is a firm 
+believer in the American free enterprise system.  His 
+work in the finance industry began when he was a 
+professor at the Massachusetts Institute of Technology and started consulting with the venture capital 
+sector.  He and his partners and associates provided 
+financial and managerial support to scores of new 
+business enterprises throughout the United States. 
+ Virtually all of these companies had a strong 
+dependence on technology and innovation.  Many achie
+ved great financial success and established public 
+markets for their securities.  Dr. Bodman holds a B.S.
+ in chemical engineering from Cornell University 
+and an Sc.D. from MIT.  He served as an associate professor of chemical engineering at MIT and as 
+
+technical director of the American Research and 
+Development Corporation, a pioneer venture capital 
+firm.  From there, Dr. Bodman went to Fidelity Ventur
+e Associates, a division of Fidelity Investments.  In 
+1983 he was named president and chief operating officer
+ of Fidelity Investments and a director of the 
+Fidelity Group of Mutual Funds.  In 1987, he jo
+ined Cabot Corporation, a Boston-based Fortune 300 
+company with global business activities in specialty
+ chemicals and materials, where he served as 
+chairman, CEO, and a director.  Over the years, he has been a director of many other publicly owned 
+
+corporations.  Dr. Bodman has also been active in public
+ service.  He is a former director of MIT's School 
+of Engineering Practice and a former member of 
+the MIT Commission on Education.  He was also a 
+member of the Executive and Investment Committees 
+at MIT and the American Academy of Arts and 
+Sciences and was a trustee of the Isabella Stew
+art Gardner Museum and the New England Aquarium. 
+ 
+Charles N. Brownstein
+ is the director of the Computer Science and Telecommunications Board (CSTB) 
+of the National Academies. He joined the Academies in 2004 from the Corporation for National Research 
+Initiatives (CNRI), where since 1994 he directed the 
+Cross Industry Working Te
+am and did independent 
+research with support from NSF and DARPA. His interest
+s are in innovation, applications and impacts of 
+information technology, Internet performance, and 
+the technology-policy interface.  Dr. Brownstein 
+joined CNRI in 1994 after a 20 year career at the 
+National Science Foundation (NSF). There he served in 
+positions including program director for Telecomm
+unications Policy and IT Applications, division 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+25director for Information Science and Technology, de
+puty assistant director and assistant director of NSF 
+for Computer and Information Science and Engineeri
+ng (CISE), and director of the Office of Planning 
+and Assessment. His federal achievements are recogni
+zed by Presidential Meritorious and Distinguished 
+Senior Executive Service awards and by NSF's Distingui
+shed Service Award.  At NSF, he led in the 
+creation of CISE, nurtured the development of NSFnet, 
+and set strategic directions for federal information infrastructure. He was a principal in organizing the inter-agency High Performance Computing and 
+
+Communications (HPCC) initiative and was executive di
+rector of the National Science Board™s Special Committee on the Future of NSF. He presided over in
+formation technology and policy working groups at 
+the OECD, was founding chair of the Federal Netw
+orking Council, and participated on the Board of 
+Regents of the National Library of Medicine. He 
+organized and co-chaired the White House National 
+Performance Review Working Group for Reinventing 
+Government through Information Technology. He 
+was a founding trustee of the Internet Society 
+(ISOC), chaired the Association for Computing 
+Machinery™s public policy activity, USACM, and is pr
+esently a director of Fortec, which provides the 
+IETF Secretariat.  From 1971 to 1975, Dr. Brownstein
+ taught at Lehigh University and was a founder of 
+the Institute of Social and Behavioral Research. Ther
+e he was principal investigator on NSF and industry-
+supported research awards on telecommunications polic
+y, information industry innovation, two-way cable 
+field experimentation, and interactive learning t
+echnologies. He also taught research design at the University of Michigan™s Inter-university Consortiu
+m for Social and Political Research. His Ph.D. is in 
+political science, from Florida State University, 1971. 
+ SESSION 1A: FEDERAL SPECTRUM USERS: DEFENSE, JUSTICE, TRANSPORTATION, AND 
+AVIATION 
+ David G. Boyd is deputy director and r
+esearch and development director for the SAFECOM Program 
+Office at the Department of Homeland Security, wh
+ere he has been since it was established in March 
+2003.  He is responsible for office operations and for th
+e management or oversight of the operations of all 
+the Homeland Security laboratories. In addition, he
+ is responsible for the national effort to achieve 
+interoperability among communications systems of the na
+tion™s first responders at local, state, and federal 
+levels.  Dr. Boyd came to Homeland Security from the U.
+S. Department of Justice, where he was director 
+of science and technology for the National Institute of Ju
+stice, the criminal justi
+ce research and evaluation agency.  His office managed research and developmen
+t programs in every facet of technology affecting 
+law enforcement and corrections, including the fo
+rensic sciences, less-than-lethal technologies, 
+information and communications technologies, con
+cealed weapons and contraband detection, and 
+simulation.  His office directed the DNA and fore
+nsic laboratory improvement programs, which are 
+designed to strengthen DNA identification and general forensic analysis capabilities in state and local 
+crime laboratories. His office also managed the 
+only voluntary standards development and testing 
+organization for law enforcement and corrections in 
+the United States, and was charged by Congress with 
+the development of proficiency tests for DNA laboratori
+es.  Dr. Boyd also served, at the direction of the 
+Attorney General, on the White House National 
+Science and Technology Council, on the National 
+Security Council Committee on Safety and Security of
+ Public Facilities, and as the executive chair of the Justice Department™s Technology Policy Council. He
+ has an M.A. in operations research and public 
+policy analysis and a Ph.D. in decision sciences.  
+ Tyler Duvall is the deputy assistant secretary for transportation policy in the Department of 
+Transportation.  His portfolio includes economic and 
+strategic analysis; transportation, energy, and the 
+environment; and federal civilian uses of the el
+ectromagnetic spectrum, including global positioning 
+systems.  Mr. Duvall currently works closely with th
+e assistant secretary for transportation policy and the 
+administrators of the Federal Highway and Federa
+l Transit Administrations in the development of 
+comprehensive surface transportation legislation.  
+In addition, he coordi
+nates the department™s 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+26 implementation of President Bush™s Executive Or
+der to streamline environmental reviews of 
+transportation projects.  Before assuming his current 
+role, Duvall was the special assistant to the assistant 
+secretary for transportation policy. In this role, he 
+advised on a broad range of policy and legal issues 
+related to surface transportation, including innova
+tive financing of transportation infrastructure, streamlining environmental review processes, highw
+ay safety, freight and goods movement, Amtrak, 
+security, overall program funding, and the oversight of federal funds.  Prior to joining USDOT, Mr. 
+
+Duvall was an associate in the business and finance group of Hogan & Hartson, LLP, of Washington, 
+
+D.C. There, he represented various
+ public and private companies in mergers, acquisitions, and securities 
+filings. He has a B.A. in economics from Washingt
+on and Lee University and a law degree from the 
+University of Virginia. 
+ Merri Jo Gamble is the spectrum manager for the Department of Justice.  She has over 30 years 
+experience in the spectrum management field and has ser
+ved in a variety of positions within the Federal 
+Bureau of Investigation, NTIA, and the Department
+ of Justice.  In the area of domestic spectrum 
+management, she is currently the Department of Justice representative on the Interdepartmental Radio 
+Advisory Committee.  She has also served as the De
+partment of Justice representative on the Spectrum 
+Planning Subcommittee and on various spectrum ma
+nagement ad hoc and working groups.  Her 
+international experience includes participation in 
+bilateral spectrum negotiations with the Mexican 
+government as a subject matter expert
+ on land mobile law enforcement border issues.  She participates in 
+activities of the International Telecommunication 
+Union and was recently a delegate and U.S. 
+spokesperson at the World Radiocommunication Conference 2003. 
+ Donald Willis 
+is a manager in the Spectrum Planning and International Division
+ Office at the Federal 
+Aviation Administration.  His strategic vision is to 
+protect the aeronautical radio spectrum for the current 
+and future needs of international aviation.  After 
+serving in the U.S. Navy from 1966 to 1968, Mr. Willis 
+graduated from Western Washington University in 
+Bellingham, Washington.  In 1974, he began his 
+career with the U.S. Air Force as a communications 
+officer.  His assignments included command of a 
+communications squadron in Italy and liaison to 
+the Federal Aviation Administration.  Mr. Willis™s 
+assignments as a spectrum engineer began in 1978
+ and include having been director for frequency 
+management for the U.S. Air Force in Europe and 
+frequency manager for the Rapid Deployment Joint 
+Task Force, which later became the U.S. Central 
+Command.  After retiring from the U.S. Air Force in 
+1992, he began his career as an electronics engineer at the FAA.   
+ Badri Younes is DOD director for spectrum management and the director of the Defense Spectrum 
+Office, with responsibility for spectrum policy, stra
+tegic planning, and implementation at DOD.  Under 
+his leadership, the Department has successfully negot
+iated all the recent win-win agreements with the 
+FCC, NTIA, and the U.S. private sector that have 
+enabled technological innovations to proceed while 
+safeguarding critical military equities.  He h
+as successfully led the DOD spectrum management 
+organization to become more proactive in addressi
+ng the radio frequency (RF) and spectrum issues facing 
+the department in transforming the military into
+ a network-centric fighting force.  Mr. Younes™s 
+experience spans over 20 years of microwave and RF systems engineering and technology. Prior to 
+
+joining the DOD, he managed the RF systems e
+ngineering and spectrum management for NASA™s 
+Goddard Space Flight Center (GSFC) Space and Gr
+ound Networks.  While at GSFC, he successfully 
+managed the development and im
+plementation of the hardware 
+systems for NASA™s second TDRSS 
+ground terminal.  Mr. Younes™s career includes 5 years of
+ hands-on work in state-of-the-art technology at 
+the Naval Surface Warfare Center.  His primary focu
+s included coding and modulation theory, analog and 
+digital communications, quantum electronics, signal processing, nonlinear mathematics, and neural 
+
+networks. He has an M.S. in electronic engin
+eering from Catholic University of America. 
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+27SESSION 1B: FEDERAL SPECTRUM USERS: SCIENTIFIC USES 
+ Richard Barth
+ is chief of the Radio Frequency Manageme
+nt Division at the U.S. Department of 
+Commerce and director of the department™s
+ Office of Radio Frequency Management. 
+ Scott Pace is the chief technologist for space communications in NASA's Office of Space Flight.  He is 
+responsible for advising senior NASA management 
+on technical, programmatic, policy, and regulatory 
+issues related to space-based information systems 
+providing communications, navigation, and remote 
+sensing.  He is particularly focused on issues related 
+to the global positioning system, active and passive 
+sensor bands, aeronautical safety bands, and dual-use space communications. He represents agency 
+
+interests in interagency as well as international forums.  
+ Karen St. Germain
+ is with the NPOESS Integrated Program O
+ffice at NOAA.  Her work has focused on passive polarimetric radiometry of the ocean surface 
+and polar regions, which she continued after several 
+years with the Naval Research Laboratory™s Remote Se
+nsing Division.  Prior to this Dr. St. Germain was 
+an assistant professor in the Department of Electrical E
+ngineering at the University of Nebraska, Lincoln.  
+She is a member of the American Geophysical Union,
+ the American Association for the Advancement of 
+Science, and the Institute of Electrical and Elect
+ronics Engineers. She has a Ph.D. in electrical engineering from the University of Massachusetts, Amherst.   
+ SESSION 2: STATE AND LOCAL GOVERNMENT USERS 
+ Thera Bradshaw is the chief executive officer for the City of Los Angeles Information Technology 
+Agency.  Her responsibilities are both internal and exte
+rnal services, including the administration of cable 
+franchises, the education and government
+ television stations, and the 3-1-1 
+number, ﬁone call to city hall.ﬂ  
+Before joining the Los Angeles agency, Ms. Bradshaw 
+was executive director of the city and county of 
+San Francisco's Emergency Communica
+tions Department.  Under her leadership, a new department was 
+created and built from what was traditionally a support 
+service function within the police, public health, 
+and fire departments.  From 1990 to 2000, she was 
+responsible for implementi
+ng the $200 million dollar 
+capital project improving 9-1-1 emergency communications
+ in San Francisco.  Ms. Bradshaw also served 
+as executive director of the Regional Communications Agency of Clark County, Washington, with 42 
+
+participating local governments.  She pioneered Oregon'
+s first automated, enhanced 9-1-1 system with 14 
+participating local governments in the Portland metr
+opolitan area in 1986.  Ms. Bradshaw's professional 
+leadership extends to state, national, and internationa
+l roles in appointed and elected positions on a variety 
+of boards and committees.  She has authored numerous
+ publications, is an in-demand public speaker, and 
+testified before the U.S. Congress and the FCC.  Ms. Bradshaw served from 1999 to 2003 on the Board of 
+Officers and was the 69th President of the Association of Public-Safety Communications Officials 
+
+International (APCO).  APCO is the world™s old
+est and largest not-for-profit professional organization dedicated to the enhancement of public safety co
+mmunications, with more than 16,000 members in 34 
+countries.  She also served 7 years on the board of officers for 
+the National 9-1-1 Association (NENA) and 
+was the national president in 1995.  Major na
+tional policy improving 9-1-1 and public safety 
+communications was accomplished during her tenure.
+  Ms. Bradshaw has received numerous honors, 
+including being named one of the top women of leader
+ship in public safety.  Her undergraduate education 
+is from Oregon State University.  She is also a gra
+duate of the University of Washington's Graduate 
+School of Public Affairs and the FBI Executive Command College. 
+
+ Thomas Cowper
+, associate director in charge of engineering and technology for the Statewide Wireless 
+Network project within New York State™s Office for Technology, is a 20-year veteran of the New York 
+State Police.  He spent 9 years in field assignments, 
+including 4 years with the State Police tactical unit, 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+28before becoming directly involved with the deve
+lopment, procurement, and deployment of law 
+enforcement technology. He served as director of comm
+unications for the State Police prior to his current 
+assignment.  When completed, the Statewide Wireless 
+Network is intended to serve the land mobile radio 
+requirements of 65,000 federal, state, and local public
+ safety users on a single shared network and will be 
+the largest technology procurement in the history of Ne
+w York State.  Capt. Cowper is a member of the 
+Society of Police Futurists International and the 
+FBI™s Futures Working Group, two organizations 
+devoted to examining the emerging 
+trends and developments that ar
+e changing our world and the manner 
+in which law enforcement and public safety services ar
+e delivered.  He holds a B.S. in mechanical 
+engineering technology and an M.A. in public administration.  
+ Nancy Jesuale is the president of NetCity Engineering, In
+c., a consulting practice dedicated to strategic 
+planning and solution sets for government in public safety and fiber optic telecommunications systems.  
+
+Current clients of NCE include the City of Los Ange
+les, the District of Columbia, Portland Community 
+College, and the Center for Wireless Network Secur
+ity.  Ms. Jesuale has worked in local and state government as a telecommunications strategic pla
+nner and director of public safety networks, 
+telecommunications networking, and network operations
+.  As program manager for public safety, she is 
+responsible for establishing relationships, research 
+programs, and public policy support for the Wireless 
+Network Security Center (WiNSeC).  Most recently Ms. Jesuale was the director of ComNet, a bureau of 
+
+the city of Portland, Oregon, responsible for all voice,
+ data, and video communications systems in the city 
+and provider of regional communications service
+s for government entities throughout the region. 
+ Robert LeGrande is the deputy chief technology officer in the Office of the Chief Technology Officer 
+(OCTO), District of Columbia government (DC).  
+Mr. LeGrande provides executive leadership for the 
+Wireless Networks Program, the Human Services Modernization Program, the Agency Liaison Group, 
+and the OCTO Chief Information Officer staff.  The Wireless Networks Program provides upgrades to the 
+push-to-talk radio networks of the DC Fire Depart
+ment, the DC Emergency Management System, and the 
+DC Metropolitan Police Department (MPD).  He 
+also manages, in conjunction with Washington 
+Metropolitan Area Transit Authority (WMATA), the 
+WMATA Public Radio System Program.  This 
+program will expand the upgraded DC Fire, EMS, 
+and MPD push-to-talk radio system to the WMATA 
+tunnel system radio network.  Mr. LeGrande ove
+rsees the Public Safety Wireless High Speed Data 
+Network Program as well.  The progr
+am™s objective is to construct a 
+broadband wireless
+ network using licensed dedicated spectrum to provide citywide access to
+ mission-critical applications.  In this effort, he 
+spearheaded the creation of the Spect
+rum Coalition for Public Safety to secure 10 MHz of spectrum in the 
+700 MHz band.  He and his team are actively working with
+ legislators to achieve this goal.  Additionally, 
+his team is creating the first broa
+dband wireless network for public saf
+ety.  The network will serve as a 
+testbed for public safety applications and provide 
+all public safety agencies with the insight to key 
+requirements and operational issues regarding broadba
+nd applications.  He leads the Human Services 
+Modernization Program team, which will upgrade some 
+DC human services IT applications and integrate 
+all of them.  He also heads the Agency Liaison Gr
+oup, which provides IT program direction and support 
+to all district agencies and reviews and approves a
+ll DC IT project purchases. Finally, Mr. LeGrande is 
+the deputy responsible for OCTO chief information offi
+cer (CIO) staff.  This program is responsible for 
+providing CIO leadership and direction to multiple di
+strict agencies.  Prior to Mr. LeGrande™s position with the DC government, he was responsible for 
+overseeing all development of products within the 
+NuVizion portfolio.  At Proxicom he served as the managing director for the National Microsoft Practice, 
+
+with executive oversight responsibilities for a di
+verse set of program engagements such as 
+www.exxonmobil.com, www.MBCC.com, www.AEAn
+et.org and www.MERANT.com.  Prior to 
+Proxicom, Mr. LeGrande worked as a consultant pr
+ogram manager for MCI™s Internet and Intranet 
+Development Group.  Here he managed over 18 We
+b-based projects, including www.MCICENTER.com 
+and MCI™s award-winning investor relations Web site. 
+ He began his career with Lockheed Martin, where 
+he held positions in configuration management soft
+ware test and integration engineering and project 
+management on the AN/BSY Submarine Combat System and Vertical Launching System programs.  Mr. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+29LeGrande received his education at Clark Atlanta Univ
+ersity, where he graduated with a B.S. in physics 
+and a minor in mathematics.  
+ Glen Nash is senior telecommunications engineer in the State of California Department of General 
+Services.  Marilyn Praisner is the longest serving woman ever on the Montgomery County Council.  She is 
+currently in her fourth term representing District 4.
+  Ms. Praisner served as council president in 1993 and 
+1997 and as vice president in 1992 and 1996.  Prior to being elected to the County Council, she worked 
+
+for the Central Intelligence Agency for 
+16 years, serving as an analyst, a branch chief, and on the staff of 
+the Deputy Director of Intelligence.  A county offi
+cial known for her national leadership on technology 
+and telecommunications issues, Ms. Praisner has re
+presented local government across this country at 
+numerous technology conferences on public safety comm
+unications, cable television, the siting of cellular towers, and rights-of-way management.  She h
+as represented local government on public safety 
+communications committees, including the National Task
+ Force on Interoperability (as vice chair of the 
+Governance Subcommittee) and the Department of 
+Homeland Security™s Executive Committee for the 
+Public Safety Wireless Network (PSWN) program. She currently serves as a member of the Department™s 
+
+SAFECOM Executive Committee. She al
+so serves on the Homeland Security Task Force of the National 
+Association of Counties (NACo).  Ms. Praisner is a Maryland vice chair for Capital Wireless Integrated 
+Network (CapWIN), a public safety communication syst
+em for the Washington, D.C., metropolitan area.  
+A member of the board of directors of the NACo, she is in her second term as chair of its 
+
+Telecommunications and Technology Steering Committ
+ee.  The immediate past president of the 
+Maryland Association of Counties, she also serves 
+on the Maryland Interoperability Governance Working 
+Group.  SESSION 3: FEDERAL SPECTRUM MANAGEMENT AUTHORITIES 
+ Michael Gallagher is the Acting Assistant Secretary of Commerce for Communications and Information 
+and Acting Administrator of NTIA.  He most recentl
+y served as the deputy chief of staff for policy and as 
+counselor to the Secretary of Commerce.  He was 
+the lead policy advisor to the Secretary and was 
+responsible for the effective coordination of polic
+y initiatives within the Commerce Department and 
+across the administration.  As a leading member of
+ the Bush administration's technology team, he has 
+focused on bringing the benefits of new telecomm
+unications technologies to American consumers.  
+Working closely with the FCC and other government ag
+encies, Gallagher directed NTIA's technical study 
+that led to the FCC's approval of ultrawideband, a 
+new technology that could spur the development of 
+devices to underlay the radio frequency spectrum, 
+improving the ability of public safety entities to 
+respond to emergencies.  He led NTIA's developmen
+t of a spectrum allocation plan, paving the way for 
+deployment of advanced mobile telecommunicati
+ons services known as third-generation (3G).  The 3G plan, which identified 90 MHz of radio spectrum for futu
+re wireless services, is a significant part of the 
+administration's overall initiative to promote efficien
+t use of the radio spectrumŠkey to improving the 
+quality of voice and data services and 
+enhancing the delivery of health services.  Mr. Gallagher has a B.A. 
+from the University of California at Berkeley and a J.D.
+ from the University of California at Los Angeles.  
+ Julius Knapp is deputy chief of the FCC™s Office of Engi
+neering and Technology (OET).  Previously he 
+was chief of the policy and rules division for OET 
+and oversaw spectrum allocations and technical rules 
+for radio frequency devices as well as coordination of 
+radio frequency issues with the federal government. 
+Knapp has also served as the chief of the FCC labor
+atory, where he was responsible for the FCC™s 
+equipment authorization program.  He held a variety 
+of other positions during his 26 years with the FCC, 
+including heading the Frequency Allocations Bran
+ch, where he directed FCC frequency allocation 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+30proceedings for cellular service, private land mobile 
+services, and mobile satellite services.  He is a 
+member of the Institute of Electronics and Electri
+cal Engineers and the Electromagnetic Compatibility 
+Society and is a fellow of the Radio Club of Ameri
+ca.  Mr. Knapp has a B.S. in electrical engineering 
+from the City College of New York. 
+ John Muleta is chief of the Wireless Telecommuni
+cations Bureau (WTB) of the Federal Communications Commission, appointed in January 
+2003.  Prior to this appointment, he was the 
+president and CEO of Source 1 Technologies LLC, a privately held systems integration firm in 
+Washington, D.C.  Mr. Muleta was also a cof
+ounder of OI Systems, Inc., a Washington-based 
+management consulting firm.  He previously serve
+d at the FCC, where he held various positions, 
+including deputy bureau chief and chief of the En
+forcement Division of the Common Carrier Bureau.  
+After leaving the FCC, Mr. Muleta held the position 
+of president for PSINet Ventures, Inc., and before 
+that, was president of PSINet's Global Facilities Division and the India, Middle East, and Africa Division.  
+He began his career at GTE Corporation and later wo
+rked at Coopers & Lybrand Consulting, LLC, before 
+joining the FCC.  Mr. Muleta has a B.S. in systems e
+ngineering from the University of Virginia School of 
+Engineering and Applied Sciences, and M.B.A. and J.
+D degrees from the University of Virginia joint 
+degree program. 
+ Andrea Petro is a program examiner at the Office of Management and Budget. 
+ David Siddall
+ is an attorney with the law firm Paul, H
+astings, Janofsky, and Walker LLP in Washington, 
+D.C.  Mr. Siddall advises and represents a wide ra
+nge of clients on wireless
+ spectrum and equipment 
+issues before the FCC, Congress, and 
+executive branch agencies.  He brings to the table many years of 
+communications policy experience on Capitol Hill and 
+at the FCC before entering private practice, including service as chief of the FCC™s spectrum manage
+ment branch and later as wireless advisor to an 
+FCC commissioner.  He was at the heart of the po
+licy debates in the 1990s, when the FCC allocated 
+spectrum and adopted rules to govern a variety of ne
+w services such as PCS, digital TV, satellite digital 
+audio radio, and low Earth orbit satellites.  Mr. Sidda
+ll is admitted to practice before the bars of the 
+District of Columbia and the U.S. Supreme Court.
+  He also is an active member of the Federal 
+Communications Bar Association and the American Ba
+r Association.  He is coauthor of the book 
+FCC LobbyingŠA Handbook of Insider Tips and Practical Advice
+.   SESSION 4: FREQUENCY MANAGERS AND AMATEUR RADIO 
+ Robert Gurss
+ serves as director of legal and government affairs for the Association of Public-Safety 
+Communications Officials International (APCO).  His 
+experience covers all aspects of communications 
+law, including issues related to wireless telecommunications, common carrier, cable, and broadcasting 
+
+matters.  His practice currently focu
+ses on the representation of governmental entities and corporations on 
+wireless telecommunications issues.  His exper
+tise includes domestic and international spectrum 
+allocations, transactions involving communications
+ facilities, frequency reallocation negotiations, 
+resolution of interference disputes, complex FCC li
+censing matters, regulatory compliance issues, rule 
+waivers, equipment standards, tower siting and related environmental assessment issues.  Mr. Gurss has 
+been an active participant in the Public Safety Wi
+reless Advisory Committee, the Public Safety National 
+Coordination Committee, the National Public Safety 
+Telecommunications Council, and the National Task 
+Force on Interoperability.  He is a frequent speak
+er on communications law issues and has written the 
+monthly ﬁWashington Viewﬂ column in 
+Public Safety Communications
+ magazine for the past 14 years.  
+Mr. Gurss is a director and past president of the Land Mobile Communications Council, a coalition of 
+major associations representing the interests of wirele
+ss telecommunications licensees before the FCC. He 
+has a B.A. and a J.D. from th
+e University of Michigan. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+31 William Moroney is the president, chief executive officer, and member of the board of directors of the 
+United Telecom Council (UTC) and the United Power Li
+ne Council (UPLC).  UTC is the international 
+trade association representing the telecommunications and 
+IT interests of electric, gas, and water utilities 
+and other critical infrastructure entities.  UPLC 
+is a trade association of utilities and technology 
+companies involved in the deployment of broadband
+ over power line (BPL) services.  Mr. Moroney has 
+spent the last 20 years as the leader of industry organizations driving technological change and 
+
+convergence in networking and electronic commerce.
+  Before joining UTC, he served as the chief 
+executive of the MultiMedia Telecommunications As
+sociation (MMTA), the Business Quality Messaging 
+Forum (BQM Forum), the Electronic Messaging Asso
+ciation (EMA), the Electronic Funds Transfer 
+Association (EFTA), the National Automated Clearing House Association (NACHA), and his own 
+consulting and financial newsletter 
+publishing company.  He also has 
+held public affairs and marketing 
+positions at other trade associations and worked 
+on two presidential campaigns and as a broadcast 
+journalist.  Mr. Moroney is a member of the board of directors of the research foundation of the 
+Consumer Energy Council. 
+ Paul Rinaldo
+ is the chief technology officer for the 
+American Radio Relay League, the national 
+association for amateur radio.  His current duties 
+include U.S. government relations on domestic and 
+international matters, including the In
+ternational Telecommunication Union (ITU).  He has participated in 
+ITU plenipotentiary conferences, world radio conferences, study groups, working parties, and task groups 
+
+and in related U.S. preparatory meetings.  He curre
+ntly chairs the ITU-R group charged with technical 
+studies related to the amateur and amateur-satellite se
+rvices.  He chaired ITU groups on wind profiler 
+radar and out-of-band emissions.  He is a senior memb
+er of the Institute of Electrical and Electronics 
+Engineers (IEEE) and a member of the Board of the United States ITU Association. Mr. Rinaldo studied 
+radio engineering at Valparaiso Technical Institute. 
+ 
+Kenneth Ryan
+ is director of Spectrum Management Solutio
+ns for Comsearch.  He is responsible for 
+fixed, satellite, and emerging wireless technologies in
+ engineering, business development, and spectrum 
+management.  He is currently working on projects 
+involving federal government wireless initiatives, 
+domestic and international specialized spectrum management services, and emerging wireless services 
+such as Dedicated Short-Range Communications, Enha
+nced Safety of Vehicles, and satellite Ka-band 
+systems.  He is active in the Telecommunications 
+Industry Association and National Spectrum Managers 
+Association.  He is a member of the NSMA board
+ of directors and is chairperson for the Satellite 
+Technologies Working Group.  He has been working 
+with intersystem interfe
+rence assessment, satellite Earth station system design, and 
+regulatory consulting 
+for two decades. Mr. Ryan is a professional 
+engineer registered in the state of Virginia. He has a B.S. in electrical engineering from George Mason 
+University and an M.S. in electrical engin
+eering from Virginia Polytechnic Institute.  
+SESSION 5: CONSUMER ORGANIZATIONS 
+ Mark Cooper is director of research at the Consumer Federation of America, where he has responsibility 
+for energy, telecommunications, and economic policy analysis.  He is also director of the Digital Society 
+
+Project, a Ford Foundation-funded effort to analyze and explain the impact of ongoing technological 
+
+changes in American society to consumer, low income
+, and civil rights activists and organizations.  He 
+has published in trade and scholarly journals numerou
+s articles on telecommunications and digital society 
+issues, as well as antitrust and energy policy.  Dr. Co
+oper was also a fellow at the Stanford Law School 
+Center for Internet and Society and an associate fello
+w at the Columbia University Institute on Tele-
+Information.  He is the author of four books, including 
+Media Ownership and Democracy in the Digital 
+Information Age: Promoting Diversity with First 
+Amendment Principles and Market Structure Analysis (Center for Internet and Society, 2003).  Dr. Cooper has a Ph.D. from Yale University. 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+32 Harold Feld, associate director of the Media Access Project, joined MAP after practicing 
+communications, Internet, and energy law at Covington & 
+Burling.  He served as co-chair of the Federal 
+Communications Bar Association's Online Committee 
+and has written numerous articles on Internet law 
+and communications policy for trade publications and lega
+l journals.  In addition, Mr. Feld clerked for the 
+Hon. John M. Ferren of the District of Columbia
+ Court of Appeals. He has a B.S. from Princeton 
+University and a J.D. from Boston University Law School.  
+
+ SESSION 6A: CARRIERS 
+ Jim Bugel
+, executive director for Federal Government Affairs/National Security for Cingular Wireless 
+LLC, is responsible for federal regulatory policy an
+d strategic planning for Cingular Wireless.  Mr. 
+Bugel brings to the federal regulatory environment ye
+ars of experience in the wireless industry.  He has held management and leadership positions in the 
+operations, marketing, and finance sectors of the 
+company.  In Washington, D.C., Mr. Bugel is activel
+y involved in federal spectrum management issues at 
+both the Federal Communications Commission and 
+National Telecommunications and Information 
+Administration.  His added responsibilities include th
+e newly created Department of Homeland Security, 
+where he is Cingular's representative on matters relating to homeland security.  Prior to the formation of 
+Cingular Wireless, Mr. Bugel was with BellSouth. Mr. Bugel received his Bachelors in Business Science 
+from Miami University in Oxford, Ohio.   
+ Diane Cornell
+ is vice president for regulatory policy at the Cellular Telecommunications & Internet 
+Association (CTIA).  She is responsible for coordinating regulatory issues affecting the mobile wireless 
+industry.  Since joining CTIA Ms. Cornell has worked on a wide range of issues involving spectrum, 
+universal service, and regulatory mandates.  She previously worked at the FCC in a number of positions.  
+
+Her last position at the FCC was as associate chie
+f in the Wireless Telecommunications Bureau, where 
+she served as chief of staff.  There she was involved 
+in a wide range of wireless communications issues, 
+including various spectrum-related rulemakings and 
+issues involving third-generation mobile systems.  
+As chief of the Telecommunications Division of the In
+ternational Bureau and chief of the International 
+Policy Division of the Common Carrier Bureau, she w
+as responsible for international policy rulemakings, 
+facilities and service authorizations, and multilateral and 
+bilateral conferences.  Before joining the FCC, Ms. Cornell was a senior associate specializing in telecommunications with the law firm of Squire, 
+
+Sanders and Dempsey in Washington, D.C.  She is 
+currently an officer of the Federal Communications 
+Bar Association.  Ms. Cornell has a B.A. from Wesley
+an University and a J.D. from the University of 
+Pennsylvania. 
+ Jim Smoak,
+ director of business development, Verizon Wireless, has been in the wireless industry for over 10 years.  He has held several positions in sales, 
+training, customer service, engineering, and product 
+development.  Mr. Smoak currently works in the 
+wireless data and multimedia department and is a 
+director within the business development function.
+  Some of his larger responsibilities include the 
+company's efforts around location-based services and smart devices, and he is responsible for the 
+
+company's marketing relationship with Microsoft Corporation. 
+ SESSION 6B: BROADCASTING SERVICES 
+ David Donovan
+ is president of the Association for Maximum Service Television, Inc. (MSTV).  MSTV 
+is a 48-year old national association of over 430 local
+ television stations dedicated to promoting the 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+33technical quality of free, local, over-the-air television service and has taken a leading role in the transition 
+to digital television service.  Mr. Donovan has n
+early 20 years of broadcast regulatory and policy 
+experience, and prior to accepting the position of MSTV president, he served as the vice president for 
+legal and legislative affairs for the Association of Lo
+cal Television Stations, Inc. (ALTV).  He has also 
+served as the mass media legal advisor to two FCC commissioners, as well as legal advisor to the chief of 
+
+the Mass Media Bureau.  Mr. Donovan came to the FCC from Boston, where he was in the private 
+practice of law.  He also served as law clerk to th
+e Judicial Council of Massachusetts. He has a B.A. and 
+an M.A. in communications from the University of
+ Massachusetts, Amherst, and a J.D. from Suffolk 
+University Law School. 
+ Kalpak Gude is vice president for government regulator
+y affairs and associate general counsel of 
+PanAmSat.  PanAmSat is a leading commercial provi
+der of global satellite communications services in 
+both video (including cable television program distribu
+tion, direct-to-home television, and special events 
+coverage) and data (including VSAT networks and Internet backbone connectivity).  His responsibilities 
+include leading the corporate effort on global and do
+mestic regulatory affairs,
+ which entail management of PanAmSat™s international market entry, global 
+licensing, and international policy efforts, along with 
+legislative, regulatory policy, and licensing issues befo
+re the U.S. government.  His work also focuses on 
+corporate compliance with U.S. export control regulati
+ons and international spectrum management issues.  
+These responsibilities include management of PanAmSat™s regulatory efforts at the ITU and global 
+compliance with ITU regulations.  Mr. Gude wo
+rked as counsel on the U.S. Senate Committee on 
+Commerce, Science, and Transportation, as well as 
+the Subcommittee on Communications before joining 
+PanAmSat.  There, he focused on areas of telecommuni
+cations, the Internet, and satellites.  Prior to his work with the U.S. Senate, he was an attorney/a
+dvisor in the Policy and Program Planning Division, 
+Common Carrier Bureau of the FCC, where he focu
+sed on local telecommunications competition and was 
+one of the primary authors of the FCC™s local competition rules implementing the 1996 
+Telecommunications Act.  Mr. Gude has a B.S. in el
+ectrical engineering from the Rochester Institute of 
+Technology and a J.D. from the Indiana University School of Law, Bloomington.  
+ Greg Schmidt
+ is vice president for new development and ge
+neral counsel of LIN Television Corporation, 
+where he oversees legal and regulatory operations.  Mr
+. Schmidt came to LINTV from his partnership in 
+the Washington law firm of Covington & Burling, where he practiced communications law for 15 years.  
+
+At C&B, he represented a wide variety of mid-sized broadcast companies, including LINTV, as well as 
+
+television trade associations, including the CBS Te
+levision Network Affiliates Association and the 
+Association for Maximum Service Television (MSTV
+). While representing MSTV, Mr. Schmidt helped 
+craft the industry™s initial regulatory strategy for the 
+transition to digital television.  As interim co-
+president of MSTV, he assisted in the completion of 
+the industry™s reevaluation of its digital transmission 
+standard.  He is currently on the boards of the Me
+dia Institute and the Washington International School 
+and has served on the executive committee and as chai
+rman of various committees of the Federal 
+Communications Bar Association.  Prior to his work with C&B, he served as a clerk and as deputy 
+supervising staff attorney for the United States Court of
+ Appeals for the Ninth Circuit. He has a B.A. from 
+Swarthmore College and a J.D. from Stanford University. 
+ SESSION 6C: COMMERCIAL AND GOVERNM
+ENT SERVICES AND APPLICATIONS 
+ Bruce Fette
+ is chief scientist of the ISSPD division of 
+General Dynamics Decision Systems, working in 
+advanced signal processing for telephony and RF communi
+cations.  Dr. Fette has acquired 35 patents, is a member of the Motorola Science Advisory Board, a 
+Motorola Dan Nobel fellow, and has been given the 
+Distinguished Innovator Award.  He has worked with
+ the SDR Forum from its inception, currently as 
+technical chair, and is a panelist for the IEEE 
+Conference on Acoustics Speech and Signal Processing Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+34Industrial Technology Track.  Dr. Fette also is curre
+ntly heading the General Dynamics Signal Processing 
+Center of Excellence. He has a B.S.E.E. from the 
+ University of Cincinnati and M.S.E.E. and Ph.D. 
+degrees from Arizona State University.  
+ Pat Mahoney
+ is the vice president for regula
+tory and spectrum affairs for Iridium Satellite LLC, the owner and 
+operator of the Iridium Mobile Satellite System.  In this position, she is responsible for the coordination of spectrum 
+and regulatory issues impacting the Iridium satellite syst
+em, as well as the management of spectrum and service 
+authorizations necessary for operation in various countries in which Iridium provides service.  Mahoney has over 24 
+
+years experience as an attorney in 
+the communications field, specializing in regulatory matters, licensing, and 
+spectrum, including 5 years at Iridium
+ LLC, the predecessor of Iridium Satellite
+, LLC.  Immediately prior to joining 
+Iridium Satellite LLC, she was vice president at Final Analysis, one of the licensed ﬁLittle LEOﬂ MSS systems, 
+
+establishing and directing the domestic and international re
+gulatory policies and government affairs activities of that 
+company.  Ms. Mahoney began her communications regulato
+ry career at the communicati
+ons law firm of Fletcher 
+Heald and Hildreth, where she pr
+acticed for 16 years and was a partner.  Sh
+e has also served the satellite industry in 
+a number of leadership positions.  She is a former chai
+r of the Satellite Industry Association, an industry trade 
+association in the United States.  She served on th
+e FCC Advisory Committee for the ITU™s 2003 World Radio 
+Conference and was vice chair of the its Informal Working 
+Group on MSS, including GPS.  She was also one of 
+three U.S. satellite industry representativ
+es on an international task force of 
+leaders of government, industry, and the 
+science community established by the OECD to address the 
+impact of low Earth orbit satellites on the future of radio 
+astronomy. 
+
+ Thomas Walsh 
+is with Boeing Space and Communication Spectrum Management. 
+ Jennifer Warren is senior director of Trade and Regulator
+y Affairs in Lockheed Martin™s Washington, 
+D.C., operations, responsible for developing and im
+plementing corporate domestic and international 
+policy and regulatory strategies, with a particular emphasis on spectrum management, IT 
+
+policy/regulation, and satellite policies.  In additio
+n, she handles day-to-day government and regulatory 
+responsibilities associated with these issues.  Prior 
+to joining Lockheed Martin™s Space and Strategic 
+Missiles Sector, Ms. Warren was at the FCC in numer
+ous positions, including senior legal advisor to the chief of the International Bureau and, finally, assist
+ant chief of the Wireless Telecommunications Bureau.  
+Before joining the FCC, she interned at the Commission of the Eur
+opean Communities in Brussels, at both legal services and the Directorate General for Co
+mpetition, focusing on a range of EU activities with 
+Japan and the United States, including the U.S.-E
+U cooperation agreement on antitrust matters.  Since 
+entering the field of international telecommunicati
+ons, Ms. Warren has served both as a government and 
+private representative on U.S. delegations to numer
+ous international conferences, including the ITU 
+Plenipotentiary Conferences and World Radio Conferen
+ces.  She also served as vice chair of the FCC™s 
+Federal Advisory Committee for WRC-03 (WAC-03) a
+nd currently is vice chair of the TIA™s Spectrum 
+Policy Working Group, co-chair of the Satellite I
+ndustry Association™s Regulatory Working Group, and 
+chair of Industry Working Group-1 of the FCC™s WAC-07.  Ms. Warren has a B.S. in languages and a 
+
+J.D., both from Georgetown University. 
+ SESSION 7: TECHNOLOGY, STANDARDS, AND COMMERCIAL R&D 
+ Kevin Kahn is an Intel senior fellow and currently the di
+rector of the Communications Technology Lab, 
+an advanced development and research lab in Intel™
+s Corporate Technology Group responsible for radio, 
+optical, and copper physical layer technologies.  He
+ helps drive communications strategies and policy for 
+the corporation.  Some of his current primary 
+focuses are broadband access to the home, wireless LANs 
+and PANs, spectrum policy, and related Internet issues. 
+ He also coordinates Intel RF technical directions 
+across divisions and chairs the Intel Communicati
+ons Research Council, which oversees research 
+activities between Intel and academic programs.  Dr. Kahn serves on the FCC Technological Advisory 
+Council, the National Science Foundation™s Engin
+eering Advisory Council, and on various academic 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+35advisory committees.  Throughout his work with Intel,
+ he has worked in system software development, 
+operating systems, processor architecture, and various
+ strategic planning roles.  He has held both 
+management and senior individual contributor roles.
+  Dr. Kahn holds a B.Sc. in mathematics from  
+Manhattan College and M.S. and Ph.D. degrees in computer science from Purdue University. 
+ Carl Panasik is director of the advanced architectures 
+team for Texas Instruments (TI) and is also 
+currently a distinguished member of technical staff. 
+ He is responsible for U.S.-based research initiatives 
+in the Wireless Terminals Business Unit and is ch
+air of the Wireless Intellectual Property Rights 
+Committee.  The team develops wireless communications systems utilizing smart handsets.  Dr. Panasik 
+is TI™s early adopter for ultrawideband communicati
+ons.  He has worked on software-defined radio 
+architectures and digital signal processor-enhanced cellu
+lar power amplifiers that are designed for next-
+generation handsets.  Prior to his current position, 
+Dr. Panasik was program manager for the TI Odyssey 
+Program, where he directed technology development 
+for 2.5 and 3G Internet-ready handsets that will 
+allow consumers to view streaming 
+audio and video.  This research 
+effort covered adaptive antennas, multiband RF, baseband architecture, process technolog
+y, applications software, and other areas.  
+Previously, Dr. Panasik was the manager for the Wire
+less Data Research program, where he supported the 
+TI Notebook division in the development of wireless 
+meeting rooms and classrooms.  He also was the 
+program manager for the TI programmable transversal f
+ilter research contract for the U.S. Department of 
+Defense.  Dr. Panasik is a senior member of the I
+EEE and a certified professional engineer in the state of 
+Texas.  He holds 13 patents with ove
+r 30 patents pending.  Dr. Pansik has a B.S. in electrical engineering 
+from Cleveland State University and M.S. and 
+Ph.D. degrees from the University of Illinois. 
+ George (Gee) Rittenhouse
+ is vice president of the Wireless Research Laboratories at Lucent 
+Technologies, where he has headed several projects, including MIMO system development, network 
+optimization, wireless IP networks, and fourth-gen
+eration wireless.  He joined Bell Laboratories as a member of technical staff, where he developed a high-speed 0.1 µm NMOS process for optical 
+
+networking.  He later joined the Wireless Research 
+Laboratory at Bell Laboratories, where his research 
+focused on RF front-end radio architectures and cellular system engineering.  He has written for 
+
+numerous publications and holds patents in wireless sy
+stems and circuits.  He has also received the Bell 
+Labs fellow award. Dr. Rittenhouse holds a B.S. in ph
+ysics from the  University of California at Los 
+Angeles and a Ph.D. in electrical engineering and computer science from the Massachusetts Institute of 
+Technology.  
+ Carl Stevenson 
+is senior manager for standards and regulatory 
+affairs at Agere Systems, with experience 
+in the design and development of RF communications sy
+stems and equipment.  He is a senior member of 
+the IEEE, a member of the IEEE Standards Association,
+ a fellow of the Radio Club of America, chair of 
+the IEEE 802.18 Radio Regulatory Technical Advisory Group, and chair of the Wi-Fi Alliance 
+
+Regulatory Committee.   Charles Wheatley 
+is senior vice president for technology at Qualcomm, concentrating equally on RF 
+hardware design, system design, field testing, an
+d standards development.  He has been working on 
+various aspects of CDMA as applied to cellula
+r/personal communications since its inception.
+  He has been involved with spread spectrum systems for over 40 years, including both frequency hopping and 
+
+direct sequence systems.  At Rockwell Internationa
+l, he contributed to the GPS on various terminal 
+designs and was also responsible for technical aspects
+ of GPS™s spaceborne rubidium frequency standard.  
+After he moved to Linkabit, he contributed to RF
+ and system aspects of the Milstar program.  Dr. 
+Wheatley is an IEEE fellow and holds
+ over 50 patents on various techni
+ques and devices, mostly related 
+to communications and navigation. He holds a B.
+S. in physics from the California Institute of 
+Technology, an M.S. in electrical engineering from the University of Southern California, and a Ph.D. in 
+
+electrical engineering from the University of California at Los Angeles.
+  Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+36SESSION 8: WI-FI AND BROADBAND WIRELESS ACCESS TECHNOLOGIES 
+ Siavash Alamouti 
+is vice president for advanced development at 
+Vivato, where he has been a pioneer in wireless technologies.  Best known as the inventor of the Alamouti Code, the first multiple-input-
+multiple-output (MIMO) code adopted for a wireless st
+andard, his research and development efforts have 
+been recognized by the IEEE Communications Society as among the most influential in the organization's 
+
+history.  Since joining Vivato, Mr. Alamouti has help
+ed revolutionize the use of smart antenna technology 
+in Wi-Fi infrastructure systems and was instrumental in
+ building the first Wi-Fi switch.  Prior to joining 
+Vivato, he made contributions in specifying me
+thodologies and developing design libraries for third-
+generation wireless communications systems, wireless local area network (WLAN) systems and smart 
+antennae at Cadence Design Systems.  Mr. Alamou
+ti began his career developing and designing physical 
+and media access control (MAC) layer technologies at MPR Teltech and AT&T Wireless.  In addition to 
+
+his professional duties, Mr. Alamouti serves as a te
+chnical advisor to both the Harvard Broadband 
+Communications Laboratory (HBBCL) and Morpho Tec
+hnologies.  He has published more than 100 
+papers and technical reports and has received more 
+than 10 patents for his innovations in the field of 
+wireless communications.  Mr. Alamouti holds B.A.Sc. and M.A.Sc. degrees in electrical engineering 
+
+from the University of British Columbia. 
+
+ 
+Duane Buddrius, director of product engineering and product management for Alvarion Inc., has been 
+instrumental in Alvarion™s extraordinary growth, co
+ntributing heavily to the development of new products 
+for the 2.4-GHz, 5-GHz, and 900-MHz markets as well as managing the product life cycles for the North 
+
+American Division.  He pioneered the unlicensed 
+band direct sequence and frequency hopping spread 
+spectrum markets, working in systems engineering, research and development, and marketing.  Mr. 
+
+Buddrius has participated in IEEE 802.11 wireless st
+andards development, FCC rule-making procedures, 
+and in the WLANA, Wi-Fi, and WiMAX industry associa
+tions.  Prior to Alvarion, Mr. Buddrius held 
+positions as director of engineering and director of 
+product development at Solectek Corporation and at 
+other players in the wireless industry. 
+ Leigh Chinitz 
+is the chief technical officer for the Wirel
+ess LAN Division of Proxim Corporation.  His 
+responsibilities include setting and leading technolog
+y directions across the Proxim LAN Division and 
+driving the overall software and hardware architecture and technology roadmaps.  In addition, his position 
+entails participation in many technical, regulatory, 
+and standards organizations.  Previously he was the 
+chair of the technical committee within the HomeRF
+ Working Group, and currently he is an active 
+participant in the 802.11 standards committees. Prior to
+ joining Proxim he worked in systems technology 
+research for Motorola and later was responsible for coordinating Motoro
+la™s participation in FCC rule-
+making proceedings as part of Motorola™s government re
+lations organization.  Mr. Chintz holds a B.S. in 
+physics from Yale University and an M.S. 
+in physics from the University of Virginia. 
+ Michael Green, manager of Global Product Compliance at Atheros Communications, is responsible for 
+regulatory approvals of 802.11a, b, 
+and g products.  Over the past 2 years he has lobbied spectrum 
+regulators in the United States, Asia, and Europe to
+ remove barriers to use of the 5-GHz bands and 
+participated in the U.S. and European prepara
+tion for the World Radio Conference 2003, which has 
+resulted in a global allocation of 455 MHz of spectru
+m for use by wireless LAN devices.  He formerly 
+worked at 3Com Corporation as manager of the re
+gulatory affairs and approvals group responsible for 
+global approvals of all product categor
+ies and as a wireless product manager.  Dewayne Hendricks is currently CEO of the Dandin Group, Inc., based in Fremont, California. The 
+Dandin Group offers a comprehensive range of pr
+oducts and services, including research and product 
+development, for wireless communications via the Inte
+rnet.  The Dandin Group will begin to deploy the 
+first exclusively wireless Internet
+-based communications system, includi
+ng voice, data, and video, in 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF SPEAKERS 
+37Tonga later this year.  He is also an active member 
+of the FCC Technological Advisory Council.  Prior to 
+forming the Dandin Group, he was the general manage
+r of the Wireless Business Unit for Com21, Inc.  
+He joined Com21 following an opportunity to particip
+ate as the co-principal investigator in the NSF™s 
+Wireless Field Tests for Education project.  The pr
+oject successfully connected remote educational 
+institutions to the Internet.  The test sites ranged fro
+m rural primary schools in Colorado to a university in 
+Ulaan Baatar, Mongolia.  Mr. Hendricks was the CEO and cofounder of Tetherless Access Ltd., one of 
+
+the first companies to develop and deploy Part 
+15 unlicensed wireless metropolitan area data networks 
+using the TCP/IP protocols.  He has participated in the installation of 
+these networks in other parts of the 
+world, including Kenya, Tonga, Mexico, Canada, and 
+Mongolia.  In 1986, he ported the popular KA9Q 
+Internet Protocol package to the Macintosh, allowing the Macintosh platform to be used in packet radio 
+networks.  Today, thousands of amateur radio 
+operators worldwide use the NET/Mac system he 
+developed to participate in the global packet radio In
+ternet.  This system continues to be developed and 
+deployed by the amateur radio service.  He has been
+ involved with radio since receiving his amateur radio 
+operator's license as a teen.  Mr. Hendricks currently 
+holds official positions in several national nonprofit 
+amateur radio organizations and is a director of th
+e Wireless Communications Alliance, an industry group 
+representing manufacturers in the unlicensed radio industry.   
+ Bradley Holmes
+ is with Arraycomm, Inc. 
+ SESSION 9: GOVERNMENT AND ACADEMIC R&D 
+ Preston F. Marshall has an almost 30-year background in 
+communications, software and hardware 
+development, and system developm
+ent.  Currently he is with DARPA™s Advanced Technology Office, 
+and serves as program manager for the neXt Ge
+neration (XG) Communications, WolfPack, and 
+Connectionless networking programs, as well as several smaller efforts.  The XG program is developing 
+
+technology to provide adaptive spectrum algorithms, wa
+veforms, and media access in an integrated, open 
+product.  The WolfPack program is developing an 
+electronic and signal intelligence/communications and 
+radar denial system that uses a distributed networ
+k of forward-positioned, Coke-can-sized devices and 
+networks the multiple assets to achieve order-of-
+magnitude increases in capability over conventional 
+standoff technology.  Mr. Marshall previously w
+as employed by a number of defense electronics 
+companies and participated in the Trident submarin
+e, missile defense, B-1B electronic countermeasures 
+and acoustic processing programs, and he has supported several Office of the Secretary of Defense offices 
+in the area of spectrum-related policy and technology
+.  Mr. Marshall holds B.S.E.E and M.S. degrees in 
+information science from Lehigh University. 
+ Dipankar Raychaudhuri is a professor of electrical and computer engineering and director of the 
+Wireless Information Network Lab (WINLAB) at Rutgers University.  As WINLAB's director, he is 
+
+responsible for a cooperative industry-university rese
+arch center with focus on next-generation wireless technologies.  WINLAB's current research scope incl
+udes topics such as RF/sensor devices, UWB, future 
+3G and WLAN systems, spectrum management, ad hoc 
+networks, and pervasive computing.  Prior to 
+WINLAB, he held progressively responsible cor
+porate R&D positions in telecom and networking, 
+including chief scientist for Iospan 
+Wireless, assistant general manager and department head of systems 
+architecture for NEC USA C&C Research Laboratories,
+ and head of broadband communications research 
+for the Sarnoff Corporation.  Research and develo
+pment highlights include the multimodal sensor-on-
+silicon center of excellence (MUSE), hierarchical self-organizing ad hoc wireless network for sensors and 
+4G, and AirBurst, a MIMO/OFDM system for broadba
+nd fixed wireless access.  Dr. Raychaudhuri holds 
+10 patents on various topics, incl
+uding broadband wireless networks, MAC protocols, digital video, and 
+VSAT networks.  A past vice-chair of the Wireless 
+ATM Working Group of the ATM Forum, he is also 
+an IEEE fellow and editor of IEEE Multimedia and ACM M2CR.  He holds a B.Tech. in electronics and 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+38electrical communications from the Indian Institute 
+of Technology at Kharagpur and M.S. and Ph.D. 
+degrees in electrical engineering from SUNY at Stony Brook. 
+ Moe Z. Win
+ has been since 2002 with the Department of Aeronautics and Astronautics
+ and the Laboratory for Information and Decision Systems at th
+e Massachusetts Institute of Technology, where he holds the Charles Stark Draper Chair.  His main resear
+ch interests are the application of mathematical and 
+statistical theories to communication, detection, and 
+estimation problems.  Specific current research topics 
+include measurement and modeling of time-varying ch
+annels, design and analysis of multiple antenna 
+systems, ultrawide bandwidth communications syst
+ems, optical communications systems, and space 
+communications systems.  From 1998 to 2002, he was with the Wireless Systems Research Department at 
+
+AT&T LaboratoriesŒResearch.  From 1994 to 1997, he
+ was a research assistan
+t with the Communication Sciences Institute at the University of Southern Ca
+lifornia (USC), where he played a key role in the 
+successful creation of the Ultra-Wideband Radio Labora
+tory.  In 1987, Dr. Win was at the Jet Propulsion 
+Laboratory of the California Institute of Technol
+ogy, where he performed research on digital 
+communications and optical systems for NASA space 
+exploration missions.  He currently serves as the 
+technical program chair for the IEEE Communication Theory Symposium of ICC-2004.  He served as the 
+
+technical program chair for the IEEE Communication Theory Symposium of Globecom-2000 and the 
+
+IEEE Conference on Ultra Wideband Systems and Technologies in 2002, technical program vice-chair for 
+
+the IEEE International Conference on Communications in 2002, and the tutorial chair for the IEEE 
+Semiannual International Vehicular 
+Technology Conference in fall 2001.  He is the secretary for the 
+Radio Communications Technical Committee of the I
+EEE Communications Society.  Dr. Win currently 
+serves as area editor for 
+Modulation and Signal Design 
+and as editor for Wideband Wireless and 
+Diversity
+, both for IEEE Transactions on Communications
+.  He served as the editor for Equalization and 
+Diversity 
+from July 1998 to June 2003 for the 
+IEEE Transactions on Communications
+ and as a guest 
+editor for the 2002 
+IEEE Journal on Selected Areas in Communications
+ special issue on Ultra-Wideband Radio in Multiaccess Wireless Communications.  Dr. Win was awarded a B.S. from Texas A&M 
+
+University in 1987 and an M.S. degree from the University of Southern California at Los Angeles in 
+
+1989, both in electrical engineering.  As a Presidentia
+l Fellow at USC, he received both an M.S. degree in 
+applied mathematics and a Ph.D. degree in electrical engineering in 1998.   
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved. 39 D  Biographies of Committee and Staff Members   
+   
+ 
+ 
+   
+ 
+ 
+David E. Liddle, Chair, is a general partner in the firm U.S. 
+Venture Partners, a leading Silicon Valley 
+venture capital firm that specializes in building comp
+anies from an early stage in digital communications, 
+networking, wireless communications
+, semiconductors, technical software
+, and e-health.  He retired in December 1999 after 8 years as CEO of Interval Resear
+ch Corporation.  During and after his education 
+(B.S. and E.E., University of Michigan; Ph.D., com
+puter science, University of Toledo), Dr. Liddle has 
+spent his professional career developing technologies 
+for interaction and communication in activities 
+spanning research, development, management, and entr
+epreneurship.  First, he spent 10 years at the 
+Xerox Palo Alto Research Center and the Xerox In
+formation Products Group, where he was responsible 
+for the first commercial implementation of the graphi
+cal user interface and local area networking.  He 
+then founded Metaphor Computer Systems, whose 
+technology was adopted by IBM and the company 
+ultimately acquired by IBM in 1991.   In 1992, Dr. 
+Liddle co-founded Interval Research Corporation with 
+Paul Allen.  During his tenure, the company formed
+ six new companies and several joint ventures based 
+on the research conducted at Interval.  Dr. Liddle 
+is a consulting professor of computer science at 
+Stanford University.  He has served as a director 
+at Sybase, Broderbund Software, Metricom, Starwave, 
+and Ticketmaster; he is currently a director with the New York Times Company, in addition to numerous 
+early-stage companies.  He was honored as a distingui
+shed alumnus from the University of Michigan and 
+is a member of the national advisory committee at the 
+College of Engineering of that university.  He is 
+also a member of the advisory committee of the School
+ of Engineering at Stanford University and of the 
+College of Engineering at the University of Californi
+a, Berkeley.  He has been elected a senior fellow of 
+the Royal College of Art for his contributions to human-computer interaction.  His current technology and 
+
+investment interests are particularly focused
+ on signal processing, with emphasis on wireless 
+communications. 
+ Yochai Benkler is a professor of law at Yale Law School.  
+His research focuses on the effects of laws that regulate information production and exchange on th
+e distribution of control over information flows, 
+knowledge, and culture in the digital environment.  Hi
+s particular focus has been the neglected role of commons-based approaches toward management of res
+ources in the digitally netw
+orked environment.  He 
+has written about the economics and political th
+eory of rules governing telecommunications 
+infrastructure, with a special emphasis on wirel
+ess communications, rules governing private control over 
+information, in particular intellectual property, a
+nd of relevant aspects of U.S. constitutional law.  
+Previously, Mr. Benkler had been a professor at New 
+York University School of Law, where he was 
+director of the Engelberg Center for Innovation Law a
+nd Policy and of the Information Law Institute.  Mr. 
+Benkler received his J.D from Harvard Law School and his LL.B. from Tel Aviv University.   
+
+ Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+40David Borth is an expert on wireless communications, with insight into national security as well as 
+commercial needs.  He is corporate vice president and director of the Communications Research 
+
+Laboratories of Motorola, a part of the company's 
+research arm, Motorola Labs.  Dr. Borth joined 
+Motorola in 1980 as a member of the Systems 
+Research Laboratory in corporate research and 
+development.  As a member of that organizati
+on, he has conducted research on digital modulation 
+techniques, adaptive digital signal processing methods
+ applied to communication systems, and personal 
+communication systems, including both cellular and PC
+S systems.  He has contributed to Motorola's 
+implementations of the GSM, TDMA (IS-54/IS-136), a
+nd CDMA (IS-95) digital cellular systems.  In his 
+current role, he manages a multinational (United 
+States, Australia, France, Japan, United Kingdom) 
+organization focusing on all aspects of communication 
+systems, ranging from theoretical systems studies 
+to system and subsystem analysis and implementation 
+to integrated circuit designs.  Dr. Borth received his B.S., M.S., and Ph.D. degrees in electrical engineering from the University of Illinois at Urbana-
+Champaign.  Previously, he was a member of the 
+technical staff of the systems division of Watkins-
+Johnson Company and an assistant professor in the School
+ of Electrical Engineering, Georgia Institute of 
+Technology.  Dr. Borth is a member of Motorola's
+ Science Advisory Board Associates and has been 
+elected a Dan Noble Fellow, Motorola's highest honorary
+ technical award.  He has been issued 31 patents 
+and has authored or co-authored chapters of five books in addition to 25 publications.  He received the 
+Distinguished Alumnus Award from the University of
+ Illinois Electrical and Computer Engineering 
+Alumni Association and was elected a fellow of the Institute of Electrical and Electronics Engineers for 
+his contributions to the design and development of
+ wireless telecommunication systems.  He is a 
+registered professional engineer in the state of Illinois.  Dr. Borth was a member of the Computer Science 
+and Telecommunications Board from 2000 to 2003.  He also served on the CSTB committee that 
+
+produced the report 
+Information Technology for Counter-Te
+rrorism: Immediate Action and Future 
+Possibilities (2003).  Robert W. Brodersen
+ is the John R. Whinnery Distinguished Professor in the Department of Electrical 
+Engineering and Computer Science at the University of 
+California at Berkeley. He is also the co-scientific 
+director of the Berkeley Wireless Research Center
+, where his research focus is the application of 
+integrated circuits to personal communication syst
+ems, with emphasis on wireless communications and 
+low-power design.  Dr. Brodersen's research is fo
+cused in the areas of low power design and wireless communications and the CAD tools necessary to support 
+these activities.  He has won best paper awards for a number of journal and conference papers in 
+the areas of integrated circuit design, CAD, and communications, including the W.G. Baker Award in 
+1979. In 1982 he became a fellow of the IEEE. He was corecipient of the IEEE Morris K. Liebmann Awa
+rd in 1983. He received technical achievement 
+awards in the IEEE Circuits and Systems Society 
+in 1986, from the Signal Processing Society in 1991, 
+and in 1999 from the ACM Special Interest Group in
+ Mobile Computing.  Dr. Brodersen was elected a 
+member of the National Academy of Engineering in 
+1988.  In 1996, he received the IEEE Solid State 
+Circuits Award.  He was awarded an honorary doctorate
+ from the University of Lund, Sweden, in 1999, 
+and in 2000 he received the Millennium Award from 
+the Circuits and Systems Society and the Golden 
+Jubilee Award from the IEEE.  In 2001 he was awar
+ded the Lewis Winner Award for outstanding paper at 
+the IEEE International Solid-State Circuits Confer
+ence. He has served on the editorial board or as 
+reviewer for numerous scholarly jour
+nals and publications, including the 
+IEEE Journal of Solid-State 
+Circuits, IEEE Transactions on VLSI Systems
+, IEEE Personal Communications Magazine, and Wireless 
+Personal Communications
+ (Kluwer Press).  He is the author or co-author of over 60 journal publications; 
+120 published conference papers; and 
+author, co-author, editor, or contributor to 14 books, including 
+An Anatomy of a Silicon Compiler
+ (1992, Kluwer Academic Publishers) and 
+Low Power Digital CMOS Design (1995, Kluwer Academic Publishers).  He rece
+ived his Ph.D. degree in engineering from the 
+Massachusetts Institute of Technology in 1972. 
+ 
+David D. Clark graduated from Swarthmore College in
+ 1966 and received his Ph.D. from the 
+Massachusetts Institute of Technology in 1973.  He
+ has worked since then at the MIT Laboratory for 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF COMMITTEE MEMBERS 
+41Computer Science, where he is currently a senior r
+esearch scientist in charge of the Advanced Network 
+Architecture Group.  Dr. Clark's research interest
+s include networks, network protocols, operating 
+systems, distributed systems, and computer and communications security.  After receiving his Ph.D., he 
+worked on the early stages of the ARPANET and on the development of token ring local area network 
+technology.  Since the mid-1970s, Dr. Clark has been involved in the development of the Internet.  From 
+
+1981 to 1989, he acted as chief protocol architect in
+ this development and chaired the Internet Activities 
+Board.  His current research area is protocols and architectures for very large and very high speed 
+
+networks.  Specific activities include extensions to 
+the Internet to support real-time traffic, explicit 
+allocation of service, pricing, and new network technol
+ogies.  In the security area, Dr. Clark participated 
+in the early development of the multilevel secure Mul
+tics operating system.  He developed an information 
+security model that stresses integrity of data rather th
+an disclosure control.  Dr. Clark is a fellow of the 
+ACM and the IEEE and is a member of the National 
+Academy of Engineering.  He received the ACM 
+SIGCOMM award and the IEEE award in international communications, as well as the IEEE Hamming 
+
+Award for his work on the Internet.  He is a consu
+ltant to a number of companies and serves on a number 
+of technical advisory boards.  Dr. Clark is currently
+ chair of the CSTB (term ending June 30, 2004).  He 
+chaired the committee that produced the CSTB report 
+Computers at Risk:  Safe Computing in the Information Age and served on the committees that produced several other CSTB reports.  
+Thomas (Ted) E. Darcie
+ received his Ph.D. in aerospace physics 
+from the University of Toronto in 
+1982.  Currently, he is a professor at the University
+ of Victoria, British Columbia, holding a Tier 1 
+Canada Research Chair in Optical Systems for Comm
+unications, Imaging, and Sensing.  Previously he 
+worked at AT&T Bell Laboratories, where he joined th
+e technical staff to study a wide variety of topics 
+related to light-wave telecommunications, including fiber fabrication processes, semiconductor lasers, 
+optical amplifiers, and numerous m
+odulation and multiplexing techniques.  He has been a lead figure in 
+the development of light-wave systems for analog appli
+cations in cable television and wireless systems.  
+As head of access communications research at 
+AT&T Bell Laboratories (1989-1995), Dr. Darcie was 
+responsible for technology innovation in wireless, lig
+ht-wave, and hybrid fiber-coax systems.  He has 
+authored over 100 technical publications and 25 patent
+s spanning this broad set of technologies.  From 
+1995 to 2002, he was vice president at AT&T Laboratories, in charge of communications infrastructure 
+
+research.  His research laboratory provided technol
+ogy support for AT&T™s diverse requirements in 
+optical networking, broadband access, fixed wireless access, wireless LAN, and cellular systems.  His 
+team worked closely with AT&T businesses to provide
+ technical expertise and vision and has numerous 
+programs devoted to the evolution of mobile and 
+broadband services, applications, and technologies.  
+From 2002 to 2003, he was vice president for AT
+&T Labs™ Network Architecture and Strategic 
+Operations Planning, with responsibility for 
+connecting innovative ne
+twork technologies with opportunities within AT&T™s network.  Dr. Darcie is
+ an AT&T fellow, a fellow of the IEEE, and is 
+currently a member of the Computer Science and Telecommunications Board. 
+ Andrea Goldsmith
+ received B.S., M.S., and Ph.D. degrees in el
+ectrical engineering from the University 
+of California at Berkeley in 1986,
+ 1991, and 1994, respectively.  Sh
+e was an assistant professor in the 
+department of electrical engineering at Caltech from 1994 to 1999.  In 1999, she joined the electrical 
+engineering department at Stanford University, wh
+ere she is currently an associate professor.  Her 
+industry experience includes affiliation with Maxi
+m Technologies (1986-1990), where she worked on 
+packet radio and satellite communication systems, 
+and with AT&T Bell Laboratories (1991-1992), where 
+she worked on microcell modeling and channel estima
+tion.  Dr. Goldsmith™s research includes work on 
+the capacity of wireless channels and networks
+; wireless information and communication theory; 
+multiantenna wireless systems; energy-constraine
+d communications; communications for distributed 
+control; cross-layer design for cellular systems ad 
+hoc wireless networks; and sensor networks.  Dr. 
+Goldsmith holds the Bredt Faculty Development Scholar
+ Chair at Stanford and is a recipient of the 
+National Academy of Engineering Gilbreth Lectur
+eship, Stanford's Terman Faculty Fellowship, a 
+National Science Foundation CAREER Developmen
+t Award, the Office of Naval Research Young 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+42Investigator Award, a National Semiconductor F
+aculty Development Award, an Okawa Foundation 
+Award, and the David Griep Memorial Prize from the Un
+iversity of California at Berkeley.  She was an 
+editor for the IEEE Transactions on Communications from 1995 to 2001 and has been an editor for the
+ IEEE Wireless Communications magazine since 1995.  She is also an elected member of Stanford's 
+faculty senate and the IEEE Information Theory Soci
+ety Board of Governors.  Dr. Goldsmith served on 
+the CSTB committee that produced the report 
+Evolution of Untethered Communications
+ (1997). 
+ 
+Dale N. Hatfield is currently an independent consultant 
+and adjunct professor in the Department of 
+Interdisciplinary Telecommunications at the Univer
+sity of Colorado at Boulder (CU).  Between 
+December 2000 and April 2002, Mr. Hatfield served as chai
+r of the department.  Prior to joining CU, Mr. 
+Hatfield was the chief of the Office of Engineeri
+ng and Technology at the FCC and immediately before 
+that was chief technologist at the commission.  Be
+fore joining the FCC in December 1997, he was CEO 
+of Mr. Hatfield Associates, Inc., a multidisciplinar
+y telecommunications consulting firm in Boulder, 
+Colorado, for 15 years.  Before that, Mr. Hatfie
+ld was deputy Assistant Secretary of Commerce for 
+Communications and Information and deputy administra
+tor of the NTIA.  Before moving to NTIA, Mr. 
+Hatfield was chief of the Office of Plans and Policy at the FCC.  In 1973 Mr. Hatfield received a 
+Department of Commerce Silver Medal for contribu
+tions to domestic communications satellite policy, 
+and in 1999 he received the Attorney General's Dis
+tinguished Service Award.  In 2000, he received the 
+PCIA Foundation's Eugene C. Bowler award fo
+r exceptional professionalism and dedication in 
+government service and the FCC's Gold Medal Award
+ for distinguished service.  More recently, he 
+received the distinguished engineer award from the Univer
+sity of Colorado at Boulder.  He currently is a 
+fellow of the Radio Club of America.  In February
+ 2001, the FTC appointed Mr. Hatfield as monitor 
+trustee in the AOL/Time Warner merger.  Currently, Mr
+. Hatfield is serving on the board of directors of 
+Crown Castle International and KBDI
+ TV-12 public television in Denver.  He holds a B.S. in electrical 
+engineering from Case Institute of Technology and 
+an M.S. in industrial management from Purdue 
+University. 
+ Michael Katz is the Edward J. and Mollie Arnold Prof
+essor of Business Administration of the Haas 
+Economic Analysis and Policy Group and Director of
+ the Center for Telecommunications and Digital 
+Convergence at the University of California at Berk
+eley.  From 2001 to 2002, he was Deputy Assistant 
+Attorney General for economic analysis in the Antitrus
+t Division of the Department of Justice.  From 
+1994 to 1996, he was chief economist at the Federal 
+Communications Commission.  Dr. Katz is co-editor of California Management Review
+ and Journal of Economics and Management Strategy
+.  He is a former 
+member of the Computer Science and Telecommunica
+tions Board of the National Research Council. He 
+received his Ph.D. in economics from Oxford University.  
+
+ Paul J. Kolodzy
+ is director of the Wireless Network Security Center (WiNSeC), a new research facility 
+at Stevens Institute of Technology that will draw
+ on wide-ranging expertise to
+ design, develop, and 
+evaluate technology for the secure transmission of voice, 
+video, and data.  He is also is a professor in the schools of Engineering and Technology Management at
+ Stevens.  Previously, Dr. Kolodzy had been 
+appointed as the senior spectrum policy advisor at the 
+FCC, and he was also chair of the FCC™s newly 
+created Spectrum Policy Task Force, which was ch
+arged with examining spectrum allocation processes 
+and other issues so that spectrum can be put to the 
+highest and best use in a timely manner.  Before 
+joining the FCC, Dr. Kolodzy served as a program manager within the Advanced Technology Office at 
+
+DARPA in the Department of Defense.  At DARPA
+, he oversaw the development of next-generation 
+communications technology, which included the neXt 
+Generation Communications (XG) initiative.  The 
+XG project is developing technology that has the pot
+ential to fundamentally change the manner which 
+spectrum is allocated and assigned.  Dr. Kolodzy has al
+so held positions at MIT's Lincoln Laboratory and 
+Lockheed Martin Corporation in the development and management of advanced signal processing, RF, 
+and EO systems.  He received a B.S. from Purdue Univ
+ersity in chemical engineering and an M.S. and a 
+Ph.D. in chemical engineering from Case Western 
+Reserve University.  His doctoral work focused on 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF COMMITTEE MEMBERS 
+43laser measurement systems. 
+ 
+Larry Larson is professor of electrical and computer engineering and director of the Center for Wireless 
+Communications at the University of California, San Diego (UCSD).  Dr. Larson's research ranges from 
+electronic circuits and systems to electronic devices and 
+materials.  He develops high-speed circuits based 
+on InP (indium phosphide) and GaAs (gallium arsen
+ide) as well as silicon-germanium and CMOS 
+technology.  He also explores applications for 
+micromachining technology in the manufacture of high-
+speed integrated circuits and studies new packaging technology for them.  Dr. Larson's current research is 
+specifically also focused on low-power circu
+it design and RF design techniques for wireless communications.  He recently completed 
+CDMA Mobile Radio Design
+, a book on how to design the 
+hardware and software for wireless handsets based on code-division 
+multiple access technology.  CDMA 
+is the foundation of all third-genera
+tion wireless technologies, including
+ Europe's W-CDMA standard and 
+CDMA2000.  As director of the industry-sponsored
+ Center for Wireless Communications (CWC) at 
+UCSD, Dr. Larson is in a unique position to co
+mment on the development and deployment of 3G 
+wireless, including new generations of circuits.  He
+ oversees a wide range of ongoing research projects, 
+with funding from CWC's 17 corporate members.  He is
+ the first holder of the Communications Industry 
+endowed chair at the Jacobs School.  He joined the UCSD faculty in 1996, after a 16-year career at 
+
+Hughes Research Laboratories, where he pioneered th
+e development of analog integrated circuits and 
+low-noise HEMTs in III-V technology, as well as microwav
+e integrated circuits in SiGe HBT technology and RF MEMs technology
+.  Dr. Larson received his Ph.D. from the University of California at Los 
+Angeles in 1986.  He is an IEEE fellow and co-w
+inner of the 1996 Hughes Electronics Lawrence Hyland 
+Patent Award and the 1999
+ IBM Microelectronics Excellence Award.   
+ David P. Reed is a fellow at HP Labs and an adjunct professo
+r at the MIT Media Laboratory.  Dr. Reed's work focuses on using digital technology to transfor
+m the design of technological, business, and social 
+systems.  His current explorations center on explo
+iting new information technologies that enable people 
+to be more effective, including mobile compu
+ting; highly scalable wire
+less networking; group 
+information sharing; pervasive networking; video 
+media processing; and infrastructures for electronic 
+commerce.  Dr. Reed spent 4 years at Interval Res
+earch Corporation, explor
+ing portable and consumer 
+media technology. For 7 years prior to joining Interv
+al, Dr. Reed was vice president and chief scientist for 
+Lotus Development Corporation, where he led the d
+esign and implementation of key products, including 
+1-2-3, and technical business strategy.  Dr. Reed wa
+s also a professor in MIT's Laboratory for Computer 
+Science.  He is co-inventor of the end-to-end ar
+gument, often called the fundamental architectural 
+principle of the Internet.  Dr. Reed holds a B.S. 
+in electrical engineering a
+nd M.S and Ph.D. degrees in 
+computer science and engineering from MIT.
+  Gregory L. Rosston is the deputy director of the Stanford 
+Institute for Economic Policy Research.  His 
+research focuses on industrial organization, antitrust, 
+and regulation.  He has written numerous articles on 
+competition in local telecommunications, implemen
+tation of the Telecommunications Act of 1996, 
+auctions, and spectrum policy.  He has also co-edited two books, including 
+Interconnection and the 
+Internet: Selected Papers from the 1996 Telecommunications Policy Research Conference
+.  Prior to joining Stanford University, Dr. Rosston served as deputy chief economist of the FCC.  At the FCC, he 
+
+helped to implement the Telecommunications Act.  In 
+this work, he helped to design and write the rules 
+the commission adopted as a framework to encour
+age efficient competition in telecommunications 
+markets.  He also helped with the design and 
+implementation of the FCC's spectrum auctions.  Dr. 
+Rosston received his Ph.D. in economics from Stanford
+ University and his A.B. in economics from the 
+University of California at Berkeley. 
+ 
+David Skellern is currently the technology director for Cisco's Wireless Networking Business Unit.  
+He has been a consultant for leading compani
+es in the United States, Europe, and Japan on the 
+development of multiservice and broadband communica
+tions networks. He held a senior staff faculty 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.SUMMARY OF A FORUM ON SPECTRUM MANAGEMENT POLICY REFORM 
+44position at HP Laboratories from 1993 to 1999.  In 1989, Dr. Skellern joined Macquarie University as 
+professor of electronics.  While at Macquarie University, he worked to develop the core technologies that 
+led to the formation of Radiata Communications Pty Lt
+d. in 1997. He received B.Sc. (1972), B.E. (1974), 
+and Ph.D. (1985) degrees from the University of Sydney.  
+  STAFF  Jon Eisenberg, study director, is a senior program officer with the Computer Science and 
+Telecommunications Board of the National Research Counc
+il.  At CSTB, he has been study director for a 
+diverse body of work, including a series of studies exploring networking technologies and Internet and 
+
+broadband policy.  Current studies include an ex
+amination of emerging wireless technologies and 
+spectrum policy and a review of the National Archiv
+es and Records Administration's digital materials 
+preservation strategy.  From 1995 to 1997, Dr. Eisen
+berg was an AAAS Science, Engineering, and 
+Diplomacy Fellow at the U.S. Agency
+ for International Development, wh
+ere he worked on environmental 
+management, technology transfer, and telecommunicati
+ons policy issues.  He received his Ph.D. in 
+physics from the University of Washington in 1996 a
+nd B.S. in physics with honors from the University 
+of Massachusetts at Amherst in 1988. 
+
+ Julie Esanu is a program officer for the Office of Intern
+ational Scientific and Technical Information Programs (ISTIP) at the National Academies.  Her emphasis is policy and management issues related to 
+
+digital scientific and technical data and information,
+ primarily through the support of the U.S. National 
+Committee for the Committee on Data for Science 
+and Technology (CODATA), an interdisciplinary 
+committee of the International Council of Science.   
+Ms. Esanu is the coeditor of two recent and related 
+National Academies reports, including 
+Open Access and the Public Domain 
+in Digital Data for Science:  
+Proceedings of a Symposium (National Academies Press, forthcoming) and 
+The Role of Scientific and 
+Technical Data and Information in the P
+ublic Domain: Proceedings of a Symposium 
+(NAP, 2003).  She 
+worked with the Computer Science and Telecomm
+unications Board to convene a workshop on the 
+spectrum management policy reform and has provide
+d program and research support to other National 
+Academies™ projects examining the role of remote sensing research and applications; reviewing C4I 
+planning for the Department of Defense; assessing r
+esearch programs at the Army Research Laboratory; 
+and examining the allocation of federal research 
+and development funds.  Ms. Esanu received her 
+bachelor™s degree in political science and internati
+onal affairs from the George Washington University.  
+ 
+Kristen Batch
+ is a research associate with the Computer Science and Telecommunications Board of the 
+National Research Council.  She is involved with
+ the project focusing on wireless communication 
+technologies and telecommunications research and 
+development.  While pursuing an M.A. in 
+international communications from American Univers
+ity, she interned at the NTIA, in the Office of 
+International Affairs, and at the Center for Strate
+gic and International Studies, in the Technology and 
+Public Policy Program.  She also earned a B.A. from 
+Carnegie Mellon University in literary and cultural 
+studies and Spanish and received two travel gran
+ts to conduct independent research in Spain.  Margaret Marsh Huynh is a senior program assistant with the Computer Science and 
+Telecommunications Board of the National Resear
+ch Council since January 1999 supporting several 
+projects.  She is currently supporting The Future of
+ Supercomputing, Wireless 
+Technology Prospects and 
+Policy Options, and Internet Searching and the Domain
+ Name System: Technical Alternatives and Policy 
+Implications.  She previously worked on
+ the projects that produced the reports 
+Beyond Productivity: 
+Information Technology, Innovation, and Creativity
+; IT Roadmap to a Geospatial Future
+; Building a 
+Workforce for the Information Economy
+; and The Digital Dilemma: Intellectual Property in the 
+Summary of a Forum on Spectrum Management Policy ReformCopyright National Academy of Sciences. All rights reserved.BIOGRAPHIES OF COMMITTEE MEMBERS 
+45Information Age.  Ms. Huynh also assisted with the project Exploring Information Technology Issues for 
+the Behavioral and Social Sciences (Digital Divide and Democracy).  She assists on other projects as 
+
+needed.  Prior to coming to the NRC, Ms. Huynh 
+worked as a meeting assistant at Management for 
+Meetings and from September 1996 to April 1998 as a m
+eeting assistant at the American Society for Civil 
+Engineers.  Ms. Huynh has a B.A. (1990) in liberal studies with minors in sociology and psychology from 
+
+Salisbury State University, Maryland. 

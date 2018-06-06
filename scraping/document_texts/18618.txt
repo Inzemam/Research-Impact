@@ -1,0 +1,1529 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/18618Interim Report of a Review of the Next Generation AirTransportation System Enterprise Architecture, Software,Safety, and Human Factors42 pages | 8.5 x 11 | PAPERBACKISBN 978-0-309-29831-5 | DOI 10.17226/18618Committee to Review the Enterprise Architecture, Software Development Approach,and Safety and Human Factor Design of the Next Generation Air TransportationSystem; Computer Science and Telecommunications Board; Division on Engineeringand Physical Sciences; National Research CouncilInterim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.Interim Report of a Review of the Next Generation 
+Air Transportation System Enterprise Architecture, 
+Software, Safety, and Human Factors
+Committee to Review the Enterprise Architecture, Software Development Approach, and 
+ Safety and Human Factor Design of the Next Generation Air Transportation System
+Computer Science and Telecommunications Board
+Division on Engineering and Physical SciencesInterim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS
+ 500 Fifth Street, NW
+ Washington, DC 20001
+NOTICE: The project that is the subject of this report was approved by the Governing Board of the National Research 
+Council, whose members are drawn from the councils of the National Academy of Sciences, the National Academy 
+of Engineering, and the Institute of Medicine. The members of the committee responsible for the report were chosen 
+
+for their special competences and with regard for appropriate balance.
+This project was supported by the Federal Aviation Administration under award number DTFAWA-12-A-80013. 
+Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the author(s) 
+
+and do not necessarily reflect the view of the organizations or agencies that provided support for this project.
+Additional copies of this report are available from:
+The National Academies Press
+500 Fifth Street, NW, Keck 360
+
+Washington, DC 20001
+(800) 624-6242
+(202) 334-3313 
+
+http://www.nap.edu
+Copyright 2014 by the National Academy of Sciences. All rights reserved.
+Printed in the United States of America
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.The 
+National Academy of Sciences
+ is a private, nonprofit, self-perpetuating society of distinguished scholars 
+engaged in scientific and engineering research, dedicated to the furtherance of science and technology and to their 
+use for the general welfare. Upon the authority of the charter granted to it by the Congress in 1863, the Academy 
+has a mandate that requires it to advise the federal government on scientific and technical matters. Dr. Ralph J. 
+Cicerone is president of the National Academy of Sciences.
+The 
+National Academy of Engineering
+ was established in 1964, under the charter of the National Academy of 
+Sciences, as a parallel organization of outstanding engineers. It is autonomous in its administration and in the 
+selection of its members, sharing with the National Academy of Sciences the responsibility for advising the federal 
+
+government. The National Academy of Engineering also sponsors engineering programs aimed at meeting national 
+
+needs, encourages education and research, and recognizes the superior achievements of engineers. Dr. C. D. Mote, 
+
+Jr., is president of the National Academy of Engineering.
+The 
+Institute of Medicine
+ was established in 1970 by the National Academy of Sciences to secure the services of 
+eminent members of appropriate professions in the examination of policy matters pertaining to the health of the 
+public. The Institute acts under the responsibility given to the National Academy of Sciences by its congressional 
+charter to be an adviser to the federal government and, upon its own initiative, to identify issues of medical care, 
+research, and education. Dr. Harvey V. Fineberg is president of the Institute of Medicine.
+The 
+National Research Council
+ was organized by the National Academy of Sciences in 1916 to associate the broad 
+community of science and technology with the Academy™s purposes of furthering knowledge and advising the 
+federal government. Functioning in accordance with general policies determined by the Academy, the Council has 
+become the principal operating agency of both the National Academy of Sciences and the National Academy of 
+
+Engineering in providing services to the government, the public, and the scientific and engineering communities. 
+
+The Council is administered jointly by both Academies and the Institute of Medicine. Dr. Ralph J. Cicerone and 
+ Dr. C. D. Mote, Jr., are chair and vice chair, respectively, of the National Research Council.
+www.national-academies.org
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.iv
+OTHER RECENT REPORTS
+ OF THE COMPUTER SCIENCE AND TELECOMMUNICATIONS
+ BOARDGeotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research Gaps, 
+2013. 
+Professionalizing the Nation™s Cybersecurity Workforce? Criteria for Future Decision-Making, 
+2013.
+Public Response to Alerts and Warnings Using Social Media: Summary of a Workshop on Current 
+Knowledge and Research Gaps
+, 2013. 
+Continuing Innovation in Information Technology
+, 2012. 
+Computing Research for Sustainability
+, 2012. 
+The Safety Challenge and Promise of Automotive Electronics: Insights from Unintended Acceleration
+, 2012 (with the Board on Energy and Environmental Systems and the Transportation Research 
+Board). 
+Strategies and Priorities for Information Technology at the Centers for Medicare and Medicaid Services
+, 2011. 
+The Future of Computing Performance: Game Over or Next Level?
+, 2011. 
+Wireless Technology Prospects and Policy Options
+, 2011. 
+Public Response to Alerts and Warnings on Mobile Devices: Summary of a Workshop on Current Knowl
+-edge and Research Gaps
+, 2011. 
+Critical Code: Software Producibility for Defense
+, 2010. 
+Proceedings of a Workshop on Deterring Cyberattacks: Informing Strategies and Developing Options for 
+U.S. Policy
+, 2010.
+Achieving Effective Acquisition of Information Technology in the Department of Defense
+, 2010. 
+Improving State Voter Registration Databases
+, 2010. 
+Toward Better Usability, Security, and Privacy of Information Technology: Report of a Workshop
+, 2010. 
+Limited copies of CSTB reports are available free of charge from:
+Computer Science and Telecommunications Board
+National Research Council
+The Keck Center of the National Academies
+500 Fifth Street, NW, Washington, DC 20001
+(202) 334-2605/cstb@nas.edu
+www.cstb.org
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.vCOMMITTEE TO REVIEW THE ENTERPRISE ARCHITECTURE, SOFTWARE
+ DEVELOPMENT APPROACH, AND SAFETY AND HUMAN FACTOR DESIGN OF THE NEXT GENERATION
+ AIR TRANSPORTATION
+ SYSTEMDAVID E. LIDDLE, U.S. Venture Partners, 
+Chair
+STEVEN M. BELLOVIN, Columbia University
+JOHN-PAUL B. CLARKE, Georgia Institute of Technology
+GEORGE L. DONOHUE, George Mason University
+R. JOHN HANSMAN, JR., Massachusetts Institute of Technology
+MATS P.E. HEIMDAHL, University of Minnesota, Twin Cities
+JOHN C. KNIGHT, University of Virginia
+LEON J. OSTERWEIL, University of Massachusetts, Amherst
+WALKER E. ROYCE, International Business Machines Corporation
+GAVRIEL SALVENDY, Purdue University
+THOMAS B. SHERIDAN, Massachusetts Institute of Technology
+ROBERT F. SPROULL, University of Massachusetts, Amherst
+JAMES W. STURGES, Independent Consultant, Greer, South Carolina 
+ELAINE WEYUKER, Independent Consultant, Metuchen, New Jersey 
+Staff
+JON EISENBERG, Director, Computer Science and Telecommunications Board 
+
+LYNETTE I. MILLETT, Associate Director, Computer Science and Telecommunications Board
+DWAYNE A. DAY, Senior Program Officer, Aeronautics and Space Engineering Board 
+VIRGINIA BACON TALATI, Program Officer, Computer Science and Telecommunications Board
+ERIC WHITAKER, Senior Program Assistant, Computer Science and Telecommunications Board
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.vi
+COMPUTER SCIENCE AND TELECOMMUNICATIONS BOARD
+ROBERT F. SPROULL, University of Massachusetts, Amherst, 
+Chair
+ LUIZ ANDRE BARROSO, Google, Inc. 
+ROBERT F. BRAMMER, Brammer Technology, LLC
+EDWARD FRANK, Apple, Inc.
+JACK L. GOLDSMITH III, Harvard Law School
+SEYMOUR E. GOODMAN, Georgia Institute of Technology 
+LAURA HAAS, IBM Corporation
+MARK HOROWITZ, Stanford University
+MICHAEL KEARNS, University of Pennsylvania
+ROBERT KRAUT, Carnegie Mellon University 
+SUSAN LANDAU, Google, Inc.
+PETER LEE, Microsoft Corporation 
+DAVID E. LIDDLE, U.S. Venture Partners 
+BARBARA LISKOV, Massachusetts Institute of Technology
+JOHN STANKOVIC, University of Virginia
+JOHN A. SWAINSON, Dell, Inc.
+PETER SZOLOVITS, Massachusetts Institute of Technology 
+ERNEST J. WILSON, University of Southern California
+KATHERINE YELICK, University of California, Berkeley
+Staff
+JON EISENBERG, Director 
+VIRGINIA BACON TALATI, Program Officer
+SHENAE BRADLEY, Senior Program Assistant
+RENEE HAWKINS, Financial and Administrative Manager 
+HERBERT S. LIN, Chief Scientist
+LYNETTE I. MILLETT, Associate Director 
+ERIC WHITAKER, Senior Program Assistant
+For more information on CSTB, see its website at http://www.cstb.org, write to CSTB, National 
+Research Council, 500 Fifth Street, NW, Washington, DC 20001, call (202) 334-2605, or e
+-mail the 
+CSTB at cstb@nas.edu.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.vii
+Preface
+The Next Generation Air Transportation System (NextGen) is an effort begun in 2003 whose 
+goals include improving the capacity, efficiency, and safety of the U.S. air transportation system 
+and also enabling reduction in noise, pollution, and energy use. The Federal Aviation Administra
+-tion (FAA), and various stakeholders, including equipment providers, airlines, and contractors, are 
+
+currently implementing both near-term and midterm capabilities of this effort.
+Section 212 of the FAA Modernization and Reform Act of 2012, Public Law 112-95 (Box P-1) 
+called for an examination of NextGen™s enterprise architecture and related issues by the National 
+Research Council (NRC). The project that was a result of this call was funded by the FAA. The 
+Committee to Review the Enterprise Architecture, Software Development Approach, and Safety and 
+BOX P-1 FAA Modernization and Reform Act of 2012, Public Law 112-95
+SEC. 212. EXPERT REVIEW OF ENTERPRISE ARCHITECTURE FOR NEXTGEN. 
+(a) REVIEW.ŠThe Administrator of the Federal Aviation Administration shall enter into an arrangement with 
+the National Research Council to review the enterprise architecture for the NextGen. 
+(b) CONTENTS.ŠAt a minimum, the review to be conducted under subsection (a) shallŠ (1)  
+highlight the technical activities, including human- system design, organizational design, and other 
+safety and human factor aspects of the system, that will be necessary to successfully transition cur
+-rent and planned modernization programs to the future system envisioned by the Joint Planning and 
+Development Office of the Administration; 
+(2)  
+assess technical, cost, and schedule risk for the software development that will be necessary to 
+achieve the expected benefits from a highly automated air traffic management system and the impli
+-
+cations for ongoing modernization projects; and (3)  
+determine how risks with automation efforts for the NextGen can be mitigated based on the experi
+-ences of other public or private entities in developing complex, software-inten-sive systems. 
+(c) REPORT.ŠNot later than 1 year after the date of enactment of this Act, the Administrator shall submit to 
+the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on 
+Commerce, Science, and Transportation of the Senate a report containing the results of the review conducted 
+pursuant to subsection (a).Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.viii
+Human Factor Design of the Next Generation Air Traffic System was formed under the auspices 
+of the NRC™s Computer Science and Telecommunications Board in 2012 to conduct the study. The 
+statement of task for the study committee can be found in Box P-2.
+The study committee has received a number of briefings on NextGen efforts, particularly as 
+related to the study™s focus on enterprise architecture, software development approach, safety, and 
+
+human factors. For the purposes of this interim report, the committee offers a brief encapsulation of 
+some of the areas of focus and concern it has been discussing up to this point in the study process. 
+The original focus of this interim report was expected to be on software development challenges, 
+per the statement of task (see Box P-2). Based on what it has learned so far, coupled with the fact 
+that software development is affected by every stage (from conception to deployment and mainte
+-nance) of system development and integration, the committee has reframed that discussion around 
+
+the challenges of system architecture for software-intensive systems. Chapter 1 offers context and 
+background information, Chapter 2 briefly discusses numerous and complex constraints to which 
+the FAA and NextGen are subject, and Chapter 3 describes the committee™s emerging areas of focus 
+and concern, along with some of the questions that have been under discussion thus far in the study 
+process. Committee biographies can be found in Appendix A. A list of briefers from meetings prior 
+to the release of this interim report can be found in Appendix B. 
+The committee thanks the FAA staff and the other experts who took the time to brief the com
+-mittee. The committee also thanks the reviewers who made many thoughtful comments and also 
+had several suggestions regarding additional topics to explore. The committee expects to receive 
+additional briefings and inputs and explore those and other topics further and is reliant on timely 
+availability of FAA staff and information to do so. The committee expects to issue its final report 
+with findings and recommendations in 2014. 
+David E. Liddle, 
+Chair
+ Committee to Review the Enterprise Architecture, Software Development 
+Approach, and Safety and Human Factor Design of the Next Generation 
+Air Transportation System 
+BOX P-2 Statement of Task
+As stipulated in Sec. 212 of the FAA Modernization and Reform Act of 2012, PL 112-95, a National 
+Research Council study would review the enterprise architecture, software development approach, and safety 
+and human factor design aspects of the Next Generation Air Transportation System (NextGen). An ad hoc 
+committee will conduct a study and prepare a report that will (1) highlight the technical activities, including 
+human-system design and testing, organizational design, and other safety and human factor aspects of the 
+system, that will be necessary to successfully transition current and planned modernization programs to the 
+
+future system envisioned by the Joint Planning and Development Office of the Administration and obtain 
+necessary certifications and operational approval; (2) assess technical, cost, and schedule risk for the soft
+-ware development that will be necessary to achieve the expected benefits from a highly automated air traffic 
+
+management system and the implications for ongoing modernization projects; and (3) determine how risks 
+
+with automation efforts for the NextGen can be mitigated based on the experiences of other public or private 
+
+entities in developing complex, software-intensive systems, particularly for life-critical, real-time operational 
+systems, and including past aviation system development programs. The committee will issue a brief interim 
+report within 12 months providing an initial assessment focusing on software development challenges and a 
+
+final report within 18 months providing a full assessment of the issues listed above. 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.ix
+Acknowledgment of Reviewers
+This report has been reviewed in draft form by individuals chosen for their diverse perspec
+-tives and technical expertise, in accordance with procedures approved by the National Research 
+Council™s Report Review Committee. The purpose of this independent review is to provide candid 
+and critical comments that will assist the institution in making its published report as sound as 
+possible and to ensure that the report meets institutional standards for objectivity, evidence, and 
+responsiveness to the study charge. The review comments and draft manuscript remain confidential 
+to protect the integrity of the deliberative process. We wish to thank the following individuals for 
+their review of this report:
+Laura Haas, IBM Corporation,
+Norman Fujisaki, Independent Contractor, Broadlands, Virginia,
+
+Barbara Liskov, Massachusetts Institute of Technology,
+Amadeo Odoni, Massachusetts Institute of Technology,
+
+Amy Pritchett, Georgia Institute of Technology,
+William Scherlis, Carnegie Mellon University,
+Edmond Soliday, United Airlines (ret.),
+John Swainson, Dell, Inc., and
+John Tracy, The Boeing Company.
+Although the reviewers listed above have provided many constructive comments and sugges
+-tions, they were not asked to endorse the conclusions or recommendations, nor did they see the 
+final draft of the report before its release. The review of this report was overseen by Peter M. Banks, 
+
+Red Planet Capital Partners. Appointed by the National Research Council, he was responsible for 
+making certain that an independent examination of this report was carried out in accordance with 
+institutional procedures and that all review comments were carefully considered. Responsibility 
+for the final content of this report rests entirely with the authoring committee and the institution.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.xi
+Contents
+SUMMARY
+ 11 INTRODUCTION
+ 42 CONSTRAINTS
+ 6 Operational and Capacity Constraints, 6 
+ Political, Economic, and Cultural Constraints, 7
+ Technical Constraints, 7
+ 3 EMERGING TOPICS OF FOCUS AND CONCERN
+ 9 Understanding and Managing Benefit and Cost Expectations, 9
+ Architecture, 10
+ System Integration and Software Development Approaches, 12
+ System Safety, 13
+ Human Factors, Automation, and Decision Support Tools, 13
+ System Security, 15
+ Unmanned Aircraft System Integration, 15
+ Spectrum Management, 16
+ The Importance and Necessity of Modernization, 16
+APPENDIXES
+A Biographies of Committee Members and Project Staff
+ 21
+B 
+ Briefers to the Study Committee
+ 29
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.1Summary
+Section 212 of the Federal Aviation Administration (FAA) Modernization and Reform Act of 
+2012, Public Law 112-95 (see Box P-1), calls for an examination by the National Research Council 
+(NRC) of the Next Generation Air Transportation System™s (NextGen™s) enterprise software devel
+-opment approach and safety and human factor design.
+ This interim report of the Committee to 
+Review the Enterprise Architecture, Software Development Approach, and Safety and Human 
+Factor Design of the Next Generation Air Transportation System briefly describes issues that have 
+surfaced so far in the study.
+NextGen aims to overhaul the nation™s air transportation by introducing technological 
+improvementsŠincluding use of the Global Positioning System and digital communicationsŠand 
+procedural changes that exploit those technologies. Its goals include improved monitoring and 
+management of aircraft, shortened routes, better navigation around weather, time and fuel savings, 
+reduced delays, and increased system capacity.
+This endeavor is constrained by operational and capacity factors as well as political, economic, 
+cultural, and technical factors. These reflect the diverse interests of stakeholders as well as the FAA™s 
+own history and organizational culture. The FAA and the United States rightly pride themselves on 
+an excellent safety record. But organizational culture can affect how quickly process and techno
+-logical change can happen. The technical realities and constraints to which NextGen programs are 
+
+subject include the particular capabilities of legacy hardware, legacy software, costs of certification, 
+and the challenges of human-systems integration and aligning operational procedures with revised 
+or enhanced technological capabilities.
+Several key issues that have emerged from the committee™s work thus far are discussed below. 
+Because the committee™s data gathering and analysis is still incomplete, the observations and 
+
+emphases in this report may not be mirrored in the committee™s final report.
+˜˚
+Understanding and managing benefit and cost expectations. 
+The committee is concerned about 
+the alignment among (1) the overarching vision for NextGen, (2) the expected benefits and 
+the risks to achieving those benefits, and (3) the estimated costs (and who bears those costs). 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.2 INTERIM REPORT OF A REVIEW OF NEXTGEN
+Because all three are subject to change as the context and underlying assumptions change, 
+and it is to be expected that all three would have changed since the launch of NextGen. 
+But the committee is concerned that these changes were not fully reflected in the briefings 
+it has received or the documents it has reviewed and that there are not clear mechanisms 
+to track these changes over time or to make them known to stakeholders. Also, risks to 
+achieving the anticipated benefits on the expected schedule are not clear to the committee, 
+because the sources of uncertainty in the value framework delivered to the users and the 
+development risks confronted by the developers are not well prioritized or well quanti
+-fied, and the evolutionary commitments for the short, medium, and long term are not well 
+
+articulated. In an effort to understand these and related issues better, the committee will 
+
+explore further the vision for NextGen and how it has changed over time and the risks and 
+benefits analysis for NextGen. 
+˜˚
+Architecture. 
+In the federal government, an ﬁenterprise architectureﬂ is a ﬁmanagement best 
+practiceﬂ designed to ﬁpromote mission success by serving as an authoritative reference, 
+and by promoting functional integration and resource optimization with both internal and 
+external service partners.ﬂ
+1 (The term is also used sometimes in industry, with a similar 
+meaning.) The enterprise architecture defined for NextGen addresses these matters, but 
+
+does not, in the committee™s view, address key technical and performance parameters 
+and relationships (including organizational and human factors considerations) that are 
+essential for managing system development. Thus, the committee has expanded its focus 
+to also explicitly encompass system architecture. A system architecture specifies how all of 
+the parts of a large-scale software-intensive system fit together and interact and provides 
+a framework in which incremental changes can be made while maintaining overall system 
+integrity. The committee intends to examine NextGen system architecture efforts and their 
+implications for program success. 
+˜˚
+System integration and software development approaches. 
+The committee is focused on the 
+
+existing and anticipated processes for integrating new capabilities into the U.S. National 
+Airspace System (NAS) and NextGen over time. Regarding system integration, the commit
+-tee has been seeking information about the incremental build plan for NextGen and how 
+new capabilities will be integrated, the existing and anticipated NextGen architecture, and 
+the primary desired behaviors and attributes that drove efforts toward this architecture. 
+The development of a software-intensive system includes requirements elicitation and 
+analysis, specification, architecture definition, design, coding, testing and analysis, and 
+evolution. Historically, the trade-offs captured in requirements elicitation, specification, and 
+architecture have proven to be strong indicators of success in reducing risks and uncertain
+-ties, especially in larger, more complex software systems such as those being developed for 
+
+NextGen. The committee is particularly interested in the quantified measures and expert 
+
+engineering judgments of software change costs that have been encountered so far as well 
+as trendsŠhow these change costs are increasing or decreasing over time. 
+˜˚
+System safety. 
+In considering the system safety aspects of NextGen, two factors are key: (1) 
+the development of NextGen provides an opportunity to introduce new air traffic control 
+(ATC) safety capabilities, and (2) the development of NextGen requires that historic safety 
+performance of ATC systems be maintained or improved. The committee is seeking to 
+1  Office of Management and Budget, 
+The Common Approach to Federal Enterprise Architecture,
+ Washington, D.C., available at 
+http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/common_approach_to_federal_ea.pdf, May 2012. 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.SUMMARY
+ 3understand the FAA™s safety management system process and implications for the develop
+-ment and deployment of anticipated NextGen capabilities. 
+˜˚
+Human factors, automation, and decision support tools. The scale, heterogeneity, and complexity 
+of NextGen mean that there will be many upgraded or new systems, all being developed 
+under different programs, at different stages of implementation, being tested at different 
+airports, and coming online at different times. This is understandable given the complexity 
+and scale of the NextGen effort. However, experience has shown that human factors and 
+human-system integration challenges arise when different systems and different people 
+interact. The committee is interested in current and anticipated automation and decision-
+support capabilities, along with plans for managing their integration and the transitions 
+
+from existing tools and processes to NextGen. 
+˜˚
+System security. 
+The designers and developers of any software- and communications-intensive 
+
+system deployed today must grapple with questions of system security.
+2 Understanding 
+the security risks and threats and developing appropriate threat models and mitigations 
+are challenges endemic across government and industry. NextGen is no exceptionŠindeed, 
+
+the safety-of-life implications and the vital economic importance of air travel make security 
+of NextGen and the NAS critically important. As various programs and components of the 
+national airspace are modernized, upgraded, and transformed, the security implications 
+of the changes will need to be taken into account. The committee is concerned about the 
+plans, processes, and mechanisms for managing cybersecurity in NextGen and the national 
+airspace, including impacts of security on safety.
+˜˚
+Unmanned aircraft system integration. 
+Unmanned aircraft systems (UAS) pose numerous 
+
+procedural and technical challenges and introduce new requirements; they also will involve 
+both safety and security challenges. NextGen will need to be designed and operated to 
+manage, accommodate, and integrate this new class of aircraft. The committee is concerned 
+
+about current and anticipated plans for safe integration of UAS into the NAS, recognizing 
+that planning for UAS implementation has just begun.
+˜˚
+Spectrum management. 
+The committee is interested in current and anticipated plans with 
+
+regard to spectrum management for the NAS and NextGen. 
+The long-term vision for NextGen is ambitious. Some aspects of NextGen are anticipated to be 
+transformational. Other, no less critical, short- and medium-term initiatives provide a foundation 
+
+for implementing the longer-term vision and enable critically needed modernization of aging ele
+-ments of the NAS. In the committee™s view, both of these elements are critically important.
+The study committee will receive additional briefings about these and other aspects of NextGen 
+in order to fulfill its task. A final report, with the committee™s findings and recommendations, is 
+
+anticipated in 2014. In that report, although it may not address each of the questions raised in this 
+interim report, the committee expects to say more about each of the above topics.
+2  Here the committee refers to what some call cybersecurityŠsystem, data, and communications securityŠwhich is distinct from 
+the physical security required for airport and aircraft operation, provided in part by the Transportation Security Administration.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.41Introduction
+The U.S. National Airspace System (NAS) is widely acknowledged to be both safe and reliable. 
+However, runway capacity (particularly at the busiest U.S. airportsŠreferred to as the ﬁMetro
+-plexﬂ airports), the current operational model, and the evolved NAS constrain flight patterns and 
+operations in ways that limit the net capacity of the U.S. air space and limit options for improving 
+efficiency. Although technological and procedural improvements have been introduced into the 
+system over the years to increase capacity, reduce delays, and improve safety, elements of the NAS 
+rely on outdated technology, and the system has not been significantly changed to take advantage 
+of available information and communications technologies or to enable major improvements in 
+how the airspace is organized and managed. Furthermore, the NAS exists in a complex political, 
+organizational, and economic milieu that imposes its own constraints and demands as well.
+In 2003, an effort to transform the air transportation system was announced, and the Joint Plan
+-ning and Development Office was established to develop the Next Generation Air Transportation 
+System (NextGen). NextGen refers to a set of programs and initiatives to be coordinated into an 
+evolving overall transportation system aimed at a continuing transformation of the NAS. NextGen 
+aims to overhaul the U.S. air transportation system through a combination of procedural and tech
+-nological improvements. It is intended to make use of extant capabilities along with key enabling 
+
+technologies such as satellite navigation systems and a digital communications infrastructure to 
+share real-time information, making it possible to shorten routes, navigate better around weather, 
+save time and fuel, reduce delays, increase capacity at airports not already capacity-limited, and 
+improve capabilities for monitoring and managing of aircraft. The Federal Aviation Administration 
+(FAA), working with a wide range of stakeholders, is currently working toward both near-term 
+and midterm capabilities.
+1 NextGen efforts will almost certainly increase the amount, complexity, and safety-criticality 
+of NAS systems and corresponding enterprise and system architectures. The development of 
+1  More information about NextGen can be found in the NextGen Implementation Plan 2013 on the FAA™s website at http://
+www.faa.gov/nextgen/implementation/.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION 5large-scale, software-intensive systems is widely recognized to be challenging and risky (in terms 
+of cost, schedule, and system performance), and there have been both ﬁextraordinary successes 
+and colossal failuresﬂ
+2 in developing and deploying systems in both the private and public sector. 
+Efforts related to the national air transportation system are especially challenging owing to its large 
+
+scope and scale (and difficulty tends to increase nonlinearly as systems scale up in complexity, 
+features, and quality goals), the multiple entities that interconnect with it (such as airlines, aircraft 
+manufacturers, and airport operators), and the human-systems interactions associated with piloting 
+and controlling. Cost and time estimates associated with the acquisition of large, software-intensive 
+systems are notoriously overoptimisticŠin part due to the misalignment of near-term goals and 
+incentives with long-term goals and incentives. In addition, in any complex environment, new or 
+
+upgraded systems require careful attention to the co-development of appropriate new business pro
+-cesses and to human-systems integration considerations and related issues such as organizational 
+
+design, development of new concepts of operation, system usability, and user training.
+The committee has received a number of briefings on NextGen efforts, particularly as related 
+to the study™s focus on enterprise architecture, software development, safety, and human factors. 
+In this interim report, the committee outlines some of the topics it has examined so far in the study 
+process. Chapter 2 describes some of the constraints faced by NextGen efforts. Chapter 3 outlines 
+major themes and areas of focus and concern that have emerged thus far in the committee™s work. 
+The final reportŠanticipated in mid-2014Šwill provide more in-depth analysis, along with find
+-ings and recommendations.
+2  National Research Council, 
+Achieving Effective Acquisition of Information Technology in the Department of Defense
+, The National 
+Academies Press, Washington, D.C., 2010, p. ix.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.62Constraints
+There are numerous complex constraints on the design and operation of the U.S. National 
+Airspace System (NAS) to which the Federal Aviation Administration (FAA) and its stakeholders 
+are subject. The FAA is well aware of these constraintsŠsome of which may affect development 
+of systems and some of which may bear on ultimate benefits and outcomes. In the committee™s 
+view, it is helpful to keep these often challenging constraints, which include legacy commitments 
+already made, in mind when planning, assessing, or evaluating Next Generation Air Transporta
+-tion System (NextGen) efforts. 
+OPERATIONAL
+ AND CAPACIT
+Y CONSTRAINTSOne of the goals for NextGen is to improve efficiency and reduce congestion in the NAS. FAA™s 
+Aerospace forecast projects that the U.S. aviation industry will grow from 731 million passengers 
+in 2011 to 1.2 billion in 2032.
+1 Congestion in the NAS tends to be localized to certain regions. Using 
+2012 FAA Air Traffic Activity Data for 21.7 million commercial air operations, more than 56 percent 
+
+(12 million) of these involved the so-called Metroplex airports.
+2 Although there are opportunities 
+to increase runway efficiency, such as less separation, parallel approaches, and so on, the realiz
+-able benefits of such are not yet clear. For example, wake vortex separation requirements may 
+limit separation reduction, and local community resistance to noise and night flights may limit the 
+introduction of new approach routes or extended hours that would increase the capacity of exist
+-ing runways. In addition to all of this is uncertainty about what the future capacity needs will be 
+
+given uncertainties about travel demand and fuel and other operational costs. 
+1  FAA, FAA Aerospace Forecast: Fiscal Years 2012-2032, available at http://www.faa.gov/about/office_org/headquarters_
+offices/apl/aviation_forecasts/aerospace_forecasts/2012-2032/media/2012%20FAA%20Aerospace%20Forecast.pdf.
+2  FAA, Air Traffic Activity Systems, Airport Operations, available at http://aspm.faa.gov/opsnet/sys/Airport.asp.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.CONSTRAINTS 7POLITICAL, ECONOMIC, AND CULT
+URAL CONSTRAINTSThe NAS is a national infrastructure to which significant resources are devoted. As such, it has 
+numerous stakeholders, and there are few individuals or businesses in the country that do not have 
+an interest in or expectations regarding its performance. Thus, the NAS, the FAA, and NextGen 
+efforts are subject to significant scrutinyŠnot only from users (such as trade groups, airlines, air
+-ports, and affiliated labor groups), but from Congress, other federal agencies, and the flying public 
+
+as well. And as a federal agency, the FAA must operate within the federal political environment and 
+under whatever financial and performance constraints and expectations are produced within it. 
+External stakeholders, such as those listed above, have a variety of interests, demands, and 
+constraints. Agreement, or at least rough consensus, on requirements will be important (albeit 
+challenging to achieve). Some NextGen programs and components will undoubtedly have implica
+-tions for the workforceŠcontrollers, safety specialists, and pilots. The capacity, skill sets, size, and 
+
+expectations of the associated workforces will need to be taken into account when developing and 
+deploying new or changed capabilities.
+3 NextGen™s benefits are expected to accrue to stakeholders; 
+however, many of those benefits (such as increased automatic communication between aircraft) 
+
+cannot be fully realized without participation and (sometimes costly) adoption by the relevant 
+stakeholders.
+4 In addition, although many of the NextGen advances should benefit participants 
+in the NAS writ large, the fact that some of the benefits may accrue to competitors could be a 
+disincentive to participation by private entities. Thus, for some NextGen goals, the FAA is caught 
+in a bind due to the distributed costs of deployment and the uncertainty of those costs if broad 
+deployment does not occur. The expectation that economic benefits will sufficiently motivate airline 
+equipment purchases may be misplaced, calling into question whether the anticipated voluntary 
+uptake will occur. 
+In addition to external political considerations, as a large organization, the FAA has its own 
+organizational culture that has developed over time. The FAA and the United States rightly pride 
+themselves on a devotion to safety and an excellent safety record to match. At the same time, a 
+conservative safety culture can affect how quickly process and technological change can happenŠa 
+challenge in an arena where technologies change rapidly. An historic culture of safety and responsi
+-bilityŠespecially one that has resulted in a strong safety recordŠmay inhibit the adoption of new 
+technologies or increased automation that could potentially result in net improvements in both 
+safety and efficiency. Recognizing and taking into account the tensions among competing goals in 
+an organization is critical to ensure progress. 
+TECHNICAL CONSTRAINTSThe technical realities and constraints to which NextGen programs are subject run the gamut 
+from the capabilities of legacy hardware to costs of certification to the challenges of large-scale 
+system integration. The great majority of the tasks facing NextGen involve software and informa
+-tion and communications technologyŠthe systems architecture has implications for how software 
+3  The 2007 National Research Council report 
+Human-System Integration in the System Development Process: A New Look
+ (The 
+National Academies Press, Washington, D.C.) explores iterative development processes suitable for systems that have intensive 
+human interaction and with humans having functional roles within the system (e.g., pilots, controllers, and so on.) 
+4  For example, ADS-B must be installed not only in larger commercial aircraft, but also in smaller general aviation aircraft to 
+make full use of the system everywhere and there are costs (financial and also process) associated with deploying this technol
+-ogy. (Automatic dependent surveillance-broadcast (ADS-B) is an aircraft tracking technology that relies on the global positioning 
+
+system (GPS) and a datalink to broadcast (ADS-B Out) and receive (ADS-B In) data.)
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.8 INTERIM REPORT OF A REVIEW OF NEXTGEN
+components are developed and integrated and for how corresponding operational procedures are 
+developed, refined, and deployed. Higher levels of software automation and integrity and fault 
+tolerance will likely be needed, along with more reliable integration of aircraft and ground systems 
+and processes. Future needs also include more flexibility and agility in systems and processes to 
+deal with a dynamic and uncertain environment coupled with, wherever possible, reduction of 
+uncertainties in the system (e.g., improved weather forecasting, tracking of wake vortices, wind 
+shear, and so on).
+Avionics systems and any upgrades or changes to them require time and resources for certi
+-fication and, ultimately, integration. In addition, most avionics systems must have international 
+backing and agreement in order to achieve substantial deployment, so rapid introduction of new 
+
+technologies that might benefit the national airspace may not be possible. 
+For certain capabilities, decisions will need to be made about whether to deploy new software 
+or whether software emulators running on new hardware may be sufficient.
+5 In addition, as capa
+-bilities are developed and deployed, ensuring that potential avenues of future improvementŠsuch 
+as in the areas of communications, authentication, and spectrum managementŠare not closed off 
+
+prematurely will be important. 
+Aligning operational procedures with revised or enhanced technological capabilities is critical 
+to the success of any technology advances. Ensuring clear processes and plans for any changes 
+to the operational infrastructure, such as the development of procedures and airspace that take 
+full advantage of the new technical capabilities of NextGen, will be important. Given the human-
+intensive nature of operating the national airspace, there are also challenges related to design for 
+organizations and to human-system integration, including robustness of the combined human-
+machine interaction, along with human factors concerns with the implementation of new techni
+-cal functions. The anticipated benefits of NextGen will depend on commensurate changes in the 
+
+airspace and how all of these challenges are managed. 
+The bulk of NextGen software and system development is done under a variety of contracts, 
+thus obliging the FAA (or another contractor) to act as the system integrator. The structure of the 
+
+network of supplier relationships and incentives to create and deploy NextGen will bear on devel
+-opment and deployment. A systems architecture serves as an integration blueprint that demands 
+
+careful specification of the behaviors and interfaces of the components, effective tracking of con
+-tractor efforts, and continuous integration and testing of in-progress and completed components. 
+
+Moreover, the importance of human-systems interaction and human factors in NextGen has impli
+-cations for how the work is contracted. Notably, it is challenging to make measureable, quantifiable 
+
+specifications for human factorsŠsuch as ensuring that the contractor makes a product that is truly 
+effective and usable from the point of view of the controller. Thus, delegation of detailed design 
+to contractors has implications for these and related aspects of NextGen. More generally, in the 
+management of architecture, there is a natural tension between the client (FAA) and the supplier 
+(various contractors) with regard to architecture leadership. Architectural leadership also requires 
+senior management attention to constraints, incentives, and design participation by suppliers. Inef
+-fective leadership can result in a diffusion of responsibility, which can result in perverse incentives 
+
+for suppliers. Diffusion of responsibility might also lead to a vague, ineffective architecture or to 
+different interpretations by different actors (client, various vendors). 
+ If the architecture leadership is 
+weak or dispersed, it could lead to an overall system with no architecture or a flawed architecture. 
+ 5  Similar efforts were undertaken in the late 1990s for the FAA™s Host Computer System. See FAA, Host and Oceanic Computer 
+System Replacement Program, available at http://www.faa.gov/news/press_releases/news_story.cfm?newsId=6419, 1999.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.93Emerging Topics of Focus and Concern
+In this Chapter, the committee outlines several topics and areas of focus and concern that 
+have emerged from its data gathering efforts so far. The committee will provide its findings and 
+recommendations in its final report. Some of the questions that have been raised and discussed at 
+briefing sessions are noted here, clustered roughly according to topic. Note that these preliminary 
+observations, questions, and topics are raised as part of the committee™s information-gathering 
+efforts and may not reflect the emphases that will be given to topics in the committee™s final report, 
+and the committee does not anticipate addressing every question and issue outlined here in the 
+final report. This chapter concludes with a brief comment about the importance of modernization.
+ UNDERSTANDIN
+G AND MANAGING BENEFIT AND COST EXPECTATIONS
+The committee is concerned about the alignment among (1) the overarching vision for the Next 
+Generation Air Transportation System (NextGen), (2) the expected benefits and the risks to achiev
+-ing those benefits, and (3) the estimated costs (and who bears those costs). Because all three are 
+
+subject to change as the context and underlying assumptions change, it is to be expected that all 
+three would have changed since the launch of NextGen. But the committee is concerned that these 
+changes were not fully reflected in the briefings it has received or the documents it has reviewed 
+and that there are not clear mechanisms to track these changes over time or to make them known 
+to stakeholders. The vision, the benefits, and the costs of NextGen are all models (that is, predic
+-tions) of a future state with many sources of uncertainty. The risks to achieving the anticipated 
+
+benefits on the expected schedule are not clear to the committee, because of uncertainty in the value 
+framework delivered to the users and stakeholders. In addition, the development risks confronted 
+by the developers are not well prioritized or well quantified, and the evolutionary commitments 
+for the short, medium, and long term are not well articulated. 
+In an effort to understand these and related issues better, the committee will explore further 
+the vision for NextGen and how it has changed over time and the risks and benefits analysis for 
+NextGen and how those analyses have changed over time. Examining the state changes of the vision 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.10 INTERIM REPORT OF A REVIEW OF NEXTGEN
+from its original inception to the current baseline provides a window into how the predictions of 
+the benefits have performed since NextGen was first envisioned. 
+More generally, the committee is concerned about how uncertainty in this large, complex under
+-taking is understood, managed, and synthesized into more predictable plans and expectations. The 
+FAA is correctly taking an incremental approach to system development. The committee seeks to 
+ascertain how the FAA channels the validated learning in previous increments into better predic
+-tions of benefits, costs, and outcomes. Focusing on FAA™s approach to programmatic, engineering, 
+
+and operational risk for NextGen, the committee requested information on the following: the FAA™s 
+assessment of each of these types of risk, how risk assessment is done, ongoing or anticipated miti
+-gation strategies and how those are built into the development process, and expectations for how 
+these risk profiles will change in the medium and long term. The committee has not been able to 
+elicit a clear articulation of the significant risks perceived within the NextGen systems and software 
+or how the FAA would quantify or monetize these risks to substantiate the priority ordering and 
+anticipated schedule. Specific questions the committee will explore further include the following: 
+˜˚
+What is the largest source of NextGen benefits today? What is the largest source of benefits 
+expected to be in the future? 
+˜˚
+What are the most uncertain benefits planned in the FAA™s NextGen system and software 
+
+capability? 
+˜˚
+What are the most significant uncertainties in NextGen requirements that drive develop
+-ment risk?
+˜˚
+What are the most significant uncertainties in NextGen design and system architecture?
+˜˚
+What are the most significant uncertainties in the planned sequence of milestone expectations? 
+˜˚
+What measures and metrics will be used to quantify and steer risk management priorities? 
+The committee wants to better understand the FAA™s perspective on the uncertainty in the 
+upsides (benefits) and the downsides (programmatic risks). The FAA could quantify these uncer
+-tainties by modeling the benefits and risks as probability distributions of possible outcomes. Even 
+
+if these distributions were represented as simple triangular distributions (best case, worst case, 
+expectation), it would provide the committee with a set of critical priorities and a quantified model 
+of the perceived uncertainties. 
+ARCHITECTUREThe committee™s statement of task (see Box P-2) asks for an examination of the NextGen enter
+-prise architecture. The committee interprets this use of the term ﬁenterprise architectureﬂ to mean 
+the Office of Management and Budget requirement that every government agency have an enter
+-prise architecture designed to ﬁpromote mission success by serving as an authoritative reference, 
+
+and by promoting functional integration and resource optimization with both internal and external 
+
+service partners.ﬂ
+1 The enterprise architecture is thus focused on business structures and processes, 
+1  See Office of Management and Budget, The Common Approach to Federal Enterprise Architecture, Washington, D.C., May 
+2012, available at http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/common_approach_to_federal_
+ea.pdf. The term ﬁenterprise architectureﬂ does not have a single definition and is used by others outside the federal context with 
+
+slightly different meaning. Peter Weill at MIT defines an enterprise architecture as ﬁthe organizing logic for key business processes 
+
+and IT capabilities reflecting the integration and standardization requirements of the firm™s operating modelﬂ (Page 2 of P. Weill, 
+
+ﬁInnovating with Information Systems: What Do the Most Agile Firms in the World Do,ﬂ presented at the Sixth e-Business Con
+-ference, Barcelona, Spain, March 2007, available at http://www.iese.edu/en/files/6_29338.pdf.)
+ Maier and Rechtin observe that 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.EMERGING TOPICS OF FOCUS AND CONCERN 
+ 11and the NextGen enterprise architecture
+2 addresses these matters. However, enterprise architecture 
+is only one piece of the architectural definition that is needed
+ for NextGen.
+Any large-scale, software-intensive systems endeavor requires a technical and systems architec
+-ture that specifies how all of its parts fit together and interact, which can be used in a dynamic way 
+to help inform and drive decision making.
+3 The systems architecture of the NAS would encompass 
+the technical and operational aspects of the system and its componentsŠindividual avionics sys
+-tems, communications facilities, ground equipment, airport facilities, routes, approach procedures, 
+personnel roles and training, and so on. In addition to addressing the technical enablement of the 
+full set of functional capabilities, a system architecture also addresses ﬁnonfunctionalﬂ attributes 
+such as critical quality attributes, management of variabilities (that is, anticipated changes over a 
+
+system lifetime), roles of services vendors, and alignment with organizational and supply-chain 
+structure. 
+The committee™s discussions have focused on both the particulars of the enterprise architecture 
+as well as the technical and systems architecture. Questions and topics related to these architectures 
+that have been discussed thus far include the following: 
+˜˚
+Who are the specific intended users of the various architectures, and what types of decisions 
+are they expected to influence? 
+˜˚
+What are the processes for managing architecturally significant decision making within 
+
+the NextGen effort? Are these processes explicitly managed, or is architecture more of an 
+emergent outcome from a multiplicity of separate processesŠand one that may, or may 
+not, have the necessary technical and structural attributes? 
+Given the enormous range of activities within NextGen, considerations related to the congru
+-ence of system architecture and organizational (and supply-chain) architecture are likely to be 
+
+significant, prompting the following questions:
+˜˚
+How does the architecture address the goal of risk mitigation, and how is this determined? 
+ﬁIf we take an enterprise to be an organization with a defined mission, . . . the practice of enterprise architecture would concern 
+itself largely with business strategy and business processesﬂ (M. Maier and E. Rechtin, The Art of Systems Architecting, Third 
+
+Edition, CRC Press, Boca Raton, Fla., 2009, p. 353).
+2  Mike Hritz, Role of Enterprise Architecture NextGen, Briefing to the Committee Review the Enterprise Architecture, Software 
+Development Approach, and Safety and Human Factor Design of the Next Generation Air Transportation System, March 2013. 
+
+See also The National Airspace System Enterprise Architecture at https://nasea.faa.gov. 
+3  Chapter 3 of National Research Council, 
+Critical Code: Software Producibility for Defense
+ (The National Academies Press, Wash
+-ington, D.C., 2010, pp. 68-69) offers a useful description of architecture and its importance
+: Just as in physical systems, architectural commitments comprise more than struc
+ tural connections among components of a system. The 
+commitments also encompass decisions regarding the principal domain abstractions to be represented in the software and how they 
+will be represented and acted upon. The commitments also include expectations regarding performance, security, and other behavioral 
+characteristics of the constituent components of a system, such that an overall architectural model can facilitate prediction of significant 
+quality-related characteristics of a system that is consistent with the architectural model. Architecture represents the earliest and often 
+most important design decisionsŠthose that are the hardest to change and the most critical to get right. Architecture makes it possible to 
+structure require
+ ments based on an understanding of what is actually possible from an engineering standpointŠand what is infeasible 
+in the present state of technology. It provides a mechanism for communications among the stakeholders, including the infrastructure 
+providers, and managers of other systems with require
+ ments for interoperation. It is also the first design artifact that addresses the so-
+called non-functional attributes, such as performance, modifiability, reliability, and security that in turn drive the ultimate quality and 
+capability of the system. Architecture is an important enabler of reuse and the key to system evolution, enabling management of future 
+uncertainty. In this regard, architecture is the primary determiner of modularity and thus the nature and degree to which multiple 
+design decisions can be decoupled from each other. Thus, when there are areas of likely or potential change, whether it be in system 
+functionality, performance, infrastructure, or other areas, architecture decisions can be made to encapsulate them and so increase the 
+extent to which the overall engineering activity is insulated from the uncertainties associated with these localized changes.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.12 INTERIM REPORT OF A REVIEW OF NEXTGEN
+˜˚
+How, for example, is the system architecture designed to accommodate novel uses of the 
+airspace such as unmanned aircraft systems? 
+˜˚
+How are the interplays between security and safety and between efficiency and safety in 
+
+the system architecture being dealt with and assured?
+˜˚
+To what extent are technological requirements and specifications for near-term systems 
+
+developed to accommodate future needs, and how is this managed in the overall systems 
+architecture? 
+˜˚
+How are changing requirements and changing stakeholder needs expressed, modeled, and 
+
+accommodated over time? 
+˜˚
+How are process or technology innovations suggested or developed by local area experts 
+(e.g., at individual towers), contractors, or other stakeholders within the NAS vetted for 
+potential impacts and potential wider adoption/implementation, and can the system archi
+-tecture flexibly accommodate such innovations? The committee is particularly interested 
+in examples of where these sorts of accommodations have been accomplished.
+SYSTEM INTEGRATION
+ AND SOFTWARE
+ DEVELOPMENT APPROACHESThe committee is focused on the existing and anticipated processes for integrating new capa
+-bilities into the system over time. Regarding system integration, the committee has been seeking 
+
+input about the incremental build plan for NextGen and how new capabilities will be integrated, 
+including the NextGen target architecture and the primary desired behaviors and attributes that 
+drove efforts toward this target architecture. As discussed above, understanding the primary con
+-straints (economic, technical, political, physical, human, and so on) that bound decisions will be 
+
+important to aligning the evolving NextGen vision with near- and long-term benefits. 
+The development of a large-scale, software-intensive system includes requirements elicitation 
+and analysis, specification, architecture definition, design, coding, testing and analysis, and evolu
+-tion. Historically, the trade-offs captured in requirements elicitation, specification, and architecture 
+
+have proven to be strong indicators of success in reducing risks and uncertainties, especially in 
+larger, more complex software systems such as those being developed for NextGen. 
+The committee is particularly interested in quantified measures and expert engineering judg
+-ments of software change costs (e.g., requirement change, design change, code change, regression 
+test cycle, bug fix, build time, or others) and trends (how are these change costs increasing or 
+decreasing over time). More abstractly, the committee will examine further how the FAA character
+-izes its software posture. The following considerations have been discussed: How to characterize 
+
+and quantify the ﬁmassﬂ of software to be developed, and how to characterize and quantify the cost 
+of the software to be developed. With respect to contractors in particular, the committee has been 
+discussing and learning about how technical and system requirements and expectations (as well as 
+changes) are communicated to and from the FAA, what the underlying technical and architectural 
+assumptions are and how they are made explicit, and how testing and integration is managed. 
+A particular program or enabling technology can be used as an exemplar to consider some 
+of these issues. With regard to the major NextGen programs, the committee is interested in their 
+detailed technical specifications and operational dates. For the Data Communications program, for 
+example, these areas would include what modes of digital data will be supported (i.e., protocols, 
+bandwidth, security, availability, reliability, and so on) and what the expected aircraft equipage 
+rates will be. In general, the requirements for a given programŠwhat the new capability will be 
+used for in the medium and long term, and more generally the current status of the program and 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.EMERGING TOPICS OF FOCUS AND CONCERN 
+ 13projected timeline for its implementation, are of interest. Equipment cost expectationsŠboth for 
+commercial carriers and general aviation usersŠwill also play a role in uptake in some situations. 
+For a given program, the general questions about uncertainties and risk apply as well: What have 
+been the biggest challenges (technical, process, operational, or organizational)? and What are cur
+-rent uncertainties and risks and anticipated mitigation plans?
+SYSTEM SAFETY In considering the system safety aspects of NextGen, two factors are key: (1) the development 
+of NextGen provides an opportunity to introduce new air traffic control (ATC) safety capabilities, 
+
+and (2) the development of NextGen requires that historic safety performance of ATC systems either 
+be maintained or improved. The committee is seeking to understand the FAA™s safety management 
+system process and implications for the development and deployment of anticipated NextGen 
+capabilities so as to understand how these two factors are being addressed.
+The committee is focused on the safety objectives that the FAA has for NextGen, the processes 
+and techniques by which the FAA expects these objectives to be met, any safety indicators and 
+
+metrics used in an ongoing way in the development process, and any preliminary NextGen safety 
+data and associated analyses that are currently available. In order to understand the basis for the 
+
+safety objectives for NextGen, the committee is interested in learning more about the following: the 
+safety objective defined for the current ATC system, the current mechanism for safety assessment 
+for the NAS, the status of assessed safety metrics in the NAS, and how current safety assessment 
+mechanisms and procedures might change as NextGen capabilities continue to be put in place.
+Safety is not a system property that can be added after basic functionality has been addressed. 
+Safety is an emergent property that derives from careful design at all levels. Thus, the committee 
+is interested to learn what techniques are included in the NextGen architecture, design, and imple
+-mentation to mitigate residual risk. The committee also notes that comprehensive hazard identifica
+-
+tion is a critical input to the safety-engineering process. The committee is interested to learn what 
+specific techniques are being used to undertake hazard identification and estimate residual risk at 
+each phase of deployment. In briefings to the committee, quantification of various safety items has 
+been summarized. The committee expects to further explore what quantification approaches are 
+being used in NextGen to estimate probabilities of hazardous states and the role of quantification 
+in deployment decisions for NextGen features and capabilities.
+Other air traffic control systems throughout the world have been upgraded and have added 
+novel capabilities over time. The committee also plans to explore the following: to what extent the 
+safe-design concepts and safety-assessment techniques planned for NextGen are consistent with 
+and compatible with those used by other agencies around the world (such as the United Kingdom™s 
+Civil Aviation Authority, Eurocontrol, and the International Civil Aviation Organization) and to 
+what extent the safety technology and associated experience elsewhere have been reviewed by and 
+considered for adoption by the FAA.
+HUMAN FACTORS, AUTOMATION
+, AND DECISION SUPPORT
+ TOOLSExperience has shown that human factors challenges arise when different systems and differ
+-ent people interact. The scale, heterogeneity, and complexity of NextGen mean that there will be 
+many upgraded or new systems and operational procedures, all being developed under different 
+programs, at different stages of implementation, tested at different airports, and coming online at 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.14 INTERIM REPORT OF A REVIEW OF NEXTGEN
+different times. This is understandable given the complexity and scale of the NextGen effort. The 
+committee is interested in understanding the current and anticipated automation and decision-
+support capabilities and how users of the airspace will be trained, including plans for managing the 
+transitions from existing tools and processes to NextGen, recognizing that it is difficult to specify 
+a priori design, and guidelines for human-systems interaction. 
+With regard to roles and boundaries in human-systems interactions, there is generally a shift, 
+from human to system, taking place in the interpretation of sensor data and, increasingly, deci
+-sions and actions based on that data.
+4 This has profound significance for the design of the NextGen 
+system. It applies both to piloting and to controller responsibilitiesŠraising issues that connect 
+
+policy, user-experience design, and usability evaluation. It also creates challenges for capability 
+assurance, because some of rules of engagement previously belonging in the human domain, 
+
+and typically relatively informally modeled, may need to be formalized to the point where there 
+can be assurance that system behavior will respect these rules. There are trade-offs to be studied 
+between enacting desired mission goals through changing the human (selection, training, staffing) 
+and changing the technology. 
+Thus far, the committee has been exploring some of the topics and questions in this area, asking, 
+At what level of management is the responsibility to ensure that critical human factors consid
+-ered? and At what stage in the system development process does the human factors team become 
+
+involved, and what is their method of involvement? The committee will explore examples of past 
+human-factors recommendations that have been integrated into the system (or not) and why they 
+were (or were not) integrated. The committee will also explore the differences between current 
+ATC technologies and processes and anticipated NextGen ATC technologies and processes with 
+regard to needed skill sets and knowledge requirements for controllers and pilots. A large cadre of 
+controllers will be retiring soon, so the committee is interested in understanding what measures 
+are being taken to analyze the job skills required for ensuring that new controllers understand and 
+make use of the computer-based systems being introduced in NextGen.
+Because human performance capabilities and risks are difficult to quantify in engineering terms 
+sufficient to specify requirements, human factor aspects of new system designs must be evaluated 
+by means of human-in-the-loop simulations (HITLSs). One issue is how and when to use HITLSs, 
+and with what simulator fidelity. Experience has shown that at initial stages of system design, much 
+understanding of the issues can be gleaned from relatively simple part-task HITLSs.
+New computer-based decision aids are bound to make controllers more dependent on the com
+-puter advice given. Questions include, How is that expected to affect policies for assigning authority 
+and responsibility of controllers?
+ What types of automation of capabilities are anticipated in the 
+near and long term, what capabilities exist for human override of automation, and what changes 
+
+are anticipated in the future? NextGen assumes a level of teamwork between sector controllers, 
+flow controllers, tower controllers, and pilotsŠmuch greater than in current ATC. The committee 
+is interested in what means are being used to ensure that all parties to the cooperation are seeing 
+
+the picture in the same way in an adequate time window.
+4  National Research Council, 
+Human-System Integration in the System Development Process: A New Look,
+ The National Academies 
+Press, Washington, D.C., 2007.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.EMERGING TOPICS OF FOCUS AND CONCERN 
+ 15SYSTEM SECURITY The designers and developers of any software- and communications-intensive system deployed 
+today must grapple with questions of system security.
+5 Understanding the security risks and threats 
+and developing appropriate threat models and mitigations are challenges endemic across govern
+-ment and industry. NextGen is no exception; indeed, the safety of life implications and the vital 
+economic importance of air travel make the security of NextGen and the NAS critically important. 
+As various programs and components of the national airspace are modernized, upgraded, and 
+transformed, the security implications of the changes will need to be taken into account. 
+The committee is concerned about the plans, processes, and mechanisms for managing system 
+security in the national airspace. Some of the topics and questions in this area the committee has 
+been exploring thus far include the following: the threat model, how it is being validated, and 
+how threats will be monitored over time as context and adversaries change; the scope and focus 
+of security concerns for NextGen and how they are accommodated in the system architecture; and 
+the FAA™s assessment of its most significant security risks and challenges and what plans are in 
+place to address them. For example, is there a well-articulated a process for addressing security 
+attributes as early as possible in the process, as opposed to relying on process compliance and 
+intensive after-the-fact acceptance evaluation?
+6 Programmatically, questions to consider further 
+include these: Where does overall responsibility for security reside? and How are cybersecurity 
+
+considerations managed and addressed in the various programs of NextGen (such as ADS-B and 
+DataComm)? Finally, the committee believes it will be important to understand how NextGen and 
+the NAS cope with the insider threatŠthat is, authorized users of the systems with malicious intent.
+UNMANNED AIRCRAFT SYSTEM INTEGRATION
+Unmanned aircraft systems pose numerous procedural and technical challenges and introduce 
+new requirements; they also will involve both safety and security challenges. NextGen architec
+-tures will need to be designed to manage, accommodate, and integrate this new class of aircraft. 
+Depending on what rules are promulgated with respect to unmanned aircraft systems (UAS) in the 
+airspace, integration of UAS will likely require that the NAS accommodate a wider spectrum of air
+-craft weights and sizes; aircraft operating over a larger range of flight profiles using non-traditional 
+
+routes; and a larger variety of aircraft with a broader range of capabilities.
+7 Additional challenges 
+include managing differences between see-and-avoid capability (the capability traditionally pro
+-vided by human pilots) and sense-and-avoid operation; autonomous operation of UAS, either as 
+part of a mission profile or as a result of the loss of a command link; and ensuring efficient com
+-munication with the UAS crew. Operational expectations within the NAS would almost certainly 
+
+have to change. For example, procedures to ensure adequate separation of UAS from other aircraft 
+and recovery of safe flight for manned aircraft in the event of a loss of separation will be important. 
+Perhaps most critically, failure modes of UAS will differ substantially from the failures modes 
+of manned aircraft, affecting safety, reliability, and security analyses. For instance, vulnerabilities 
+may exist in the command and control linkŠHow should a UAS behave if it loses communications 
+capability along that link or is spoofed or jammed? The committee is concerned about current and 
+5  Here the committee refers to what some call cybersecurityŠsystem, data, and communications security, which is distinct from 
+the physical security required for airport and aircraft operation, provided in part by the Transportation Security Administration. 
+6  See, for example, M. Howard and S. Lipner, The Security Development Lifecycle, 2006. 
+7  Unmanned aircraft systems could operate from altitudes of a few hundred feet to perhaps 50,000 feet with dwell times po
+-tentially beyond 24 hours. The ability of a typical UAS to maneuver is also severely limited, complicating collision avoidance.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.16 INTERIM REPORT OF A REVIEW OF NEXTGEN
+anticipated plans for safe integration of UAS into the NAS, recognizing that planning for UAS 
+implementation has just begun. Questions include: What are the key factors that will guide FAA 
+work in this space, and what is the projected time line for policy decisions and any associated 
+implementation? What design and architectural decisions (if any) have been or will need to be taken 
+in NextGen to accommodate UAS of varying flight profiles, capabilities, and weights and types? 
+SPECTRUM MANAGEMENTOne of the FAA™s most valuable capital assets is its allocated spectrum. The management and 
+use of this asset in the future will need to be a critical element of the systems architecture. It takes 
+significant time and effort to achieve international agreement and standardization before any 
+changes can be made to the allocation of the spectrum. Aircraft equipage considerations require 
+standardization and implementation to be coordinated worldwide; otherwise, international flights 
+would be required to carry multiple sets of equipment for different parts of the world. Spectrum 
+
+efficiency is also important. Like other entities that manage government-held spectrum, the FAA 
+is under pressure to share spectrum and to use it more efficiently.
+8 The 108-137 MHz very-high- 
+frequency (VHF) and 960-1215 MHz ultrahigh-frequency airbands, which are used for navigation 
+aids, precision approach systems, and voice communications, are used inefficiently by modern 
+standards, having been allocated in a different technology era. Most notable is the continued use of 
+amplitude modulation (AM) channels for voice communication. But the transition to efficient digi
+-tal voice, low-cost, high-performance data radios and the shutdown of some radars and old VHF 
+
+navigation equipment to free up spectrum will be a challenging process. The committee is focused 
+on current and anticipated plans with regard to spectrum management for the NAS and NextGen. 
+THE IMPORTANCE
+ AND NECESSITY OF MODERNIZATION
+FAA™s NextGen efforts are broadly aimed at transforming U.S. airspace, and toward that end, 
+there are significant modernization opportunities along the way. Opportunities to replace and 
+upgrade aging equipment are certainly within the scope for NextGen and offer the potential to 
+reduce the risk of failure, to reduce maintenance costs, and to enhance capabilities. Modernization 
+efforts also afford opportunities to increase the flexibility and extensibility of existing software-
+intensive systems to allow for incremental advancement over time. The trade-off between the near 
+term and long term is, in part, about delivering economic benefits in the near term while taking 
+compatible near-term steps that support longer-term transformation of the system. NextGen aims to 
+deliver near-term benefits for its user community (which has a near-term planning horizon driven 
+by business objectives) while establishing and retaining a focus on longer-term transformative 
+changes in the system. The challenge is balancing evolutionary changes with revolutionary changes 
+and aligning these changes with the most significant problems that most critically require solutions.
+The long-term vision for NextGen is ambitious. Some aspects of NextGen are anticipated to 
+be transformational. Others, no less critical, are important and necessary modernization efforts 
+and can pave the way for potential eventual transformations. An ambitious long-term vision for 
+NextGen includes short- and medium-term initiatives that will (1) provide a foundation for the 
+8  Two Presidential Memoranda in recent years have emphasized the importance of wise spectrum management: June 28, 2010, 
+ﬁUnleashing the Broadband Revolutionﬂ (http://www.whitehouse.gov/the-press-office/presidential-memorandum-unleashing-
+wireless-broadband-revolution), and June 14, 2013, ﬁExpanding America™s Leadership in Wireless Innovationﬂ (http://www.
+
+whitehouse.gov/the-press-office/2013/06/14/presidential-memorandum-expanding-americas-leadership-wireless-innovatio). 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.EMERGING TOPICS OF FOCUS AND CONCERN 
+ 17longer-term vision and (2) enable critically needed modernization of aging elements of the NAS. 
+In the committee™s view, both of these elements are critically important.
+The study committee will receive additional briefings about these and other aspects of NextGen 
+in order to fulfill its charter. A final report, with the committee™s findings and recommendations, 
+
+is anticipated in 2014. In that report, although it will not necessarily address each of the questions 
+raised here in this preliminary snapshot, the committee expects to say more about each of the 
+above topics.
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.Appendixes
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.21
+ABiographies of Committee Members and Staff
+David E. Liddle, 
+Chair
+, has been a partner at U.S. Venture Partners, a Silicon Valley-based venture 
+capital firm since 2000. He co-founded Interval Research Corporation, a Silicon Valley-based labo
+-ratory and incubator for new businesses focusing on broadband, consumer devices, interaction 
+design, and advanced technologies, where he served as president and CEO between 1992 and 1999. 
+Previously, Dr. Liddle co-founded Metaphor Computer Systems, Inc., in 1982 and served as its 
+president and CEO until 1991. He has also held executive positions at Xerox Corporation and IBM. 
+Prior to co-founding Interval with Paul Allen, Dr. Liddle founded Metaphor, which was acquired by 
+IBM in 1991, which named him vice president of business development for IBM Personal Systems. 
+His extensive experience in research and development has focused largely on human-computer 
+interactions and includes 10 years at Xerox Palo Alto Research Center (PARC), from 1972 to 1982. 
+He has been a director of MaxLinear, Sybase, Broderbund Software, Borland International, and 
+Ticketmaster and is currently on the board of the New York Times Company and InPhi, Inc. His 
+board involvement at U.S. Venture Partners includes AltoBeam, Karmasphere, and LineStream. Dr. 
+Liddle served on the Defense Advanced Research Projects Agency (DARPA) Information Science 
+and Technology Committee and as co-chair of the National Research Council™s (NRC™s) Computer 
+Science and Telecommunications board. His contributions to human-computer interaction design 
+earned him the distinction of senior fellow at the Royal College of Art. He is on the boards of SRI 
+International, the College of Engineering at Stanford University and The Public Library of Science. 
+Dr, Liddle earned a B.S. in electrical engineering at the University of Michigan and a Ph.D. in EECS 
+at the University of Toledo, where his dissertation focused on reconfigurable computing machines 
+and theories of encryption, encoding and signal recovery. He recently served as chair of the NRC 
+study on wireless technology prospects and policy options, and on the subsequent PCAST study 
+
+on realizing the full potential of government-held spectrum to spur economic growth. He is a type-
+rated Citation pilot with more than 2,000 hours in jets. 
+Steven M. Bellovin
+ (NAE) is a professor of computer science at Columbia University, where he does 
+research on networks, security, and especially why the two do not get along. He recently served as 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.22 INTERIM REPORT OF A REVIEW OF NEXTGEN
+the chief technologist for the Federal Trade Commission. He joined the faculty at Columbia in 2005 
+after many years at Bell Labs and AT&T Labs Research where he was an AT&T fellow. He received a 
+B.A. degree from Columbia University and his M.S. and Ph.D. degrees in computer science from the 
+University of North Carolina, Chapel Hill. While a graduate student, he helped create Netnews; for 
+this, he and the other perpetrators were given the 1995 Usenix Lifetime Achievement Award (The 
+Flame). In 2007 he received the National Institute of Standards and Technology/National Security 
+Agency National Computer Systems Security Award. He is a member of the National Academy of 
+Engineering (NAE) and is serving on the Department of Homeland Security™s Science and Technol
+-ogy Advisory Committee and the Technical Guidelines Development Committee of the Election 
+
+Assistance Commission. He was a member of the Internet Architecture Board from 1996-2002 and 
+
+was co-director of the Security Area of the Internet Engineering Task Forcefrom 2002 through 2004. 
+Dr. Bellovin is the co-author of 
+Firewalls and Internet Security: Repelling the Wily Hacker,
+ and holds a 
+number patents on cryptographic and network protocols. He has served on many NRC committees, 
+
+including those on information systems trustworthiness, the privacy implications of authentication 
+technologies, and cybersecurity research needs. He was also a member of the information technol
+-ogy subcommittee of an NRC study group on science versus terrorism. 
+John-Paul B. Clarke
+ is an associate professor in the Daniel Guggenheim School of Aerospace 
+Engineering with a courtesy appointment in the H. Milton Stewart School of Industrial and Sys
+-tems Engineering and director of the Air Transportation Laboratory at the Georgia Institute of 
+Technology. He received S.B., S.M. , and Sc.D. degrees in aeronautics and astronautics from the 
+Massachusetts Institute of Technology (MIT). His research and teaching in the areas of control, 
+optimization, and system analysis, architecture, and design are motivated by his desire to simul
+-taneously maximize the efficiency and minimize the societal costs (especially on the environment) 
+of the global air transportation system. Dr. Clarke has made seminal contributions in the areas of 
+air traffic management, aircraft operations, and airline operationsŠthe three key elements of the 
+air transportation systemŠand has been recognized globally for developing, among other things, 
+key analytical foundations for the Continuous Descent Arrival and novel concepts for robust airline 
+scheduling. His research has resulted in significant changes in engineering methods, processes and 
+productsŠmost notably the development of new arrival procedures for four major U.S. airports 
+and one European airportŠand changes in airline scheduling practices. He is an associate fellow of 
+the American Institute of Aeronautics and Astronautics (AIAA) and a member of the Airline Group 
+of the International Federation of Operational Research Societies, Institute for Operations Research 
+and the Management Sciences, and Sigma Xi. His many honors include the AIAA/AAAE/ACC Jay 
+Hollingsworth Speas Airport Award (1999), the Federal Aviation Administration (FAA) Excellence 
+in Aviation Award (2003), the NAE Gilbreth Lecturership (2006), and the 37th SAE/AIAA William 
+Littlewood Memorial Lecture Award (2012). 
+George L. Donohue
+ was granted the status of professor emeritus in 2010 and has been a professor 
+of systems engineering and operations research at George Mason University since 2000. He has an 
+M.S. and a Ph.D. in mechanical and aerospace engineering from Oklahoma State University and 
+a BSME from the University of Houston. From 1994 to 1998, he was the associate administrator 
+for research and acquisitions at the FAA and is the founding director of the Center for Air Trans
+-portation Systems Research in the Volgenau School of Engineering. Dr. Donohue is a former vice 
+
+president of the RAND Corporation and director of PROJECT AIR FORCE (1989-1994). Previously 
+he was the director of DARPA™s Aerospace and Strategic Technology Office (1988-1989), a vice 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.APPENDIX A 23president of Dynamics Technology (1979-1984). He served as head of the Advanced Technology 
+Division (1977-1979) and head of the Fluid Mechanics Branch (1973-1976) at the U.S. Naval Ocean 
+System Center in San Diego, California. In the interim, he served as a program manger in DARPA™s 
+Tactical Technology Office (1976-1977). He has been awarded an NRC post-doctoral fellowship with 
+the U.S. Navy (1973-1974), the Secretary of Defense Meritorious Civilian Service Medal (1977), the 
+Air Traffic Control Association Clifford Burton Memorial Award (1998), and the Embry Riddle 
+Aeronautical University Pinnacle Award for initiating the Alaska Capstone ADS-B Program (2007). 
+He was named one of 
+Federal Computer Week™s
+ top 100 Executives in 1997 and was also named one 
+of the top 100 decision makers in Washington, D.C., by the 
+National Journal
+ in 1997. Dr. Donohue 
+was chosen to head the U.S. Delegation to the International Civil Aviation OrganizationConference 
+
+on Air Traffic Management Modernization in 1998. He is a member of Tau Beta Pi, Pi Tau Sigma, 
+Omicron Delta Kappa, and Sigma Xi honorary societies. He is a fellow of AIAA and a licensed 
+private pilot with a single-engine land rating. In addition to more than 60 published unclassified 
+papers, he has been the principle author of two books on air transportation, the most recent is titled 
+Terminal Chaos: Why U.S. Air Travel is Broken and How to Fix It
+. He has testified before Congress on 
+both military and civil aviation issues on numerous occasions. Dr. Donohue is currently acting as 
+
+an academic advisor to undergraduate and doctoral students. He is a member of the NRC™s NASA 
+Aeronautics Research and Technology Roundtable, and a member of the Mechanical and Aerospace 
+Engineering Advisory Board, Oklahoma State University.
+R. John Hansman, Jr.
+ (NAE) is the T. Wilson Professor in the Department of Aeronautics and Astro
+-nautics at MIT, where he is head of the Humans and Automation Division. He also is director of 
+the International Center for Air Transportation. His current research interests focus on advanced 
+
+cockpit information systems, including flight management systems, air-ground datalink, electronic 
+charting, advanced alerting systems, and flight crew situational awareness. Dr. Hansman received 
+a Ph.D. from MIT. He holds six U.S. Patents and has authored more than 250 technical publica
+-tions. He is also an internationally recognized expert in aviation meteorological hazards such as 
+
+icing and windshear. He is a fellow of AIAA. He received the 1998 Bose Award for Excellence in 
+Teaching, the 1997 FAA Excellence in Aviation Award, the 1994 AIAA Losey Atmospheric Award, 
+the 1990 OSTIV Diploma for Technical Contributions, and the 1986 AIAA Award for Best Paper in 
+Thermophysics. He recently served as co-chair of the MIT Presidential Task Force on Student Life 
+and Learning. Dr. Hansman consults and serves as a member of numerous advisory and technical 
+committees, including the Congressional Aeronautics Advisory Committee, the FAA Research and 
+Development Advisory Committee, the FAA WAAS Independent Review Board, and the NASA 
+Advanced Air Transportation Technologies Executive Steering Committee. He serves on several 
+editorial boards, including 
+Air Traffic Control Quarterly
+. He has more than 5,650 hours of pilot in-
+command time in airplanes, helicopters, and sailplanes, including meteorological, production, and 
+
+engineering flight test experience.
+Mats P.E. Heimdahl
+ is the director of the University of Minnesota Software Engineering Center 
+where he specializes in software engineering and safety critical systems. Dr. Heimdahl is the recipi
+-ent of the National Science Foundation™s CAREER award and University of Minnesota™s McKnight 
+Land-Grant Professorship, the McKnight Presidential Fellow Award, and the Award for Outstand
+-ing Contributions to Post-Baccalaureate, Graduate, and Professional Education. His research group, 
+
+the Critical Systems Research Group, is conducting research in software engineering and is inves
+-tigating methods and tools to help develop software with predictable behavior free from defects. 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.24 INTERIM REPORT OF A REVIEW OF NEXTGEN
+Research in this area spans all aspects of system development ranging from concept formation 
+and requirements specification through design and implementation to testing and maintenance. 
+In particular, he is investigating model-based software development for critical systems, focusing 
+on how to use various static verification techniques to assure that software requirements models 
+possess desirable properties, how to correctly generate production code from software requirements 
+models, how to validate models, and how to effectively use the models in the testing process.
+John C. Knight
+ is a professor of computer science at the University of Virginia. He holds a B.Sc. 
+(Hons) in mathematics from the Imperial College of Science and Technology (London) and a Ph.D. 
+in computer science from the University of Newcastle upon Tyne. Prior to joining the University 
+
+of Virginia in 1981, he was with NASA™s Langley Research Center. He was the general chair of the 
+
+2000 International Symposium on the Foundations of Software Engineering (FSE), and general chair 
+of the 2007 International Conference on Software Engineering (ICSE). He served as editor in chief 
+of 
+IEEE Transactions on Software Engineering
+ from January 2002 to December 2005. He was honored 
+by the IEEE Computer Society as the recipient of the 2006 Harlan D. Mills Award ﬁfor encourag
+-ing software researchers to focus on practical results as well as theory, and for critically analyzing 
+
+their assumptions and evaluating their research claims.ﬂ He was honored by the Association for 
+Computing Machinery™s (ACM™s) Special Interest Group on Software Engineering (SIGSOFT) as 
+the recipient of the 2008 Distinguished Service Award.
+Leon J. Osterweil
+ is a professor in the Department of Computer Science and co-director of the 
+Laboratory for Advanced Software Engineering Research at the University of Massachusetts, 
+Amherst. He served as dean of the College of Natural Sciences and Mathematics at the University 
+of Massachusetts, as chair of the Information and Computer Science Department of the University 
+of California, Irvine, and chair of the Computer Science Department at the University of Colo
+-rado, Boulder. Dr. Osterweil received the Outstanding Research Award for lifetime achievement 
+
+in research and the Influential Educator Award, both from ACM SIGSOFT. His paper suggesting 
+the idea of process programming was recognized as the Most Influential Paper of the 9th Interna
+-tional Conference on Software Engineering, awarded as a 10-year retrospective. Dr. Osterweil has 
+
+served on the editorial boards of several journals, including 
+IEEE Software, IEEE Transactions on 
+Software Engineering,
+ and 
+ACM Transactions on Software Engineering and Methodology.
+ He has served 
+as program chair for many conferences, including the 16th ICSE, and as general chair of the 28th 
+
+ICSE and the 6th FSE. He was a member of the Software Engineering Institute™s Process Program 
+Advisory Board for several years following its inception and has been an advisor or consultant 
+for such organizations as SAIC, MCC, AT&T, Boeing, KLA-Tencor, TRW, and IBM. He has been a 
+keynote speaker at many conferences around the world. Dr. Osterweil is a fellow of the ACM and 
+
+an ACM Lecturer.
+Walker E. Royce
+ is the chief software economist in IBM Software Group. He is a principal consultant 
+and practice leader specializing in measured improvement of systems and software development 
+capability. He is the author of three books: 
+Eureka! Discover and Enjoy the Hidden Power of the English 
+Language
+ (2011), 
+The Economics of Software Development
+ (2009) and 
+Software Project Management, A 
+Unified Framework
+ (1998). From 1994-2009, Mr. Royce was the vice president and general manager 
+of IBM™s Rational Services organization and built a worldwide team of 500 technical specialists in 
+software delivery best practices and $100 million in consulting services. Before joining Rational/
+IBM, he spent 16 years in software project development, software technology development, and 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.APPENDIX A 25software management roles at TRW Electronics and Defense. Mr. Royce was a recipient of TRW™s 
+Chairman™s Award for Innovation for his contributions in distributed architecture middleware and 
+iterative software processes (1990) and was a TRW technical fellow. He received his B.A. in phys
+-ics from the University of California and his M.S. in computer engineering from the University of 
+
+Michigan. 
+Gavriel Salvendy
+ (NAE) is professor emeritus of industrial engineering at Purdue University and 
+chair professor emeritus and former head (2001-2011) of the Department of Industrial Engineering 
+at Tsinghua University, Beijing, and P.R. of China. He is the author or co-author of more than 550 
+research publications, including more than 300 journal papers, and he is the author or editor of 42 
+
+books. His publications have appeared in seven languages.
+ He is the major professor to 67 former 
+and current Ph.D. students. His main research deals with the human aspects of design, operation, 
+and management of advanced engineering systems. Dr. Salvendy is the founding editor of 
+Interna
+-tional Journal on Human-Computer Interaction and Human Factors and Ergonomics in Manufacturing and 
+
+Service Industries. He was the founding chair of the International Commission on Human Aspects in 
+
+Computing, Headquartered in Geneva, Switzerland. In 1990, he became the first member of either 
+the Human Factors and Ergonomics Society or the International Ergonomics Association to be 
+elected to the NAE. He was elected ﬁfor fundamental contributions to and professional leadership 
+in human, physical, and cognitive aspects of engineering systems.ﬂ In 1995, he received an honor
+-ary doctorate from the Chinese Academy of Sciences ﬁfor great contributions to the development of 
+
+science and technology and for the great influence upon the development of science and technology 
+in Chinaﬂ and is the fourth person in all fields of science and engineering in the 45 years of the 
+Academy ever to receive this award. In 2006, he received the Friendship Award presented by the 
+
+People™s Republic of ChinaŠthe highest honor the Chinese government confers on foreign experts. 
+In 2007, he received the John Fritz Medal, which is the engineering profession™s highest award, 
+for his ﬁfundamental international and seminal leadership and technical contributions to human 
+engineering and industrial engineering education, theory, and practice.ﬂ
+ The journals 
+Ergonomics
+ (2003), 
+Computers in Industry
+ (2010), and 
+Intelligent Manufacturing
+ (2011) have published special 
+issues in his honor. He is an honorary fellow and life member of the Ergonomics Society and a 
+fellow of the Human Factors and Ergonomics Society, the Institute of Industrial Engineers, and the 
+American Psychological Association. He has advised organizations in more than 31 countries on 
+the human side of effective design, implementation, and management of advanced technologies 
+in the workplace. He earned his Ph.D. in engineering production at the University of Birmingham, 
+United Kingdom.
+ Thomas B. Sheridan (NAE) is the Ford Professor of Engineering and Applied Psychology, Emeritus, 
+
+in the Department of Mechanical Engineering and the Department of Aeronautics and Astronau
+-tics at MIT, where he has spent most of his professional career serving as director of the Human-
+
+Machine Systems Laboratory. Dr. Sheridan™s research interests are in experimentation, mathematical 
+modeling, and design of human-machine systems in air, highway, and rail transportation, space and 
+
+undersea robotics, process control, arms control, telemedicine, and virtual reality. He has authored 
+and edited numerous books, co-founded the MIT Press journal 
+Presence: Teleoperators and Virtual 
+Environments
+ and served on several editorial boards. Dr. Sheridan chaired and continues to serve 
+on the NRC™s Committee on Human Systems Integration and has served on numerous government 
+
+and industrial advisory committees. Since retiring from MIT, he has served the U.S. government 
+as a senior research fellow for the U.S. DOT Volpe Center and as chief system engineer for human 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.26 INTERIM REPORT OF A REVIEW OF NEXTGEN
+factors for the FAA. He is a fellow of the Human Factors and Ergonomics Society and a recipient 
+of their Paul M. Fitts and Arnold Small Awards and the President™s Outstanding Career Award, as 
+well as a former president of the society. He was elected to the NAE in 1995. Dr. Sheridan holds a 
+bachelor™s degree from Purdue University, an M.S. degree from the University of California, Los 
+Angeles, and a Sc.D. degree from MIT.
+Robert F. Sproull 
+(NAE)
+ recently retired as vice president and director of Oracle Labs, an applied 
+research group that originated at Sun Microsystems. Since his undergraduate days, Dr. Sproull has 
+been building hardware and software for computer graphics, clipping hardware, an early device-
+independent graphics package, page description languages, laser printing software, and window 
+
+systems. He has also been involved in very-large-scale integration design, especially of asynchro
+-nous circuits and systems. Before joining Sun Microsystems in 1990 (acquired by Oracle in 2010), he 
+was a principal with Sutherland, Sproull and Associates, an associate professor at Carnegie Mellon 
+University and a member of Xerox PARC. He is a coauthor with William Newman of the early 
+text 
+Principles of Interactive Computer Graphics.
+ He is also an author of the book 
+Logical Effort,
+ which 
+deals with designing fast complementary metal-oxideŒsemiconductor circuits. He is a member of 
+the NAE, a fellow of the American Academy of Arts and Sciences, and has served on the U.S. Air 
+Force Scientific Advisory Board and as a technology partner of Advanced Technology Ventures. 
+He is currently the chair of the NRC™s Computer Science and Telecommunications Board, a direc
+-tor of Applied Micro Circuits, Inc., and an adjunct professor of computer science at University of 
+
+Massachusetts, Amherst. Dr. Sproull received a B.A in physics from Harvard College and an M.S. 
+and Ph.D. in computer science from Stanford University.
+James W. Sturges
+ is an independent consultant specializing in program management and systems 
+engineering for very large, complex aerospace and defense systems. He retired in 2009 from Lock
+-heed Martin Corporation where he had been director, engineering processes, and director, mission 
+assurance. Prior to that he was vice president, engineering and total quality, at Loral Air Traffic 
+Control/Lockheed Martin Air Traffic Management, and C3I strategic business area director for 
+Loral Tactical Defense Systems, Arizona. He is an associate fellow and past member of the Standards 
+Executive Council and chair of the Systems Engineering Technical Committee of AIAA and was 
+twice chair of the Corporate Advisory Board for the International Council on Systems Engineering. 
+Early in his career, he was a naval aviator, instrument instructor, and check pilot and was an anti-
+submarine warfare officer for the U.S. Navy. He has a B.A. from the University of North Carolina 
+and an M.S. and aeronautical engineer degree from the Naval Postgraduate School at Monterey.
+Elaine Weyuker
+ (NAE) is an ACM fellow, an IEEE fellow, an AT&T fellow, and NAE member. Dr. 
+Weyuker is currently an independent consultant specializing in software testing, reliability, and 
+metrics, and a visiting scholar at the Center for Discrete Mathematics and Theoretical Computer 
+Science of Rutgers, the State University of New Jersey. She is the author of 170 papers in journals 
+and refereed conference proceedings. Prior to moving to the Research Division of AT&T Labs, she 
+was a professor of the Courant Institute of Mathematical Sciences of New York University, was a 
+faculty member at the City University of New York, a systems™ engineer at IBM, and a programmer 
+at Texaco. She served as chair of the ACM Women™s Council from 2004 to 2012, is a member of the 
+steering committee of the Coalition to Diversify Computing, a member of the Rutgers University 
+Graduate School Advisory Board, and was a member of the board of directors of the Computing 
+Research Association. Dr. Weyuker is or was a member of the editorial boards of 
+IEEE Transactions 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.APPENDIX A 27on Software Engineering, IEEE Transactions on Dependable and Secure Computing, IEEE Spectrum, Empiri
+-cal Software Engineering,
+ and the 
+Journal of Systems and Software,
+ and she was a founding editor of 
+ACM Transactions of Software Engineering and Methodology
+. She was the secretary/treasurer of ACM 
+SIGSOFT and was an ACM national lecturer. Dr. Weyuker received a Ph.D. in computer science 
+from Rutgers University, an M.S.E. from the University of Pennsylvania, and a B.A. in mathematics 
+from the State University of New York, Binghamton.
+Staff
+Virginia Bacon Talati
+ is a program officer for the Computer Science and Telecommunications Board 
+(CSTB) of the NRC of the National Academies. She formerly served as a program associate with the 
+Frontiers of Engineering program at the NAE. Prior to her work at the Academies, she served as 
+a senior project assistant in Education Technology at the National School Boards Association. Ms. 
+Talati has a B.S. in science, technology, and culture from the Georgia Institute of Technology and 
+an M.P.P. from George Mason University, with a focus in science and technology policy.
+Dwayne A. Day
+ is a senior program officer for the NRC™s Aeronautics and Space Engineering 
+Board, has a Ph.D. in political science from the George Washington University. Dr. Day joined the 
+NRC as a program officer for the Space Studies Board. Before this, he served as an investigator for 
+the Columbia Accident Investigation Board, was on the staff of the Congressional Budget Office, 
+and also worked for the Space Policy Institute at the George Washington University. He has held 
+Guggenheim and Verville fellowships and was an associate editor of the German spaceflight 
+magazine 
+Raumfahrt Concrete
+, in addition to writing for such publications as 
+Novosti Kosmonavtiki
+ (Russia), 
+Spaceflight
+, and 
+Space Chronicle
+ (United Kingdom). He has served as study director for 
+several NRC reports, including 
+Defending Planet Earth: Near-Earth-Object Surveys and Hazard Miti
+-gation Strategies
+ (2010), 
+Preparing for the High Frontier: The Role and Training of NASA Astronauts in 
+the Post-Space Shuttle Era
+ (2011), 
+Continuing Kepler™s Quest: Assessing Air Force Space Command™s 
+Astrodynamics Standards
+ (2012), 
+Recapturing NASA™s Aeronautics Flight Research Capabilities
+ (2012), 
+and 
+NASA™s Strategic Direction and the Need for a National Consensus
+ (2012).
+Jon Eisenberg
+ is director of CSTB. He has also been study director for a diverse body of work, 
+including a series of studies exploring Internet and broadband policy and networking and commu
+-nications technologies. In 1995-1997 he was a AAAS Science, Engineering, and Diplomacy Fellow 
+
+at the U.S. Agency for International Development, where he worked on technology transfer and 
+information and telecommunications policy issues. Dr. Eisenberg received his Ph.D. in physics 
+from the University of Washington and B.S. in physics with honors from the University of Mas
+-sachusetts, Amherst.
+Lynette I. Millett
+ is associate director of CSTB. Ms. Millett has extensive experience as program 
+manager, team leader, analyst, researcher, and writer with specific expertise in information technol
+-ogy policy. She is skilled in working with diverse and expert work groups and since 2000 has been 
+developing, directing, and overseeing NRC studies and teams of national experts examining public 
+policy issues related broadly to information technology, computing, software, and communica
+-tions. Her portfolio at the NRC includes a suite of studies on computing research, the most recent 
+
+being 2012™s 
+Computing Research for Sustainability
+; several examinations of government information 
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.28 INTERIM REPORT OF A REVIEW OF NEXTGEN
+technology and infrastructure needs, such as 2011™s 
+Strategies and Priorities for Information Technol
+-ogy at the Centers for Medicare and Medicaid Services
+; and in-depth examinations of privacy, identity 
+and
+ cybersecurity, including 2010™s 
+Biometric Recognition: Challenges and Opportunities
+.  She has an 
+M.Sc. in computer science from Cornell University, where her work was supported by graduate 
+fellowships from the National Science Foundation and the Intel Corporation; and a B.A. in math
+-ematics and computer science with honors from Colby College.
+Eric Whitaker
+ is a senior program assistant at CSTB. Prior to joining CSTB, he was a realtor with 
+Long and Foster Real Estate, Inc., in the Washington D.C. metropolitan area. Before that, he spent 
+several years with the Public Broadcasting Service in Alexandria, Virginia, as an associate in the 
+
+Corporate Support Department. He has a B.A. in communication and theater arts from Hampton 
+University
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.29
+B Briefers to the Study Committee
+MARCH 19, 2013Steven Bradford, Federal Aviation Administration
+Gerald Dillingham, Government Accountability Office
+Michael Hritz, Federal Aviation Administration
+Margaret Jenny, RTCA
+Heather Krause, Government Accountability Office
+Molly Laster, Government Accountability Office
+Natesh Menikoth, Federal Aviation Administration
+Michele Merkle, Federal Aviation Administration
+Madhav Panwar, Government Accountability Office
+Pamela Whitley, Federal Aviation Administration
+MAY 8-9, 2013Sherry Borener, Federal Aviation Administration
+
+Edgar Calderon, Federal Aviation Administration
+Vincent Capezzuto, Federal Aviation Administration 
+Rachel Carr, House Aviation Subcommittee, Minority Staff
+Sean Cassidy, Air Line Pilot Association 
+Paul Fountain, Federal Aviation Administration
+Giles Giovinazzi, House Aviation Subcommittee, Minority Staff
+Tom Kramer, Aircraft Owners and Pilots Association 
+Paul Krois, Federal Aviation Administration
+Andrew Lacher, MITRE 
+Natesh Manikoth, Federal Aviation Administration 
+Mike Matousek, House Aviation Subcommittee, Majority Staff
+Interim Report of a Review of the Next Generation Air Transportation System Enterprise Architecture, Software, Safety, and Human FactorsCopyright National Academy of Sciences. All rights reserved.30 INTERIM REPORT OF A REVIEW OF NEXTGEN
+Jay Merkle, Federal Aviation Administration
+Robert Nichols, Federal Aviation Administration
+Simone Perez, House Aviation Subcommittee, Majority Staff
+Andrew Rademaker, House Aviation Subcommittee, Majority Staff
+Mike Riso, Professional Aviation Safety Specialists
+Rich Swayze, Senate Commerce Committee, Majority Staff
+Joseph Teixeira, Federal Aviation Administration
+Dan Watts, Federal Aviation Administration 
+Holly Woodruff Lyons, House Aviation Subcommittee, Majority Staff
+Dale Wright, National Air Traffic Controllers Association
+AUGUST 6-7, 2013Sherry Borener, Federal Aviation Administration
+Steve Bradford, Federal Aviation Administration
+Glen Dyer, Excelis
+Fran Hill, Lockheed Martin
+Mike Hritz, Federal Aviation Administration
+Charles Keegan, Raytheon 
+Paul Krois, Federal Aviation Administration
+Natesh Manikoth, Federal Aviation Administration
+Roberto Ortiz, Federal Aviation Administration
+Ron Stroup, Federal Aviation Administration
+Jesse Wijntjes, Federal Aviation Administration

@@ -1,0 +1,2970 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/18260Collecting Sexual Orientation and Gender Identity Data inElectronic Health Records: Workshop Summary88 pages | 6 x 9 | PAPERBACKISBN 978-0-309-26804-2 | DOI 10.17226/18260Joe Alper, Monica N. Feit, and Jon Q. Sanders, Rapporteurs; Board on the Healthof Select Populations; Institute of MedicineCollecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Joe Alper, Monica N. Feit, and Jon Q. Sanders, 
+RapporteursBoard on the Health of Select Populations 
+Collecting Sexual Orientation 
+and Gender Identity Data 
+ in Electronic Health Records
+ Workshop Summary
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS
+ 500 Fifth Street, NW
+ Washington, DC 20001
+NOTICE: The workshop that is the subject of this workshop summary was 
+approved by the Governing Board of the National Research Council, whose 
+members are drawn from the councils of the National Academy of Sciences, the 
+National Academy of Engineering, and the Institute of Medicine. 
+This activity by the National Academy of Sciences was supported in part by 
+the National Institutes of Health under Contract Number HHSN263201200074I, 
+with additional support from The California Endowment under grant number 
+20121371, and the California HealthCare Foundation, based in Oakland, Califor
+-nia, under grant number 17133. The views presented in this publication do not 
+necessarily re˜ect the views of the organizations or agencies that provided sup
+-port for this activity.
+International Standard Book Number-13:
+ 978-0-309-26804-2
+International Standard Book Number-10:
+ 0-309-26804-4
+Additional copies of this report are available from the National Academies Press, 
+500 Fifth Street, NW, Keck 360, Washington, DC 20001; (800) 624-6242 or (202) 
+334-3313; http://www.nap.edu.
+For more information about the Institute of Medicine, visit the IOM home page 
+at: 
+www.iom.edu. 
+Copyright 2013 by the National Academy of Sciences. All rights reserved.
+Printed in the United States of America
+The serpent has been a symbol of long life, healing, and knowledge among almost 
+all cultures and religions since the beginning of recorded history. The serpent 
+adopted as a logotype by the Institute of Medicine is a relief carving from ancient 
+Greece, now held by the Staatliche Museen in Berlin.
+Suggested citation: IOM (Institute of Medicine). 2013. Collecting sexual orientation and 
+gender identity data in electronic health records: Workshop summary.
+ Washington, DC: 
+The National Academies Press.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.ﬁKnowing is not enough; we must apply. Willing is not enough; we must do.ﬂ ŠGoetheAdvising the Nation. Improving Health.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.The National Academy of Sciences is a private, nonpro˚t, self-perpetuating 
+society of distinguished scholars engaged in scienti˚c and engineering research, 
+dedicated to the furtherance of science and technology and to their use for the 
+general welfare. Upon the authority of the charter granted to it by the Congress 
+in 1863, the Academy has a mandate that requires it to advise the federal govern
+-ment on scienti˚c and technical matters. Dr. Ralph J. Cicerone is president of the 
+National Academy of Sciences.
+The National Academy of Engineering was established in 1964, under the charter of the National Academy of Sciences, as a parallel organization of outstanding 
+engineers. It is autonomous in its administration and in the selection of its mem
+-bers, sharing with the National Academy of Sciences the responsibility for advis
+-ing the federal government. The National Academy of Engineering also sponsors 
+engineering programs aimed at meeting national needs, encourages education 
+and research, and recognizes the superior achievements of engineers. Dr. Charles 
+M. Vest is president of the National Academy of Engineering.
+The 
+Institute of Medicine
+ was established in 1970 by the National Academy of 
+Sciences to secure the services of eminent members of appropriate professions 
+in the examination of policy matters pertaining to the health of the public. The 
+Institute acts under the responsibility given to the National Academy of Sciences 
+by its congressional charter to be an adviser to the federal government and, upon 
+its own initiative, to identify issues of medical care, research, and education. 
+Dr. Harvey V. Fineberg is president of the Institute of Medicine.
+The 
+National Research Council
+ was organized by the National Academy of 
+Sciences in 1916 to associate the broad community of science and technology 
+with the Academy™s purposes of furthering knowledge and advising the fed
+-eral government. Functioning in accordance with general policies determined 
+by the Academy, the Council has become the principal operating agency of both 
+the National Academy of Sciences and the National Academy of Engineering in 
+providing services to the government, the public, and the scienti˚c and engineer
+-ing communities. The Council is administered jointly by both Academies and the 
+Institute of Medicine. Dr. Ralph J. Cicerone and Dr. Charles M. Vest are chair and 
+vice chair, respectively, of the National Research Council.
+www.national-academies.org
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.PLANNING COMMITTEE ON COLLECTING 
+ SEXUAL ORIENTATION AND GENDER IDENTITY DATA 
+ IN ELECTRONIC HEALTH RECORDS
+1IGNATIUS BAU
+ (
+Chair
+), Independent Health Policy Consultant, San 
+Francisco, California
+NANCY BATES,
+ Senior Researcher for Survey Methodology at the U.S. 
+Census Bureau, Washington, DC
+DANIEL KASPRZYK,
+ Vice President and Director, Center for Excellence 
+in Survey Research, NORC at the University of Chicago, Bethesda, 
+Maryland
+HARVEY J. MAKADON,
+ Clinical Professor of Medicine at Harvard 
+Medical School and Director of the LGBT Health Education Center 
+at the Fenway Institute, Boston, Massachusetts
+IOM Staff
+MONICA N. FEIT,
+ Senior Program Of˚cer
+JON Q. SANDERS,
+ Program Associate
+ANDREA COHEN,
+ Financial Associate
+FREDERICK (RICK) ERDTMANN,
+ Director, Board on the Health of 
+Select Populations
+1 Institute of Medicine planning committees are solely responsible for organizing the 
+workshop, identifying topics, and choosing speakers. The responsibility for the published 
+workshop summary rests with the workshop rapporteurs and the institution.
+vCollecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.This workshop summary has been reviewed in draft form by indi
+-viduals chosen for their diverse perspectives and technical expertise, in 
+accordance with procedures approved by the National Research Council™s 
+Report Review Committee. The purpose of this independent review is 
+to provide candid and critical comments that will assist the institution
+ in making its
+ published workshop summary as sound as possible and 
+to ensure that the workshop summary meets institutional standards for 
+objectivity, evidence, and responsiveness to the study charge. The review 
+comments and draft manuscript remain con˚dential to protect the integ
+-rity of the process. We wish to thank the following individuals for their 
+review of this workshop summary:
+Leslie Calman,
+ Mautner Project: The National Lesbian Health 
+Organization
+Kevin Johnson,
+ Vanderbilt University Medical Center
+Susan Queen,
+ Of˚ce of the Assistant Secretary for Planning and 
+ 
+Evaluation, Department of Health and Human Services
+David Vawdrey,
+ Columbia University
+Although the reviewers listed above have provided many construc
+-tive comments and suggestions, they did not see the ˚nal draft of the 
+workshop summary
+ before its release. The review of this workshop sum
+-mary was overseen by
+ Hugh Tilson, 
+University of North Carolina at 
+Chapel Hill. Appointed by the Institute of Medicine, he was responsible 
+Reviewers
+vii
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.viii REVIEWERSfor making certain that an independent examination of this workshop 
+summary was carried out in accordance with institutional procedures 
+and that all review comments were carefully considered. Responsibility 
+for the ˚nal content of this workshop summary rests entirely with the 
+rapporteurs and the institution.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Many individuals were responsible for organizing the workshop and 
+producing this summary. The planning committee would like to thank 
+Institute of Medicine staff members Monica Feit, Jon Sanders, Andrea 
+Cohen, Rick 
+ Erdtmann, Hannan Braun, and Colin Fink. Joe Alper, the 
+lead rapporteur, deserves special acknowledgment for writing the ˚rst 
+draft of this summary. We also thank the speakers and participants of the 
+workshop who lent their insights to the topic and contributed to the dis
+-cussions throughout the day. Finally, we thank the sponsors of the work
+-shop: The California Endowment, the Cali
+ 
+fornia HealthCare Foundation, 
+based in Oakland, California, and the National Institutes of Health. The 
+workshop would not have been possible without their generous support.
+Acknowledgments
+ix
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.ACRONYMS
+ xiii
+1 INTRODUCTION AND OVERVIEW
+ 1 About This Summary, 2
+2 CLINICAL RATIONALE FOR COLLECTING SEXUAL 
+ ORIENTATION AND GENDER IDENTITY DATA
+ 5 Access to Care, 7
+ The Impact on Quality of Care, 8
+ Supporting Patients in the Collection of Data, 9
+ Discussion, 13
+3 FEDERAL PERSPECTIVE ON THE USE OF ELECTRONIC 
+ HEALTH RECORDS TO COLLECT SEXUAL ORIENTATION 
+ AND GENDER IDENTITY DATA
+ 15 
+ Efforts at the Department of Health and Human Services, 16
+ The View from the Centers for Medicare & Medicaid Services, 17
+ Health Resources and Services Administration Perspective, 18
+ Con˚dentiality, Privacy, and the Health Insurance Portability 
+ and Accountability Act, 21
+ Discussion, 23
+Contents
+xi
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.xii CONTENTS4 EXISTING DATA COLLECTION PRACTICES IN CLINICAL 
+ SETTINGS
+ 25
+ Patient Self-Identi˚cation in Electronic Health Records, 26
+ The Mayo Clinic Experience, 29
+ The Kaiser Permanente Experience, 30
+ The Fenway Health Experience, 31
+ The Vanderbilt University Experience, 33
+ Supporting Providers in the Collection of Data, 35
+ Discussion, 36
+5 DEVELOPING AND IMPLEMENTING QUESTIONS FOR 
+ COLLECTING DATA ON SEXUAL ORIENTATION AND 
+ GENDER IDENTITY
+ 39
+ Gender Identity Data Collection, 40
+ Developing a ﬁPerfectﬂ Sexual Identity Measure, 41
+ Assessing Sexual Identity and Behavior in California™s 
+ Diverse Population, 42
+ Sexual Orientation and Gender Identity in the Electronic 
+ Health Record: A User and Vendor Perspective, 45
+ Discussion, 47
+6 CLOSING REMARKS
+ 51
+REFERENCES
+ 53
+APPENDIXES
+A Workshop Agenda
+ 55
+B Registered Workshop Attendees
+ 59
+C Biographical Sketches of Workshop Speakers
+ 63
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.AHA
+ American Hospital Association
+AHRQ
+ Agency for Healthcare Research and Quality
+CDC
+ Centers for Disease Control and Prevention
+CHIS
+ California Health Information Survey
+CMS
+ Centers for Medicare & Medicaid Services
+EHR 
+ electronic health record
+FTM
+ female to male transgender
+GI
+ gender identity
+HEI
+ Healthcare Equality Index 
+HHS
+ Department of Health and Human Services
+HIPAA
+ Health Insurance Portability and Accountability Act 
+HIT
+ Health Information Technology
+HITECH
+ Health Information Technology for Economic and Clinical 
+Health 
+HIV
+ human immunode˚ciency virus
+HRSA
+ Health Resources and Services Administration
+IOM
+ Institute of Medicine
+Acronyms
+xiii
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.xiv ACRONYMSLGBT
+ lesbian, gay, bisexual, and transgender
+MTF
+ male to female transgender
+NCHS
+ National Center for Health Statistics
+NHANES
+ National Health and Nutrition Examination Survey
+NHIS
+ National Health Information Survey
+NSFG
+ National Survey of Family Growth 
+OIPDA
+ Of˚ce of Information Products and Data Analysis
+ONC
+ Of˚ce of the National Coordinator for Health Information 
+Technology
+SAMHSA
+ Substance Abuse and Mental Health Services Administration
+SO
+ sexual orientation
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.1Introduction and Overview
+1In 2011, the Institute of Medicine (IOM) released the report 
+The Health 
+of Lesbian, Gay, Bisexual, and Transgender People: Building a Foundation for 
+Better Understanding, the ˚rst comprehensive compilation of what is 
+known about the health of each of these groups at different stages of life. 
+This report also outlined an agenda for the research and data collection 
+necessary to form a fuller understanding of this subject. 
+One of the recommendations in this report was that, provided that 
+privacy concerns could be adequately addressed, information on patients™ 
+sexual orientation and gender identity
+2 should be collected in electronic 
+health records, just as information on race and ethnicity is routinely 
+ 
+collected. Such data are essential because demographics provide the 
+foundation for understanding any population™s status and needs. This 
+recommendation recognized that the possible discomfort on the part of 
+health care workers asking questions about sexual orientation and gen
+-der identity, a lack of knowledge by providers about how to elicit this 
+1 The planning committee™s role was limited to planning the workshop, and the workshop 
+summary has been prepared by the workshop rapporteurs as a factual summary of what 
+occurred at the workshop. Statements, recommendations, and opinions expressed are those 
+of individual presenters and participants, and are not necessarily endorsed or veri˚ed by the 
+Institute of Medicine, and they should not be construed as re˜ecting any group consensus.
+2 In the 2011 Institute of Medicine report, sexual orientation was ﬁconceptualized in terms 
+of sexual attraction, behavior, identity, or some combination of these dimensionsﬂ (p. 12). 
+Gender identity was de˚ned using the Bockting (1999) de˚nition as ﬁone™s basic sense of 
+being a man, woman, or other gender (such as transgender)ﬂ (IOM, 2011, p. 318).
+11Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.2 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+information, and some hesitancy on the part of patients to disclose this 
+information may be barriers to the collection of meaningful data on sexual 
+orientation and gender identity.
+As the next step in exploring this recommendation, an ad hoc com
+-mittee was assembled to plan and conduct a public workshop on col
+-lecting sexual orientation and gender identity data in electronic health 
+records (see Box 1-1). The workshop, held on October 12, 2012, featured 
+invited presentations and facilitated discussions about current practices 
+around sexual orientation and gender identity data collection, the chal
+-lenges in collecting these data, and ways in which these challenges can 
+be overcome.
+ABOUT THIS SUMMARY
+This document was prepared by rapporteurs Joe Alper, Monica N. 
+Feit, and Jon Q. Sanders for the Board on the Health of Select Popula
+-tions of the Institute of Medicine (IOM) as a factual summary of what 
+occurred at the workshop Collecting Sexual Orientation and Gender 
+Identity Data in Electronic Health Records. The workshop speakers and 
+BOX 1-1
+ Statement of Task
+An ad hoc committee will plan and conduct a public workshop on collect
+-ing  sexual orientation and gender identity data in electronic health records. The 
+workshop will feature invited presentations and facilitated discussions about cur
+-rent practices around sexual orientation and gender identity data collection, the 
+challenges in collecting these data, and ways in which these challenges can be 
+overcome. 
+Areas of focus for the workshop will include the clinical rationale behind col
+-lecting these data, standardized questions that can be used to collect these data, 
+mechanisms for supporting providers and patients in the collection of these 
+data, technical speci˜cations involved in creating standards for sexual orienta
+-tion and gender identity data collection and exchange, and policy considerations 
+related to the Health Information Technology (HIT) Meaningful Use process being 
+overseen by the Department of Health and Human Services (HHS).
+The committee will develop the workshop agenda, select invited speakers 
+and discussants, and moderate the discussions. Invited participants will include 
+lesbian, gay, bisexual, and transgender (LGBT) health care consumer advocates, 
+providers with experience working with LGBT populations, HIT vendors and other 
+HIT specialists, health care administrators, and policy makers. A workshop sum
+-mary will be prepared by a designated rapporteur in accordance with National 
+Research Council policies and procedures.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.INTRODUCTION AND OVERVIEW
+ 3presentation topics were selected to cover a range of important issues in 
+data collection on sexual orientation and gender identity for inclusion 
+in an electronic health record. However, it was impossible to include all 
+potential topics during the course of a 1-day workshop, and speakers 
+could not exhaustively cover all relevant ˚ndings and issues for each 
+topic in their presentations. Consequently, some relevant topics could not 
+be included in the workshop and, by extension, are not included in this 
+workshop summary. In accordance with the policies of the IOM, the sum
+-mary does not attempt to establish any conclusions or recommendations 
+about needs and future directions, focusing instead on issues identi˚ed 
+by the speakers and workshop participants.
+Whenever possible, ideas presented at the workshop are attributed 
+to the individual who expressed them. Any opinions, conclusions, or 
+recommendations discussed in this workshop summary are solely those 
+of the individual participants and should not be construed as re˜ecting 
+consensus or endorsement by the workshop, the Board on the Health of 
+Select Populations, the Institute of Medicine, or the National Academies. 
+The workshop agenda is in Appendix A, a list of registered participants 
+is in Appendix B, and biographical sketches of the workshop speakers 
+are in Appendix C. 
+The 19 presentations at the workshop are divided into 5 chapters 
+following this introductory chapter. (For clarity, the presentations have 
+been somewhat reorganized from the agenda.) Chapter 2 discusses the 
+clinical reasons to collect data on sexual orientation and gender identity, 
+both from a population perspective and as it applies to an individual™s 
+health care. This chapter also presents some compelling personal stories 
+illustrating the barriers and discrimination that lesbian, gay, bisexual, 
+and transgender (LGBT) people experience in the health care system. 
+Chapter 3 examines the role that the federal government is playing in 
+developing methods for collecting sexual orientation and gender identity 
+data in electronic health records and ensuring that these methods protect 
+patient privacy and con˚dentiality. Chapter 4 describes the experiences 
+of several health care systems in developing and implementing questions 
+on sexual orientation and gender identity and incorporating the data 
+in electronic health records. Chapter 5 examines the issues involved in 
+developing standardized questions for collecting data on sexual orienta
+-tion and gender identity and provides examples of questions that have 
+been ˚eld-tested and deployed in actual clinical settings. Chapter 6 pro
+-vides comments from participants and the workshop organizing commit
+-tee chair™s ˚nal observations on themes that arose during the workshop.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.2Clinical Rationale for Collecting 
+ Sexual Orientation and 
+Gender Identity Data
+1Harvey Makadon began his talk by recognizing the Surgeon General™s 
+report 
+Healthy People 2020
+, which, for the ˚rst time, acknowledged that 
+health disparities exist in LGBT populations. Health disparities among 
+LGBT people are rooted in bias, stigma, discrimination, and social deter
+-minants of health, not genetics or other molecular issues, or even sexual 
+orientation and gender identity, said Makadon. Therefore, he said, sys
+-tems changes and educational changes can make a signi˚cant difference 
+1 This section is based on the presentations of Harvey Makadon, Clinical Professor of 
+Medicine at the Harvard Medical School and Director of the National LGBT Health Educa
+-tion Center at The Fenway Institute; and Beverly Tillery, Director and Community Educator, 
+Lambda Legal.
+Key Points Raised by the Speaker
+Health disparities among LGBT people are rooted in bias, stigma, discrimina
+-tion, and social determinants of health, not genetics or other molecular issues.
+Discrimination against and substandard care for LGBT people is prevalent.
+Information about sexual orientation and gender identity is critical to address
+ ing 
+issues of access to care and quality of care.
+Education of clinicians, health system staff, and patients is essential to 
+ improve 
+the collection of information on sexual orientation and gender identity. 
+5Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.6 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+in the ability of the health care profession to provide quality, accessible 
+care for LGBT people. ﬁThat is an important theme that we need to keep 
+in mind,ﬂ said Makadon.
+At one time, hospitals were taking the lead in eliminating health care 
+disparities among minority populations, but that role is now being shared 
+more equally by community health centers and a variety of enabling 
+organizations. Nonetheless, hospitals continue to be a key leader in this 
+area, and the American Hospital Association (AHA) has issued the Health 
+Research and Education Trust Disparities Toolkit for collecting race, 
+ 
+ethnicity, and primary language information from patients. In issuing 
+this toolkit, the AHA noted that disparities in health care can be addressed 
+through a quality-of-care framework if data on race, ethnicity, and pri
+-mary language are available. A 2003 report from Physicians for Human 
+Rights, 
+The Right to Equal Treatment
+, reiterated this message when it stated 
+that data collection is not only central to quality assurance but also to help ensure nondiscrimination in access to care. 
+Makadon said that by the same token, health disparities that affect 
+LGBT people will only be addressed if the health system collects data on 
+sexual orientation and gender identity. The IOM, in its report 
+The Health 
+of Lesbian, Gay, Bisexual, and Transgender People: Building a Foundation for 
+Better Understanding
+, noted the direct bene˚t of collecting data on sexual 
+orientation and gender identity for individual patients. Only by ask-ing patients about their LGBT status and collecting data on the LGBT 
+population will it be possible to end LGBT invisibility in health care. As 
+Makadon put it, ﬁI would say that unless we can do something about col
+-lecting data on LGBT people, we can™t assure anyone that LGBT people 
+are receiving quality care.ﬂ He then asked the workshop audience to think 
+about the following questions:
+
+Has a clinician ever asked about your sexual history, including 
+behavior, health, and satisfaction?
+
+Has a clinician ever asked you about your sexual orientation? 
+
+Has a clinician ever asked you about your gender identity?
+Based on his experience, Makadon estimated that 10 to 20 percent 
+of people would answer yes to the ˚rst question, but that close to zero 
+would answer yes for the second and third questions. Given that there are 
+medical issues related to sexual orientation and gender identity, it seems 
+that it would be dif˚cult to provide good medical care for LGBT people 
+without that information, and it is equally challenging to assess the qual
+-ity of care being provided to the LGBT population. He also remarked 
+that the invisibility of the LGBT population results from a combination of 
+patient reluctance to divulge information on sexual orientation or gender 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.CLINICAL RATIONALE
+ 7identity and physician discomfort or ignorance about the importance of 
+this information. 
+In terms of sexual orientation, Makadon continued, it is not simply a 
+matter of identifying someone as gay, lesbian, bisexual, or heterosexual. 
+Rather, he said, the real question is about how people see themselves, 
+how they actually behave, and what their desires are. Some people, for 
+example, are attracted to others of the same sex but have never acted on 
+that desire, yet they want to talk to their physicians about those thoughts. 
+ﬁUnless you can get that information and engage people in conversation, 
+you are not going to help somebody who is thinking about whether or 
+not they may be gay or lesbian or bisexual, but hasn™t acted on it because 
+they don™t feel comfortable with it. So we have to be thinking about how 
+we get at this information,ﬂ Makadon explained. 
+To back up this assertion, he cited a 2006 study from the New York 
+Department of Mental Health that found 9.4 percent of men who identi
+-˚ed as heterosexual had had sex with a man in the previous year. These 
+men were more likely to belong to minority racial and ethnic groups, be 
+of lower socioeconomic status, be foreign-born, and not use a condom. In 
+another study, between 77 and 91 percent of lesbians reported that they 
+had at least one prior sexual experience with men, and 8 percent reported 
+having sex with a man in the prior year. He added that while these exam
+-ples might seem obvious to those attending the workshop, they are not 
+obvious to most nurses or doctors because they do not learn about this 
+kind of discordance between sexual identity and sexual behavior in medi
+-cal school. Yet, for clinicians, it can be helpful to understand the different 
+dimensions and manifestations of sexual orientation in order to build a 
+better therapeutic relationship with their patients.
+ACCESS TO CARE
+According to the aforementioned IOM study, lesbians and bisexual 
+women may use preventive health services less frequently than hetero
+-sexual women. From his experience as a clinician, Makadon said that he 
+expects that reduced access to care applies to gay men and transgender 
+people as well. What this reduced access to care translates into, he said, 
+is that LGBT people do not receive the right preventive health screening 
+that they need, and the only way to remedy that situation is to identify 
+these populations. 
+As an illustration of the importance of identifying LGBT people, 
+Makadon cited 2009 data from the Centers for Disease Control and Pre
+-vention (CDC) that showed that 61 percent of new cases of HIV infection 
+were among men who have sex with men. This number, which has been 
+climbing annually since 2006, came as a surprise given that the number 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.8 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+of HIV cases overall remained constant, and it likely re˜ects the fact that 
+prevention efforts are not reaching men who have sex with men but do 
+not identify as gay when asked on a survey. This is particularly true 
+among black men between the ages of 13 and 29 who have sex with men, 
+a population in which there has been an almost 50 percent increase in the 
+incidence of HIV cases between 2006 and 2009. 
+These data highlight the fact that LGBT people are not one homoge
+-neous group, but rather that they re˜ect the same cultural diversity seen 
+throughout the general population. Understanding the cultural diversity 
+among, in this case, men who have sex with men, is going to be key 
+to developing ways to reach underserved populations, but that lesson 
+applies to all LGBT people, said Makadon. That understanding cannot 
+start without data about these underserved populations. 
+In terms of understanding the T in LGBT, the IOM report noted that 
+there are signi˚cant health disparities that have been documented among 
+transgender people. It is critical that clinicians have information on a 
+patient™s gender identity, gender expression, birth sex, medical history, 
+and current anatomy. The only way to get this information is by educating 
+both clinicians and the transgender community about the importance of 
+discussing these issues to ensure access to high-quality care. The clinician, 
+said Makadon, has to be the point person in gathering this information, 
+but the ˚eld needs to ˚gure out ways to help clinicians so that they do 
+not spend all of their time just gathering data and not having time to talk 
+to their patients.
+THE IMPACT ON QUALITY OF CARE
+To illustrate the importance of all clinicians, not just the primary 
+care physician, having information about a patient™s gender identity, 
+ 
+Makadon discussed two case studies. The ˚rst case involved a 50-year-
+old woman who developed a high fever and chills after head and neck 
+surgery. The infection source turned out to be the patient™s prostate gland, 
+which nobody knew she had because nobody had asked about her gender 
+identity and she had not volunteered this information. She could have 
+received much quicker treatment for her infection had her surgeon and 
+the hospital staff known she was a transgender woman. 
+The second case involved a 55-year-old man who came to his physician 
+with pain and on X-ray appeared to have metastases from an unknown pri
+-mary cancer. Evaluation ultimately showed that he had developed 
+ cancer 
+in his residual breast tissue that remained after having ﬁtop 
+ surgeryﬂ to 
+remove his breasts. None of his physicians were aware that he was a trans
+-gender man, so he had not been advised to have routine breast screening 
+even though his mother and sister had also had breast cancer.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.CLINICAL RATIONALE
+ 9Makadon then discussed some of the new opportunities that exist for 
+gathering patient information on sexual orientation and gender identity 
+that take advantage of patient portals that many health care systems have 
+now installed (Figure 2-1). These portals are designed to enable patients to 
+input information about themselves in the privacy of their homes, which 
+could be particularly important for LGBT people. Another approach that 
+some health care systems are testing is to use iPads handed out at the 
+registration desk to enable patients™ to enter data in private, rather than 
+as verbal answers to what can be embarrassing or awkward questions. 
+That information can then become part of the electronic record that all 
+of an individual™s clinicians would have access to without the need to 
+question the patient. 
+In closing, Makadon said that there are a few issues that need to be 
+considered in preparation for collecting LGBT data in clinical settings. 
+Clinicians, he said, need to learn about LGBT health issues and the range 
+of expression related to identity, behavior, and desire. Health care system 
+staff members also need to understand these concepts given that patients 
+often report that uncomfortable questions come up at the reception desk, 
+not in the exam room. Patients, too, need to learn about why it is impor
+-tant to communicate this information and to feel comfortable that it will 
+be used appropriately. Finally, collecting data on sexual orientation and 
+gender identity is critical and has to be done sensitively, without assump
+-tions, and for every patient along with all other demographic data. ﬁOur 
+task is to improve quality and access to care for all, including LGBT 
+people, and that starts with more data collection,ﬂ said Makadon. 
+SUPPORTING PATIENTS IN THE COLLECTION OF DATA
+In 2009, Lambda Legal, together with more than 100 partner organi
+-zations, surveyed 4,916 people representing a diverse sampling of LGBT 
+communities and people living with HIV, regardless of sexual orienta
+-tion, gender identity, HIV status, race, ethnicity, age, and geography. The 
+resulting report, 
+When Health Care Isn™t Caring: Lambda Legal™s Survey on 
+Discrimination Against LGBT People and People Living with HIV
+, was the 
+˚rst to document refusal of care and barriers to health care among LGBT 
+and HIV communities on a national scale, said Beverly Tillery. She added 
+that the ˚ndings were surprisingly high in terms of discrimination and 
+substandard care. For example, 56 percent of lesbian, gay, or bisexual 
+individuals and 70 percent of transgender people said that they had expe
+-rienced discrimination or received substandard care. Nearly 8 percent 
+of lesbian, gay, or bisexual people and almost 27 percent of transgender 
+people reported being refused needed health care. More than 10 percent of 
+lesbian, gay, or bisexual people and more than 15 percent of transgender 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.10 FIGURE 2-1
+ New opportunities for gathering LGBT data during the process of care. 
+NOTE: EHR = electronic health record.
+SOURCE: Makadon presentation.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.CLINICAL RATIONALE
+ 11people reported having had the experience of a health care professional 
+who refused to touch them or used excessive precautions before touching 
+them. Almost 11 percent of lesbian, gay, or bisexual people and almost 
+21 percent of transgender people said that they had experienced a health 
+care professional use harsh or abusive language with them and 4 percent 
+of lesbian, gay, or bisexual people and almost 8 percent of transgender 
+people described receiving physically rough or abusive treatment from 
+a health care professional. In nearly every case, people of color and low-
+income people had higher rates of experiencing discrimination.
+In terms of barriers to care, the survey found that signi˚cant percent
+-ages of LGBT individuals expressed concerns about accessing health care. 
+Nine percent of lesbian, gay, or bisexual people and almost 52 percent 
+of transgender people feared they would be refused medical service; 
+more than 28 percent of lesbian, gay, or bisexual people and 73 percent 
+of transgender people expressed concern that medical personnel would 
+treat them differently than non-LGBT people; 49 percent of lesbian, gay, 
+or bisexual people and almost 90 percent of transgender people said 
+there were not enough health professionals who were adequately trained 
+to care for them because of their sexual orientation or gender identity 
+status; more than 24 percent lesbian, gay, or bisexual people and more 
+than 50 percent of transgender people said there were not enough sup
+-port groups; and almost 29 percent of lesbian, gay, or bisexual people and 
+almost 59 percent of transgender people said there were not enough sub
+-stance abuse programs for LGBT individuals. Again, the numbers were 
+all higher in people of color. 
+As part of this project, Lambda Legal and its partners also collected 50 
+personal stories that provided real-life illustrations of the discrimination 
+and substandard care LGBT people experience. Among the stories that 
+Tillery recounted were
+
+Jodi from Atlanta, who had to seek emergency room care.
+ ﬁThe 
+nurse comes into the room to get my information. Among her list 
+of questions was whether I was single or married. Well, I had a 
+union that was not recognized in Georgia, but it would not have 
+been accurate to answer either single or married. The nurse wanted 
+an emergency contact and wanted to know if there was anyone 
+with me, and if so, what was their relationship to me. I panicked 
+for a minute. 
+ﬁI was scared to admit my life partner was in the waiting room. 
+I was morti˚ed to say I was single. My head was swimming try
+-ing to think of a lie about who my partner was. Should I be safe 
+and say she was a friend? If so, she would be denied visitation if 
+something went wrong. Should I lie and say she was my sister? 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.12 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+How humiliating. I was afraid that if I admitted to being gay with 
+a partner that I might get sub-par care and even have my care and 
+life sabotaged. 
+ﬁAfter delaying, I felt I would take the risk and say that my 
+relationship does not ˚t into one of the boxes on your form. When 
+the nurse looked confused, I confessed that I was gay and that my 
+life partner was in the waiting room. She looked confused again, 
+and after a pause, said, ‚Uh, oh, huh, never heard that before.™ 
+ 
+Luckily, that is the worst that happened, but no one should have 
+to go through even that much.ﬂ
+
+Joe from Minneapolis. 
+ﬁI was 36 years old at the time of this story 
+and an out gay man. I was depressed over the breakup of an 8-year 
+relationship. The doctor I went to see told me that it was not medi
+-cine I needed, but to leave my dirty lifestyle.ﬂ
+
+Emile in Boise.
+ ﬁI™m a post-operative trans woman who began my 
+gender transition in 2004. After talking about transitioning with 
+my family M.D., she agreed to continue her medical relationship 
+with me. Because she was not experienced with treating a trans 
+person or prescribing hormone replacement therapy, she referred 
+me to a local endocrinologist. When I called to set up an appoint
+-ment, I was told by the secretary, we don™t treat people like you. 
+I called two other local endocrinologists and was told the exact 
+same thing.ﬂ
+
+Tory from Portland.
+ ﬁI went to visit my school™s health clinic for 
+an annual check-up. While I was ˚lling out my health history 
+information sheet, I was pleasantly surprised to ˚nd that the sheet 
+indicated both male and female partners, the number of partners, 
+and the type of birth control I used. I thought this was a great 
+example of LGBT-friendly medical facilities. Unfortunately, when I 
+was called into the exam room, the nurse didn™t read the form and 
+proceeded to ask me if I was sexually active and used condoms. 
+ﬁWhen I replied no and told the nurse that I was a lesbian, she 
+was shocked. After that, the appointment was awkward, and I felt 
+as though the nurse was not willing to touch me because I was a 
+lesbian. The entire awkward conversation and exam could have 
+been avoided if the nurse had only read the information sheet she 
+was given. It just goes to show you that having an LGBT-friendly 
+question form does not make a clinic LGBT-friendly.ﬂ
+
+Lee from Lock Haven, Pennsylvania.
+ ﬁFortunately, my primary 
+care physician is awesome. She takes good care of me and has since 
+I was 15 years old. I am able to completely be out and honest with 
+her. Although we may not always agree on non-treatment-related 
+topics, she is fair and non-judgmental. Unfortunately, I have been 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.CLINICAL RATIONALE
+ 13subjected to ignorance by specialists, female gynecological special-ists, and one male plastic surgeon.
+ﬁOne simply refused to believe that I was not sexually active 
+with men and refused to believe that I did have sex with women. 
+Others struggle with my identity. I identify primarily as male, but 
+I still have to cope with having a female body and keep it healthy. 
+I™m blessed to be healthy these days. I have never been evasive 
+about my person, and I have found that when I™m able to openly 
+discuss my body and my life, I am able to make informed, rational, 
+and essential decisions about my health.ﬂ
+In closing, Tillery emphasized the critical need to gather information 
+in order to identify health care disparities in LGBT communities. It is clear 
+from the data that Lambda Legal collected, she said, that LGBT people 
+experience real discrimination and a signi˚cant level of it, which makes 
+them cautious about getting the health care they need. It is also impor
+-tant, she added, to focus on con˚dentiality and privacy because privacy 
+breaches can have repercussions that go far beyond health care. In many 
+states, she reminded the audience, it is still legal to be ˚red for being 
+LGBT. She recommended that data collection be optional with a sense of 
+informed consent that involves educating patients about why these data 
+are important, and how and when they will be used. 
+DISCUSSION
+During the discussion session, Makadon was asked if the Centers for 
+Medicare & Medicaid Services (CMS) or electronic health record system 
+vendors were working on developing requirements and standards for 
+the collection of this information. Robert Tagalicod, from CMS, answered 
+that both his agency and the Of˚ce of the National Coordinator for Health 
+Information Technology (ONC) are working closely with the vendor com
+-munity to develop certi˚cation standards. Makadon said that from his 
+understanding, the issues are not technical ones but involve de˚ning the 
+questions that need to be asked and structuring those questions appropri
+-ately. As an example, he said that while it is important to ask about gender 
+identity, it is equally important to ask birth sex in order to have accurate 
+information about a patient™s anatomy. 
+It is also important, he added, to think about these questions in a 
+way that works for transgender people but also for everyone else so that 
+everyone feels comfortable that these are routine questions that are being 
+asked because they are important for the health care of a signi˚cant num
+-ber of individuals. He recounted the furor that arose when Massachusetts 
+instituted a requirement to collect data on race and ethnicity because most 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.14 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+people did not understand the need for this information. Now, the public 
+understands, for example, that untreated high blood pressure is more 
+prevalent in the African American community. 
+Leslie Calman, of the Mautner Project: The National Lesbian Health 
+Organization, asked if Makadon had any insights into how to communi
+-cate these issues to her community. She noted that she regularly encoun
+-ters lesbians, particularly older lesbians, who are terri˚ed of having this 
+information available and are particularly terri˚ed that they will ˚nd 
+themselves in a situation where they have an accident, go to the hospital, 
+and receive poor care because they are lesbians. Makadon agreed that this 
+fear is real in the LGBT community, particularly among older individuals. 
+In a ˚nal comment, Jesse Ehrenfeld, from Vanderbilt University, noted 
+that a prospective clinical trial that he and his colleagues recently ˚nished 
+showed that patients are more honest about their personal information 
+when they provided it at home. 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.3Federal Perspective on the 
+ Use of Electronic Health Records 
+to Collect Sexual Orientation 
+and Gender Identity Data
+11 This section is based on the presentations of Donald Moulds, Acting Assistant Secretary 
+for Planning and Evaluation, Department of Health and Human Services (HHS); Robert 
+Tagalicod, Director, Of˚ce of eHealth Standards and Services, CMS; Sylvia Fisher, Director, 
+Of˚ce of Research and Evaluation, Health Resources and Services Administration (HRSA); 
+Yael Harris, Director, Of˚ce of Health IT & Quality, HRSA; Sue McAndrew, Of˚ce for Civil 
+Rights, HHS; and Deven McGraw, Director, Health Privacy Project, Center for Democracy 
+and Technology.
+Key Points Raised by the Individual Speakers
+The federal government has implemented a data progression plan that will 
+ 
+ultimately integrate sexual orientation and gender identity variables into national 
+health surveys.
+While questions about sexual orientation are now being ˜eld-tested, there are 
+still important issues about gender identity variables that need to be resolved 
+before those questions would be ready for ˜eld tests.
+Stage 2 meaningful use regulations for EHR adoption do not include the col
+-lection of LGBT data, as there was concern over the lack of consensus on 
+de˜nitions, and on the standards for structured data entry for gender identity 
+and sexual orientation.
+EHR adoption by federally funded community health centers, which provide 
+services to many LGBT people, exceeds the national average and can serve 
+as a model for wider adoption by other health care systems.
+15
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.16 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Since 2009, two federal laws have raised the visibility of data collec
+-tion as a tool for reducing health care disparities. The Affordable Care 
+Act requires that all surveys sponsored by the Department of Health and 
+Human Services (HHS) collect information on race, ethnicity, sex, primary 
+language, and disability status. The law also allows HHS to collect addi
+-tional demographic data, including data on sexual orientation and gender identity, to better understand health care disparities. 
+In addition, the Health Information Technology for Economic and 
+Clinical Health (HITECH) Act, which was included as part of the Ameri
+-can Recovery and Reinvestment Act of 2009, provides HHS with the 
+authority to establish programs to improve health care quality, safety, 
+and ef˚ciency through the promotion of health information technology, 
+including electronic health records and private and secure electronic 
+health information exchanges. Six speakers at the workshop discussed 
+the steps that the federal government is taking to promote the collection 
+of sexual orientation and gender identity data as an integral part of efforts 
+to reduce health disparities among LGBT people.
+EFFORTS AT THE DEPARTMENT OF 
+HEALTH AND HUMAN SERVICES
+In 2011, HHS released a data progression plan intended to begin the 
+integration of sexual orientation and gender identity variables into HHS 
+national health surveys, explained Donald Moulds. The main objective 
+of the plan, he said, is to carry out a series of cognitive lab and ˚eld tests 
+leading to the inclusion of sexual orientation questions on the National 
+Health Interview Survey (NHIS), the department™s ˜agship survey for 
+collecting health data on the civilian population in the United States. 
+HHS is now in the ˚nal stages of ˚eld testing the questions about sexual 
+orientation that have been developed, and Moulds stated that testing has 
+gone ﬁextremely well.ﬂ 
+The expectations are that HHS will incorporate the new questions 
+into the core questionnaire of the National Health Information Survey in 
+January 2013. ﬁThe inclusion of this question or these questions will be 
+a major accomplishment and will be a complement to the current collec
+-tion of sexual orientation questions in the National Health and Nutrition 
+Examination Survey, the NHANES, and the National Survey of Family 
+Growth,ﬂ said Moulds. In addition, the Agency for Healthcare Research 
+and Quality (AHRQ) included for the ˚rst time a focus on health care 
+for LGBT populations in the 2011 
+National Health Disparities Report
+, the 
+agency™s annual publication on disparities in health care services. 
+For gender identity, HHS has held two roundtable meetings with 
+researchers, experts, and interested stakeholders to discuss the health data 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.FEDERAL PERSPECTIVE
+ 17needs and methodological issues of collecting information on transgender 
+populations. An important ˚nding from these meetings, Moulds said, 
+was that there is a need for further discussions on how best to measure 
+gender identity. 
+THE VIEW FROM THE CENTERS FOR 
+MEDICARE & MEDICAID SERVICES
+The ﬁmeaningful useﬂ of electronic health records provision of HITECH 
+is a powerful tool for getting pertinent data, including LGBT data, to better 
+the health and well-being of all Americans, said Robert Tagalicod. CMS, 
+he explained, oversees more than just Medicare and Medicaid; it also runs 
+the Child Health Insurance Program, the new health insurance exchanges 
+ 
+created by the Affordable Care Act, and the Innovation Center. Overall, 
+CMS oversees approximately $1 trillion annually in health care transactions. 
+In 2012, CMS established the Of˚ce of Information Products and Data 
+Analysis (OIPDA) to lead the agency™s initiative to modernize CMS™s 
+intricate data systems and policies and help the agency to achieve the 
+greatest improvements in health care delivery. The agency, said Tagalicod, 
+sees this as a mission-critical initiative to use data and analytics to guide 
+the agency™s evolution from fee-for-service to value-based purchasing 
+of health care, an approach that links reimbursement to quality and ef˚
+-ciency of care rather than the sheer volume of care. The data and informa
+-tion resources available under this initiative include
+
+Medicare Geographic Variation Trend Data, a unique dataset that 
+leverages nearly 5 billion Medicare claims in an easy-to-use data 
+format that provides key metrics at the state and hospital referral 
+region levels.
+
+Medicare Enrollment Dashboard, which provides, at a single loca
+-tion, comprehensive statistics or summary statistics on Medicare 
+enrollment Parts A, B, and D, and Medicare Advantage.
+
+Medicare & Medicaid Research Review
+, an online journal.
+
+CMS Data Navigator, a Web-based search tool that readily connects 
+researchers, policy makers, and the general public to CMS data.
+The idea driving the development of each of these tools, he added, is to 
+liberate and democratize data in order to inform a wide range of pro
+-grams as contemplated by the Affordable Care Act. Moreover, the goal 
+is to make data accessible in real time in the same way that credit card 
+charges are available to consumers within seconds of a transaction. 
+Tagalicod then spoke about Section 4302 of the Affordable Care Act, 
+which allows the Secretary of HHS to develop standards for categories of 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.18 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+data that CMS should collect. Under this authorization, CMS™s Of˚ce 
+of Minority Health is working to incorporate data standards related to 
+LGBT health into the agency™s data collection efforts. He also noted that 
+CMS oversees the Medicare and Medicaid Electronic Health Records 
+(EHRs) Incentives Program that provides incentives to providers for the 
+meaningful use of EHRs. The standards for meaningful use of electronic 
+health records are being released in stages. In August 2012, CMS issued 
+its ˚nal regulations for the second of three states of the meaningful use 
+incentive program. 
+During the public comment period for the Stage 2 meaningful use 
+regulations, there was overall public support for including LGBT data as 
+part of the overall demographic objective, with the majority of the com
+-ments supporting an optional versus required criteria. There was concern, 
+Tagalicod noted, over the sensitive nature of collecting this information 
+and over widespread collection by administrative staff. And a signi˚cant 
+number of comments questioned the clinical bene˚t of collecting the 
+information. 
+In the end, the ˚nal Stage 2 rule did not include the collection of LGBT 
+data, as there was concern over the lack of consensus on de˚nitions and 
+on the standards for structured data entry for gender identity and sexual 
+orientation. In addition, there was concern about the applicability to all of 
+the various eligible professionals, eligible hospitals, and so-called Critical 
+Access Hospitals regarding their scope of practice. Going forward, said 
+Tagalicod, CMS needs to settle on a usable structured data de˚nition and 
+the terms used in that de˚nition. It also needs to develop a way to inte
+-grate that data into a data collection system that incentivizes the use of 
+those data and does not merely set off a wave of box checking. The goal 
+should be better care and better health, at a lower cost, without endanger
+-ing the patient or negatively impacting the quality of that care.
+HEALTH RESOURCES AND SERVICES 
+ADMINISTRATION PERSPECTIVE
+The mission of the Health Resources and Services Administration 
+(HRSA), said Sylvia Fisher, is ﬁto improve health and achieve health 
+equity through access to quality services, a skilled health workforce, and 
+innovative programs.ﬂ She noted that HRSA is committed to addressing 
+the health care needs of LGBT communities. Accordingly, data collection 
+and program policies are continuously reviewed to ensure that HRSA pro
+-grams address LGBT health care disparities to the fullest extent possible. 
+As a result of these reviews, the agency revised its funding applications 
+to state explicitly that all LGBT populations are a service population of 
+focus. Language was also included specifying that community health 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.FEDERAL PERSPECTIVE
+ 19care centers can apply for HRSA funding to meet the needs of LGBT 
+communities.
+To keep health center personnel and staff well informed about the 
+needs of LGBT populations, HRSA recently signed a cooperative agree
+-ment with Fenway Health in Boston to create a National Training and 
+Technical Assistance Center. This center will provide technical support to 
+all of HRSA™s community health centers on the needs of LGBT persons 
+and populations. Fisher acknowledged that this is an ongoing subject that 
+requires continuous monitoring and intervention at its health centers. 
+In order to assist its community health centers in meeting the needs of 
+LGBT patients, HRSA is gathering data on sexual orientation and gender 
+identity with respect to health care settings. These data are shared with 
+the community health centers.
+Using a set of analytics tools, HRSA is now trying to assess where its 
+community health centers are with regard to adoption of EHRs and where 
+they are in achieving Stage 1 and Stage 2 meaningful use adoption. Yael 
+Harris noted that Federally Quali˚ed Health Centers annually report data 
+to HRSA as part of their grantee requirements. Based on data reported in 
+December 2011, 85 percent of the community health centers had some sort 
+of EHR and an additional 10 percent planned to purchase one in the next 
+12 months. Some 90 percent of the centers planned to apply for meaning
+-ful use incentive funds, and 50 percent were working with one of the 62 
+Regional Extension Centers funded through the American Recovery and 
+Reinvestment Act to provide information and technical assistance to small- 
+to medium-sized provider practices to support meaningful use of EHRs.
+In a survey conducted earlier by George Washington University™s 
+Geiger Gibson Community Health Research Foundation, Harris noted 
+that 70 percent of community health centers were using electronic records, 
+but only 45 percent were completely electronic, using no paper in their 
+collection of patient data. The discrepancy with the numbers reported to 
+HRSA in December 2011 may indicate increased levels of adoption of elec
+-tronic records. These numbers exceed the national rates for ambulatory 
+care providers. In addition, 67 percent of the community health centers 
+that serve migrant populations, 66 percent of those that provide health 
+care for the homeless, and 73 percent of those associated with public 
+housing units have an EHR. Additionally, of the 73 percent of the health 
+centers that provide behavioral health services, about 50 percent use an 
+EHR and are integrating the behavioral health components with their 
+regular EHR. Most of the clinicians working at those facilities now have 
+access to information on their patients™ mental health as well as primary 
+care needs. The goal, Harris added, is to have all 1,200 community health 
+centers meet meaningful use standards and become examples for other 
+health care providers in their communities. 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.20 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Achieving adoption of EHRs by rural health clinics has been a par
+-ticular challenge, Harris said. According to a recent survey by the Health
+-care Information and Management Systems Society, EHR adoption in 
+rural settings is lagging, in part because of broadband access issues but 
+also because of workforce training issues and limited funds to install 
+EHR systems. HRSA, said Harris, is working closely with the Of˚ce of 
+the National Coordinator, the Department of Agriculture, and the Federal 
+Communications Commission to address these barriers. 
+HRSA is also the home of the Ryan White HIV/AIDS program, which 
+includes the 900 Ryan White clinics.
+2 The agency supports a wide range of 
+activities addressing the needs of men who have sex with men and 
+ others 
+who have HIV and AIDS, with a particular focus on men who have sex 
+with men and who are also persons of color. ﬁWe want to be sure that 
+there is quality care that is provided to them that is non-judgmental, accu
+-rate, provides for their needs, and also ensures that they receive and have 
+access to those services,ﬂ Fisher explained. HRSA has also been collecting 
+data since 2000 on transgender clients who receive services through Ryan 
+White, though the agency found that the initial effort to collect data could 
+have been improved. As a result, HRSA convened a meeting in 2005 of 
+transgender clients who had HIV in order to get a better sense of how 
+to ask the questions around gender identity. As a result of that meeting, 
+HRSA now has two categories for transgender people: the male to female 
+option and female to male option. She stressed that they are continuing 
+to monitor these data collection efforts.
+According to Fisher, the populations served by Ryan White clinics are 
+those that most need electronic health records because they are popula
+-tions that most need care coordination. A survey conducted in the sum
+-mer of 2011 found that more than 78 percent of Ryan White clinics use 
+an EHR. Some 97 percent are electronically capturing patient history and 
+demographic data, 94 percent are capturing clinical notes electronically, 
+and 84 percent view lab results electronically. Problem areas still exist in 
+terms of electronic prescribing, ordering laboratory tests, and capturing 
+information speci˚c to the Ryan White program in EHRs. Fisher noted 
+that one strength of the Ryan White information technology effort is that 
+while con˚dentiality is protected, data can be analyzed to ˚nd gaps and 
+disparities. She added that 51 percent of Ryan White clinics report quality 
+measures directly to HRSA from their EHRs. 
+Fisher noted, too, that HRSA is proud to serve as a co-chair, along 
+with the Of˚ce of Minority Health, of the LGBT Work Group that is part of 
+the Healthy People 2020 initiative. One product of the Work Group was a 
+2 The Ryan White program is a federal program that provides services to low-income 
+individuals with HIV/AIDS.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.FEDERAL PERSPECTIVE
+ 21proposal to collect population-based data on LGBT people. This proposal 
+was approved by HHS. In 2011, HRSA began reporting for the ˚rst time 
+health data about women who are lesbian or bisexual through 
+Women™s 
+Health USA
+, an annual HRSA publication. This report included data on 
+breast cancer and other health conditions as well as domestic violence, 
+depression, and other psychological issues. HRSA plans to continue pub
+-lishing updated data annually.
+On a ˚nal note, Harris spoke about the work that HRSA is doing to 
+identify health care disparities as part of a national quality strategy that 
+involves multiple agencies within HHS. As part of this effort, HRSA is 
+focusing on disparity-sensitive conditions that were identi˚ed in 2010 by 
+the National Quality Forum. She also addressed the lack of a business case 
+for providers to adopt the EHR except for the incentive programs, a major 
+obstacle to a more widespread adoption of EHRs outside of HRSA-funded 
+health care settings. ﬁUntil we make it a seamless process whereby you 
+enter your data electronically and you can have real time data to track 
+how you are doing in quality and where you can interact and improve, 
+we really are not helping providers,ﬂ she said. ﬁThe goal is to make it 
+seamless for providers to report to CMS, to report to HRSA, to report to 
+other federal agencies, and also to develop the datasets they need in real 
+time to track and identify areas of disparity so that they can improve the 
+quality of care they provide.ﬂ
+CONFIDENTIALITY, PRIVACY, AND THE HEALTH 
+INSURANCE PORTABILITY AND ACCOUNTABILITY ACT
+The Of˚ce for Civil Rights in HHS administers the privacy and secu
+-rity rules embedded in the Health Insurance Portability and Account
+-ability Act (HIPAA). These rules, explained Sue McAndrew, protect iden
+-ti˚able health information that is held or obtained by most health care 
+providers, as well as certain other parties such as health plans and, soon, 
+business associates. The rules work by limiting how the covered entities 
+can use and disclose identi˚able health information, and they also pro
+-vide certain rights for individuals with respect to their own information. 
+Providers have an obligation as custodians of protected information to 
+safeguard it and ensure that it is not misused or disclosed without permis
+-sion of the individual. 
+In addition, the HIPAA security rule provides more de˚nitive stan
+-dards for safeguarding information that exists in electronic form (e.g., 
+in an EHR). The goal of the security rule is to ensure that that electronic 
+information remains con˚dential and that the integrity of the informa
+-tion is maintained. An important component of the security rule is that 
+it also has provisions to ensure that the data are available to those who 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.22 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+need them when they need them, so there is balance between security and 
+availability that the Of˚ce for Civil Rights works to maintain in collabora-tion with the ONC and other of˚ces within HHS. McAndrew also noted 
+that the Affordable Care Act provides the Of˚ce for Civil Rights with new 
+enforcement authority to ensure that, with regard to health programs 
+or activities, individuals should not be excluded from participation in, 
+discriminated against, or denied bene˚ts based on race, color, national 
+origins, age, disability, or sex, which includes discrimination on the basis 
+of gender identity and sex stereotyping. 
+HIPAA™s privacy rule has no authority in terms of data collection, 
+explained McAndrew. That is, HIPAA does not regulate the types of data 
+that health plans and health care providers collect, nor does it regulate 
+what can and cannot be put into a medical record. Those matters fall 
+under the jurisdiction of the states and professional associations. HIPAA 
+only comes into play once data are collected, and then only when they 
+are associated with an individual. With the exception of psychotherapy 
+notes, HIPAA does not give preferential treatment or heightened privacy 
+protections to any speci˚c type of health or demographic information. 
+However, states and individual providers can create additional protec
+-tions for types of data, such as HIV status. Individuals can also ask their 
+providers to provide additional protection for speci˚c data, but providers 
+are not required to agree to that request.
+The HIPAA privacy rule does give entities regulatory permission to 
+use protected health information for core purposes of providing health 
+care to their patients. The Of˚ce for Civil Rights, however, asks that insti
+-tutions consider how to limit who should have access to that information, 
+a concept known as ﬁminimum necessary.ﬂ The regulations also allow 
+general sharing, within this minimum necessary concept, with payers in 
+order for the health institutions to get paid for their services. McAndrew 
+stated that her of˚ce is committed to the electronic health record enter
+-prise, and that it works closely with ONC and others to make sure that 
+the privacy rule is there to underscore and to give certain foundational 
+privacy protections to information in EHRs. 
+Balancing Privacy and Security Concerns with Data Flow
+ﬁWe know we need to collect the data, and we know we need to 
+use them, but what kind of assurances can we give people about who™s 
+going to have access to those data and how con˚dential we can keep 
+them?ﬂ asked Deven McGraw. Answering that question, she said, is 
+critical to ensuring that the nation gets the maximum bene˚t in terms 
+of improving health care and reducing health disparities from the wide
+-spread adoption of EHRs. The goal is to enable data ˜ows that are 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.FEDERAL PERSPECTIVE
+ 23 
+necessary for improving individual and population health in a way that 
+patients trust.
+While she noted that there are some additional protections for data 
+collected in federally funded substance abuse treatment programs, those 
+will not apply to sexual orientation and gender identity data. HIPAA pro
+-vides the prevailing set of rules for these data. Something not mandated 
+by HIPAA is who gets to see what pieces of a patient™s medical record. 
+Health care delivery organizations decide which of their employeesŠ
+whether it is the front desk clerk, the billing clerk, or whomeverŠhave 
+access to particular types of data in the medical record.
+One challenge, she noted, arises from the document-centric way 
+in which EHRs collect, present, and share data. This document-centric 
+approach has developed largely in response to the meaningful use provi
+-sions that require a consolidated data document be sharable among medi
+-cal providers. The bene˚t to that approach is that it provides a relevant 
+summary of care for a provider, but the disadvantage is that it is dif˚cult 
+then to segment data, particularly in the case where a patient wants to 
+restrict sharing of certain types of data. ONC has created a data segmenta
+-tion initiative to actively explore this challenge. McGraw remarked that 
+she is encouraged by this effort and believes that a way will be found to 
+effectively identify and separate some data from the overall EHR. 
+Other issues to consider are how to standardize sexual orientation 
+and gender identity data and where exactly to place it in the EHR. These 
+decisions will impact the solution for segmentation. Overall, McGraw 
+stated her opinion that the technical community will come to an agree
+-ment soon on how to collect sexual orientation and gender identity data, 
+how to standardize those data, and where speci˚c data will be populated 
+in EHRs so that important demographic data can be provided while 
+privacy and con˚dentiality protections can be applied to certain data. 
+She addressed the workshop participants in closing by saying, ﬁIn many 
+respects, one could say that optimistically, and I am an optimist, that you 
+all are right in the right place at the right time. You might feel behind, but 
+since we don™t really know how to segment the information yet and we™re 
+working on it, coming in on this phase in those discussions may actually 
+turn out to be a little fortuitous.ﬂ 
+DISCUSSION
+In response to a question from Alex Gonzalez, medical director at 
+Fenway Health, about how to treat mental health records that are part of a 
+shared EHR, McAndrew said that anything incorporated into the general 
+medical record is not shielded under the special mental health provisions. 
+Only in cases where the records are maintained separately are they subject 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.24 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+to additional protections, she added. In that case, they cannot be shared 
+even for treatment purposes without the authorization of the individual. 
+Ignatius Bau asked McAndrew about the kind of outreach or educa
+-tion planned around the letter that came from the Of˚ce for Civil Rights 
+clarifying that section 1557 under the Affordable Care Act would protect 
+against discrimination on the basis of gender identity. He also asked how 
+that ˚ts into broader nondiscrimination protections. She replied that both 
+the letter and a set of frequently asked questions are available on the 
+Of˚ce for Civil Rights website. She said her of˚ce is continuing to work on 
+both additional regulations and outreach materials. McAndrew noted that 
+there is a shared interest within the department to ensure that discrimina
+-tion on the basis of gender identity and sex stereotyping is not occurring. 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.4Existing Data Collection 
+Practices in Clinical Settings
+11 This section is based on the presentations of Shane Snowdon, Director, LGBT Health 
+& Aging Program, Human Rights Campaign Foundation, and Founding Director, Center 
+for LGBT Health and Equity, University of California, San Francisco; John Knudsen, Chief, 
+LGBTI Practice Task Force, Mayo Clinic; Ronald Copeland, President and Executive Medi
+-cal Director, Ohio Permanente Medical Group; Alex Gonzalez, Medical Director, Fenway 
+Health; Jesse Ehrenfeld, Assistant Professor of Biomedical Informatics, Vanderbilt Univer
+-sity; and Robin Weinick, Associate Director, RAND Health.
+Key Points Raised by the Individual Speakers
+Transgender people are more likely to want to self-identify as such in an EHR 
+than are lesbian, gay, or bisexual people. It is important, then, to consider these 
+differing sensitivities when designing and implementing questions for use in a 
+patient portal or EHR.
+The primary concerns about collecting data on sexual orientation and gender 
+identity among LGBT people relate to privacy and use: who is going to ask 
+these questions, who will be able to see this information, and how will it be 
+used to bene˜t the patient?Soliciting input from patients and clinicians, and gaining buy-in from health care 
+system administrators, is critical to developing appropriate and useful data-
+collection tools for deployment across a health care system.
+Training health care system staff about working with LGBT people and the 
+sensitivities involved in collecting data on sexual orientation and gender identity 
+is essential for successful implementation of these tools.
+25
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.26 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Though the use of EHRs to collect data on sexual orientation and 
+gender identity is still evolving, a number of health care systems around 
+the nation are in the process of developing and implementing questions 
+to gather that data. These health care systems include both single-city 
+organizations that largely serve an LGBT population to huge, multistate 
+providers whose treatment population includes LGBT people. This chap
+-ter relates some of these health care systems™ experiences and includes 
+lessons that they have learned and suggestions for others who want to 
+collect data on sexual orientation and gender identity in their EHRs.
+PATIENT SELF-IDENTIFICATION IN 
+ELECTRONIC HEALTH RECORDS
+Each year, hundreds of health care facilities use the online national 
+Healthcare Equality Index (HEI) survey, managed by the Human Rights 
+Campaign, to evaluate themselves against established criteria for LGBT 
+patient-centered care. Shane Snowdon explained that this is the only sur
+-vey in the country that invites hospitals and outpatient clinics to examine 
+their practices and policies from an LGBT perspective, report those prac
+-tices and policies, and receive education and feedback about them. In the 
+latest survey, completed in March 2012, 122 responses were received; 12 
+responses came from LGBT clinics, with the remaining 110 coming from 
+general health facilities. Most of the latter facilities are in urban locations 
+and consider themselves progressive or on the leading edge of health care. 
+There are three types of LGBT patient data: same-sex partnership, 
+transgender status, and sexual orientation. Patients, said Snowdon, have 
+very different attitudes toward each of these types of data and about 
+whether and when they want to volunteer or be asked about them. Same-
+sex partner
+ 
+ship, she added, is often overlooked in these discussions about 
+LGBT-relevant data, but patients consider it extremely important. ﬁPatients 
+with same sex partners really want to at least be offered the option to say 
+that they have a same sex partner,ﬂ said Snowdon. ﬁThey do not want to 
+look at or hear the options single, married, widowed, divorced.ﬂ 
+Re˜ecting this preference, 58 percent of the facilities that participated 
+in the HEI survey said that they do offer a partner or signi˚cant other 
+option, either on a paper form or an EHR, and while this question is likely aimed at different-sex partners, same-sex partner couples appreciate the 
+option. Of the facilities included in the survey, 37 percent are in so-called 
+registration states that offer same-sex couples the opportunity to register 
+their relationship status and receive various health care rights and respon
+-sibilities, and some 75 percent of the facilities in a registration state offer 
+a registered domestic partner drop-down option. Snowdon pointed out 
+that patients often want to volunteer their same-sex partnership during 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.EXISTING DATA COLLECTION PRACTICES
+ 27the admitting process and to have their partnership recognized in the 
+health care setting. 
+An increasing number of transgender people, Snowdon continued, 
+want to self-indentify as such despite the fear and anxiety they may have 
+about doing so. They do, however, want people to know how to commu
+-nicate with them respectfully, appropriately, and accurately. They want 
+the entire health care systemŠthe labs running clinical assays, the phar
+-macies ˚lling prescriptions, and their physiciansŠaware of their sex at 
+birth because transgender people know that information is important for 
+them to receive the best care. Having said that, the most recent HEI survey 
+found that only three clinicsŠtwo that speci˚cally serve an LGBT popula
+-tion, the other serving a general populationŠoffer a drop-down option 
+for transgender status on their EHR. However, 78 facilities reported that 
+they are actively considering a drop-down option on transgender status. 
+The one general health facility that has a drop-down option has retained 
+ﬁmaleﬂ and ﬁfemaleﬂ as the options in the existing gender ˚eld, in order 
+to match legal identi˚cation and insurance information, but also indicates 
+ﬁtransgender MTF [male to female]ﬂ or ﬁtransgender FTM [female to 
+male]ﬂ in a prominent drop-down list that a patient can access at their 
+choosing. Snowdon noted that the facility made this modi˚cation to the 
+standard EHR without involving the vendor. 
+In contrast to the situation with transgender people, who increas
+-ingly want to self-identify, lesbian, gay, and bisexual people seem more 
+reluctant to self-identify in the context of an EHR, Snowdon said. Provid
+-ing information in an EHR allows providers to know more about their 
+patients, but many lesbian, gay, and bisexual people do not necessarily 
+want their providers to know about their sexual orientation. EHRs are 
+also envisioned to allow information to be shared more widely, and, 
+in Snowdon™s opinion, many lesbian, gay, and bisexual patients do not 
+want that information shared widely, if at all. While EHRs can be used to 
+empower patients, many patients feel that being confronted with routine 
+sexual orientation questions is disempowering. 
+Summarizing what she and her colleagues have learned over the 
+years, Snowdon said that lesbian, gay, and bisexual patients have many 
+concerns regarding volunteering information about sexual orientation in 
+the health care setting. They are unsure whether to respond in terms of 
+attraction, behavior, or identity. In her opinion, women in particular are 
+unsure about whether the question refers to today, the past, or the future 
+because they tend to view themselves as more sexually ˜uid. Re˜ecting 
+this challenge, medical students are now taught that sexual orientation 
+occurs on a spectrum that is not necessarily ˚xed over a lifetime. They 
+are also taught to not ask about sexual orientation, but rather to ask their 
+patients about actual behavior. 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.28 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Lesbian, gay, and bisexual patients worry, often with reason she said, 
+that they will be treated differently if their sexual orientation is known. 
+They may even delay and avoid care because of how they feel they will 
+be treated, not just by physicians, but by the nurses, the allied health 
+professions, and other facility employees. ﬁSo it isn™t just a question of, 
+‚Are my data going to be held con˚dentially in the research phase or in 
+the EHR?™ﬂ said Snowdon. ﬁIt is, ‚I don™t even want you to ask me unless 
+I volunteer it.™ﬂ This concern is especially prevalent, she added, in the 
+29 states in which lesbian, gay, and bisexual people do not have legal 
+protections. 
+Only 26 percent of facilities record sexual orientation in print or 
+in an EHR, and no general health facilities record sexual orientation 
+in an EHR using a drop-down option. Instead, the patient will note 
+their sexual orientation on a print form or the provider will enter the 
+patient™s sexual orientation in print or electronic notes. In contrast to 
+same sex partnership and transgender status, which patients often 
+want to volunteer, no general health facility reported patient requests 
+to indicate sexual orientation at admitting or registration. 
+On the basis of these ˚ndings, Snowdon made the following 
+recommendations:
+
+Explore not only the phrasing of sexual orientation questions and 
+con˚dentiality of data in research but also who will be asking those 
+questions, what training will those asking the questions receive, in 
+what context will they ask the questions, and to what extent will 
+the information be available within the health care system.
+
+Convene diverse groups of patients to discuss their concerns 
+because they are likely to differ substantially by gender, age, 
+income, race and ethnicity, and health condition.
+
+If routine sexual orientation questioning is incentivized or other
+-wise encouraged, it will be essential to provide widespread patient 
+education and empowerment activities, to require facilities to have 
+meaningful nondiscrimination policies and staff training in place, 
+and to teach health care providers in a systematic way how to dis
+-cuss sexual orientation sensitively with patients.
+Concerning this last point, Snowdon said it would be interesting to 
+see an initiative from CMS that would require LGBT nondiscrimination 
+policies to go hand-in-hand with incentivizing data collection. As a ˚nal 
+note, Snowdon said that EHRs need to be modi˚ed, both by vendors and 
+facilities, so that LGBT patients can always, if they wish, ask that infor
+-mation on same-sex partnership, transgender status, and sexual orienta
+-tion be recorded. In doing so, however, it is essential to remember that a 
+patient™s desire to volunteer that data can vary tremendously. 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.EXISTING DATA COLLECTION PRACTICES
+ 29THE MAYO CLINIC EXPERIENCE
+The Mayo Clinic, said John Knudsen, has only recently begun an 
+effort to gather information on sexual orientation and gender identity. He 
+noted that the Mayo Clinic started on its path thanks to what he called 
+a union of forces that included four reportsŠHHS™s 
+Healthy People 2020
+ report, the IOM™s 2011 report on the health of LGBT people, the Joint 
+Commission report 
+Advancing Effective Communication, Cultural Compe
+-tence, and Patient- and Family-Centered Care for the Lesbian, Gay, Bisexual, 
+and Transgender (LGBT) Community
+, and the HEI surveyŠas well as a 
+receptive leadership that includes clinicians and the Mayo Clinic LGBT 
+Employee Resource Group. This resource group, explained Knudsen, 
+started the process by requesting that the Mayo Clinic identify a group 
+of providers in its primary care practice who were ﬁLGBT-friendly,ﬂ and 
+this led to an effort to collect data on some of the dif˚culties experienced 
+by both LGBT patients and employees. 
+This data collection effort is being led by the Mayo Clinic™s clinical prac
+-tice committee, which heard a wealth of personal and painful 
+ stories that 
+patients and employees shared about suboptimal care they had received 
+from the organization. Mayo Clinic™s leadership responded by creating the 
+LGBT Practice Task Force, which was charged with studying the situation 
+with regard to LGBT people and to develop recommendations that would 
+facilitate and sustain an inclusive and welcoming environment for the 
+Mayo Clinic™s LGBT patients and families. This effort also included intersex 
+people, those born with an ambiguity about their sex assignment. 
+One of the factors complicating efforts to collect data on LGBT and 
+intersex people at the Mayo Clinic is that it is not just a hospitalŠit 
+includes group practices and multispecialty practices based in Arizona, 
+Florida, and Minnesota, and a regional health care system that includes 71 
+communities, 900 physicians, and 12,000 allied health staff spread across 
+Iowa, Minnesota, and Wisconsin. In addition, the Mayo Clinic system uses 
+three different EHRs. To address this last issue, the Mayo Clinic system 
+has developed an enterprise-wide data governance and health informa
+-tion coordination policy that is creating uniformity and standardization 
+across the entire system. 
+Another complication arises from the fact that the Mayo Clinic system 
+uses patient portals to input information, but this information is managed separately from the EHR. Knudsen explained that there is currently no 
+mechanism or interface for transmitting data from the patient-provided 
+information portals into the EHR. He noted, too, that changes are likely 
+to be slow in being enacted, giving the example of the more than 4 years 
+it took to make a change in the collection of race and ethnicity data based 
+on recommendations from a research team. In terms of LGBT data, a 
+stewardship group is developing a recommended list of data elements 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.30 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+and business rules around these data elements and codes. An external 
+standards team will develop language and standards that will then need 
+to be endorsed and approved by multiple stakeholders and Mayo Clinic 
+leadership, all of which will be coordinated by the enterprise project 
+management of˚ce at the Mayo Clinic. As a ˚nal note, Knudsen said that 
+the goal of all of this activity is to collect data that will be able to trigger 
+alerts for screening and preventive health services, track quality metrics, 
+and create research opportunities.
+THE KAISER PERMANENTE EXPERIENCE
+Like the Mayo Clinic, Kaiser Permanente is also in the early stages of 
+collecting data relevant to sexual orientation and gender identity. 
+ Kaiser, 
+as the nation™s largest not-for-pro˚t health plan, has long served a diverse 
+population that today comprises more than 230 granular ethnicities 
+speaking more than 170 different languages, said Ronald Copeland. As a 
+result, Kaiser has had a great deal of experience managing and optimizing 
+diversity to improve care for its patients and enhance the performance of 
+its workforce. 
+When Kaiser ˚rst introduced its EHR and began collecting data on 
+its membership, its internal KP Pride Caucus, which consists of LGBT 
+employees, questioned why the EHR collected data on race, ethnicity, and 
+language, but not sexual orientation and gender identity. The answer was 
+that the organization did not have the capacity to collect these data and it 
+had concerns about the sensitive nature of asking questions about sexual 
+orientation and gender identity. Instead of jumping right into what could 
+have been a troublesome area, the leadership at Kaiser intended to phase 
+these questions in based on internal research and in conjunction with an 
+education and awareness campaign.
+To drive this effort forward, Kaiser created two study groups, one 
+focused on data collection and implementation, the other on referral 
+processes to physicians who were knowledgeable about and sensitive to 
+issues speci˚c to LGBT populations. The data collection study group oper
+-ated from the assumptions that future legislation will require and regulate 
+the collection of LGBT data and that data will be collected in 
+ Kaiser™s 
+HealthConnect EHR. It also assumed that technical issues about data 
+structure and de˚nition of terms could be overcome based on 
+ Kaiser™s 
+experience with race, ethnicity, and language data and that while the ˚nal 
+implementation may look different in each of the organization™s regions, 
+the data format would be identical. Finally, the study group assumed 
+that individuals will have the right to refuse to answer questions about 
+sexual orientation or gender identity. The study group recommendations 
+are presented in Box 4-1.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.EXISTING DATA COLLECTION PRACTICES
+ 31In the second phase of Kaiser™s efforts, the organization has created 11 
+centers of excellence that are research units within its clinical space. These 
+units are designed to take ideas, create models, pilot the models, work out 
+the details, and then present them for further evaluation across the entire 
+organization. Action teams are now looking at issues involving technol
+-ogy and systems, operations and work˜ow, education and training of 
+staff, and brand strategy. The technology and systems action team, for 
+example, intends to develop and implement a valid and reliable system 
+for storing, collecting, and using LGBT and intersex data by the end of 
+the second quarter of 2013. Operating with the same deadline, the opera
+-tions and work˜ow action team will embed in the Kaiser infrastructure 
+a clinician referral system while the education and training action group 
+develops education and training programs that advance different levels of 
+core competency in caring for LGBT and intersex people. The ˚nal phase 
+will implement the process.
+THE FENWAY HEALTH EXPERIENCE
+The mission of Fenway Health, an independent, federally quali˚ed 
+health center in Boston, is to enhance the health of the LGBT commu
+-nity and other people in its neighborhoods and beyond through access 
+to the highest-quality health care, education, research, and advocacy, 
+explained Alex Gonzalez. In 2011, Fenway Health served some 18,000 
+unique patients, and Gonzalez estimated that maybe half of the patients 
+are lesbian, gay, or bisexual, and another 800 are transgender. He based 
+BOX 4-1
+ Recommendations from Kaiser™s Study Group for 
+ Sexual Orientation and Gender Identity Questions
+The Kaiser study group recommended the collection of self-identi˜ed data at 
+the Patient level, and recorded in Kaiser™s EHR system:
+1. 
+ Sexual Orientation 
+
+
+
+
+2. 
+ Gender Identity
+
+
+
+
+
+
+
+
+
+3. 
+ Sexual Behavior
+
+
+
+
+
+SOURCE: Copeland presentation.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.32 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+these estimates on his experience taking care of patients over the past 
+7 years.
+While Fenway Health has been using an EHR system since 1997, 
+it has captured sexual orientation and gender identity data only in an 
+unstructured format as part of a careful social history or behavioral health 
+intake. That kind of data, said Gonzalez, is trackable only by doing a chart 
+review, which is unrealistic for 18,000 patients. Beginning in December 
+2011, Fenway Health began collecting sexual orientation data on the reg
+-istration form along with other demographic data, and it added informa
+-tion on gender identity in August 2012 (see Box 4-2). Text on the form 
+indicates that the information is for demographic purposes only and will 
+not impact patient care. The registration form also comes with a pam
+-phlet on patient rights that includes an explanation of con˚dentiality and 
+articulates a philosophy of respect for each patient as an individual with 
+unique health needs. In addition, Fenway Health now prints out a patient 
+pro˚le for patients who are already registered and are returning to care in 
+order to have the patient double-check his or her own information. The 
+patient pro˚le also helps capture sexual orientation and gender identify 
+data on people who have been long-time patients.
+BOX 4-2
+ Fenway Health Registration Form
+
+
+
+ Š Lesbian, gay, or homosexual
+ Š Straight or heterosexual
+ Š Bisexual
+ Š Something else Š Don™t know
+
+
+ Š Female
+ Š Male Š Genderqueer or not exclusively male or female
+
+
+
+
+
+ Š Female
+ Š Male
+
+
+
+ Š Yes
+ Š No Š Don™t know
+SOURCE: Gonzalez presentation.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.EXISTING DATA COLLECTION PRACTICES
+ 33The registration form has one question designed to capture sexual 
+orientation data in a structured format and three questions to capture 
+data on gender identity, which are currently being pilot-tested. For sexual 
+orientation identity, two versionsŠone with a write-in option and one 
+withoutŠwere pilot-tested. For gender identity, Fenway Health convened 
+a patient advisory committee and surveyed transgender patients on their 
+preferences. 
+Gonzalez said that since implementing these questions in its informa-tion packets and patient pro˚les, there has been no discernible pattern of 
+non-response to the sexual orientation and gender identity 
+ questions, nor 
+have there been reports from front desk staff or providers of patients ask
+-ing why they are being asked these questions. It is his opinion that LGBT 
+patients seem to appreciate being asked the questions, while non-
+LGBT patients seem to be unaffected by the questions. For trans
+ 
+gender 
+patients, the data collected during the test phase suggest that there are 
+several groups of transgender persons. There were those who identify 
+with their af˚rmed gender and do not identify as being transgender as 
+well as those who do identify as being transgender. There were also those 
+who identify along a non-binary spectrum, or as genderqueerŠneither 
+male nor female. So far, Fenway Health has been able to capture struc
+-tured data on 11-12 percent of all of its patients. Since the addition of the 
+sexual orientation question in December 2011, roughly one-third of all 
+patients have answered it. The questions on gender identity were only 
+added in August, making it too soon to have acquired meaningful data. 
+In his ˚nal remarks, Gonzalez discussed some additional consider
+-ation for transgender patients. Third-party payment systems require that 
+name and sex be recorded in the EHR as they are listed with the insurer. 
+This can be an alienating experience as insurance information often does 
+not match identity. However, transgender patients report that they feel 
+empowered when their preferred name and pronoun are recorded in a 
+way that is honored by all staff at Fenway Health. 
+THE VANDERBILT UNIVERSITY EXPERIENCE
+It is important to remember, said Jesse Ehrenfeld, that the vast major
+-ity of LGBT patients across the United States receive their health care from 
+non-LGBT af˚liated medical facilities such as Vanderbilt and that facilities 
+such as Vanderbilt also have a large number of LGBT 
+ employees, stu
+-dents, and patients. He estimated that at his institution, around 5 percent 
+of the patients are LGBT and intersex people and added that in 2009, the 
+Vanderbilt University Medical School initiated an extensive curriculum 
+reform effort to bring LGBT health education to the forefront. Vanderbilt 
+has revised its clinical intake forms to ensure that they are inclusive and 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.34 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+that they provide the necessary information to maximize the value of its 
+EHR for providing care for its patients. It also launched a new program 
+for LGBT health and created the nation™s second LGBT of˚ce in an aca
+-demic medical center. (The University of California, San Francisco, had 
+the ˚rst.) 
+With that institutional climate as background, Ehrenfeld discussed 
+the work that he and his colleagues are carrying out on identifying bar
+-riers to disclosure of LGBT and intersex status by patients and how they 
+have been using informatics tools to identify LGBT patients in their efforts 
+to evaluate and reduce health care disparities. In a study conducted by 
+colleague Sarah Fogel, participants recruited from gay and lesbian com
+-munity centers were asked questions about their willingness to disclose 
+their sexual orientation to a provider. The study had a diverse group of 
+subjects in terms of race, ethnicity, age, and education level, and 84 per
+-cent of the participants had disclosed their sexual identity to a health care 
+provider. This study identi˚ed a long list of facilitators to disclosure, such 
+as the health care provider asking about the patient™s sexual identity or 
+making clear that this information was important for the patient™s care. It 
+also identi˚ed a long list of barriers to disclosure, such as the sexual iden
+-tity information is written into the patient™s medical record and that staff 
+other than the health care provider would have access to this information. 
+Ehrenfeld then described some of his work using natural language 
+processing to ˚rst identify LGBT and intersex patients from electronic 
+health records that already exist and then determine how LGBT and 
+intersex status affects treatment, diagnosis, and health outcomes. 
+ Natural 
+language processing, he explained, uses advanced algorithms and the 
+rules of the English language to analyze free-text data, such as that 
+in unstructured text notes in medical records, for speci˚c information 
+through trial and error. Using this approach on its entire enterprise data 
+warehouse, Ehrenfeld and his collaborators were able to identify several 
+thousand unique patients using search terms such as homosexual, LGBT, 
+gay, lesbian, receptive partner, and others. They have since re˚ned their 
+search technique using concepts such as negation logic, semantic search, 
+and other natural language processing tools to reduce a 22 percent false 
+positive rate to three percent. Additional work is under way to further 
+reduce the false positive rate to close to zero. An initial ˚nding from an 
+analysis of the identi˚ed records was that it takes an average of 30 months 
+between the time of a patient™s ˚rst visit and when LGBT status appears 
+in the medical record, and that patients had an average of 17 clinical 
+encounters in which LGBT status was identi˚ed.
+Ehrenfeld described Vanderbilt™s approach to modifying its clinical 
+intake forms and EHRs. This effort started with an extensive consensus-
+building process that involved Vanderbilt leadership, its patient and fam
+-Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.EXISTING DATA COLLECTION PRACTICES
+ 35ily council, a growing list of clinical departments, and its cultural and 
+linguistic council. This process resulted in four recommendations that 
+Ehrenfeld said are worth adopting at all medical centers:
+1.
+ Patients should have the opportunity to self-identify their sexual 
+orientation and gender identity.
+2.
+ Patients should have the opportunity to de˚ne their relationship 
+status.
+3.
+ Patients should have the opportunity to identify their family.
+4.
+ Patients should be asked about power of attorney/health care 
+proxy and advanced health directives.
+Vanderbilt has now developed a three-stage implementation plan for 
+modifying the 210 unique clinical intake forms used by its 95 physician 
+practices. The recommended text for use on the intake forms includes 
+two parts. The gender identi˚cation section asks for patients™ legal name; 
+their preferred name, if different; their sex at birth; and their gender 
+identityŠmale, female, transgender, and prefer not to answer. The sexual 
+orientation section asks if the patient is heterosexual, straight, lesbian, gay, 
+bisexual, queer, something else, or prefer not to answer. In developing 
+these questions, the Vanderbilt team considered the same issues that the 
+previous speakers had identi˚ed: Who is asking the questions? Where is 
+the information recorded in the EHR? How often is the patient asked for 
+this information? What to ask in terms of identity versus behavior?
+In summary, Ehrenfeld made the following three recommendations:
+1.
+ Self-identi˚ed orientation, gender identity, and sexual behavior 
+should be collected during routine clinical encounters in order to 
+improve health outcomes. 
+2.
+ When collecting sexual orientation and gender identity data on 
+health care intake forms, patients should have the right to opt out. 
+3.
+ Prior to collecting this information, health care institutions should 
+develop and widely distribute educational materials, not just for 
+staff but also for patients, that explain clearly why developing 
+and collecting this information is important and how it remains 
+con˚dential.
+SUPPORTING PROVIDERS IN THE COLLECTION OF DATA
+Given the importance of training providers and health care system 
+staff prior to introducing questions about sexual orientation and gender 
+identity, it is critical to begin thinking about how to accomplish that train
+-ing early in the process, said Robin Weinick. For most health care systems, 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.36 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+training will likely need to be done using some kind of video tool given 
+that the people who need training are going to be dispersed, both in terms 
+of location and time. Training methods must also take into account that 
+three-quarters of all of˚ce visits nationally are to practices with ˚ve or 
+fewer clinicians. And most of those practices do not have the resources to 
+conduct extensive training programs.
+Though there are important differences between collecting race and 
+ethnicity data and sexual orientation and gender identity data, there 
+are lessons to be learned from the experience of introducing race and 
+ethnicity data into medical records. The ˚rst lesson is that the language 
+provided to guide those who ask these questions must be well de˚ned, 
+that is, there should not be much left to the imagination of the person who 
+is asking the question. A corollary to this lesson is that the information 
+learned when testing questions in a research or survey context are not 
+automatically transferrable to a clinical context, said Weinick. 
+A second lesson learned from collecting race and ethnicity data is that 
+it is extremely helpful to prepare an introductory statement for the data 
+collectors to use that explains why it is important to gather the informa
+-tion. That introductory statement serves the dual purpose of explaining 
+to the patient and the staff who are going to ask these questions why the 
+information is important to collect.
+Another important lesson is that it is important to keep staff calm by 
+identifying potential patient and staff objections in advance and build 
+those into the training. Scripting responses so that staff can start to get 
+comfortable with various situations is helpful, as are role-playing exer
+-cises. Another way to reassure staff is to provide them information from 
+pilot data collection studies that show that if questions are asked in the 
+right way, patients do not get angry. In addition, repetition is critical 
+to making staff feel at ease. Weinick explained that the goal of training 
+should be to drive home two points: (1) do not make assumptions about 
+a patient based on how they look, act, or sound, and (2) patient self-
+identi˚cation is the only thing that matters. 
+Three additional factors go into successful training of the people who 
+will be asking these questions. First, they need to understand as con
+-cretely as possible why the issue is important. Second, they need to know 
+clearly and very speci˚cally what they are being asked to do. And, ˚nally, 
+they need to have skills and scripts for addressing patient concerns. 
+DISCUSSION
+Aaron Tax, from Services and Advocacy for GLBT Elders, asked the 
+four speakers about their experiences in collecting sexual orientation 
+and gender identity data for elderly persons who may be more reluctant 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.EXISTING DATA COLLECTION PRACTICES
+ 37because of personal experience to divulge this information. Ehrenfeld 
+said that his team certainly observed a generation gap in the willingness 
+to self-identify on intake forms. Gonzalez said that Fenway Health™s 
+approach to this problem has been to retain the ability to ask about 
+sexual orientation and gender identity in the clinical setting rather than 
+during registration because it is easier to put people at ease and educate 
+them about why this information is important. Snowdon noted that this 
+is not just a problem at the older end of the spectrumŠa large longitudi
+-nal study of youth conducted by the Human Rights Campaign found a 
+similar reluctance among youth between 16 and 24 years of age. Harvey 
+Makadon noted, though, that in his experience, older LGBT people feel 
+more comfortable when they talk to their physicians about their sexual 
+orientation or gender identity because it makes them feel that their health 
+care professional is listening to them.
+George Brown of the Department of Veterans Affairs asked how inter
+-sex people are supposed to identify themselves when the sex-at-birth 
+question offers just male or female options. Snowdon replied that these 
+choices are dictated by insurance company systems that only accept male 
+or female. In that respect, that ˚eld only re˜ects the legal identi˚cation or 
+insurance record of the patient. Intersex status is collected in the gender 
+identity drop-down list. 
+Barbara Warren, director for LGBT Health Services at Continuum 
+Health Partners in New York, relayed her experiences in working with 
+the New York State Of˚ce of Mental Health to add questions on sexual 
+orientation and gender identity to the standard patient admissions form. 
+The challenges she faced in adequately training personnel was re˜ected 
+in the low rate of practices in New York State including those questions 
+and the resulting small amount of data that was obtained. She added 
+that they were still working to improve the training component. Weinick 
+responded to this comment by discussing the need to approach repetitive 
+training creatively. She used sexual harassment training as an example 
+of training that uses role playing and vignettes to reinforce the training 
+components. 
+The issue for some LGBT patients, explained Snowdon, is that just 
+being asked these questions will make them very anxious and may make 
+them less likely to seek care. She asked if there was an equivalent of that 
+in race and ethnicity. Rebecca Fox, of Wellspring Advisors, pointed out 
+that collecting ethnicity data in a community clinic in Arizona, and ask
+-ing about a patient™s Latino background, may make some patients very 
+ 
+anxious. It could lead them to not seek care because they are afraid of 
+being asked what about their racial and ethnic background and that may 
+bring up fears around immigration status. Weinick agreed that while bias 
+against race and ethnicity differs somewhat from bias against sexual ori
+-Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.38 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+entation or gender identity, there is some overlap in terms of fear possibly 
+driving patients away from health settings. Bau commented that there 
+were similarities with language. For example, in some cases when patients 
+are asked if they need language assistance, they refuse because they mis
+-takenly believe it will make them vulnerable to discrimination. In fact, the 
+right to language assistance is guaranteed and could bene˚t them. 
+In response to a question from Eva Powell, from the National Partner
+-ship for Women and Families, about whether natural language process
+-ing could be used in combination with information gathered directly 
+from the patient as a means of improving the quality of the resulting 
+data,  Ehrenfeld said that the natural language processing methods were a 
+research tool, not an operational tool. He does not expect natural language 
+processing to be used in an operational setting, though it could be used in 
+a quality improvement setting. He added that natural language process
+-ing will not provide useful information if the physician has never asked 
+the patient about sexual orientation or gender identity or if the patient has 
+never volunteered that information. 
+When asked by Susan Queen from the Of˚ce of the Assistant Secre
+-tary for Planning and Evaluation at HHS about whether information from 
+a patient portal can be transferred directly to an EHR, Knudsen said that 
+yes it can, and that at the Mayo Clinic, patient-provided information is 
+incorporated into the EHR. Ehrenfeld added that at Vanderbilt, informa
+-tion from the patient portal is ˚rst veri˚ed by the provider before it is 
+added to the patient™s EHR. 
+Queen asked Copeland if the response categories for Kaiser™s sexual 
+orientation question was a set of ˚xed categories or did it prompt the 
+individual to write in a response. Copeland replied that at the present 
+time, the patient writes in the response. He added that in all of their data 
+collection of this type Kaiser tries to have some predetermined responses, 
+but they also want to have the patient self-identify whenever possible. 
+They have found that, in terms of engaging patients, using the terms the 
+patient uses is probably the most effective way to move forward with con
+-versations between patients and clinicians and care teams. In his opinion, 
+this approach is preferable to forcing them to make a choice and ˚t it into 
+a category that has already been pre-determined.
+A participant attending by phone asked about patient autonomy and 
+whether the data collected could be used for research without patients™ 
+consent. Knudsen said that in Minnesota patients sign a form that can 
+remove their data from any future research. This means that even if 
+a researcher has approval from an institutional review board, certain 
+patients can opt out of the research and they are given the opportunity to 
+make that decision when they are seen as patients.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.5Developing and Implementing 
+Questions for Collecting Data on 
+ Sexual Orientation and Gender Identity
+1ﬁIn a perfect world,ﬂ said panel moderator Nancy Bates, of the  Census 
+Bureau, ﬁwe wish we had some tested, generally accepted, embedded set 
+of standard questions for gender identity and sexual orientation that 
+worked in all different settings and for all populations. We aren™t there 
+yet.ﬂ However, researchers are working toward that perfect world, and 
+1 This section is based on the presentations of JoAnne Keatley, Director, Center for Excel
+-lence for Transgender Health, University of California, San Francisco; Kristen Miller, 
+ 
+Director, Question Design Research Laboratory, National Center for Health Statistics; David 
+Grant, Director, California Health Interview Survey; Edward Callahan, Professor of 
+ Family 
+and Community Medicine, University of California, Davis, Health System; and Denise 
+ 
+Rasmussen, Epic Systems Corporation. 
+Key Points Raised by the Individual Speakers
+To address limitations in the way gender identity is represented in EHRs, a 
+two-question approach may provide more accurate information while affording 
+more respect to transgender people. 
+Experience from surveys shows that it is feasible to collect accurate information 
+about sexual identity and behavior in a diverse population. 
+EHR users and vendors are working together to address issues relating to 
+data collection on sexual orientation and gender identity in order to develop 
+standardized questions that best serve the needs of patients.
+39
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.40 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+workshop participants heard from several of those who have expertise 
+in this area and who conveyed some of the lessons they have learned in 
+survey settings and other settings. In this chapter, ˚ve speakers discuss 
+efforts to design questions for collecting data on sexual orientation and 
+gender identity.
+GENDER IDENTITY DATA COLLECTION
+A working de˚nition of the word transgender, said JoAnne Keatley, 
+is a person whose gender identity or gender expression differs from the 
+sex assigned to them at birth. She reiterated a comment made earlier in 
+the workshop that many transgender people do not like to self-identify 
+as transgender, instead wanting to have their af˚rmed gender recognized 
+without it being connected to their transgender history. She also pointed 
+out the distinction between gender identityŠan internal sense of self 
+regarding genderŠand sexual orientation, which is a feeling of sexual or 
+romantic attraction to gender or gender expression of other individuals 
+and is not necessarily linked to anatomy. This distinction can cause con
+-fusion in health surveys, an example being the case of a man who is in a 
+relationship with a transgender woman often being categorized as a man 
+who has sex with a man when in fact that may not be the perception of 
+that particular individual. In fact, there is a history of the CDC capturing 
+transgender individuals and their partners under the men who have sex 
+with men category. 
+In Keatley™s opinion, EHRs currently have limitations in the way they 
+represent gender identity. If a transgender person™s sex is listed in terms 
+of anatomy and the only mention of that person™s transgender status is 
+in a provider note, other providers may not go to the notes section of the 
+EHR and the result can be a disconnect that impacts the patient. Another 
+limitation concerns denial of care from insurance coding that has to be 
+gender-speci˚cŠif a transgender female is identi˚ed as female on an 
+EHR, they may be denied prostate screening. To address these limita
+-tions, the Center of Excellence for Transgender Health recommends that 
+transgender-inclusive data be collected using two questions. First, ask 
+about the person™s current gender identity, and then ask for the person™s 
+assigned sex at birth. Asking about current gender identity ˚rst honors 
+the patient™s gender expression by allowing the patient to self-identify in 
+their current gender identity. It may be necessary to ask additional ques
+-tions to specify current anatomy, but that can be done through drop-down 
+menus or through provider questions.
+Regarding implementation, the ˚rst step is to update the health care 
+system™s data collection forms and databases to include the two-question 
+system. The CDC, Keatley noted, implemented the two-question system 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.DEVELOPING AND IMPLEMENTING QUESTIONS 41in 2011 in its adult HIV case report form and its Enhanced HIV/AIDS 
+Reporting System. She added that CDC data collected using the two-
+question system registered a 64 percent increase in transgender people 
+compared to just asking current gender identity without asking about 
+sex assigned at birth. 
+The next step in implementation is to train all staff and health care 
+professionals to ask questions about gender identity correctly and consis
+-tently. Then, it is important to educate funders, health departments, and 
+government agencies about the need to aggregate and disseminate the 
+collected data. Only through data aggregation and dissemination will it 
+be possible to determine the size of the transgender population and iden
+-tify speci˚c health risks and health care needs of transgender people. The 
+last step is to use the disseminated data to improve services and programs 
+for transgender people. 
+DEVELOPING A ﬁPERFECTﬂ SEXUAL IDENTITY MEASURE
+Developing the sexual identity question for the National Health Inter
+-view Survey (NHIS) involved multiple steps that Kristen Miller described, 
+starting with settling on what exactly the survey needed to measure. 
+Sexual orientation, she said, is not a measurable concept, but rather is a 
+generic catch-all term that describes an essence of how an individual feels. 
+Instead, sexual orientation is an amalgam of three other concepts: sexual 
+behavior, sexual attraction, and sexual identity. 
+Sexual behavior looks at actual same-sex versus opposite-sex sexual 
+behavior and is not necessarily consistent with self-conception or pre
+-sentation of self. One problem in designing a question to quantify sexual 
+behavior is that de˚nitions of what counts as ﬁsexﬂ vary across sub-
+groups. Sexual attraction refers to same sex versus opposite sex or gender 
+desire, and it, too, is not necessarily consistent with self-conception or 
+presentation of self. Sexual attraction is a latent and elusive phenomenon 
+that is neither tangible nor observable. Miller said that the problem with 
+designing a question to quantify sexual attraction is that there are differ
+-ent variations in what people think of as sexual attraction. Sexual identity 
+describes an individual™s conscious identi˚cation of an understanding of 
+self, and in that respect, is similar to racial identity because it represents 
+the individual™s relationship to their social world. Sexual identity is a 
+complex phenomenon that may ˜uctuate.
+The key to designing questions around these three concepts is to not 
+con˜ate them, Miller stated, adding that the term ﬁsexual orientationﬂ 
+should be eliminated when used with scienti˚c data because it does not 
+re˜ect the realities of people™s lives. This is particularly true, she added, 
+for women, and in her mind, the use of the term ﬁsexual orientationﬂ does Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.42 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+a disservice to the LGBT community. She also noted that in designing 
+questions, it is important to consider whether the questions will be asked 
+in a provider™s of˚ce or by a ˚eld survey interviewer. 
+Over the past decade, the National Center for Health Statistics (NCHS) 
+has used a number of different questions to collect data on sexual identity 
+in a variety of surveys, and the data are inconsistent across these surveys. 
+The result, said Miller, is a distorted picture of what is happening within 
+the lesbian, gay, and bisexual community. In a 2002 survey that used the 
+terms heterosexual, homosexual, and bisexual to refer to sexual orienta
+-tion, lesbians were identi˚ed as the most obese group of sexual minorities. 
+In contrast, a 2006 survey that used the terms ﬁstraight or heterosexual,ﬂ 
+ﬁgay or lesbian or homosexual,ﬂ and ﬁbisexualﬂ found that lesbians were 
+the least obese group. 
+To develop the sexual identity questions for the NHIS, Miller and her 
+colleagues conducted seven cognitive tests involving 377 cognitive inter
+-views. They also conducted a number of quantitative studies and exam
+-ined a variety of different surveys that used some variation of a sexual 
+identity question. These studies showed that LGBT people answer ques
+-tions from a different perspective than nonŒsexual minority individuals, 
+and that this difference stems in large part from the fact that nonŒsexual 
+minority people are unfamiliar with the terms used in the questions. 
+Based on these ˚ndings, the NCHS revised the questions designed for 
+the NHIS based on three principles. First, use labels that respondents use 
+to refer to themselves. Second, do not use labels that respondents do not 
+understand. Third, use follow-up questions to meaningfully categorize 
+ﬁsomething elseﬂ and ﬁdon™t knowﬂ answers. Following these principles, 
+the NCHS developed the sexual identity questions listed in Box 5-1.
+She noted that though the second question includes a transgender 
+option, this is not meant to be a transgender question. Rather, it is meant 
+to address the complex relationship between gender and sexual identity. 
+In closing, Miller said that this set of questions successfully categorized 
+all but a few respondents, and that these questions will be included in 
+the next NHIS. 
+ASSESSING SEXUAL IDENTITY AND BEHAVIOR 
+IN CALIFORNIA™S DIVERSE POPULATION
+The California Health Information Survey (CHIS) is an omnibus, 
+multilingual, public health telephone survey of 42,000 to 56,000 Califor
+-nia households conducted biannually since 2001 and continuously since 
+2011. CHIS has included sexual identity questions since 2001 and gender 
+of sexual partner questions since 2003. The questionnaire development 
+process, explained David Grant, involves multiple stakeholders organized 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.DEVELOPING AND IMPLEMENTING QUESTIONS 43BOX 5-1
+ NCHS Sexual Identity Questions
+
+
+ Lesbian or gay
+ Straight, that is, not gay 
+ Bisexual
+ Something else Don™t know
+By Something Else
+  
+You are not straight, but identify with another label such as queer, trisexual, 
+omnisexual, or pan-sexual
+ You are transgender or transsexual 
+ You have not or are in the process of ˜guring out your sexuality
+ You do not think of yourself as having a sexuality
+ You personally reject all labels of yourself
+ You made a mistake and did not mean to pick this answer 
+ You mean something else
+ What do you mean by something else? __________________________ 
+By Don™t Know
+
+ You don™t understand the words
+  
+You understand the words, but you have not or are in the process of ˜guring 
+out your sexuality
+ You mean something else
+ What do you mean by something else? __________________________ 
+SOURCE: Miller presentation.
+into an advisory board, technical advisory committees, and both ad hoc 
+and topic-speci˚c workgroups. The general rule with CHIS is to never 
+write new questions but to use questions from other well-established 
+surveys. One caveat is that questions designed for data collection using 
+registration forms or patient portals can be dif˚cult to use in a phone 
+survey, so questions are often adapted for that particularly medium, as 
+well as to account for the linguistic diversity in California. Extensive 
+testing and training and ongoing monthly monitoring of live interviews 
+completes the process.
+In the ˚rst CHIS cycle in 2001, the survey asked two sexual identity 
+questions of adults under age 65. The ˚rst was a yes-or-no question: Are 
+you gay, lesbian, or bisexual? The word lesbian was omitted if the respon
+-dent was male. If yes, the second question clari˚ed the answer to the ˚rst 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.44 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+question. There was a concern that there would be a signi˚cant hang-up 
+rate with these questions, but, in fact, these questions posed no more of 
+a problem than other questions in the survey. An issue that did arise was 
+that respondents would often answer the ˚rst question by stating their 
+sexual identity, which created problems for the interviewers and slowed 
+down the interview process. An analysis of the 2001 survey data high
+-lighted the need for sexual behavior questions, and these were added in 
+2003. Beginning in 2003, they have asked a single sexual identity question 
+that reads, ﬁDo you think of yourself as straight or heterosexual; as gay, 
+lesbian, or homosexual; or bisexual?ﬂ There is also the option of opening 
+a text box and inputting an answer verbatim. In addition, there are two 
+questions on sexual behavior. In cycles since 2003, these questions have 
+been only asked of adults under the age of 70 because of a high rate of 
+misclassi˚cation concerning the word ﬁbisexualﬂ in adults over age 70. 
+Discussing data from CHIS 2009, Grant noted that about 3 percent 
+of men reported that they had exclusively male sex partners in the pre
+-ceding 12 months, and about 1.6 percent of women reported having 
+exclusively female sex partners in the preceding 12 months. Less than 
+0.5 percent of both men and women reported having sex partners of both 
+sexes. From the sexual identity questions, about 2.5 percent of men iden
+-ti˚ed as gay or homosexual, and 1.1 percent of women identi˚ed as gay, 
+lesbian, or homosexual. One percent of men and 1.7 percent of women 
+identi˚ed as being bisexual. Non-response to these questions was low, 
+about 2-3 percent. In contrast, 23 percent of the sample refused to answer 
+questions on household income. Non-response, which combines ﬁdon™t 
+knowﬂ and refusals, was highest among Cantonese and Spanish speakers. 
+Women who spoke Asian languagesŠCantonese, Korean, Mandarin, and 
+ 
+VietnameseŠwere two to six times less likely to respond than men, which 
+Grant said was unexpected. 
+In summarizing the lessons learned from over a decade of surveys, 
+Grant said that it is clearly important to collect data on sexual identity in 
+EHRs. ﬁElectronic health records have great potential, especially for trans
+-gender populations because even in a large survey like CHIS, we™re likely 
+to pick up very few or too few to make much statistical inference about 
+that population,ﬂ he explained. He added that the CHIS results show that 
+it is feasible to collect relatively accurate information about sexual identity 
+and behavior in a diverse population, but that the wording of questions is 
+important, as is the setting in which the questions are asked.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.DEVELOPING AND IMPLEMENTING QUESTIONS 45SEXUAL ORIENTATION AND GENDER IDENTITY IN THE 
+ELECTRONIC HEALTH RECORD: 
+ A USER AND VENDOR PERSPECTIVE
+The University of California, Davis (UC Davis) Health System began 
+collecting demographic data in its EHR in 2009. At the time it was felt by 
+the Health System™s EHR task force that it could not include sexual orien
+-tation or gender identity information in the EHR. A subsequent decision 
+to appoint a new task force on inclusion of sexual orientation and gender 
+identity in the UC Davis Health System elicited opposition from some 
+administrators who felt that clinicians would not be comfortable discussing 
+this issue or that the topic was too sensitive to be discussed in the context 
+of an EHR. And even though this resistance was eventually 
+ overcomeŠ
+UC Davis was set to roll out its sexual orientation and 
+ gender identity 
+questions in November 2012ŠCallahan said this experience convinced 
+him that the only way that this information will be collected in EHRs on a 
+widespread basis is if the federal government requires it to happen.
+The taskforce saw this opposition as an opportunity to make a com
+-pelling case to both the clinical and LGBT communities for the need to 
+collect these data. In essence, said Callahan, the task force developed 
+a business case based on the premise that there are signi˚cant, even 
+devastating, health disparities that LGBT people experience because of 
+the de facto ﬁDon™t Ask, Don™t Tellﬂ attitude that pervades the medical 
+community. ﬁIf we can desensitize our providers to be able to talk about 
+sexual orientation and gender identity,ﬂ said Callahan, ﬁthey might learn 
+that LGBT people are part of us, not some group of ‚other.™ﬂ In fact, the 
+task force™s efforts, he said, are changing attitudes and the culture at UC 
+Davis. One tangible result of this attitude change is the development of 
+a new medical school curriculum that incorporates LGBT health issues 
+across the entire 4-year process. 
+One of the most compelling pieces of evidence for including sex
+-ual orientation and gender identity data in EHRs, said Callahan, comes 
+from Caitlin Ryan and the Family Acceptance Project at the University of 
+ 
+California, San Francisco. In a 2009 study, Ryan focused on young adult 
+LGBT people and looked at their self-reports of how much acceptance and 
+support they received from their families as they came out and the current 
+status of their health. For those who got little support, the adverse effects 
+were large: 8 times the amount of suicidal ideation, 8.4 times the amount 
+of suicide attempts, almost 6 times the amount of serious depression, and 
+signi˚cant increases in illegal drug use and unprotected sex. These data 
+point to the value of being able to identify these young adults and provide 
+them with necessary counseling and other health services. 
+For the past 3 years, Callahan and his collaborators at UC Davis have 
+been conducting Grand Rounds about LGBT health disparities and are 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.46 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+in the process of rolling out some written educational materials for all of 
+the system™s providers. They are also surveying these providers to iden
+-tify those who are willing to be listed as LGBT friendly. The UC Davis 
+Health System is going to use the MyChart patient portal feature of the 
+Epic
+2 EHR to provide a questionnaire that patients can answer in the pri
+-vacy of their own home that includes questions about sexual orientation 
+and gender identity. It is also working with Epic to systematize where and 
+how questions on sexual orientation and gender identity are located in 
+the EHR. One idea is to tie the EHR to systematic prompts in response to 
+certain answers to these questions. For example, when someone identi˚es 
+as being transgender, the prompts would alert the care provider about 
+what organ systems need to be monitored, what kind of preventive care 
+needs to be presented, and how best they can be a good provider for that 
+person. Callahan noted that Epic appears willing to make these changes 
+to its EHR system. 
+In fact, said Denise Rasmussen, Epic is eager to receive input from 
+users as to how to collect information on sexual orientation and gender 
+identity in its EHR systems. Epic already has a ˚eld to capture informa
+-tion on sexual partners and runs reports and triggers alerts based on the 
+sex of that partner. She noted, too, that at least some of the 260 organiza
+-tions that use Epic have extended the sex category list to capture items 
+related to gender identity and sexual orientation. 
+What would be helpful to Epic as an EHR vendor, she said, is a more 
+standardized way to document information about sexual orientation and 
+gender identity and more direction on where each birth sex, legal gen
+-der, and identi˚ed gender should be used in terms of billing, health 
+information exchanges, clinical decision support, and preparing materials 
+designed for patients. Epic is also concerned about who should document 
+this information and who should be allowed to see it. For example, while 
+it is obvious that the primary care physician should see this information, 
+should the patient™s chiropractor? 
+Regarding technical issues, Rasmussen said that Epic knows that it 
+needs to create a new ˚eld or ˚elds to represent the sex of a patient in 
+a way that better captures birth sex, legal gender, and identi˚ed gender 
+and then display that information in appropriate places in the EHR. The 
+company is also interested in making alerts more meaningful, that it is 
+alerting the primary care physician to the issues that are appropriate to 
+the patient in front of them: telling a physician to order a prostate exam 
+for a female-to-male transgender patient is not helpful. 
+2 Epic is a company that makes software, including EHRs, for health providers and facili
+-ties. They are one of several large commercial vendors.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.DEVELOPING AND IMPLEMENTING QUESTIONS 47DISCUSSION
+When asked by Jessica Xavier from HRSA why the NHIS includes 
+a question about gender identity rather than behavior, Miller answered 
+that the NHIS is a vehicle for collecting basic health data and including 
+questions about sexual behavior would not be appropriate in the sur
+-vey. She added that the National Survey of Family Growth (NSFG) and 
+the National Health and Nutrition Examination Survey (NHANES) are 
+more appropriate 
+ venues for asking sexual behavior questions. Clinton 
+ 
+Anderson of the American Psychological Association asked Miller about 
+the signi˚cance of the placement of the sexual identity and the sexual 
+behavior questions. Miller explained that the placement of questions is 
+important because respondents get cued in to certain topics. For example, 
+if a question focusing on reproduction is asked after a number of behav
+-ioral  questions, a respondent may be cued up to provide a sexual behavior 
+answer. In contrast, asking the question as part of a demographic section 
+may cue respondents to indicate sexual identity rather than behavior. 
+Aaron Tax asked Grant if he had been able to identify questions that 
+worked better with older adults who do not always understand terms like 
+ﬁbisexualﬂ and Grant indicated that he hopes to add a question developed 
+by Miller and her colleagues to the CHIS in 2013 that would be easier for 
+older adults to understand. He added that moving away from the terms 
+heterosexual and homosexual may help better identify bisexual older 
+adults. 
+There was some discussion around the term ﬁsexual orientation.ﬂ 
+While Miller asserted during her talk that the term is not a measurable 
+concept, Harvey Makadon pointed out that the term is commonplace and 
+any attempt to substitute ﬁsexual identityﬂ or another term for it would 
+be challenging. Miller responded that ﬁsexual orientationﬂ is a catchall 
+phrase and does not provide constructs around which scienti˚c questions 
+can be developed. Makadon, however, said that he thought of orienta
+-tion and identity as the same thing and questioned the need to abandon 
+ﬁsexual orientation.ﬂ 
+In response to questions from Bates and John Knudsen, Keatley dis
+-cussed the two-question approach. She explained that the CDC™s one-
+question approach provided the following response options: 
+
+male 
+
+female 
+
+transgender male to female 
+
+transgender female to male 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.48 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+The two-question model asks about current gender identity separate 
+from sex assigned at birth. She further explained that for the gender iden
+-tity question, the suggested drop-down options are
+
+male 
+
+female 
+
+transgender woman 
+
+transgender man 
+
+gender queer 
+
+open-ended
+For the open-ended option, they ask people to specify so that they 
+capture those data. Gal Mayer, medical director at Callen-Lorde Com
+-munity Health Center in New York, who was participating by phone, 
+e-mailed that at their community health center they do ask the sex at birth 
+and current gender identity questions, the two-step process that Keatley 
+discussed. However, they also ask sex listed on health insurance for bill
+-ing purposes and that becomes the ˚eld for that particular purpose.
+Leslie Calman noted that she was struck by the ambivalence that 
+continually is expressed about who needs to know these data. On the one 
+hand, she explained, we know that being a self-identi˚ed lesbian or gay 
+man creates all kinds of health issues from childhood that relates to stress 
+and discrimination. On the other hand, it is not clear who needs to know 
+this information. For example, does a chiropractor need to know? Perhaps 
+it is irrelevant. But maybe the patient™s back is out of whack because she is 
+a lesbian; not because she has sex with women, but because of the stresses 
+of being a lesbian. She noted that it has been a thread throughout the 
+entire day, and it presents a dilemma for patients. Rasmussen responded 
+that there was no clear answer. She theorized that it is a generational 
+divide, with younger people more open to sharing this information with 
+a wider range of care givers and older people being more hesitant to make 
+these data widely available. Callahan added that as the culture shifts, he 
+expects this will be less of a problem. Shane Snowdon responded to this 
+by saying that in her opinion it was not only older people who were hesi
+-tant to disclose their sexual orientation, but younger people as well. She 
+noted that San Francisco is an LGBT-friendly city, but that her experience 
+working in a medical center there highlights that discrimination for sexual 
+and gender minorities exists.
+In response to a question from Harvey Makadon about how Epic 
+is working with clients to coordinate efforts to develop a common 
+approach to collecting sexual orientation and gender identity data in 
+EHRs, 
+ Rasmussen explained that Epic had an LGBT breakout group at 
+its user group meeting in September 2012. This user group had 10 to 15 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.DEVELOPING AND IMPLEMENTING QUESTIONS 49organizations participating and there was a good exchange of information 
+about what each organization was doing and how Epic might approach 
+this problem until standards are developed. This is a work in progress, 
+she added, and this group plans to meet frequently to provide advice 
+to Epic. ﬁAs a vendor, we hate to push something out that is then going to 
+change. If we™ve pushed that out, all of the different organizations will be 
+collecting this information, and then potentially have to collect it again,ﬂ 
+she said. 
+Ignatius Bau asked if sexual orientation was a ˚eld that users have 
+customized and added to Epic products. Rasmussen said requests for 
+adding a ˚eld on sexual orientation had come up and that it was relatively 
+easy to do. She noted that the work˜ow around transgender documen
+-tation was more complicated. In response to a question about vendors 
+working together around the issue of standards for EHRs, Rasmussen 
+replied that while a standard that all vendors could follow would be 
+ideal, what will likely happen is that each vendor will develop their own 
+standards and then work together to map ˚elds from each other™s EHRs 
+so that they can exchange data accurately. This is the approach vendors 
+have used in the past.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.6Closing Remarks
+Prior to offering his thoughts, Ignatius Bau, chair of the planning 
+committee, opened the ˜oor for ˚nal comments. Barbara Warren said that 
+it was gratifying to see the people in the room working on this issue. She 
+encouraged those who are moving ahead to pilot programs and document 
+their experiences. It will be helpful, she added, to understand what is 
+working and where the challenges are. This will not only help those cur
+-rently in the ˚eld but will assist eventually in disseminating these lessons 
+to others. Kellan Baker of the Center for American Progress cautioned 
+against entering a new regime of ﬁDon™t Ask, Don™t Tellﬂ in health care. 
+He noted that people did not have to choose between preparing patients 
+to disclose their sexual orientation and gender identity and training pro
+-viders and health staff to elicit this information, but could do both. He 
+encouraged workshop participants to stay focused on both the training 
+component and the data collection component, so that ﬁwe arrive at a 
+place where providers know that they should ask and patients feel like 
+they can tell.ﬂ Finally, Kathryn Wetherby from the Substance Abuse and 
+Mental Health Services Administration (SAMHSA) reminded everyone 
+that SAMHSA and other federal agencies are actively working on data 
+segmentation and standardization and she encouraged those working on 
+this issue to let EHR vendors know which data ˚elds would be helpful.
+Bau thanked everyone for their participation and then listed the themes 
+that struck him as important during the presentations and discussions:
+51
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.52 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+1.
+ LGBT people experience signi˚cant health care disparities and the 
+Obama administration and HHS are committed to identifying and 
+addressing those disparities through the use of data.
+2.
+ To address health care disparities in the LGBT population, it is 
+important to identify and understand the barriers that these Ameri
+-cans face and to determine if nondiscrimination policies meant 
+to eliminate those barriers are truly protecting LGBT individuals 
+when they seek health care in real-world settings.
+3.
+ ﬁIf you are not counted, you do not count.ﬂ The health of every 
+individual depends on disclosing sexual orientation and gender 
+identity, so it is important to educate LGBT people about the need 
+for them to self-identify while at the same time creating a safe 
+environment conducive for doing so.
+4.
+ In addition to technical issues about the questions they need to ask 
+their patients, health care providers have their own fears and biases 
+that will require a signi˚cant amount of education to address, both 
+on an individual and institutional level.
+5.
+ Employee resource groups in an institution can become a powerful 
+and important internal force of change.
+6.
+ The use of language in questions about sexual orientation or iden
+-tity and gender identity is becoming more precise and that will 
+improve the quality of the resulting data collected using these 
+questions.
+7.
+ It is important as a matter of principle that data is always collected 
+through a self-identi˚cation process and that there is always an 
+opt-out option available to patients.
+8.
+ Though the questions or processes for data collection have room 
+for improvement, data collection should start now to better under
+-stand the health care issues experienced by LGBT people.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Bockting, W. O. 1999. From construction to context: Gender through the eyes of the trans
+-gendered.
+ SIECUS Report 
+1(Oct/Nov):3-7.
+HHS (U.S. Department of Health and Human Services). 2011. 
+Lesbian, gay, bisexual, and trans
+-gender health. http://www.healthypeople.gov/2020/topicsobjectives2020/
+ overview.
+aspx?topicid=25 (accessed October 29, 2012).
+IOM (Institute of Medicine). 2011. 
+The health of lesbian, gay, bisexual, and transgender people: 
+Building a foundation for better understanding. 
+Washington, DC: The National Academies 
+Press.
+The Joint Commission. 2011. A
+dvancing effective communication, cultural competence, and 
+ 
+patient- and family-centered care for the lesbian, gay, bisexual, and transgender (LGBT) com
+-munity: A ˜eld guide
+. Oak Brook, IL: The Joint Commission. http://LGBTFieldGuide.
+pdf (accessed October 29, 2012).
+Physicians for Human Rights. 2003. The right to equal treatment
+. http://www.paeaonline.org/
+index.php?ht=a/GetDocumentAction/i/135605 (accessed October 24, 2012).
+Ryan, C., D. Huebner, R. M. Diaz, and J. Sanchez. 2009. Family rejection as a predictor of 
+negative health outcomes in white and Latino lesbian, gay, and bisexual young adults. 
+Pediatrics
+ 123(1):346-352.
+References
+53
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Appendix A
+Workshop Agenda
+National Academy of Sciences Building
+2101 Constitution Avenue, NW, Washington, DC 
+Friday, October 12, 2012
+8:30-8:45
+ Welcome and Opening Remarks
+  Ignatius Bau, Planning Committee Chair
+8:45-9:25
+ Federal Perspective
+  Dr. Donald Moulds 
+  Acting Assistant Secretary for Planning and Evaluation 
+  Department of Health and Human Services 
+  Dr. Sylvia Fisher
+  Director, Of˚ce of Research and Evaluation
+  Dr. Yael Harris
+  Director, Of˚ce of Health Information Technology and 
+    
+Quality
+  Health Resources and Services Administration 
+55
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.56 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+  Mr. Robert Tagalicod 
+  Director, Of˚ce of eHealth Standards and Services 
+  Centers for Medicare and Medicaid Services 
+9:25-9:50
+  
+Clinical Rationale for the Collection of Sexual Orientation and Gender Identity Data
+  Dr. Harvey Makadon
+  Clinical Professor of Medicine, Harvard Medical School
+9:50-10:05 
+ Break
+10:05-12:00
+ Existing Practices
+  Moderator: 
+Harvey Makadon, Planning Committee
+  Ms. Shane Snowdon 
+  Director, LGBT Health & Aging Program
+  Human Rights Campaign Foundation
+  Dr. John Knudsen
+  Chief, LGBTI Practice Task Force, Mayo Clinic 
+  Dr. Ronald Copeland
+  President & Executive Medical Director, Ohio 
+    
+Permanente Medical Group 
+  Dr. Alex Gonzalez
+  Medical Director, Fenway Health
+  Dr. Jesse Ehrenfeld
+  Assistant Professor, Biomedical Informatics, Vanderbilt 
+    
+University 
+  Discussion
+ 12:00-12:30
+ Supporting Providers in the Collection of Data
+  
+Dr.
+ Robin Weinick
+  Associate Director, RAND Health
+12:30-1:15
+ Lunch Break
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX A 571:15-2:25 
+ Developing Standardized Questions
+  Panel moderator: 
+Nancy Bates, Planning Committee
+  Ms. JoAnne Keatley
+  Director, Center of Excellence for Transgender Health at 
+    
+University of California, San Francisco 
+  Dr. Kristen Miller 
+  Director, Question Design Research Lab, National Center 
+    
+for Health Statistics 
+  Dr. David Grant
+  Director, California Health Interview Survey 
+  
+Discussion 
+2:25-3:25
+ Technical Considerations
+  Moderator: 
+Ignatius Bau, Planning Committee Chair
+  Dr. Edward Callahan 
+  Professor, Family and Community Medicine,  
+    
+University of California, Davis, Health System 
+  Ms. Denise Rasmussen 
+  Clinical Informatics, Epic Systems Corporation 
+  
+Discussion
+3:25-3:35
+ Break
+3:35-4:30
+ Con˜dentiality and Privacy Concerns
+  Moderator:
+ Dan Kasprzyk, Planning Committee
+  Ms. Sue McAndrew
+  Deputy Director, Health Information Privacy, Of˚ce for 
+    
+Civil Rights 
+  Department of Health and Human Services 
+  Ms. Deven McGraw
+  Director, Health Privacy Project, Center for 
+    
+Democracy & Technology 
+  
+Discussion
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.58 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+4:30-5:10
+ Supporting Patients in the Collection of Data
+  Ms. Beverly Tillery
+  Director, Community Education, Lambda Legal
+5:10-5:30
+ Discussion and Comments
+  Ignatius Bau, Planning Committee Chair 
+5:30
+ Adjourn
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Appendix B
+Registered Workshop Attendees
+Clinton Anderson, American Psychological Association
+Kellan Baker, Center for American Progress
+Angela Bates, Department of Health and Human Services
+Judith Bradford, Fenway Health
+George R. Brown, Mountain Home VA Medical Center
+Diane Bruessow, Gay and Lesbian Medical Association
+Sean Cahill, The Fenway Institute
+Leslie Calman, Mautner Project: The National Lesbian Health Organization
+Erin Clark, Johns Hopkins University
+Richard Clarkson, Callen-Lorde Community Health Center
+Chipper Dean, Substance Abuse and Mental Health Services Administration
+Emily DeCoster, Health Resources and Services Administration
+Christina Dragon, Health Resources and Services Administration
+Prashila Dullabh, National Opinion Research Center
+Ted Eytan, DC Kaiser Permanente
+Rebecca Fox, Wellspring Advisors
+Bob Freeman, National Institute on Alcohol Abuse and Alcoholism 
+Candace Gibson, National Latina Institute for Reproductive Health
+Alison Gill, The Trevor Project
+William Grace, Of˚ce of AIDS Research, National Institutes of Health
+Joseph Goulet, Department of Veterans Affairs
+Heron Greenesmith, Family Equality Council
+James Halloran, Department of Veterans Affairs
+Justin Hentges, National Institutes of Health
+59
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.60 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Hutson Inniss, National Coalition for LGBT Health
+Jesse Joad, Gay and Lesbian Medical Association
+Enid Light, National Institutes of Health
+Kali Lindsey, National Minority AIDS Council
+Rachel Logan, North American Management
+Natalya Maisel, VA Palo Alto Health Care System
+Kristin Mattocks, VA Central Western Massachusetts Healthcare System
+Alexis Matza, U.S. Veterans Administration
+Gal Mayer, Callen-Lourde Community Health Center
+Castilla McNamara, National Institute on Deafness and Other 
+Communication Disorders, National Institutes of Health
+Phillip Melemed, Total Health Care, Inc.
+Jonathan Moore, Department of Health and Human Services
+Gwendolyn Moscoe, PeaceHealth Southwest Medical Center
+Susan Newcomer, National Institute of Child Health and Human 
+Development
+Katherine Nicodemus
+Daniel Nugent, National Minority AIDS Council
+Kathleen O™Leary, National Institutes of Health
+Jennifer Park, Of˚ce of Management and Budget
+Patrick Paschall, National Gay and Lesbian Task Force
+A. J. Pearlman, Department of Health and Human Services
+Johnette Peyton, North American Management
+Eva Powell, National Partnership for Women & Families
+Susan Queen, Of˚ce of the Assistant Secretary for Planning and 
+Evaluation, Department of Health and Human Services
+Lydia Remington, North American Management
+Leo Rennie, American Psychological Association
+James Scanlon, Of˚ce of the Assistant Secretary for Planning and 
+Evaluation, Department of Health and Human Services
+Hillary Schneller, National Women™s Law Center
+Carl Streed, Jr., American Medical Association
+Molly Sugrue, William F. Ryan Community Health Center
+Cassandra Surber, Department of Health and Human Services
+Nathan Tatro, American Psychological Association
+Aaron Tax, Services and Advocacy for GLBT Elders
+Geri Tebo, Of˚ce of Disease Prevention and Health Promotion, 
+Department of Health and Human Services
+Kate Tipping, Substance Abuse and Mental Health Services Administration
+Helen Tran, Asian American Justice Center
+Hector Vargas, Gay and Lesbian Medical Association
+Barbara Warren, Beth Israel Medical Center
+Isaiah Webster, National Association of State and Territorial AIDS Directors
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX B 61Elizabeth Wehr, National Institute of Child Health and Human 
+Development
+Kathryn Wetherby, Substance Abuse and Mental Health Services 
+Administration
+Amy Wilson-Stronks, Wilson-Stronks, LLC
+Gooloo Wunderlich, Committee on National Statistics, National 
+Research Council
+Jessica Xavier, Health Resources and Services Administration, HIV-AIDS 
+Bureau
+Vera Yakovchenko, Department of Health and Human Services
+Nora Yates, The New York State Of˚ce of Alcoholism and Substance 
+Abuse Services
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.Appendix C
+Biographical Sketches of 
+Workshop Speakers
+Edward J. Callahan, Ph.D., is the Associate Dean for Academic Per
+-sonnel & Professor of Family and Community Medicine, University of 
+California, Davis, School of Medicine. Since 2009, Dr. Callahan has led 
+the Task Force for Inclusion of Sexual Orientation and Gender Identity 
+in the Electronic Health Record at the University of California, Davis. 
+As a scholar, Dr. Callahan has studied physician-patient interaction and 
+health outcomes and as an educator he developed educational efforts in 
+Culture in Medicine and early efforts to understand and reduce health 
+care disparities. 
+Ronald L. Copeland, M.D., FACS,
+ is President and Executive Medical 
+Director for the Ohio Permanente Medical Group. Dr. Copeland is the 
+President and Executive Medical Director of the Ohio Permanente Medical 
+Group, with executive responsibility for all clinical care services provided 
+to Ohio Kaiser Permanente members. He is a Board Certi˚ed General 
+Surgeon, a Fellow of the American College of Surgeons, and continues 
+a limited practice. After 15 years in this role, effective January 1, 2013, 
+Dr. Copeland will move from Cleveland, Ohio, to the California Bay area 
+to become Senior Vice President, National Diversity Strategy and Policy 
+and Chief Diversity Of˚cer for Kaiser Foundation Hospitals and Kaiser 
+Foundation Health Plan, Inc. out of the Program Of˚ce in Oakland, Cali
+-fornia. A native of Rochester, New York, Dr. Copeland earned his B.A. 
+degree from 
+ Dartmouth College and his medical degree from the Univer
+-sity of 
+ 
+Cincinnati Medical College. He completed his residency in General 
+63
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.64 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Surgery at the State University of New York, Upstate Medical Center in 
+Syracuse. He joined Kaiser Permanente in 1988 after a 6-year honorable 
+tour of duty in the U.S. Air Force Medical Corps. Dr. Copeland serves 
+on several Kaiser Permanente national committees, including Co-Chair, 
+Kaiser Permanente National Diversity Council, KP Institute for Culturally 
+Competent Care. Additionally, he serves on the boards of several not-
+for-pro˚t community organizations, including the Cleveland Museum 
+of Natural History, The Cleveland Free Clinic, and the Minority Organ 
+Tissue and Transplant Education Program (MOTTEP, Chairman). He has 
+previously served on the Greater Cleveland and National American Heart 
+Association Boards and currently serves as a Power to End Stroke Ambas
+-sador, as well as a member of the AHA Diversity Leadership Committee. 
+He is a frequent lecturer on leadership development, culturally competent 
+care, and community health issues.
+Jesse M. Ehrenfeld, M.D., M.P.H.,
+ is an Assistant Professor at 
+ Vanderbilt 
+University Medical School in the Departments of Anesthesiology and 
+Biomedical Informatics. Dr. Ehrenfeld is a board-certi˚ed 
+ anesthesiologist 
+with an extensive background in clinical research, advocacy, and health 
+care policy. He serves as Director of the Center for Evidence-Based 
+ 
+Anesthesia, Director of the Perioperative Data Systems Research Group, 
+and Medical Director for Perioperative Quality at Vanderbilt University 
+Medical School. He is also a co-director of the Vanderbilt Program for 
+LGBTI Health, and a Course Director for both the School of Medicine™s 
+Continuity Clinical Experience and the immersion course titled ﬁSex, 
+Sexuality, and Sexual Health.ﬂ Dr. Ehrenfeld™s research and policy inter
+-ests include biomedical informatics and the application of information 
+technology to increase patient safety and reduce health disparities. His 
+research has been funded by NIH, the Anesthesia Patient Safety Foun
+-dation, and the Foundation for Anesthesia Education and Research. His 
+work has led to the presentation of more than 100 abstracts at national/
+international meetings and the publication of dozens of manuscripts in 
+high-impact journals. He has co-authored 10 clinical textbooks. For the 
+past decade, Dr. Ehrenfeld has advocated on behalf of LGBTI patients, 
+students, and trainees in his role as Chair of the Massachusetts Commit
+-tee on LGBT Health, Chair of the Massachusetts General Hospital LGBT 
+Employee Resource Group, a member of the Board Committee on Quality 
+at Fenway Community Health Center, and more recently, as co-director 
+of the Vanderbilt University Program for LGBTI Health and a member 
+of the Association of American Medical College™s LGBTI Liaison Group. 
+Dr. Ehrenfeld holds an M.P.H. from the Harvard School of Public Health, 
+and an M.D. from The University of Chicago. He completed residency and 
+served as informatics fellowship director for the Department of Anesthesi
+-Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX C 65ology at the Massachusetts General Hospital in Boston. Dr. Ehrenfeld has 
+received numerous teaching awards and serves on several distinguished 
+national committees including the American Society of Anesthesiologists 
+Standards & Practice Parameters Committee, the 
+New
+ England Journal of 
+Medicine
+ Publications Committee, and the American Medical Association 
+Public Health Committee. Dr. Ehrenfeld, a Lieutenant Commander in the 
+U.S. Navy, also serves as a medical reserve of˚cer.
+Sylvia Fisher, Ph.D.,
+ is the Director in the Of˚ce of Research and Evalu
+-ation in the Of˚ce of Planning, Analysis and Evaluation, at the Health 
+Resources and Services Administration (HRSA). In her position, Dr. Fisher 
+manages evaluations of diverse federal health programs about health 
+care workforce, maternal and child health, and primary health care ser
+-vices. Formerly a research psychologist at the Bureau of Labor Statistics, 
+Of˚ce of Survey Methods Research, she specialized in the application 
+of cognitive methods to improve the quality of large government sur
+-veys. As Director of Evaluation in the Child, Adolescent and Family 
+Branch at SAMHSA from 2004 to 2010, Sylvia was project of˚cer for the 
+national evaluation of the systems of care program. She has been a coun
+-selor and psychological evaluator with children and adults with diverse 
+clinical needs; has taught graduate and undergraduate courses in mea
+-surement, evaluation, systems change, and psychological assessment at 
+ 
+several higher education institutions; and has presented and published 
+in numerous academic and professional venues. Her extensive efforts to 
+improve the health and well-being of LGBT populations include serving 
+on both the 
+Healthy People 2020
+ Committee on LGBT populations and 
+the National Action Alliance on Suicide Prevention LGBT Task Force. 
+While at SAMHSA, she launched and chaired a national workgroup to 
+address the needs of youth in systems of care who are LGBT and their 
+families. She received the Leadership Award for Outstanding Volunteer 
+Service from the Lesbian Services Program of the Whitman-Walker Clinic 
+in 
+ Washington, DC. Sylvia is lead editor of the recently published volume 
+Improving Emotional and Behavioral Outcomes for LGBT Youth: A Guide for 
+Professionals
+.Alex Gonzalez, M.D., M.P.H., 
+is the Medical Director at Fenway Health 
+in Boston, Massachusetts. As Medical Director of Fenway Health, Alex 
+oversees a staff of more than 50 physicians, physician assistants, nurse 
+practitioners, nurses, medical assistants, and clerical staff in the delivery 
+of medical care to Fenway™s approximately 17,000 patients. Programs 
+within the Medical Department include outpatient primary care; specialty 
+clinics in alternative insemination, nutrition, diabetes, HIV, pulmonology, 
+podiatry, general infectious disease, transgender health, women™s health, 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.66 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+and male and female colposcopy; complementary therapy services in 
+massage, chiropractic, and acupuncture; nursing programs such as team-
+based nursing, the weekly hepatitis immunization and STD clinic, and the 
+patient triage line; and community-based programs such as the biannual 
+mammogram van. Alex obtained a bachelor of science degree in biology 
+from Tulane University and a combined medical and public health degree 
+from the University of Miami Miller School of Medicine. He completed 
+his internship and residency training in Primary Care Internal Medicine 
+at Beth Israel Deaconess Medical Center. He is currently an Instructor of 
+Medicine at Harvard Medical School, and he has worked at Fenway since 
+2005.
+David Grant, Ph.D., is the Director of the California Health Interview Sur
+-vey (CHIS) at the University of California, Los Angeles, Center for Health 
+Policy Research. Dr. Grant joined the CHIS team in 2001 and became proj
+-ect director in 2006. He is responsible for all aspects of CHIS, including 
+the planning, data collection, and dissemination phases of CHIS. For 20 
+years, Dr. Grant has been involved in applied social research at academic 
+and public agencies. In addition to population health and survey meth
+-odology, his research has focused on urban poverty and demography. Dr. 
+Grant received his undergraduate degree at the University of Michigan 
+and his master™s and doctorate degrees (1998) in sociology at UCLA.
+Yael Harris, Ph.D., MHS, 
+is the Director in the Of˚ce of Health IT & 
+Quality at the Health Resources and Services Administration (HRSA). 
+The Of˚ce of Health IT & Quality provides technical assistance, support, 
+and leadership across the agency to support improved care for safety net 
+populations through the effective use of health information technology. 
+Prior to her arrival at HRSA, Dr. Harris led the Of˚ce of Evaluation within 
+the Of˚ce of the National Coordinator for Health Information Technology 
+(ONC), initiating and overseeing the evaluation of ONC™s grant programs 
+to support and advance the adoption of electronic health records. She 
+also led ONC™s national measurement of EHR adoption in both ambula
+-tory and inpatient settings. Dr. Harris currently co-chairs a cross federal 
+Telehealth workgroup and a cross federal mobile health workgroup and 
+represents the safety net community on the Health IT Policy Committee™s 
+Meaningful Use workgroup where she focuses on quality improvement 
+and population health. Prior to joining the ONC, Dr. Harris worked for 
+the Centers for Medicare & Medicaid Services where she led efforts on 
+measurement and quality improvement in long-term and post acute care. 
+Before joining the federal government, Dr. Harris worked for a Med
+-PAC, a congressional advisory body, Georgetown University™s Institute 
+for Health Care Policy & Research, and served as an adviser to senior 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX C 67staff on the House Ways and Means Subcommittee on Health. She holds a 
+doctorate in public policy from the University of Maryland and a master™s 
+degree in health sciences from Johns Hopkins University. Dr. Harris is 
+an associate professor at the Erickson School of Aging where she teaches 
+courses on technology and aging services.
+Joanne Keatley, MSW, 
+is the Director at the Center of Excellence for 
+Transgender Health, University of California, San Francisco (UCSF). 
+JoAnne was born in Mexico City and became a U.S. citizen in 1986. Ms. 
+Keatley received a master of social welfare degree from the University of 
+California, Berkeley. Beginning at CAPS in 1999, JoAnne directed numer
+-ous NIH transgender research projects, developed and directed trans
+-gender intervention projects, and is a recognized international expert in 
+trans
+ 
+gender health and HIV issues. Currently she directs the Center of 
+Excellence (CoE) for Transgender Health and is also the Minority AIDS 
+Initiative Program Manager at the Paci˚c AIDS Education and Training 
+Center (PAETC) at UCSF. JoAnne has served on the UCSF Chancellors 
+Advisory committee on LGBT (CACLGBT) issues since 2000 and leads 
+the CACLGBT transgender subcommittee. In addition, she has consulted 
+on transgender health at the Centers for Disease Control and Preven
+-tion (CDC), Health Resources and Services Administration (HRSA), and 
+the Substance Abuse and Mental Health Services Administration (SAM
+-HSA). In 2010, she was invited to speak on transgender issues at the 
+White House Of˚ce of National AIDS Policy (ONAP) meeting on HIV 
+and Aging. As Director of the CoE for Transgender Health, Ms. Keatley 
+is responsible for overseeing all aspects of the CoE scope of work. She 
+develops the infrastructure to support successful and sustainable trans
+-gender programs, provides day-to-day leadership of CoE staff, oversees 
+the National Advisory Board, supervises the design and implementation 
+of all educational and marketing materials, identi˚es potential funding 
+sources, and assures the quality of all deliverables.
+John Knudsen, M.D.,
+ is the Chair of the LGBTI Practice Task Force at 
+the Mayo Clinic. The Mayo Clinic LGBTI Practice Task Force which was 
+formed in January 2012 by the Mayo Clinic Rochester Clinical Practice 
+leadership to research, assess, and develop recommendations that facili
+-tate building and sustaining an inclusive and welcoming environment 
+for LGBTI patients and their families who seek medical care from a Mayo 
+Clinic facility. This effort is coordinated with the Mayo Clinic Of˚ce of 
+Diversity and Inclusion to address speci˚c strategic goals, including 
+increasing patient diversity and identifying and eliminating health dis
+-parities while becoming a national leader in the science and promotion 
+of health equity. The effort was initiated following a presentation from 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.68 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+the LGBTI Mayo Clinic Employee Resource Group to clinical practice 
+leadership identifying speci˚c patient care related issues encountered by 
+Mayo Clinic LGBTI employees and their families while seeking care at 
+Mayo Clinic. Dr. Knudsen™s professional background includes Assistant 
+Professor of Radiology, Mayo Clinic College of Medicine; Staff Radiolo
+-gist at Mayo Clinic for 21 years with subspecialty practice focus in Ultra
+-sound and Abdominal Imaging; and Former Associate Chair for Clini
+-cal Practice in the Department of Radiology at Mayo Clinic Rochester, 
+Minnesota. He has spent 12 years at Mayo Clinic in Rochester, Minnesota 
+(2000-present), and 9 years at Mayo Clinic in Jacksonville, Florida (1991-
+2000). Dr. Knudsen completed his residency training at Mayo Clinic in 
+Rochester, Minnesota (1986-1990) and Abdominal Imaging fellowship at 
+Duke University Medical Center (1990-1991). 
+Harvey J. Makadon, M.D.,
+ is Clinical Professor of Medicine at Harvard 
+Medical School and Director of the National LGBT Health Education 
+Center at The Fenway Institute, a division of Fenway Health, Boston. He 
+is a member of the Division of General Medicine at Beth Israel 
+ Deaconess 
+Medical Center in Boston, where he has had a primary care practice and 
+served as Vice President of Medical Affairs. He is currently the LGBT 
+Advisor in Harvard Medical School™s Of˚ce for Recruitment and Multi
+-cultural Affairs. Dr. Makadon is the lead editor of 
+The Fenway Guide to 
+Lesbian, Gay, Bisexual, and Transgender Health
+, published by the American 
+College of Physicians in 2008. In addition to writing numerous articles 
+and chapters related to LGBT health, he served on the Committee on 
+LGBT Health Issues and Research Gaps and Opportunities of the Institute 
+of Medicine of the National Academy of Sciences for 
+The Health of Lesbian, 
+Gay, Bisexual, and Transgender People: Building a Foundation for Better Under
+-standing
+ in March 2011. He spoke at a White House Conference on HIV 
+and the LGBT Community in April 2012. Dr. Makadon was the recipient 
+of the Community Service Award (2000) and the Harold Amos Diversity 
+Award (2008) at Harvard Medical School; an Achievement Award from 
+the Gay and Lesbian Medical Association; and the Michael Tye Leader
+-ship Award (2004) from Fenway Health.
+Sue McAndrew, J.D., 
+is the Deputy Director for Health Information Pri
+-vacy at the Of˚ce for Civil Rights (OCR) in the U.S. Department of Health 
+and Human Services (HHS). As Deputy Director, Ms. McAndrew has 
+responsibility for implementing and enforcing the Privacy and Security 
+Rules issued pursuant to the Health Insurance Portability and Account
+-ability Act of 1996 (HIPAA). She also has the responsibility for the Health 
+Information Technology for Economic and Clinical Health Act of 2009 
+(HITECH) that sets forth a plan for promoting health information tech
+-Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX C 69nology and electronic health information exchange to improve quality of 
+care and establish a foundation for health care reform. Ms. McAndrew has 
+worked primarily on the HIPAA Privacy Rule for HHS since May 2000 
+and is the senior adviser to the director of OCR on health information 
+privacy and technology matters. In 2006, the Secretary of HHS delegated 
+to OCR the responsibility for enforcement of the con˚dentiality protec
+-tions for patient safety work product under the Patient Safety and Quality 
+Improvement Act of 2005 (PSQIA); in May 2008, the Genetic Information 
+Non
+ discrimination Act (GINA) that prohibits most health plans from 
+using or disclosing genetic information for underwriting purposes was 
+added; and in July 2009, responsibility for the HIPAA Security Rule was 
+transferred from CMS to OCR. The HIP Division leads these new enforce
+-ment efforts within OCR. Ms. McAndrew has more than 20 years of 
+federal government experience. Ms. McAndrew received her J.D. from 
+Georgetown University Law Center and, prior to joining HHS, practiced 
+law in the District of Columbia, including 12 years at Wilmer, Cutler & 
+Pickering (now WilmerHale).
+Deven McGraw, J.D., 
+is the Director of the Health Privacy Project at the 
+Center for Democracy & Technology. Ms. McGraw is active in efforts to 
+advance the adoption and implementation of health information tech
+-nology and electronic health information exchange to improve health 
+care. She was one of three persons appointed by Kathleen Sebelius, the 
+Secretary of the U.S. Department of Health and Human Services (HHS), 
+to serve on the Health Information Technology (HIT) Policy Committee, 
+a federal advisory committee established in the American Recovery and 
+Reinvestment Act of 2009. She co-chairs the Committee™s Privacy and 
+Security ﬁTiger Teamﬂ and serves as a member of its Meaningful Use, 
+Information Exchange, and Strategic Plan Workgroups. She also served 
+on two key workgroups of the American Health Information Community 
+(AHIC), the federal advisory body established by HHS in the Bush admin-istration to develop recommendations on how to facilitate use of health 
+information technology to improve health. Speci˚cally, she co-chaired 
+the Con˚dentiality, Privacy, and Security Workgroup and was a mem
+-ber of the Personalized Health Care Workgroup. She also served on the 
+Policy Steering Committee of the eHealth Initiative and now serves on its 
+Leader ship Council. She is also on the Steering Group of the Markle Foun
+-dation™s Connecting for Health multi-stakeholder initiative. Ms. McGraw 
+has a strong background in health care policy. Prior to joining CDT, Ms. 
+McGraw was the Chief Operating Of˚cer of the National Partnership for 
+Women & Families, providing strategic direction and oversight for all of 
+the organization™s core program areas, including the promotion of initia
+-tives to improve health care quality. Ms. McGraw also was an associate in 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.70 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+the public policy group at Patton Boggs, LLP, and in the health care group 
+at Ropes & Gray. She also served as Deputy Legal Counsel to the Gover
+-nor of Massachusetts and taught in the Federal Legislation Clinic at the 
+Georgetown University Law Center. Ms. McGraw graduated magna cum 
+laude from the University of Maryland. She earned her J.D., magna cum 
+laude, and her L.L.M. from Georgetown University Law Center and was 
+Executive Editor of the 
+Georgetown Law Journal
+. She also has a master of 
+public health from Johns Hopkins School of Hygiene and Public Health. 
+Kristen Miller, Ph.D.,
+ is the Director at the Question Design Research 
+Laboratory, National Center for Health Statistics (NCHS), at the CDC. 
+Dr. Miller is a senior methodologist whose writings have focused on ques
+-tion comparability, including question design and equivalence for lower 
+SES respondents and the improvement of evaluation methods for cross-
+cultural and cross-national testing studies. Through her tenure at NCHS, 
+she has led collaborative international testing projects with collaborators 
+including the European Social Survey, the World Bank, the World Health 
+Organization, and the United Nations. Dr. Miller holds a Ph.D. in Sociol
+-ogy from the University of Delaware.
+Don Moulds, Ph.D., 
+is the Acting Assistant Secretary for Planning and 
+Evaluation at the U.S. Department of Health and Human Services. In 
+August 2012, Don Moulds assumed the role of Acting Assistant Secre
+-tary for Planning and Evaluation at the U.S. Department of Health and 
+Human Services after serving as Principal Deputy Assistant Secretary 
+since July 2009. Dr. Moulds is currently the Department™s liaison to the 
+U.S. Interagency Council on Homelessness and to the White House on the President™s Strong Cities, Strong Communities initiative. He works closely 
+with the Department of Housing and Urban Development on numerous 
+initiatives affecting common target populations, including homeless indi
+-viduals and families, and is overseeing multiple case 
+ studies and demon
+-strations aimed at identifying successful interventions for homelessness. 
+He is currently overseeing the development of the National Strategy to 
+End  
+Alzheimer™s Disease, and is a member of the Federal Advisory Coun
+-cil on Alzheimer™s Research, Care, and Services. Prior to becoming Prin
+-cipal Deputy Assistant Secretary, Dr. Moulds served as Vice President for 
+the California Medical Association™s Center for Medical and Regulatory 
+Policy. In that capacity, he oversaw the development of the association™s 
+health policy initiatives, guided its positions on legislation, and oversaw 
+all of its regulatory work. From 2004 through 2007, Dr. Moulds was the 
+director of the Senate Of˚ce of Research, the 
+ bipartisan research arm 
+of the California State Senate. There he was responsible for developing 
+the Senate™s research agenda on everything from health care to water 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX C 71policy, overseeing the Senate™s policy-related publications, and managing 
+the Senate™s relations with the federal government. From 1998 through 
+2004, Dr. Moulds served as Principal Consultant to Senate President Pro 
+ 
+Tempore, John Burton, and was the lead staffer in the Senate on numerous 
+issues, including insurance, health system reform, and select labor issues. 
+Dr. Moulds has served on numerous boards and commissions, including 
+the State Compensation Insurance Fund Board, the Advisory Board of 
+the California Health Policy Research Council, the Advisory Board of the 
+ 
+Sacramento Campus of the University of Southern 
+ California, the Advi
+-sory Committee of the Workers Compensation Research Institute, the 
+Steering Committee of the University of California™s Policy Research Cen
+-ter, and the State of California Health Insurance Portability and Account
+-ability Act Implementation Advisory Board. He holds a B.A. degree from 
+Bates College and M.A. and Ph.D. degrees in philosophy from the Uni
+-versity of Illinois. He has taught philosophy and ethics courses at the 
+University of Illinois, Harvard University, and California State University, 
+Sacramento.
+Denise Rasmussen, R.N., is a nurse on the clinical informatics team 
+at Epic. Her nursing background is in pediatrics and her background 
+with Epic is in implementation. She has been with Epic for 10 years and 
+has implemented the inpatient software at a variety of organizations, 
+including Kaiser Permanente and the Cleveland Clinic. One of her many 
+roles is to work with the development team on driving the future of the 
+applications. 
+Shane Snowdon 
+works in on the LGBT Health & Aging Program at the 
+Human Rights Campaign. The Human Rights Campaign, which admin
+-isters the national Healthcare Equality Index for hospitals and other 
+facilities, is the largest LGBT organization in the United States. Shane 
+previously founded and led the Center for LGBT Health and Equity 
+at the University of California, San Francisco, for 14 years the nation™s 
+only LGBT of˚ce in a health care or health education setting. She has 
+provided LGBT health training and consulting for hundreds of hospitals, 
+health professional schools, and other health organizations throughout 
+the country. She has also written extensively on LGBT health, serving as 
+Project Adviser for The Joint Commission™s 
+LGBT Field Guide
+ (2011) and 
+as lead author of 
+Recommendations for LGBT Equity & Inclusion in Health 
+Professions Education
+ (2012). Shane has designed and convened numerous 
+LGBT health meetings, including the annual LGBTQI Health Forum for 
+Health Professional Students and the National Summit on LGBT Con
+-cerns in Medical Education for faculty and administrators. She also serves on the boards of the National LGBT Health Coalition, the Paci˚c AIDS 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.72 COLLECTING SEXUAL ORIENTATION AND GENDER IDENTITY DATA
+Education & Training Center, and the Alliance Health Project. Shane™s 
+groundbreaking work has received extensive recognition, including the 
+Health Achievement Award of the Gay & Lesbian Medical Association, 
+the Transgender Law Center Ally Award, the KQED Local Hero Award, 
+and the University of California Award for Exceptional University Service 
+and Award for GLBT Leadership. 
+Robert Tagalicod 
+is the Director of the Of˚ce of eHealth Standards and 
+Services, at the Centers for Medicare and Medicaid Services and its 
+Senior Agency Of˚cial for Privacy. In this capacity, he leads and directs a 
+multi-billion-dollar effortŠthe Medicare and Medicaid Electronic Health 
+Records (EHRs) Incentive ProgramŠto promote the adoption and mean
+-ingful use of EHRs in the United States as part of health care transfor
+-mation: better care, better health, at lower cost without compromising 
+quality. In addition, he oversees the implementation of Administrative 
+Simpli˚cation (i.e., Operating Rules for HIPAA Transactions), including 
+ICD-10. Previously, Rob was the Deputy Director and Acting Director of 
+CMS™s Of˚ce of Communications and also served as Special Assistant in 
+the Of˚ce of the Administrator, assisting with oversight and reporting 
+on key ARRA initiatives such as HITECH, Prevention, and Comparative 
+Effectiveness Research. Rob brings his 20+ years of management practice 
+in the areas of health policy, program operations, communications, and 
+˚nance, as well as his experience in project and performance manage
+-ment of several health initiatives for state and county health systems in 
+California and the University of California, San Francisco.
+Beverly Tillery
+ is the Director of Community Education and Advocacy 
+at Lambda Legal. Lambda Legal is the oldest and largest national legal 
+organization committed to achieving full recognition of the civil rights of 
+ 
+lesbians, gay men, bisexuals, transgender people, and people with HIV. 
+Tillery coordinates Lambda Legal™s education and outreach work that 
+actively engages the LGBT community and its allies in the ongoing ˚ght 
+for equality and justice. Through community forums, educational pro
+-grams, and by building relationships with other organizations, Lambda 
+Legal seeks to build a greater understanding of the issues it addresses 
+through its litigation. Lambda Legal informs people about LGBT issues 
+and rights and then gives them the tools to take individual and collective 
+action to gain full equality of LGBT people and people with HIV in our 
+society. Tillery has dedicated the past 15 years of her career to ˚ghting all 
+forms of oppression and working for social and economic justice through 
+community-based direct action organizing, labor organizing, human 
+rights and political advocacy, and popular education. Prior to joining 
+the staff at Lambda Legal, she coordinated the Immigrant Worker Rights 
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.APPENDIX C 73 
+Project at the New York Coalition for Occupational Safety and Health. 
+Tillery also worked as the Outreach Coordinator at Amnesty International 
+where she developed a national ˚eld organizing program, and at the 
+Service Employees International Union where she lead organizing cam
+-paigns to help health care workers form a union. She has designed and 
+facilitated hundreds of trainings and workshops on a variety of subjects 
+including organizing skills. She has also served as the President of the 
+Board of the National Organizer™s Alliance, a national organization of 
+social justice organizers. 
+Robin M. Weinick, Ph.D., 
+is the Associate Director at RAND Health. 
+Dr. Weinick™s speci˚c areas of responsibility include RAND Health™s con
+-tract business line, managing policy and processes related to bid decisions, 
+procurement, and administration of government and nonpro˚t contracts, 
+with an emphasis on contracts with the Department of Health and Human 
+Services. She also plays a key role in research staff recruitment and devel
+-opment, as well as business planning. As RAND Health™s senior leader 
+on the East Coast, she frequently represents the unit in discussions with 
+key contacts in government agencies, nonpro˚ts, and nongovernmental 
+entities based in the National Capitol region. Dr. Weinick is also a Senior 
+Social Scientist at RAND. Her research focuses on improving the quality of 
+medical care in the United States, with emphasis on developing and evalu
+-ating practical tools for use in the health care system, the development and 
+use of measures for monitoring the status of health care, and supporting 
+their use in driving both health system improvement and public policy 
+initiatives. Dr. Weinick brings an extensive background in a wide variety 
+of issues related to racial/ethnic disparities, including projects designed 
+to provide guidance to the Commonwealth of Massachusetts regarding 
+implementing disparities provisions of its Medicaid pay-for-performance 
+program, and studies of the impact of pay-for-performance on dispari
+-ties, and of quality improvement efforts related to reducing disparities in 
+small physician practices. A previous project resulted in lead authorship 
+of 
+Creating Equity Reports: A Guide for Hospitals
+, which provides tools to 
+help hospitals assess and understand racial/ethnic disparities in their 
+performance measures. Dr. Weinick has played a national role in advanc
+-ing health care provider collection of race/ethnicity data from patients, 
+and has conducted extensive training of hospital registrars in this area. 
+Prior to joining RAND, Dr. Weinick was a Senior Scientist in the Institute 
+for Health Policy at Massachusetts General Hospital and an Assistant Pro
+-fessor of Medicine at Harvard Medical School. She has a 10-year history 
+of federal service in a variety of positions at the Agency for Healthcare 
+Research and Quality, and holds a Ph.D. from the Johns Hopkins Univer
+-sity School of Public Health.
+Collecting Sexual Orientation and Gender Identity Data in Electronic Health Records: Workshop SummaryCopyright National Academy of Sciences. All rights reserved.

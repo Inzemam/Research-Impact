@@ -1,0 +1,1536 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/13120Communicating National Science Foundation Science andEngineering Information to Data Users: Letter Report31 pages | 8.5 x 11 | PAPERBACKISBN 978-0-309-21003-4 | DOI 10.17226/13120Panel on Communicating National Science Foundation Science and EngineeringInformation to Data Users; Committee on National Statistics; National ResearchCouncilCommunicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 1  Committee on National Statistics
+ The Keck Center
+ Panel on Communicating NSF Science and Engineering Information to Data Users
+ 500 Fifth Street, NW
+  Washington, DC 20001
+  Phone: 202 334 3096
+  Fax:
+ 202 334 3751
+  www.national
+-academies.org/cnstat
+        
+March 9, 2011  Dr. Lynda Carlson Director National Center for Science and Engineering Statistics 
+National Science Foundation 4201 Wilson Boulevard, Suite 965 Arlington, VA 22230  
+Dear Dr. Carlson,  This letter report from the Panel on Communicating National Science Foundation (NSF) 
+Science and Engineering Information to Data Users recommends action by the National Center for Science and Engineering Statistics (NCSES), formerly the Division of Science Resources 
+Statistics (SRS), on four key issues: data content and presentation, meeting changing storage and retrieval standards, understanding data users and their emerging needs, and data accessibility. 
+The panel members are listed in Appendix A. 
+The recommended actions in this letter report can be considered as preliminary steps for 
+NCSES to prepare for initiatives that will foster a transition from current practices and approaches to an improved program of data dissemination. These and other issues will be 
+discussed in the panel™s final study report, which is scheduled to be issued in mid-2011. This letter report also includes a summary of the workshop that was held on October 27Œ28, 2010; see Appendix B. The workshop focused on the several aspects of the NCSES™s current approaches to communicating and disseminating statistical informationŠincluding NCSES™s information 
+products, website, and database systems. It included presentations from NCSES staff and representatives of key user groupsŠincluding the academic research, private nonprofit research, 
+and federal government policy-making communities; see Appendix C for the workshop agenda.   PANEL CHARGE AND ISSUES  The NCSES, as a means of fulfilling its mandate to collect and distribute information 
+about science and engineering enterprise for the National Science Foundation, conducts an 
+ambitious program of data dissemination in several formats: hard-copy and electronic-only 
+publications, an extensive NCSES website, and two tools that are used to retrieve data from the NCSES database: the Integrated Science and Engineering Resource Data System (WebCASPAR) and the Scientists and Engineers Statistical Data System (SESTAT). These outputs and tools serve a broad community of information users, with wide-ranging data needs, statistical knowledge, access preferences, and technical abilities.  
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 2Our panel was asked to review the NCSE
+S communication and dissemination program 
+that is concerned with the 
+collection and distribution of information on science and 
+engineering and recommend future directions for the program. Specifically, we were asked to: 
+  Review NCSES™s existing approaches to communicating and disseminating statistical 
+information, including the cente
+r™s information products, webs
+ite, and database systems. 
+[This review will be conducted in the context of both current ﬁbest practicesﬂ and new 
+
+and emerging techniques and approaches.] 
+ Examine existing NCSES data on websites, 
+information gathered by and from NCSES 
+staff, volunteered comments of users, and input solicited by the panel from key user groups and assess the varied needs of different types of users within NCSES™s user community.  Consider the impact that current federal a
+nd NSF website guidance and policies have on the design and management of NCSES™
+s online (Internet) communication and dissemination program. 
+ Consider current research and practice in collecting, storing, and utilizing metadata, with 
+particular focus on specifications for social science metadata developed under the Data 
+Documentation Initiative (DDI). 
+ Consider the impact of government-wide activ
+ities and initiatives (such as FedStats and 
+Data.gov) and the emerging user capability for 
+online retrieval of government statistics. 
+ IMPROVING DATA DELIVERY, 
+PRESENTATION, AND QUALITY 
+ In their presentations to the panel, the NCSES staff produ
+ced a large hard-copy stack of tabulations, noting that the stack represented just one of the center™s periodic reports. The staff 
+also noted that, even though the center has largely shifted to electronic dissemination, the 
+dictates of data accuracy and 
+reliability require that a great 
+deal of NCSES time is spent in 
+checking data and formatting the data
+ for print and electronic publication.1 For example, each 
+page of the hard copy must be checked by someon
+e looking at the source data. This effort comes 
+at the expense of ensuring data integrity at the source. We believe this emphasis is misplaced.   
+Although it will never be possible to fully a
+void edit and quality checks because errors 
+are prone to creep into data at any stage in processing, there is much to be gained by focusing 
+primarily on the quality of the 
+incoming ﬁrawﬂ data from the s
+ource. This approach is best ensured by adopting a comprehensive database management framework for the process, rather 
+than the current primary focus 
+on review of the tabular presentation. A framework that ensures 
+integrity of the data at the source of the data, buttressed by the availability of metadata (that is, 
+data about the data), is the necessary foundati
+on of real improvement in data dissemination. 
+ RECOMMENDATION 1: The National Center for Science and Engineering Statistics should transition to a dissemination framework that emphasizes database management 
+rather than data presentation and strive to en
+sure integrity of the data at the source.    All of the tables published by NCSES are selections, aggregations, and projections of the underlying microlevel observations. The reco
+mmendation above envisions that, wherever                                                           
+ 1This information is based on the NSF pres
+entation to the panel, slide numbers 14Œ16. 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 3possible, published tables should be defined explicitly in these terms and produced by an 
+automated process that includes metadata.  
+The panel acknowledges that in some casesŠsuch as the NCSES™s 
+Science and Engineering IndicatorsŠthis approach may not be feasible 
+since an extensive data appendix is necessary to support the analysis in the report. However, in general, a web release (following the practice that NCSES currently employs for the most
+ detailed statistical tables) of the raw data 
+will reduce the burden on NCSES™s staff and will form the basis of a transition from ﬁtablesﬂ to 
+
+ﬁinformationﬂ and provide the users with more tim
+ely information. This structured approach to 
+release of data will also provide transparency in the process,
+ and assuage any user concerns 
+about the delay between data collection and its availability.   In its presentations, NCSES staff stressed that they are a comparatively small 
+organization with limited resources. One way that 
+these limited resources 
+could be stretched is for NCSES to consider digital distribution channels, including enhanced use of PDF files and, after investigation of cost and benefits, perhaps facilitating print-on-demand publication.  
+NCSES may wish to consider turning to the print-on-demand technology of the U.S. 
+Government Printing Office as a potential means of 
+controlling the costs associated with printing 
+and distributing the few remaining ha
+rd-copy reports that it produces.   It is important that the data provided by c
+ontractors to NCSES include machine-readable 
+metadata that capture the statistical properties 
+of the data and of the collection and research design. The appropriate form and content of these 
+metadata are being considered in the federal 
+statistical agencywide Statistical Community of
+ Practice and Engagement
+ (SCOPE) initiative, 
+which was discussed by Ron Bianchi (representing the Economic Research Service of the U.S. 
+Department of Agriculture) at the workshop (see A
+ppendix B). It is likely that such metadata are produced in the data collection process, since computer-assisted telephone interviewing (CATI) and other related survey tools use much of th
+is information in their operations. However, 
+metadata are currently not included in the requ
+ired deliverables to NSF from contractors.  The shift to increased provision of raw data is potentially a major and significant 
+enhancement, that has the potential to offer great
+ direct benefit, but such a change will also 
+require consideration of second-order effects. Care will need to be taken to ensure that data confidentiality is assured when providing users with cross-source microdata: consequently, rules 
+about publishable cell size, for example, will have to be carefully considered.2 The greater transparency inherent in making mo
+re raw data available also incr
+eases the risk that users could 
+juxtapose data in ways that lead to invalid interpretations, though this danger can certainly be lessened by the accessibility of robust metadata th
+at explain the meaning (and limitations) of the 
+data. The current state of meta
+data technology permits tagging th
+e data items with permanent 
+uniform resource locator (URL) and uniform re
+source identifier (URI) codes that enable 
+identifying the source and meaning of the data items. 
+                                                          
+ 2Several reports of the Committee on National Statistics addr
+ess the need to maintain the confidentiality of data 
+provided to government agenci
+es in confidence:  National Research Council (1979), 
+Privacy and Confidentiality as 
+Factors in Survey Response
+ (Washington, DC: National Academy Pr
+ess); National Research Council (1993), 
+Private Lives and Public Policies: Confidentia
+lity and Accessibility of Government Statistics
+, Panel on 
+Confidentiality and Data Access, G.T.
+ Duncan, T.B. Jabine, and V.A. De
+Wolf, eds. (Washington, DC: National 
+Academy Press); National Re
+search Council (2009), Protecting Student Records and Facilitating Education 
+Research: A Workshop Summary
+, M. Hilton, rapporteur (Washington, 
+DC: The National Academies Press); and 
+National Research Council (2010), 
+Protecting and Accessing Data from 
+the Survey of Earned Doctorates: A 
+Workshop Summary
+, T.J. Plewes, rapporteur (Washington,
+ DC:  The National Academies Press). 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 4Another positive benefit of providing transp
+arency and tools for exploratory access to 
+data is that users will be in a position to identify errors in the data, and NCSES should be 
+prepared to solicit and a
+ccept error reports and make correcti
+ons as necessary. Clearly, when the 
+general public has access and tools to combine data
+ across data sources there will be additional 
+questions about data accuracy and usefulness, an
+d NCSES will need to do its best to educate 
+users and respond to users™ discoveries.    Finally, when considering data release and ma
+nagement, it is important to have a long-
+term data management plan. Yet according to st
+aff, the NCSES™s current approach to archival 
+issues is ad hoc. In view of the importance of
+ these data for historical reference, long-term 
+archival access is needed, and it could be assured through proper policies and practices. At a minimum, all of the collected data and publica
+tions should be scheduled for retention by the 
+National Archives and Records Administration. In 
+this regard, the NSF Sustainable Digital Data 
+Preservation and Access Network Partners (DataNet) initiative is a ready in-house source of information on best practices and tools for 
+implementing an active 
+archival program.  
+ MODERNIZING DATA CAPTURE, 
+STORAGE, AND RETRIEVAL 
+  Emerging technologies for data capture, storag
+e, and retrieval will dramatically change 
+the context in which NCSES will provide data to
+ users in the future. For NCSES, the key to 
+taking advantage of these technologiesŠwhich are designed to increase the efficiency of data 
+capture, storage, and retrieval and to permit user
+s to access the data intera
+ctively (such as with 
+Web 2.0)Šis to focus on procedures for entry of the raw data into the system. It is critically 
+important that data enter the system in
+ as disaggregated form as possible.  
+Furthermore, it is critically
+ important that the data be accompanied by the machine-
+actionable documentation (metadata) needed to 
+establish the data™s hi
+story of origin and ownership (know as provenance) and to include a record of any modifications made during data 
+editing and clean-up. The documentation also needs 
+to include the measurement properties of the 
+data with sufficient detail and accuracy to enab
+le publication-ready tables to be automatically 
+generated in a statistical
+ly consistent manner.  
+The data also need to be able to take advantage of the web development capabilities 
+embedded in data.gov and other emerging dissemina
+tion means to ﬁmashupﬂ data sources (a web 
+page or application that uses and combines data, presentation, or functionality from two or more 
+sources to create new services). These capabilitie
+s, incorporating such tools as open Application 
+Programming Interface (API), enrich results and 
+enhance the value of the 
+data to data users. Unfortunately, NCSES is not very well positioned 
+to take advantage of these new developments 
+because the survey data that are 
+entered into the center™s database
+ are received from the survey 
+contractors in tabular format (though machine r
+eadable) rather than in
+ an easily accessible 
+microdata format. This is not unique to the science and engineering data. The committee heard 
+
+from Suzanne Acar (representi
+ng the U.S. Department of the 
+Interior and the Federal Data 
+Architecture Subcommittee) that 
+this is a governmentwide issue, one which will be taken up by a 
+group of the World Wide Web Consortium (W3C),
+3 which has plans to develop contract templates to enable governmental 
+organizations to properly specify 
+the format for receipt of the 
+data from their contractors. Ron Bianchi (rep
+resenting the Economic Re
+search Service of the                                                           
+ 3W3C is an international community of member organizat
+ions, a full-time staff, and the public to develop web 
+standards: see http://www.w3c.org [November 2010].
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 5U.S. Department of Agriculture) st
+ated that this is also a concern for the newly formed Statistical 
+Community of Practice and Engagement (SCOPE), and that current plans for this coordinating activity that involves most of th
+e large federal statistical agencies include developing a template 
+for contract deliverables specifications.  
+ RECOMMENDATION 2: The National Center for Science and Engineering Statistics should incorporate provisions in contracts wi
+th data providers for the receipt of data in 
+formats, and accompanied by metadata, that will allow efficient access for third-party 
+
+visualization and integration and 
+the use of analysis tools.    Implementing this recommendation will be no simple task for NCSES. Currently, 
+NCSES manages 13 major surveys, involving contra
+cts with five private sector organizations and the U.S. Census Bureau: see Table 1. Furthermore, adding this requirement may initially 
+incur additional costs to support a shift from the cu
+rrent practice of formatting the data after it is 
+received to requiring contactors to 
+input the data in a new format.  
+To enable the receipt of metadata from c
+ontractors in a universally-accessible format, 
+NCSES will need to adopt an electronic data inte
+rchange (EDI) metadata transfer standard. The 
+selection and adoption of a meta
+data transfer standard would be more effective if NCSES 
+accomplished this through participation in a governmentwide initiative, such as the W3C 
+
+contract template development, or the SCOPE ef
+fort focused on the federal statistical agencies. 
+ UNDERSTANDING DATA USERS AN
+D THEIR EMERGING NEEDS 
+ NCSES is strongly committed to serving the need
+s of data users, but 
+it has little evidence of how well it is meeting those needs. NCSES has 
+made several notable attempts to gather this 
+intelligence about user needs, but it does not have
+ a formal, consistent, structured, and continuing 
+program for doing so.   
+One problem for NCSES is that there are multip
+le levels of users for which products must 
+be developed. For the most part, outreach efforts have been addressed to primary users, who are 
+mostly researchers and analysts of research 
+and development (R&D) expenditures and the R&D 
+workforce. These users represent the most visible 
+of usersŒresearchers and analysts in the federal 
+agencies that support government science and en
+gineering analysis, in academia, and in the 
+private sector. (Several of these users gave presentations at the workshop). However, the needs of a group of secondary users (those who rely on NCSES products to understand and gauge the implications for programs, policy, and advocacy) a
+nd tertiary users (such as policy makers and 
+librarians) are given less attention, mostly because outreach to these groups is so difficult.   
+It is incumbent on NCSES to consider the n
+eeds of all of these groups and the technology platforms they use to access the data as NC
+SES considers the program of measurement and 
+outreach discussed in this letter. NCSES could consider novel 
+means of harvesting information 
+about data use to analyze usage patterns, such as reviewing citations to NCSES data in publications, periodicals, and news items. R
+eaching out to document librarians and other 
+secondary users by means of surveys or interviews
+ would be another worthwhile initiative. One means of assisting in assuring that
+ the needs of the secondary and tertiary data users are met is to 
+assure that programs of outreach
+ are specially directed to memb
+ers of the mediaŠthose who re-
+release the NCSES data and interpret them to the public.  
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 6Among the tools that NCSES has used to asse
+ss user needs, according to John Gawalt (NCSES program director for information and te
+chnology services at the time of the workshop), 
+are a web statistics analysis program that analyzes
+ web server log file content and displays the traffic information on the basis of the log data (U
+RCHIN) and software that
+ collects and presents 
+information about user behavior on its website
+ (WebTrends). With proper permissions and 
+protections, NCSES is also contemplating using cookies to identify return users and increase the efficiency of filling data requests.
+ It also has plans to sponsor and field a customer survey to 
+formally measure satisfaction. 
+In seeking a model for outreach to users, NCSES could consider modeling its efforts on 
+the very aggressive program of Statistics Cana
+da, described at the workshop by panel member 
+Diane Fournier. Statistics Canada uses a comb
+ination of online questionnaires and focus groups to assess user needs and the usability of its webs
+ite. The information has been used by Statistics 
+Canada to develop a profile of its users and how they access the database. One advantage of this approach, although it is resource intensive, is the possibility of gathering use information from a 
+wide range of users, both from those who 
+are knowledgeable and regular users and from 
+secondary and tertiary users who 
+are less familiar with the data. 
+ Another initiative that NCSES could undertake to better determine user needs is to renew 
+the data workshops that NCSES conducted for several years but have been discontinued. Those workshops brought together users and potential users of licensed data. This same approach could 
+be useful for acclimating users to web-based data, 
+and to introduce frequent users to changes in 
+data dissemination practices and procedures. Su
+ch data workshops would be a good way to find out how knowledgeable data users use NCSES data 
+and to find out what concerns users have about the data.   RECOMMENDATION 3: The National Center for Science and Engineering Statistics should proceed with its plans to conduct 
+a customer survey through use of an online 
+questionnaire; should analyze patterns of da
+ta use by web users; and should consider 
+reinstating the program of user workshops in 
+order to educate users about the data and 
+to learn about the needs of users in a structured way. 
+ DATA ACCESSIBILITY 
+ The panel heard from Judy Brewer (director of
+ the Web Accessibility Initiative [WAI] at 
+the W3C) on the issue of accessibility of in
+formation on the web. Her presentation and the 
+discussion that followed the presentation raised several important issues.  
+The convention when considering web design for individuals with disabilities is to ensure that the site is accessible to those who are visu
+ally impaired. However, there is a much wider 
+range of ways in which someone™s accessibility
+ to information should be considered when 
+developing websites and web applications. For example, a chart that is color coded may not be 
+readily interpreted by someone with color blindness, multimedia files may not be accessible to 
+
+someone who is deaf unless they are accompanied 
+by transcripts, and someone with a cognitive disability such as attention deficit disorder may find websites that lack a clear and consistent 
+organization difficult to navigate.  A range of guidance materials are available 
+for developing accessible websites. Section 
+508 of the 1998 amendments to the U.S. Reha
+bilitation Act (29 U.S.C. 794d) governs the 
+accessibility of electronic and information technol
+ogy for people with disab
+ilities, and specifies Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 7the minimum standards for accessibility.
+4 Other standards include the ﬁweb accessibility initiativeﬂ of W3C, which provides guidance and 
+tools for a range of websites and applications. Even more significant, given the possibility 
+for rich dynamic interaction with these data 
+resources, is that W3C has also developed sta
+ndards for access to dynamic content, with specific 
+guidelines in four categories: 
+  accessible rich Internet applications
+Šaddress accessibility of dynamic web content, such 
+as those developed with Ajax, Dynami
+c HTML, or other such technologies;  authoring tool accessibility guidelines
+Šaddress the accessibility of the tools used to 
+create websites;  user agent accessibility guidelinesŠaddress assistive technology for web browsers and media players; and 
+ web content accessibility guidelinesŠaddress the information in a website, including 
+text, images, forms, and sounds.  
+ In addition to issues of the usability and na
+vigability of websites and web applications, 
+there are issues related to the use and navigation
+ of the datasets. Tabular data formats can be 
+difficult to understand for those who must use screen readers, and da
+ta that are not organized in a transparent or immediately unders
+tandable way may be of limited 
+or no utility for users with cognitive disabilities. Through this presentation and the panel™s subsequent discussion, it became clear that the 
+issue of the accessibility of tabular data and da
+ta visualization is a 
+research question. Although W3C has pioneered standards for accessibility of dynamic user interfaces, many other issues 
+including table navigation, navigation of large numeric datasets, and dynamic data visualization 
+raise computer-human interaction challenges th
+at have been explored only peripherally. The issue of accessibility is a clear opportunity for NSF to partner w
+ith scientists with disabilities and 
+those who work on interface design and so lead by example.  
+
+ RECOMMENDATION 4: The National Science Foundation should sponsor research 
+and development on accessible visualizatio
+n and other means for exploring tabular 
+data.  The panel recognizes that such a far-reachi
+ng initiative is almost certainly beyond the 
+capability and resources of NCSES, and so our
+ recommendation is to the National Science 
+Foundation. A program of research 
+and development might fit well 
+into the portfolio of other NSF units and could be considered for funding under such programs as the Broadening 
+Participation Research Initiation Grants in Engi
+neering Program. The importance of promoting 
+scientific visualization as an aid to usability and accessibility is a recognized component of 
+NSF™s cyberinfrastructure vision5 and is inherent in its human-centered computing cluster 
+initiatives. Although NSF is not in a position to pioneer tool development, identifying the 
+appropriate research areas is something that will have a major impact in the field. 
+NCSES could share the knowledge gained 
+through these research and development 
+activities with the broader community of practice 
+and so have a major impact on a wide range of 
+                                                          
+ 4A summary of Section 508 is available online at 
+http://www.section508.gov/index.cfm?fuseAction=stdsSum 
+[November 2010]. 
+5National Science Foundation, 
+Cyberinfrastructure Vision for 21st Century Discovery
+, March 2007, p. 28.   
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 8potential users of NCSES™s data (as well as other statistical datasets), thus making the data 
+available to potential users for whom they are now inaccessible.  
+As a final note, the panel wishes to comme
+nd NCSES for encouraging this review of its dissemination practices. This is a particularly opp
+ortune time for incorporating lessons learned in 
+several U.S. and international initiatives that ar
+e designed to increase the transparency, usability 
+and accessibility of government data. Implementi
+ng the recommendations in this interim report 
+will go a long way toward laying the basis for si
+gnificant improvements in the way center data 
+are disseminated.  
+
+ Sincerely yours, 
+Kevin Novak, Chair                                                                         Panel on Communicating NSF Science and 
+                                                                         Engineering Information to Data Users 
+  
+ 
+Attachments:  
+
+Appendix AŠPanel Members 
+Appendix BŠWorkshop Summary 
+
+Appendix CŠWorkshop Agenda 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 9TABLE 1  Summary of Selected Characteristics 
+of NSF Science and Engineering Surveys   Survey Current  
+Contractor Database Retrieval Tool/ 
+Publication Availability of Microdata Series Initiated/ArchivingEducation of Scientists and Engineers
+ Survey of Earned 
+Doctorates 
+ National Opinion 
+Research 
+
+Center (NORC) WebCASPAR; InfoBriefs; Science and Engineering 
+Degrees
+; Science and Engineering Indicators; Women, Minorities, and 
+
+Persons with Disabilities in Science and Engineering
+; Doctorate Recipients from 
+United States Universities: 
+Summary Report; Academic 
+Institutional Profiles Access to restricted 
+microdata can be 
+arranged through a 
+
+licensing agreement; a 
+secure data access 
+facility/data enclave 
+
+providing restricted 
+
+microdata access is 
+
+under development 
+with NORC 1957 (conducted 
+annually, limited 
+
+data available 
+1920Œ1956) 
+Survey of Graduate 
+
+Students and 
+Postdoctorates in 
+Science and 
+Engineering RTI International WebCASPAR; InfoBriefs; Graduate Students and 
+Postdoctorates in Science and 
+Engineering; Science and Engineering Indicators; Women, Minorities, and 
+
+Persons With Disabilities in 
+Science and Engineering
+; Academic Institutional Profiles 
+Data for the years 1972Œ2008 are 
+
+available in a public- 
+use file format 
+1975 (conducted 
+annually) 
+Science and Engineering Workforce
+ Survey of 
+Doctorate 
+Recipients  NORC SESTAT; InfoBriefs; 
+Characteristics of Doctoral Scientists and Engineers in the 
+United States; Science and Engineering Indicators; Women, Minorities, and 
+Persons With Disabilities in 
+Science and Engineering
+; Science and Engineering State 
+Profiles Access to restricted 
+data for researchers 
+
+interested in analyzing 
+
+microdata can be arranged through a 
+licensing agreement 
+1973 (conducted 
+biennially) 
+National Survey of 
+Recent College 
+Graduates  Mathematica 
+Policy Research, 
+
+Inc., and 
+Census 
+Bureau SESTAT; InfoBriefs; Characteristics of Recent 
+
+Science and Engineering 
+Graduates; Science and 
+Engineering Indicators; Women, Minorities, and 
+Persons With Disabilities in 
+Science and Engineering
+ Access to restricted 
+data for researchers 
+interested in analyzing 
+
+microdata can be 
+arranged through a 
+
+licensing agreement 
+1976 (conducted 
+biennially) 
+National Survey of 
+
+College Graduates 
+Census Bureau SESTAT; InfoBriefs; Science and Engineering Indicators
+; Women, Minorities, and 
+Persons With Disabilities in 
+
+Science and Engineering
+ Public use data files are available upon 
+request 1962 (conducted 
+biennially)  
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 10 Research and Development Funding and Expenditures
+ Business Research 
+and Development and Innovation 
+Survey (BRDIS)  
+Census Bureau IRIS; InfoBrief; Business and Industrial R&D
+; Science and Engineering Indicators; National Patterns of Research 
+and Development Resources; Science and Engineering State 
+Profiles Census Research Data Centers 1953 (conducted 
+annually) 
+Survey of Federal 
+
+Funds for Research 
+and Development Synectics for Management 
+Decisions, Inc. WebCASPAR; InfoBrief; Federal Funds for Research 
+and Development; Science and Engineering State Profiles
+; Science and Engineering 
+Indicators; National Patterns 
+of Research and Development Resources Data tables only 1952 (conducted 
+annually) 
+Survey of Federal 
+
+Science and Engineering Support to 
+
+Universities, 
+Colleges, and 
+Nonprofit Institutions Synectics for Management 
+Decisions, Inc. WebCASPAR; InfoBrief; Federal Science and Engineering Support to 
+Universities, Colleges, and 
+Nonprofit Institutions
+; Science and Engineering State Profiles
+; Science and Engineering 
+Indicators; National Patterns 
+of Research and Development Resources Data tables only 1965 (conducted 
+annually) 
+Survey of R&D 
+
+Expenditures at 
+Federally Funded 
+
+R&D Centers  
+ICF Macro WebCASPAR; InfoBrief; 
+R&D 
+Expenditures at Federally Funded R&D Centers
+; Academic Research and Development Expenditures
+; Science and Engineering 
+Indicators; National Patterns 
+of Research and Development Resources Data tables only 1965 (conducted 
+annually) 
+Survey of Research 
+
+and Development Expenditures at Universities and 
+
+Colleges ICF Macro WebCASPAR; InfoBrief; 
+Academic Research and Development Expenditures
+; Science and Engineering 
+Indicators; National Patterns 
+of Research and Development Resources; Science and 
+Engineering State Profiles; 
+Academic Institutional Profiles 
+Data tables (selected 
+items) only 
+1972 (conducted 
+annually, limited 
+data available for various years for 
+
+1954Œ1970) 
+Survey of State 
+Research and 
+Development 
+
+Expenditures 
+Census Bureau InfoBrief; State Government 
+R&D Expenditures
+; Science and Engineering Indicators
+ Data tables only 1964 (conducted 
+occasionally) 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 11 Science and Engineering Research Facilities
+ Survey of Science 
+and Engineering 
+Research Facilities RTI International WebCASPAR; Scientific and Engineering Research Facilities; Science and Engineering Indicators   Microdata from this 
+survey for the years 
+1988Œ2001 are not 
+available 
+ 1986 (conducted 
+biennially) 
+Other Surveys Survey of Public 
+Attitudes Toward 
+and Understanding 
+
+of Science and 
+Technology 
+NORC, via an S&T 
+module on 
+
+the General 
+Social Survey 
+Science and Engineering 
+Indicators Data tables only ICPSR, 1979Œ2001; 
+CD, 1979Œ2004; 
+
+(conducted 
+biennially) 
+    
+ Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 12Appendix A  
+ PANEL ON COMMUNICATING NATIONA
+L SCIENCE FOUNDATION SCIENCE 
+AND ENGINEERING INFORMATION TO DATA USERS 
+ Kevin Novak (Chair), Integrated Web Strategy and Technology, American Institute of 
+Architects, Washington, DC Micah Altman, Institute for Quantitative Social Science, Harvard University 
+Elana Broch, Office of Population Research, Princeton University John M. Carroll, College of Information Sciences
+ and Technology, Pennsylvania State University Patrick J. Clemins
+, R&D Budget Program, American Association for the Advancement of 
+Science, Washington, DC 
+Diane Fournier, Client Services Division, Statistics Canada, Ottawa Christiaan Laevert
+, Dissemination Unit, Eurostat, Luxembourg 
+Andrew Reamer
+, George Washington Institute of P
+ublic Policy, The George Washington 
+University, Washington, DC  
+ 
+Emily Ann Meyer, Co-Study Director Thomas Plewes
+, Co-Study Director Michael J. Siri, Program Associate  Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 13Appendix B Workshop Summary  
+ INTRODUCTION  The National Center for Science and Engineering Statistics (NCSES), formerly the 
+Division of Science Resources Statistics (SRS), of the National Science Foundation (NSF), in 
+seeking to fulfill its mandate for collecting a
+nd disseminating information about science and 
+engineering, conducts an ambitious program of data dissemination. The program includes a 
+
+variety of release formats, including numer
+ous hard-copy and electronic-only publications. The extensive NCSES website also houses the Integr
+ated Science and Engineering Resource Data System (WebCASPAR) and the Scientists and E
+ngineers Statistical Data System (SESTAT), 
+which are tools used to retrieve
+ data from NCSES databases. 
+These formats and tools serve a broad community of information users, with di
+ffering data needs, statistical knowledge, access 
+preferences, and tech
+nical abilities.  
+As part of a program of period
+ic review of all of its activi
+ties, NCSES requested that the 
+Committee on National Statistics of the National 
+Research Council appoint an expert group to 
+conduct a study of its dissemination program. As 
+part of its work, the Panel on Communicating National Science Foundation Science and Engineering Information to Data Users organized a 
+workshop, which was held in Washington, DC, on October 27Œ28, 2010. The purpose of the 
+
+workshop was to bring together NCSES leadership and staff, data users, and representatives of the data storage, retrieval, and dissemination co
+mmunity to gather information for several of the 
+panel™s study tasks:    document current (traditional) practices of
+ NCSES for communicating and disseminating 
+information in hard copy publication form
+at as well as on the Internet through the NCSES website, and the WebC
+ASPAR and SESTAT database retrieval systems;  
+ consider the needs of si
+gnificant data users;  
+ evaluate the website design from the perspec
+tive of usability, including consideration of navigation aids, user-centered design techniques, and interactivity;   consider the impact on the ability of
+ NCSES to improve communication and 
+dissemination, given NSF website po
+licy and governmentwide policies; 
+ evaluate the impact of current governmentwid
+e initiatives, such as data.gov, for retrieval 
+of government statistics; and  
+ consider new and emerging tools for retrieval 
+and display of information, including using 
+the semantic web for linking with other databases.  
+ The first section of this summ
+ary covers U.S. agency initiatives on data dissemination. 
+The second section looks at international initiat
+ives. The final section considers accessibility 
+issues. See Appendix B for the workshop agenda.  CURRENT STATUS OF THE 
+DISSEMINATION PROGRAM  With regard to the dissemination of its vari
+ed and important data, NCSES has been in a 
+change mode for some time. NCSES has taken st
+eps to move from, in the words of center 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 14director Lynda Carlson, ﬁspewing out reams of
+ data tables to providing our customers 
+information.ﬂ For example, few of the data series
+ and analytical products are currently released as printed matter, in sharp contrast to a d
+ecade ago, when paper was the primary mode of 
+dissemination.  
+Although progress has been made, the leadership
+ of NCSES is concerned that much more 
+needs to be done to improve the dissemination 
+of data, and for this reason, Carlson stated, NCSES requested this panel™s study to carefully review NCSES™s approach to communicating and disseminating statistical information in the 
+context of current ﬁbest practicesﬂ and new and 
+emerging technologies. This review 
+was asked to consider the needs of different types of users in NCSES™s user community, current federal and N
+SF website guidance and policies, existing staff and contract resources, and broader governmentwi
+de activities and initiatives. In her introductory remarks to the workshop, Carlson requested th
+at the panel consider what NCSES might do 
+differently in terms of publication types, online 
+report formats, data access (online data tools and 
+data files), documentation of survey methods
+, data quality, accessibility, and outreach and notifications. 
+This is a tall order, particularly when considering the wide-ranging mandate of this rather 
+small statistical agency. NCSES™s permanent sta
+ff of about 45 employees and its contractors 
+have responsibility to collect data and maintain databases on research and development (R&D), 
+science and engineering (S&E) education, the S&
+E workforce, and related areas; designing and conducting major surveys (current
+ly, 11 of them, several dating 
+back to the early 1950s); collecting and analyzing science and technology-relevant data from other agencies and 
+organizations (both domestic and international); providing a global context for U.S. data; enabling comparisons and benchmarking throug
+h collaboration with the Organisation for Economic Co-operation and Development (OECD)
+ and other international and national statistical agencies; producing the biennial 
+Science and Engineering Indicators products (under the guidance of the National Science Board) and congressionally mandated reports (such as 
+Women, Minorities, and Persons with Disabilities in Science and Engineering); and, finally, conducting a program of dissemination of data and 
+analyses to a wide range of data users. Much of the internal responsibility for the dissemination program of NCSES falls to John 
+Gawalt, deputy director and acting program director of its In
+formation and Technology Service 
+Program. In his presentation to the workshop, Ga
+walt summarized the current status of the 
+dissemination program and discussed NCSES™s va
+rious products and publications. Two of the products appear in both print and electronic formats: InfoBrief
+, which is published when needed to highlight results from recent surveys and analys
+es, and special analytical reports, such as the 
+reports on women, minorities and persons with di
+sabilities in science and engineering and Science and Engineering Indicators. Other products are in electronic form only. They include a series of extensive tables and technical material
+ for each of the 11 periodic surveys, as well as 
+special reports (
+National Patterns of R&D Resources, Academic Institutional Profiles
+, and S&E State Profiles), working papers, and methodology reports. 
+Several other specialized products, such as brief summaries (Infocards
+) and CDs, are also prepared. Underlying all the reports and publications is a data repository, maintained by NCSES, 
+which houses the results of the contractor-collected survey and administrative data and several 
+online databases, which are available to both NCSES staff and the public. There are four major 
+databases, three of which have existed for some time: 
+ Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 15Scientists and Engineers Statistical Data System (SESTAT) 
+This database tool captures information about employment, educa
+tional, and demographic characteristics of 
+scientists and engineers in the United States. Th
+e data are collected from three national surveys 
+of this population: the National Survey of Colle
+ge Graduates (NSCG), the National Survey of Recent College Graduates (NSRCG), and the Survey
+ of Doctorate Recipients (SDR). The data 
+can be downloaded from the web or through the 
+SESTAT Data Tool, which allows users to 
+generate custom data tables. 
+ Integrated Science and Engineering 
+Resources Data System (WebCASPAR) 
+This database system contains information about acad
+emic S&E resources and is newly available on 
+the web. Included in the database is information 
+from several of NCSES™s academic surveys, as 
+well as information from a variety of other sour
+ces, including the Nationa
+l Center for Education Statistics. The system is designed to retrieve 
+multiyear information about individual fields of 
+S&E at individual academic institutions. The system
+ provides a user with opportunities to select 
+variables of interest and to specify whether and how informati
+on should be aggregated. Output can be requested in hard-copy form or in Lotus,
+ Excel, or SAS (Statistical Analysis System) 
+formats for additional manipulation by the researcher. 
+ Industrial Research and Development Information System (IRIS) This system links 
+an online interface to a historical database with 
+more than 2,500 statistical tables containing all 
+industrial R&D data published by NSF from 1953 
+through 1998. These tables are drawn from the 
+results of NSF™s annual Survey of Industrial Research and Development, the primary source for 
+national-level data on U.S. industrial R&D. IRIS resembles a databank more than a traditional 
+database system: rather than firm-specific microda
+ta, it is the most comprehensive collection of 
+historical national industrial R&D statistics currently available. The tables in the database are in Excel spreadsheet format, which are accessible either by defining various measures (e.g., total 
+R&D) and dimensions (e.g., size of company) of
+ specific research topics or by querying the report in which the tables were first published.  The most recent addition to NCSES™s dissem
+ination offerings are public-use files and 
+restricted (licensed) data-sets: 
+ 
+Public-Use Microdata Files 
+NCSES takes pains to protect the data that are provided by 
+individuals from disclosure. Thus, NCSES develops
+ microdata files for release to the public in a 
+format that will not permit iden
+tification of respondents. In some cases, respondents can be 
+protected by ensuring that the files contain records from which identifying information (such as 
+name and address) has been deleted from the reco
+rds. In most cases, however, it is necessary to 
+suppress selected fields or recode variables in order to provide researchers with as much 
+microdata as feasible. 
+ Licensed Datasets In some cases, the protection of 
+respondent confidentiality would require such extensive recoding that the resulting file would have little, if any, research utility. In these cases, NCSES does not issue a public-use 
+file. Instead, NCSES has developed a licensing 
+procedure that permits a researcher to use the da
+ta files at NSF™s offices in Arlington, Virginia, or at the researcher™s 
+academic institution under carefully co
+ntrolled circumstances (for details, 
+see http://www.nsf.gov/statistics
+/database.cfm [December 2010]). 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 16  REQUIREMENTS OF DATA USERS 
+ At the workshop, the panel heard from key data users from the federal government, the 
+agencies that support federal government S&E an
+alysis, academia, and the private sector. These 
+presenters were asked to address, from their 
+perspective, the current practices of NSF for 
+communicating and disseminating information in ha
+rd-copy publication format as well as on the 
+Internet through the NCSES website, and the WebCASPAR and SESTAT database retrieval 
+systems. The panel had asked these data us
+ers to comment on the means used to obtain 
+information on NSF S&E expenditure and human re
+source data; the comprehensiveness, quality, 
+timeliness, or other aspects of the NSF publicatio
+ns and data release program; use of the website; 
+use of the WebCASPAR and SESTAT databases; and the content, presentation, accessibility, and tools available for these databases.   Office of Science and Technology Policy   Representing the Office of Science and Technology Policy (OSTP), Kei Koizumi 
+summarized the extensive use of NSF S&E informa
+tion by this agency of the Executive Office of the President. He typically accesses the NC
+SES data primarily through the NCSES website, 
+through the detailed statistical tables for individual surveys. He commented that the 
+InfoBrief
+ series is useful in that it informs hi
+m about which data are new. He reads each 
+InfoBrief
+ and explores some of the data further. For data ou
+tside his core area (R&D expenditures data), he often looks for the data in S&E Indicators, and, if needed, he goes to 
+the most current data on the NSF NCSES website. He uses WebCASPAR to acce
+ss historical data and long time series.  
+His overall comments focused attention on the 
+timeliness of the data, suggesting that, to 
+users, the data are never timely enough although 
+some of the lags are understandable. He 
+remains optimistic that next year the data will 
+be available earlier. He
+ expressed concerns over the quality of the data, and the methodology empl
+oyed in the federal funds survey, which were 
+summarized in a recent Nationa
+l Research Council report.6  Science and Technology Policy Institute   The Science and Technology Policy Institute (STPI) was created by Congress in 1991 to 
+provide rigorous objective advice and analysis to OSTP and other executive branch agencies, 
+offices, and councils. Bhavya Lal and Asha Balakrishnan reported on the activities and interests of STPI, which can be considered a very sophisticated user of NSF S&E information. STPI 
+supports sponsors in three broad areas: strategic planning; portfolio, program, and technology 
+evaluation; and policy analysis and assessment. 
+In their presentation, Lal and Balakrishnan reported on several specific examples of the 
+attempts by STPI to use NSF S&E information. In 
+one task, investigators sought to determine the 
+amount of research funded by government and indus
+try for specific subfields of interest (i.e.,                                                           
+ 6National Research Council. (2009)
+. Federal Spending Data for Research and Development: A Pathway to 
+Modernization
+, Panel on Modernizing the Infrastructure of the National Science Foundation Federal Funds Survey,
+ Committee on National Statistics, Division of Behavioral and Social Sciences and Education.  Washington, DC:  
+The National Academies Press. 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 17networking and information technology). They were 
+able to obtain percentage basic research of R&D ﬁby sourceﬂ and ﬁby performerﬂ for gove
+rnment and industry, but not broken out by 
+specific fields and sectors of interest as broad as networking and information technology. They 
+were able to get data on industry R&D by fields (i.e., North Am
+erican Industry Classification System [NAICS] codes), but wit
+hout the breakdown of basic research, applied research, and development funding. Based on this experience,
+ the investigators recommended that NSF provide access to the data in a raw format. 
+ Their overall view was that access to NSF-NC
+SES data tables and briefs is extremely 
+helpful in STPI™s support of OSTP and executive 
+agencies. However, access to the data in a raw formatŠincluding datasets underlying special tabul
+ations related to publications, patents, and other complex dataŠwould better enable assess
+ment of emerging fields. Similarly, they would 
+like access to more notes on
+ conversions, particularly to international data, to understand underlying assumptions: for example, China™s 
+S&E doctoral degrees. For their work, they requested more detail on R&D funding/R&D oblig
+ations by field of science and by agency, although, for their needs, that data need not be publicly available.  Academic Uses  Paula Stephan of Georgia State University, who classifies herself as
+ a ﬁchronicﬂ user of NSF S&E information, summarized her uses of th
+e data. She has a license with NSF (see above), and about 40 to 50 times a year, she uses restri
+cted files pertaining to SDR, SED and SESTAT. She also uses InfoBriefs and the Science and Engineering Indicators appendix tables, and she accesses data through WebCASPAR. Graduate students use WebCASPAR to build tables and such create variables as stocks of R&D, stocks of graduate students, and stocks of postdoctorates by university and field. She reported that We
+bCASPAR can be difficult for new users to navigate, but they have to use WebCASPAR becau
+se the NCSES web page does not always have 
+the most up-to-date links to data. For exampl
+e, the number of doctorates for 2007 and 2008 is 
+available only from WebCASPAR. 
+She commented that the S&E indicators appe
+ndix tables are easy to use and that the tables are very well named so it is easy to find da
+ta. The ability to export the data to Excel allows one to easily analyze data. 
+Stephan noted that she does not use table tools, but her colleague, Henry Sauermann, did 
+so for a study, and he reported that table tools provided him exac
+tly what he needed (starting salaries for industry life scientists). She pointed out that the NSF staff have been very responsive 
+to user needs. For example, in 2002 users recommended that NCSES collect information on 
+starting salaries of new Ph.D.s in the SED, and, beginning in 2007, the question was on the SED. She suggested a need for more user support. There were data workshops for 3 years that 
+brought together users and potential users of licensed data. This same approach could be useful 
+for acclimating users to web-based data. It w
+ould be a good way to find out how people use the data and to find out difficulties with or questions that people have about the data.  Like other users, Stephan commented that a ma
+jor problem of the data is timeliness. The 
+lack of timeliness affects the ability of researchers 
+to assess current issues, 
+such as the effect of the 2008Œ2010 recessions on salaries, availability of 
+positions, the length of time individuals stay 
+in postdoctoral status, and the mobility of S&E pe
+rsonnel. As an example of the lag, she pointed 
+out that the 2008 SDR will be publi
+cly released in November 2010, but the restricted data will 
+not be released for licensed use until sometime in 2011. The data
+ were collected in October Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 182008. Owing to this lag, the data will provide li
+ttle useful information about how the recession 
+affected careers: analysts will have to wait unt
+il fall 2012 to get the 2010 data and will have to 
+wait until sometime in 2013 to 
+get the restricted data.  Similarly, the earliest SED data collected 
+during the recessionŠfor July 1, 2008ŒJune 30, 2009Šwere not scheduled to be released until N
+ovember 2010 (note: th
+e data release was subsequently delayed to allow for correction of da
+ta quality issues in race 
+and ethnic data). So it 
+is ﬁearlyﬂ recession data, though it wi
+ll be analytically important because it will be the third year 
+for which salary data have been collected in SED: when these SED salary data are available, 
+analysts will be able to learn a good deal compar
+ing the data with earlier years. However, such analyses will have to wait until November 2011 when the 2010 SED (July 1, 2009ŒJune 30, 
+2010) data are released (and assuming that
+ salary data are made available). 
+Stephan pointed out the timeliness is not
+ a new issue. She quoted a 2000 National Research Council report: ﬁSRS must substantially reduce the 
+period of time between the 
+reference date and data release date for each 
+of its surveys to improve the relevance and 
+usefulness of its data.ﬂ7  Private Sector Users  Jeffrey Alexander, a senior science and technology policy analyst with SRI International, 
+is a frequent user of NSF S&E information and 
+a contractor to NSF. In his presentation, he summarized his previous private-sector uses of the information, 
+mainly focused on uses of the 
+data for analysis of technology applications at the state level.  He accessed data from the website and thr
+ough use of WebCASPAR. He stated a major 
+caution about the comparability of data sources
+ and noted that good metadata (data about the 
+data) are not generally available for NCSES data. In particular, he 
+said there is a need for more 
+geographic metadata so one can be
+ confident in matching NSF data 
+with data from the Bureau of 
+Labor Statistics and other sources. Like other users, he expressed a concern over the timeliness 
+of the data and said that timeliness is a 
+key factor in the relevance of the data.  With regard to access, Alexander said he often needs trend data, so he most generally 
+goes to the tables on the web page to extract specific data items. 
+He finds that he has problems in 
+downloading multiple files, and he finds that 
+the WebCASPAR and SESTAT
+ tools are not very 
+user friendly. A useful enhancement would be to 
+enable searches for variables across the various 
+surveys. He does not use the printed publications, although he finds that the InfoBriefs
+ are very useful in announcing and highlighting new products.  Alexander suggested that the NCSES needs to become a center of information for the 
+user community, and it should devote more atten
+tion to reaching out to larger users with 
+information about how to access data as we
+ll as to seek input for improvements.  
+ FEDERAL DISSEMINATION INITIATIVES 
+ Over the years, several significant programs have been initiated to increase the 
+availability of federal government information in
+ electronic format. For th
+e NCSES, as part of                                                           
+ 7Recommendation 5 in National Research Council. (2000). 
+Measuring the Science and Engineering Enterprise: 
+Priorities for the Division of Science Resource Studies. 
+Committee to Assess the Portfolio of the Division of Science 
+Resources Studies of NSF, Office of Scientific and Engineering Personnel and Committee on National Statistics. 
+Washington, DC: National Academy Press. 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 19the statistical community, the FedStats gatewa
+y (www.fedstats.gov) has, for several years, 
+incorporated pointers to the S&E data in both the list of topics (education, R&D, and workforce) and the agency listings portion of the FedStats home page. The pointers in FedStats guide the 
+user to the NCSES home page at 
+which the subject matter appears. 
+ Data.gov  NCSES was an early member of the federa
+l government™s open government initiative, 
+Data.gov, when it was initiated in May 2009. Workshop presenter Alan Vander Mallie
+, the program manager in the General Services Admini
+stration, stated that Data.gov aims to promote 
+accountability and provide information for citizens
+ on what their government is doing with tools 
+to enable collaboration across and all levels of government. It is a one-stop website for free 
+access to data produced or held by the federal 
+government, designed to make it easy to find, 
+download, and use the data, including databases, data feeds, graphics, and other data visualizations. 
+Vander Mallie reported that, at its inception in 2009, Data.gov consisted of 47 raw datasets and 27 tools to assist in accessing the data in some of the complex data stores. Currently 
+(at the time of the workshop), the program supp
+orts 2,895 raw datasets and 638 tools, which are accessed through raw data and tool catalogues. Raw da
+ta are defined as machine-readable data at 
+the lowest level of aggregation in structured da
+tasets with multiple purposes. The raw data-sets 
+are designed to be ﬁmashed up,ﬂ that is, linked an
+d otherwise put in specific contexts using web programming techniques
+ and technologies.  In the future, Vander Mallie said, Data.gov is slated to continue to expand its coverage of datasets and tools and to continue to suppor
+t communities of interest by building community 
+pages that collect related datasets
+ and other information to help 
+users find data on a single topic in one location. One objective is to make data
+ available through the application programming 
+interface (API), permitting the public and developers
+ to directly source their data from Data.gov. 
+Expansion into the Semantic Web (sometimes called 
+Web 3.0) is also part of the future plan for 
+Data.gov. The objective is to enable the public and developers to create a new generation of ﬁlinked dataﬂ mashups. Working toward this 
+goal, Data.gov has an indexed set of resource enscription framework documents that are availa
+ble and is working with the World Wide Web 
+Consortium (W3C) to promote in
+ternational standards for persistent government data (and 
+metadata) on the web. Plans are also in plac
+e for expanding mobile applications, improved 
+ﬁmeta-taggingﬂ (to facilitate impl
+ementation of standards to desc
+ribe the data), and enhancing data visualization across agencies. In short, the idea is to give ag
+encies a powerful new tool for disseminating their data and a one-stop 
+locale for the public to access the data. Suzanne Acar, senior information architect fo
+r the U.S. Department of the Interior and 
+co-chair of the Federal Data Architecture Subcommittee of the Chief Information Officer 
+Council (see www.cio.gov), put the current and fu
+ture Data.gov into context by discussing an agency perspective on the lessons learned from 
+this program to improve access to the federal 
+government™s data. She discussed the evolution 
+of Enterprise Data/Information Management 
+(EIM)Ša framework of functions that can be tailore
+d to fit the strategic in
+formation goals of any 
+organization. For agencies, like NSF, to benefit from the capabilities of Web 2.0 and Web 3.0, it 
+is important to ensure consistent
+ quality of information and official designations of authoritative data sources.   Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 20Statistical Community of Practice and Engagement  
+ The federal statistical agencies, as a group, have begun to organize to enhance dissemination of their data in a project calle
+d the Statistical Community of Practice and 
+Engagement (SCOPE). As described by Ron Bian
+chi of the Economic Res
+earch Service of the U.S. Department of Agriculture, who head
+s the planning committee, SCOPE represents a recognition on the part of the leadership of statistical agencies that there are efficiencies for both the agencies and users from more cross agency
+ collaboration, harmonization of definitions and 
+terminology, identification of best practices, a
+nd sharing of the development of common tools 
+that support best practices.  SCOPE envisions that the dissemination platfo
+rm for federal statistical data will be a 
+modernized FEDSTATSŠwhich has name recogniti
+on but is technologically outdated. It will use the Data.gov statistical community as SCOPE™s public interface and dissemination platform, 
+
+store datasets on the Data.gov dataset hosting platform that is
+ currently being developed, and harness Data.gov cloud computing power.  
+In recognition of the fact that statistical data collected by federal statistical agencies often 
+raise issues of complexity as well as of confid
+entiality and privacy, Bian
+chi said that SCOPE will 
+aim to develop user-friendly data delivery a
+nd data display tools to address 508 compliant alternatives to tabular displays, 
+develop displays of complex samp
+le survey data while protecting confidential micro-data, and develop visualiza
+tion tools for multifaceted statistical designs. 
+The statistical agencies that are part 
+of SCOPE, which will include NCSES, will 
+participate in promoting data harmonizati
+on and integration through the development of 
+metadata and data exchange. Specifically, the 
+project will take the fundamental steps of 
+developing and implementing Stats 
+Metadata 1.0 (for delivery in fiscal 2012) and establishing common definitions to facilitate data exchange and interoperability (by fiscal 2013). The goal is 
+to promote development and use of common platfo
+rms for data collection and data analysis and 
+to suggest research on solutions to the ﬁdata mosaicﬂ probl
+em in the current technology environment. 
+ American FactFinder 
+ NCSES™s three major dissemination tool
+sŠSESTAT, WebCASPAR, and IRISŠhave 
+been in place without major modification for 
+some time, and some workshop participants 
+commented that it needs a retooling. In thinking about an approach to retooling, one approach would be to consider what other government agencies have done or are doing to improve their 
+dissemination tools. One such 
+tool is the Census Bureau™s primary web-based data dissemination 
+vehicle, the American FactFinder.
+ This tool enables the retrieva
+l of data from the decennial 
+census, the economic census, the American Co
+mmunity Survey, annual economic surveys, and 
+the Population Estimates ProgramŠa
+ll very large databasesŠin tabular, map, or chart-form data 
+products, as well as an online access to
+ archived data (through download). 
+Jeffrey Sisson, the American FactFinder program
+ manager, reported that the system is 
+now in the process of being redesigned with many
+ goals: increase the eff
+ectiveness of user data access; guide users to their data without forci
+ng them to become experts; improve turnaround 
+time; increase the efficiency and flexibility of
+ dissemination operations; address growing usage 
+and data volume needs; and 
+provide a platform that evol
+ves over time, avoiding technology 
+obsolescence. The overall goal of the redesign is to make informa
+tion easier to find, update the Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 21look and feel of the site, increase its functionality; implement topic- and geography-based search 
+and navigation; standardize functionality and look across all data 
+products and surveys; implement new and improved table manipulatio
+ns; and implement charting functionality.  
+Sisson said that the plan for the redesign was based on stakeholder and user feedback, usability studies, and a usability audit. Based on 
+the usability studies, the Census Bureau selected 
+the following areas for improvement: usability 
+and customer satisfaction; visual elements; 
+conventional layout; consistent structure; and layering of information. This information is 
+presented in Table B-1.  Sisson reported that the new American Fact
+Finder system is scheduled to launch in 
+January 2011. In the meantime, the Census Bur
+eau has provided email updates on the status of 
+the project, developed a virtual tour of the new system, and, on a 
+flow basis, will be issuing tutorials on the new system.  DataWeb  In his introduction to the discussion of the Census Bureau™s DataWeb network, Cavan 
+Capps, the chief of DataWeb applications, described the major tasks facing statistical agencies: 
+how to present the right data with the right context to meet us
+ers™ needs through effective data integration; how to ensure that the most recent 
+and most correct data ar
+e displayed; and how to facilitate the efficient reuse of data for different purposes. In his presentation, he stated that the DataWeb network was one of three parts to the Ce
+nsus Bureau™s approach to these challenges The other two are HotReports
+ and DataFerrett. 
+The DataWeb project was star
+ted in 1995 to develop an open source framework that 
+networks distributed statistical databases together into a seamless unified virtual data warehouse. 
+It was originally funded by the U.S. Census Bureau, with participation at various times by the 
+Bureau of Labor Statistics, the Centers for Disease Control and Prevention, Harvard University, and nonprofits institutions. The software provides an open source, service-oriented architecture that pulls data from different database stru
+ctures and vendors and normalizes them into a 
+standard stream of data. The normalized st
+ream is intelligent 
+and supports standard transformations, can geographically map itself corre
+ctly using the correct 
+vintage of political geography, understands standard code sets so that data can be combined in statistically 
+appropriate ways, understands how to weight survey data appropriately, and understands variance and other statistical behaviors.
+  Capps described DataWeb as having the capacity for handling different kinds of data in the same environment or framework. It is em
+powered by statistical intelligence: documentation, 
+statistical usage rules, and data integration rules.
+ Its features include st
+oring the data one time, 
+but using it many times. DataFerrett and 
+HotReports both use the DataWeb framework. 
+HotReports are much like the NCSES 
+InfoBriefs
+. They are targeted to local decision 
+makers with limited time and statistical back
+ground. Designed to bring together relevant variables for local areas, they are topically oriented and updated when needed. They have been developed to be quick to build using a drag and drop layout. DataFerrett is a data web browser that is targeted at sophisticated data users and integrates multiple datasets. It speeds analytical tasks by allowing data manipulation and 
+incorporating advanced tabulation and descriptive statistics. It
+s mapping and business graphics 
+use statistical rules. It has the capability of a
+dding regressions and other advanced statistics. 
+ Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 22Summary of Data Dissemination Practices 
+ Panel member Micah Altman began his summar
+y by noting that this is an exciting, fast-changing time for electronic data dissemination in 
+the public sector. He summarized the state of 
+current practice in terms of publicly availabl
+e systems for online numeric data sharing, 
+publishing, and visualization. The systems can be fu
+rther classified as open and closed source (summarized in Table B-2).  
+ DataVerse Network
+ is an open-source and standards-based virtual data archive tool. It 
+handles moderately sized data and supports long 
+term access and preservation and supports Data 
+Documentation Initiative (DDI) metadata. It is
+ a leading example of standard-based open systems. 
+ ProtoViz is a toolkit for dynamic visualization of
+ complex data. This open source tool is 
+in JavaScript and handles small-sized databases.
+ It supports a partial grammar of graphics in 
+high-level abstractions. It is a leading example of dynamic data visualization. 
+ Factual is a data manipulation tool used in the 
+commercial sector. It is closed source and handles moderately sized databases. It extensiv
+ely supports collaborative data manipulation in 
+such functions as data linking, aggregation and filtering, and it has extensive mashup support, 
+with Google RESTful and Java JSON API™s for extraction and interrogation of datasets. It also integrates with Google charts and maps. It is 
+a very interesting example of collaborative data 
+editing.   Tableau is an extraction tool that produces linked dynamic tables and graphics using raw 
+data as the input. It handles moderately sized 
+data, and it supports downloads in CSV and PDF formats, as well as HTML tables. 
+ Google has a number of offerings, including 
+Google Sheets
+, which is an Excel-type tool that has APIs for integration and handles small datasets; 
+Fusion Tables, which focuses on data sharing, linking, and merging; and 
+Google Public Data Explorer, which searches across data elements and has some visualization capability. 
+
+ Altman observed that dissemination is a dyna
+mic field in the private sector, and that 
+many of the start-up dissemination and data-shari
+ng services have closed. In view of this uncertainty, he said users would 
+be well advised to mitigate risk 
+of adopting any of these systems 
+by using open source software when possible, to retain preservation copies of files in other institutions, to limit use to dissemination only (not
+ for managing data), and to leverage metadata 
+and APIs to create one data source that is
+ then disseminated through multiple sources. 
+Altman identified research challenges and gaps
+ between the state of 
+the art and the state of the practice. Research challenges in this ar
+ea include petascale online analysis, interactive 
+statistical disclosure limitation, business models for long-term 
+preservation, and data analysis tools for the visually impaired. Closable gaps
+ include managing nontabular complex data and 
+metadata-driven harmonization and li
+nkage across data resources.   Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 23INTERNATIONAL INITIATIVES 
+ The computer revolution and the developmen
+t of the web have generated a large number of initiatives to improve statistical data dissemination not only in the United States, but also 
+
+internationally. The workshop included presentations from panel members Christiaan Laevaert 
+and Diane Fournier on the dissemination initia
+tives of their institutions, the European 
+Community and Statistics Canada.  EUROSTAT: Focus on Data Usability  The Statistical Office of the European Union (EUROSTAT) compiles statistical data that 
+are, for the most part, collected by member st
+ates. Christiaan Laevaert said that EUROSTAT 
+adds value by providing statistics at the European level that enable comparisons between 
+countries and regions and by disseminating these data, free of char
+ge, in consolidated format 
+through publications and online databases. Disseminating this information is a large undertaking. 
+In January 2010, for example, the EUROSTAT 
+website had 2.8 million visitors and 3 million 
+page views. There were 400,000 dataset extractions, 400,000 table consultations, and more than 
+400,000 publication downloads in PDF format. The site
+ is among the top five visited websites of the European Commission. 
+In the past, hard-copy publications constitute
+d a very large, cumbersome workload for 
+EUROSTAT in a process that has meant that da
+ta at the moment of publishing are already 6Œ9 
+months older than what can be found on the website. The agency has published annually 5Œ15 printed statistical books, 15 pocket books, and 120 ﬁstatistics in focusﬂ and various methodological publications. Large amounts of conten
+t have been created and are disseminated 
+in paper and PDF format. Similar content is of
+ten created repetitively 
+in different forms for 
+different purposes. In order to improve the s
+ituation, Laevaert said, the Eurostat Board of Directors asked to examine the possibilities to 
+disseminate the content 
+of publications more 
+effectively. The subsequent discussions led to the creation of a wiki-type system for the 
+dissemination of statistical articles and related 
+textual content. This new system does not only 
+change the manner of dissemination, but also th
+e way of collaboration in the preparation of publications. The wiki approach was selected because EUROSTAT databases have a wide variety of users: one group is a particular challenge to serveŠthe nonexpert data user. The agency has taken on the task of making the data more useful
+ to this group by developing a dissemination aid 
+called Statistics Explained. Information in Statis
+tics Explained is disseminated using a wiki 
+technology with electronic publication. The wiki explains what the statistics really mean, what is 
+behind the figures, and how they can be of use, in an easily understandable language. Numerous 
+hyperlinks allow for easy navigation. More than 250 articles are contained in this system, with some 800 glossary items, and 
+the wiki-type website assures a high ranking in search engines. In September 2010, 60,000 
+unique visitors per month were counted. EUROST
+AT has realized a synergy between its main 
+website and Statistics Explained by mutual deep links that assure visitors a coherent navigation between the two websites.  
+Laevaert said that this dissemination st
+rategy has changed the way EUROSTAT does business. It has introduced a new production process for publications and a paradigm shift in the 
+way users are servedŠby focusing first on Statistics Explained first and later on publication. Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 24However, unlike Wikipedia, information can 
+only be updated by EUROSTAT staff, thus ensuring the authenticity and reliability of the content, so updating the system involves a large 
+part of the staff: more than 200 of the 800-plus
+ EUROSTAT staff contribute to content updates. 
+While Statistics Explained is addressed to nonexpert users, the retrieval system of 
+EUROSTAT focuses on all types of users, including more sophisticat
+ed ones. It allows users to 
+reuse data with tools they prefer. Thus, user
+s are provided with various data formats and 
+visualization tools, including xls, html, txt, xm
+l, spss, and pc-axis. Each of the more than 5,000 
+datasets disseminated on the website are also 
+available in several raw formats in the bulk 
+download facilityŠtsv, sdmx-ml, and dft. A table 
+of contents file in XML format facilitates 
+machine-to-machine interactions. 
+Laevaert noted that EUROSTAT is also rethi
+nking its approach to visualization tools, adapting procedures to take advantage of cloud computing and being able to supply data in 
+formats required by emerging tool
+s. Working with Google, the data featured on Google™s Public Data Explorer are being integrated into Google search with Onebox. The Google search 
+integration makes datasets searchable in 34 lang
+uages and assures the highest ranking in search results. Currently, four EUROST
+AT datasets have been integrated, which has significantly improved the overall visibi
+lity of its data.   Statistics Canada User Outreach 
+ Although Statistics Canada uses many of the same dissemina
+tion practices and tools as are used by NCSES and other U.S. statistical agencies, Diane F
+ournier said it has contributed significantly to the enhancement of the dissemina
+tion experience by its sharp focus on data users and usability. The program of usability assessment includes a website evaluation survey and 
+
+ongoing consultations with users through focus group discussions and usability testing in a lab environment. The agency has recently been 
+a partner in testing new governmentwide design 
+standards. The lessons learned as a result of these activities 
+have resulted in a home page 
+redesign, search improvements, and the developmen
+t of a ﬁstatistics by va
+riableﬂ tool to permit 
+direct retrieval of certain variables (not yet available).  Website evaluation studies were conducted from 1997 until 2007, usually on an annual 
+basis. In 2010, an online questionnaire that reach
+ed all website visitors was live for 15 days and, 
+with almost 10,000 respondents, th
+e response rate (responses as a percent of visitors) was 3 percent. The representation of the online respondents was similar to
+ that of earlier surveys: 27 percent were students; 21 percent were from 
+the government and public sector; and 20 percent 
+represented the business and private sector. About 15 percent of users accessed the Internet through mobile devices, but more traditional com
+puters were used more often: desktops PC by 
+72 percent and laptops or notebooks by 61 percent. In an interesting comparison, in a visitor pattern analysis during a 6-month period from
+ April to September 2009, 0.4 percent of all website visitors used mobile devices.  
+The 2010 survey focused on the subject of task completion. Some 65 percent of 
+respondents accomplished what they set out to 
+accomplish, and, not surprisingly, satisfaction 
+also registered at 65 percent. When asked for th
+ree priority suggestions for improvement of the 
+website experience, the top suggestions were to
+ ﬁmake it easier to access
+ to data/information,ﬂ 
+ﬁimprove the search engine/search results,ﬂ ﬁo
+ffer additional free data/information,ﬂ ﬁsimplify 
+the site layout/design,ﬂ and ﬁuse clearer/plain language.ﬂ Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 25Usability testing is also used by Statis
+tics Canada, Fournier reported. It involves observing ﬁreal usersﬂ complete specific tasks to see if the experience meets user needs, 
+functions as expected, and is intuitive for its intended audience.  
+As a result of these user outreach initiatives
+, Statistics Canada has taken steps to provide better access to the latest content and paid more attention to
+ serving dissemination through 
+mobile devices. In addition, the agency is continuing to improve s
+earch technology and has begun to archive content. Fournier said that Statistics Canada sees real benefit in continued consultations with users, continued collaborative efforts with national and international agencies 
+and departments, and continued participation in Canada™s governmentwide design standards that 
+focus on brand recognition.  ACCESSIBILITY ISSUES 
+ In order for NCSES science and engineering information to be used, it must be accessible 
+to users. By nearly eliminating the hard-copy pu
+blication of the data in favor of electronic dissemination, mainly through the web, NCSES is committed to the provision of web-based data 
+
+in an accessible format, not only for trained soph
+isticated users, but also for users who are less confident of their ability to access data on the Internet. Im
+portantly, the user population also 
+includes people who are disabled and for whom, by law and right, special accommodations need 
+to be made. 
+The panel benefitted from a presentation by Judy Brewer, who directs the Web 
+Accessibility Initiative (WAI) at W3C. W3C hosts
+ the WAI to develop standards, guidelines, and 
+resources to make the web accessible for people w
+ith disabilities; ensure accessibility of W3C 
+technologies (20Œ30 per year); and develop educational resources to support web accessibility.  As a federal government agency, NSF is governed by the so-called Section 508 
+regulations. These amendments to 
+the Rehabilitation Act require federal agencies to make their 
+electronic and information technology accessible 
+to people with disabilities. Section 508 was 
+enacted to eliminate barriers in information 
+technology, to make available new opportunities for people with disabilities, and to encourage development of technol
+ogies that will help achieve those goals. The U.S. Access Board has respons
+ibility for the Section 508 standards and has announced its intention to harmonize the web porti
+ons of its Section 508 regulations with Web 
+Content Accessibility Guidelines (WCAG) 2.0, fo
+r which WAI has responsibility. Brewer also quoted Statistical Policy Directive Number 4 (Mar
+ch 2008), which directs statistical agencies to make information available to all in 
+forms that are readily accessible.  
+Brewer stated that Web 2.0 adds new opportunitie
+s for persons with disabilities, and that data visualization is a key to effective communication. However,
+ people with disabilities face a 
+number of barriers to web accessi
+bility, including missing altern
+ative text for images, missing 
+captions for audio, forms that ﬁtime outﬂ before 
+you can submit them, images that flash and may 
+cause seizures, text that moves or refreshes before you can interact with it, and websites that do not work with assistive technologies that many people with disabilities rely on.  
+In response to a question, Brewer addressed the continued problem of making tabular 
+information accessible, and she requested input 
+on where the WAI should go in this area. She 
+referred to a National Institute of Standa
+rds and Technology workshop on complex tabular 
+information that resulted in several recommendations.  
+Brewer argued for publishing existing science and engineering data in compliance with 
+Section 508 requirements, while continuing 
+research and development on accessibility 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 26techniques for new technologies, improved accessibi
+lity supports for cognitive disabilities, and 
+more affordable assistive technologies.  She said 
+WAI would partner with ag
+encies to ensure that 
+dissemination tools are accessible. 
+Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 27TABLE B-1
+  Areas for Improvement for American FactFinder Identified from Usability Studies   
+ Area for Improvement Goal Measure 
+Visual Elements Homepage should be more 
+visual to improve visitor 
+
+expectations, reduce 
+perceived complexity, and 
+improve the look and feel of 
+
+the site  Easier to absorb and assess 
+through better balance of text 
+and visuals Use of images, color and 
+negative space can help 
+convey what to expect and 
+make the page easier to digest 
+ Conventional Layout Search should be presented in the best practice format as a 
+
+text box directly on the 
+homepage
+ Prevents visitors from going 
+through a multi-step process to 
+
+perform a query 
+Search is less likely to be 
+overlooked or to blend in with 
+other links/options 
+surrounding it  Consistent Structure Navigation options should appear in the same location 
+
+throughout the site Visitors don™t have to search for them or use their browser™s 
+
+back button  Layering Information Should improve content 
+management and reduce 
+
+scrolling by more effectively 
+layering page information 
+Less scrolling gives visitors the impression that the 
+
+information is much easier to 
+
+absorb Layering ensures more 
+information is presented 
+
+higher up on the pageŠand 
+avoids overwhelming visitors 
+
+with too much content at once  
+SOURCE:  Data from presentation by Jeffrey Si
+sson, U.S. Census Bureau, at the Workshop on 
+Communicating National Science Foundation Science and Engineering Information to Data 
+Users, October 28, 2010. Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 28TABLE B-2  
+Publicly Available Systems for Online 
+Numeric Data Sharing, Publishing, and Visualization
+ Source Data Sharing Publishing Visualization Only 
+Open  Dataverse Network  Prefuse Flare 
+Processing 
+ProtoVis 
+ Closed 
+ Data 360 Factual Google fusion tables Google sheets 
+Many Eyes 
+Swivel 
+Statplot Beyond 20/20 Collectica Nesstar SDA 
+Tableau 
+Track-n-Graph 
+Google Vis AP VisiFire SOURCE:  Micah Altman, 
+Data Dissemination: State of the Private Sector Practice
+, Workshop on Communicating National Scie
+nce Foundation Science and Engineering Data to Users, October 28, 2010.  Permission granted by author. Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 29 Appendix C Workshop Agenda   Goals for the Workshop: 
+
+ 1. Obtain information from NSF management 
+on the current status of dissemination of 
+science and engineering data, and their plans for the future 
+2. Obtain information from data users on their requirements 
+3. Hear from experts in visualization, next 
+generation tools, and accessibility about the 
+current state of the science in data dissemination 
+ Wednesday, October 27, 2010 Room 204, Keck Center, 500 Fifth Street NW, Washington, DC 
+Open Session                                
+9:00Œ9:15 AM Welcome, Discussion
+ of Agenda for the Workshop (continental breakfast served) 
+Kevin Novak, Chair 
+ 9:15Œ10:15  Current Status and Plans fo
+r Dissemination of S&E Information Lynda Carlson, Director, Division of Science Resources Statistics National Science Foundation  John Gawalt, Program Director, In
+formation and Technology Services 
+Program, Division of Science Re
+sources Statistics, National 
+Science Foundation   10:15Œ10:30  Break 
+ 
+10:30AMŒ12:00 PM Panel Discussion: User 
+Evaluation of NSF S&E Information Dissemination 
+Moderator: Patrick Clemins, Panel Member 
+ Paula Stephan, Georgia State University
+ Jeff Alexander, SRI International  Kei Koizumi, OSTP  Bhavya Lal, IDA STPI                                           12:00Œ1:00  Working Lunch (Atrium) 
+   (Continued discussion of dissemination issues) 
+ 1:00Œ2:00  U.S. Government Dissemination Initiatives 
+Moderator: Elana Broch, Panel Member
+  Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 30Open Government Initiative (Data.Gov) Alan Vander Mallie, Program Manager, Data.Gov, Program
+ Management Office, Office of I
+nnovative Technologies, Office of  Citizen Services and Innovative Technologies, General Services 
+ Administration  
+                              2:00Œ3:00  Statistical 
+Agency Initiatives Moderator:  Andrew Reamer, Panel Member
+  Community of Practice Initiative Ron Bianchi, Economic Research Service
+  American Fact Finder 
+Jeffrey Sisson, American Fact Finder, Census Bureau 
+  3:00Œ3:15  Break 
+
+ 
+3:15Œ4:30  Internat
+ional Initiatives 
+Moderator:  Diane Fournier, Panel Member 
+ EurostatŠData Usability: Public 
+Data Explorer and Statistics Explained Christiaan Laevaert, Panel Member
+  Statistics CanadaŠWeb Redesign Initiatives 
+Diane Fournier, Panel Member
+  4:30Œ5:00  Private Sector Initiatives 
+Moderator:  Micah Altman, Panel Member
+  5:00 PM  Panel in Recess 
+
+ 
+6:00Œ7:30  Working Dinner (by invitation) 
+   (Panel will discuss Day 1 pres
+entations and prepare for Day 2)   Thursday, October 28, 2010 Room 110, Keck Center, 500 Fifth Street NW, Washington, DC 
+Open Session   
+8:30Œ8:45 AM Review of First Day Work
+shop and Discussion of Agenda 
+(continental breakfast served) 
+Kevin Novak, Chair  8:45Œ10:00  W3C Initiatives, Data.gov, and Web 2.0 Communicating National Science Foundation Science and Engineering Information to Data Users: Letter ReportCopyright National Academy of Sciences. All rights reserved. 31Suzanne Acar, U.S. Department of
+ the Interior and Federal Data 
+Architecture Subcommittee 
+  10:00Œ10:15  Break  10:15Œ11:00  Accessibility of NSF 
+Internet Data (508 Compliance) 
+Judy Brewer, Web Accessibility Initiative, World
+ Wide Web Consortium 
+  11:00Œ12:00 PM Open Discussion Kevin Novak, Chair  12:00Œ1:00  Working Lunch 
+   (Continued discussion of accessibility issues) 
+  Thursday, October 28, 2010 Room 110, Keck Center, 500 Fifth Street NW, Washington, DC 
+Closed Session   1:00Œ2:30  Committee Discussion 
+of Workshop Lessons Learned  
+2:30Œ3:30  Plans for Interim Report 
+
+ 
+3:30 PM  Adjourn    

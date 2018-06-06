@@ -1,0 +1,9221 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/24926Assessing and Responding to the Growth of Computer ScienceUndergraduate Enrollments252 pages | 6 x 9 | PAPERBACKISBN 978-0-309-46702-5 | DOI 10.17226/24926Committee on the Growth of Computer Science Undergraduate Enrollments; Board onHigher Education and Workforce; Policy and Global Affairs; Computer Science andTelecommunications Board; Division on Engineering and Physical Sciences;National Academies of Sciences, Engineering, and MedicineAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Committee on the Growth of 
+ Computer Science Undergraduate EnrollmentsBoard on Higher Education and Workforce
+Policy and Global Affairs
+Computer Science and Telecommunications Board
+Division on Engineering and Physical Sciences
+A Consensus Study Report of
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS
+ 500 Fifth Street, NW
+ Washington, DC 20001
+This activity was supported by the National Science Foundation, Grant Number 1551227. 
+
+
+
+International Standard Book Number-13:
+ 978-0-309-46702-5
+International Standard Book Number-10:
+ 0-309-46702-0
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate Enroll
+-ments
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.The 
+National Academy of Sciences
+ was established in 1863 by an Act of 
+ Congress, 
+signed by President Lincoln, as a private, nongovernmental institution to advise 
+the nation on issues related to science and  technology. Members are elected 
+by their peers for outstanding contributions to research. Dr. Marcia McNutt is 
+president.The National Academy of Engineering
+ was established in 1964 under the char-ter of the National Academy of Sciences to bring the practices of engineering 
+to advising the nation. Members are elected by their peers for extraordinary 
+contributions to engineering. Dr. C. D. Mote, Jr., is president.
+The National Academy of Medicine
+ (formerly the Institute of Medicine) was 
+established in 1970 under the charter of the National Academy of 
+ Sciences to 
+advise the nation on medical and health issues. Members are elected by their 
+peers for distinguished contributions to medicine and health. Dr. Victor J. Dzau 
+is president.The three Academies work together as the 
+National Academies of Sciences, 
+Engi neering, and Medicine
+ to provide independent, objective analysis and 
+ 
+advice to the nation and conduct other activities to solve complex problems 
+and inform public policy decisions. The National Academies also encourage 
+education and research, recognize outstanding contributions to knowledge, 
+and  
+increase public understanding in matters of science, engineering, and 
+medicine. 
+Learn more about the National Academies of Sciences, Engineering, and 
+ Medicine 
+at www.nationalacademies.org
+. Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Consensus Study Reports
+ published by the National Academies of Sciences, 
+Engi neering, and Medicine document the evidence-based consensus on the 
+study™s statement of task by an authoring committee of experts. Reports typi
+-
+gathered by the committee and the committee™s deliberations. Each report 
+has been subjected to a rigorous and independent peer-review process and it 
+represents the position of the National Academies on the statement of task.
+Proceedings published by the National Academies of Sciences, Engineering, and 
+Medicine chronicle the presentations and discussions at a workshop, symposium, 
+or other event convened by the National Academies. The statements and 
+ opinions 
+contained in proceedings are those of the participants and are not endorsed by 
+other participants, the planning committee, or the National Academies.
+For information about other products and activities of the National Academies, 
+please visit www.nationalacademies.org/about/whatwedo. 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.vCOMMITTEE ON THE GROWTH OF COMPUTER 
+SCIENCE UNDERGRADUATE ENROLLMENTS
+
+1
+Co-Chair
+
+Co-Chair
+
+
+
+
+
+
+
+
+
+C
+
+
+
+
+Staff
+
+
+
+
+
+
+
+
+1 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.vi
+BOARD ON HIGHER EDUCATION AND WORKFORCE
+
+1
+Chair
+
+2
+
+
+
+
+PAUL J. L
+E
+
+
+
+
+
+
+3 Research!America
+Staff
+
+
+
+
+
+
+
+
+
+
+1 
+2 
+3 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.vii
+COMPUTER SCIENCE AND TELECOMMUNICATIONS BOARD
+
+Chair
+
+É
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+Staff
+
+
+
+
+
+
+
+
+
+
+
+1 
+2 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.ix
+
+
+independent review is to provide candid and critical comments that will assist 
+
+published report as sound as possible and to ensure that it meets the institu
+-
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+committee and the National Academies.
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xi
+
+
+
+
+
+-
+
+educational mission.
+
+
+
+
+-
+
+
+
+
+-
+
+-
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xii PREFACE
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+will assist the academic community, the National Science Foundation, and others 
+
+problem.
+PLAN OF ATTACK
+
+
+-
+
+1
+
+
+
+the committee would have liked. Nevertheless, the committee believes its conclu-
+
+ACKNOWLEDGMENTS
+
+
+its analyses, deliberations, and results would not have been possible without the 
+
+
+-
+
+
+
+
+1 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.PREFACE
+ xiii
+
+data and perspectives.
+
+
+
+
+
+
+-
+
+
+
+
+report.
+
+Co-Chairs
+ 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Introduction, 39
+
+
+
+
+
+
+ Growth, 63
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xvi CONTENTS
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ Success
+ 195
+
+
+ 
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xvii
+BOXES
+
+
+
+
+
+
+
+
+FIGURES
+
+
+
+
+
+
+
+universities in the 1980s, 37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institutions, 1987-2017, 32
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xviii BOXES, FIGURES, AND TABLES
+
+
+
+ 
+2006, 41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institutions, 60
+
+
+
+
+
+
+
+institutions, 64
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.BOXES, FIGURES, AND TABLES
+ xix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+level, 78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institution, 99
+
+
+
+
+underrepresented minorities, 2005-2016, 100
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.xx BOXES, FIGURES, AND TABLES
+
+
+
+
+
+
+
+
+2015, 101
+
+
+
+
+
+
+
+
+
+2015, 103
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+units, 112
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+residents, 187
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.BOXES, FIGURES, AND TABLES
+ xxi
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ occupations, 192
+TABLES
+
+
+
+
+2009-2015, 33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Summary
+
+
+
+
+
+
+whole, and U.S. society more broadly. 
+
+
+
+
+
+
+
+
+
+
+THE CHANGING COMPUTER SCIENCE 
+ENROLLMENT LANDSCAPE
+
+
+
+
+1Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.2 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+1
+
+2
+-
+
+
+
+-
+
+
+-
+-
+
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+-
+
+-
+
+
+3 These data likely underestimate the 
+1 
+
+
+
+
+2 
+3 
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.SUMMARY
+ 3
+
+
+
+
+
+
+
+
+
+THE FUTURE OF COMPUTER SCIENCE ENROLLMENTS
+
+
+
+
+necessarily less clear.
+
+-
+
+
+-
+
+-
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.4 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+student numbers. 
+DIVERSITY IN A TIME OF BOOMING ENROLLMENTS
+
+-
+
+
+
+
+
+-
+4 Be-
+
+
+
+
+4 
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.SUMMARY
+ 5
+
+-
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+-
+
+
+
+INSTITUTIONAL CHALLENGES AND STRATEGIES
+
+
+
+-
+
+
+
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.6 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+
+-
+contract lecturers.
+
+
+
+
+-
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+-
+
+
+FINDINGS AND RECOMMENDATIONS
+FINDING 1:
+
+-
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.SUMMARY
+ 7FINDING 2:
+
+risen markedly since 2005 at many institutions, and there is no indication that 
+
+
+
+
+
+
+
+
+FINDING 3:
+ 
+
+
+FINDING 4:
+ 
+
+-
+-
+
+FINDING 5: 
+
+-
+
+
+
+
+
+
+FINDING 6:
+
+
+-
+
+
+FINDING 7:
+
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.8 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FINDING 8:
+
+
+-
+
+
+
+FINDING 9:
+
+
+-
+
+
+
+
+
+
+
+
+
+
+departmental, institutional, and national needs can be met.
+RECOMMENDATION 1: The leaders of the institutions of higher 
+education that have experienced rapid increases in computer science 
+course enrollments should take deliberate actions to address this 
+trend with a sense of urgency. 
+RECOMMENDATION 2: A range of actions should be considered 
+as part of a comprehensive institutional strategy, from targeted con
+-trols on enrollments or resource additions to meet demand, to more 
+extensive institutional changes that extend beyond the computer 
+science department. 
+RECOMMENDATION 2.1: Institutions experiencing a computer 
+science enrollment surge should seriously consider an increase in 
+resources to address the rising workload on faculty and staff in com
+-puter science and related departments, and the limitations arising 
+from inadequate facilities.
+RECOMMENDATION 2.2: Some institutions may view the imposi
+-tion of limits on enrollment in computer science and related courses 
+as desirable or unavoidable. However, before imposing limits on 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.SUMMARY
+ 9course or major enrollments, the consequences of doing so should 
+
+for the entire university community.
+RECOMMENDATION 2.3: Institutional leadership should engage 
+directly with computer science departments or programs to develop 
+appropriate faculty hiring and faculty size targets, and develop strate
+-gies to improve faculty retention. Increasing the number and enhanc
+-ing the role of academic-rank teaching faculty should be given serious 
+consideration.
+RECOMMENDATION 2.4: Larger institutionsŠin particular, re
+-search universitiesŠshould reevaluate the organizational placement 
+of the computer science department and other departmental units 
+with a computational mission. 
+RECOMMENDATION 2.5: Institutions should pursue innovative 
+strategies for using technology to deliver high-quality instruction at 
+scale to large numbers of students, and pursue additional, creative 
+strategies for meeting demand for quality computer science courses 
+and skills development among the entire student body. 
+RECOMMENDATION 3: Institutions should take deliberate actions 
+to support diversity in their computer science and related programs. 
+In particular: 
+RECOMMENDATION 3.1: Institutions should assess how com
+-puter science enrollment growthŠand any actions or strategies for 
+responding to itŠaffects the diversity of their student bodies, and 
+deliberately align their actions and the culture of their programs 
+with best practices for diversity and retention.
+RECOMMENDATION 3.2: Institutions should leverage the increas
+-
+majors and intended majors, to engage, recruit, and retain more 
+
+
+
+the diversity problem proactively.
+RECOMMENDATION 4: The National Science Foundation (NSF) 
+can be especially helpful in advancing undergraduate computer 
+science education in the context of increasing enrollments, for both 
+majors and non-majors. The following actions should receive seri
+-ous consideration:
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.10 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+RECOMMENDATION 4.1: Use NSF™s convening power to bring 
+computer science faculty and institutional leaders together to iden
+-tify best practices and innovation in computer science education 
+in times of limited departmental resources. This should include 
+assessment of the computer science skills and knowledge needed in 
+nonŒcomputer science academic disciplines.
+RECOMMENDATION 4.2: Support research on how best to use 
+technology in teaching large classes. Such research should be multi
+-disciplinary, spanning learning sciences, educational pedagogy for 
+computer science, development and deployment of assessment instru
+-ments, and technology design. 
+RECOMMENDATION 4.3: Support research to advance the 
+under
+ 
+standing of best practices for diversity in computing, includ
+-
+insti
+ 
+tutional practices, especially those taken or considered in times 
+of high enrollments. This research should be multidisciplinary, 
+with experts in both micro- and macro-level social science research, 
+ 
+statistics, computer science education, and diversity in STEM (sci
+-ence, technology, engineering, and mathematics) and computing.
+RECOMMENDATION 4.4: Create an initiative to expand instruc
+-tional resources in computer science, informed by an understand
+-ing of the constraints and dynamics of the supply and demand for 
+computer science Ph.D.s. This might include research support and 
+doctoral fellowships for domestic computer science under
+ graduates, and support for incorporating teaching into computer science doc
+-toral programs and junior faculty research. 
+RECOMMENDATION 5: Computer science departments and 
+the computing industry should develop new partnerships to help 
+higher education meet workforce needs, continue to graduate well-
+ prepared students, encourage industry to provide increased support 
+for research funding, and allow a better exchange of Ph.D.-level 
+researchers between academia and industry. 
+
+fraction of each state™s workforce and the nation™s computer sci
+-
+-port to their public institutions to enable them to support fully 
+their academic missions, including with respect to computer science 
+education. 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.SUMMARY
+ 11RECOMMENDATION 7: To prepare students better for the ex
+-panding role of computing in academia, industry, and daily life 
+underlying the increase in interest in computer science,  
+ 
+government 
+agencies and states should support local, state, and national pro
+-grams for computing education for the purpose of increasing expo
+-sure to computing, computational principles, information security, 
+and data analytics throughout the K-12 pipeline. 
+RECOMMENDATION 8: Actions should be taken to facilitate an 
+improved understanding of national undergraduate enrollment 
+trends by improving the primary data available about them, and 
+facilitating the availability of those data in a timely fashion. In par
+-ticular, the following actions should be considered:
+RECOMMENDATION 8.1: Improved data sources about under
+-graduate enrollment should be pursued by federal and state gov
+-ernments in collaboration with academic institutions. To the extent 
+possible, data should be made available in a time frame where the 
+information can be useful for academic and government planning 
+purposes.
+
+undergraduate computing degrees and jobs should be reexamined 
+and updated, so that those used in national statistics are more easily 
+brought into alignment, and map more directly to the current orga
+-
+RECOMMENDATION 8.3: In the absence of comprehensive 
+ 
+national statistics, the computer science community, in collaboration 
+with education, social sciences, and statistics researchers, should con
+-
+
+
+retention, and graduation rates and measuring student diversity. 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.1Introduction
+BACKGROUND AND CONTEXT
+
+
+
+-
+
+
+
+
+1
+-
+
+
+
+
+
+-
+
+
+
+
+
+the nation.
+1 
+
+13
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.14 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+BOX 1.1 
+ Statement of Task
+An ad hoc committee will examine potential responses to the current large 
+
+
+majors and minors and science, technology, engineering, and mathematics 
+
+
+
+
+enrollment growth while maintaining or enhancing course access as well 
+
+
+CS majors, CS minors, STEM majors, and non-STEM majors).
+
+
+
+
+
+
+
+
+
+
+-
+CONTEXT ON THE COMPUTING DISCIPLINES
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION 15
+
+
+
+
+
+
+-
+
+
+-
+
+
+
+
+-
+
+2
+
+
+
+
+
+
+as to impede such analysis.
+3 The discussions in this report aim to be inclusive, 
+
+-
+
+
+
+
+
+
+
+
+DATA USED IN THE DEVELOPMENT OF THIS REPORT
+
+
+
+2 
+
+3 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.16 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+BOX 1.2 
+ The Scope of Computer Science and Related Disciplines
+
+
+
+
+
+
+
+
+
+-
+
+
+
+terms relating to computer science enrollments are highlighted here; deeper dis
+-
+aComputer scienceŠ
+and their impact on society.ﬂ
+b ﬁUnlike – computer engineers, computer scientists 
+
+
+development, and application.ﬂ
+cComputer engineeringŠ
+
+
+
+
+that contain computers.ﬂ
+dInformation science
+ -e fInformation technologyŠ
+organizations.ﬂg
+
+
+Integrated Postsecondary Education Data System (IPEDS)
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION 17Software engineeringŠ
+
+gData scienceŠComputingŠ-and more.
+a
+
+
+-b 
+.c 
+d
+
+
+e
+Handbook of Information Science
+. Walter de Gruyter, 
+f
+
+
+
+
+
+
+
+.  g
+
+
+
+Proceedings of the 37th SIGCSE Technical Symposium on Computer Science Education 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+4 Two distinct data sets are available 
+4 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.18 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+-
+
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technician.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telecommunications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.20 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+institutions themselves may not treat them separately. 
+
+-
+
+
+to national labor statistics data, the committee has chosen to present the whole 
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+-
+
+trends.
+
+-
+
+
+
+Computing Research Association Survey Data
+CRA Taulbee Survey
+
+
+-
+
+
+
+
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION 21CRA and NDC Enrollment Surveys
+
+-
+
+
+5 This 
+ments and course enrollments. The results were recently published online by 
+
+ 
+
+
+
+
+6
+
+-
+
+
+-
+
+
+
+The Freshman Survey of the Cooperative Institutional Research Program
+
+
+
+-
+
+
+
+-
+
+-
+
+
+
+5 
+-
+6 
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.22 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+Student Academic Data from the Consortium for 
+Undergraduate STEM Success (CUSTEMS)
+
+-
+
+
+7
+
+
+
+
+
+
+
+
+The Current Population Survey (CPS)
+
+
+
+
+
+
+-
+
+
+
+8
+
+
+
+
+
+
+
+
+
+7 
+8 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION 23The American Community Survey (ACS)
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+ORGANIZATION OF THIS REPORT
+
+
+-
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+-
+-
+
+
+
+
+-
+9 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+-
+
+
+
+
+-
+
+
+
+
+
+
+1 1.
+ CIS
+Š
+-
+
+
+
+
+1 
+-
+2
+25
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.26 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+2.
+ Core CS
+
+
+
+
+
+-
+
+3.
+ Computer engineering (CE)
+
+
+
+
+
+-
+HISTORICAL PRODUCTION OF CIS AND 
+CE BACHELOR™S DEGREES
+
+
+
+-
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+CIS BACHELOR™S DEGREES GOING TO FOREIGN STUDENTS
+
+
+2 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.HISTORICAL DEGREE PRODUCTION IN COMPUTING
+ 27FIGURE 2.1
+
+
+
+
+
+
+
+
+-
+
+
+
+-
+
+3
+temporary residents in 2015 remained below past peak levels. 
+3 
+
+
+0%1%2%3%4%196519751985199520052015Percentage of all bachelor's degreesYearShare (All Instuons)0.00.51.01.5
+2.02.5020,0
+0040,0
+0060,0
+001985199520052015Number of all
+ bachelor's degrees (in milli
+ons) Number of CS-related bachelor's  degreesYearNumber (Not-for-Prots)0%1%2%3%4%1985199520052015Percentage of all bachelor's degreesYearShare (Not-for-Prots)CISCore CSCE0.00.51.01.5
+2.02.5020,0
+0040,0
+0060,0
+00196519751985199520052015Number of all
+ bachelor's degrees (in milli
+ons) Number of CS-related bachelor's  degreesYearNumber (All Instuons)Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.28 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 2.2
+
+
+
+details.
+VARIATION IN CIS BACHELOR™S DEGREE 
+PRODUCTION BY INSTITUTION TYPE
+
+-
+
+
+0%10%
+20%
+
+30%
+
+40%
+
+50%
+60%
+1975
+1985
+1995
+2005
+2015
+Percentage 
+of 
+CIS 
+degrees
+Year
+Share 
+of 
+CIS Degrees Awarded to 
+Temporary Residents
+Doctoral
+Master's
+Bachelor's
+04,000
+8,000
+12,000
+
+16,000
+20,000
+1975
+1985
+1995
+2005
+2015
+Number 
+of 
+CIS 
+degrees
+Year
+Number of 
+CIS Degrees Awarded to
+Temporary 
+Residents
+Doctoral
+Master's
+Bachelor's
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.HISTORICAL DEGREE PRODUCTION IN COMPUTING
+ 29
+
+
+
+
+
+are available.
+
+
+
+-
+-
+
+-
+-
+
+
+
+
+-
+
+FIGURE 2.3
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.30 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+-
+
+institutions increased by 74 percent between 2009 and 2015, compared to an 
+
+
+
+
+
+
+
+
+
+4
+5
+
+Ł Research
+
+
+public and private.
+Ł Doctoral 
+
+-tions, both public and private.
+Ł 
+
+Ł 
+
+Ł Master™s 
+
+
+
+Ł Bachelor™s 
+
+
+Ł Associate™s 
+
+
+Ł Other/unknown 
+
+-
+
+
+
+
+
+
+4 
+-
+5 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.HISTORICAL DEGREE PRODUCTION IN COMPUTING
+ 31FIGURE 2.4
+
+
+
+-
+FIGURE 2.5
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.32 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+-
+
+
+-
+
+
+-
+
+
+
+-
+-
+
+
+
+
+
+
+
+FIGURE 2.6
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.HISTORICAL DEGREE PRODUCTION IN COMPUTING
+ 33
+
+
+-
+
+-
+
+-
+
+
+
+
+FINDING 1: 
+
+-
+
+
+
+
+
+
+
+
+
+-
+
+TABLE 2.1
+
+
+2009-2015 
+
+ 
+ 
+
+
+Percent Increase in 
+
+
+2009
+2015
+
+
+
+
+
+
+
+
+Doctoral
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.34 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+
+OTHER LEVELS OF DEGREE
+
+
+
+-
+
+
+
+
+
+
+6 
+-
+
+
+
+-
+
+7 RESPONDING TO ENROLLMENT SURGES
+
+
+
+
+
+-
+
+-
+
+
+
+
+
+
+
+6 
+7 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved. 35FIGURE 2.7
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.36 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+BOX 2.1 Learning from the Past
+
+
+
+
+
+
+
+
+
+--clare a major and limiting access to computer science courses. Computer science 
+
+
+-
+more on graduate students to teach. These strategies had mixed success. As stu
+-
+
+
+
+
+
+--a,b
+-gree production and class sizes.
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.HISTORICAL DEGREE PRODUCTION IN COMPUTING
+ 37
+-nation as a whole.
+explicit steps taken at each institution to limit enrollment directly precede the de--versity closed that path.
+-FIGURE 2.1.1
+
+
+
+-
+continuedAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.38 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+the National Science Foundation released a report titled ﬁScience and Engineer-
+
+
+
+
+-ing well-paid positions. At the same time, they are making such attractive 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+a
+
+b
+
+
+BOX 2.1 ContinuedAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+-
+
+
+
+Academies-commissioned paper.
+3
+
+39
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.40 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+1
+
+
+
+environment.
+ 
+
+
+at a national level.
+
+
+institution sampled.
+
+
+enrollment by
+ 
+
+
+
+BACHELOR™S DEGREE ENROLLMENT IN COMPUTER SCIENCE
+The data presented in the previous chapter clearly illustrate the recent 
+
+
+
+-
+
+
+Recent Computer Science Major Enrollment
+
+
+
+-
+
+-
+
+
+1 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 41
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 3.1
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.42 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+2 Freshman Interest in Majoring in Computer Science
+
+
+
+-
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HYBRID MODELS OF COMPUTER SCIENCE MAJORS
+
+
+
+
+
+
+-
+
+
+
+2 
+3 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 43FIGURE 3.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOX 3.1 UIUC: A Case Study of a Hybrid Program
+
+
+
+
+
+
+
+
+
+
+education, such as advertising, music, philosophy, crop science, economics, art 
+design, and English.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.44 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+
+
+
+
+NON-MAJORS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institutions.
+
+
+
+
+
+-
+
+
+
+
+COURSE ENROLLMENT
+
+-
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 45
+
+-
+
+
+4
+and 2015.
+5
+
+
+
+-
+
+
+2015, it is likely that current enrollment trends and institutional actions taken 
+have evolved in the time that has since elapsed.
+
+
+
+
+-
+
+
+
+
+
+
+
+Course Enrollment by Majors at Doctoral and Non-Doctoral Institutions
+
+
+
+
+
+4 
+
+5 
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.46 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 3.4
+
+
+
+-
+
+FIGURE 3.3
+
+
+
+
+
+
+020004000
+600080001000012000
+1400016000
+18000Intro Nonmajors (51)Intro Majors (66)Mid-Level (66)Upper-Level (66)NonmajorsMajors200520102015200520102015200520102015200520102015Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 47FIGURE 3.5
+
+
+
+
+
+-
+Course Enrollments by Non-Majors at Doctoral 
+and Non-Doctoral Institutions
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.48 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 3.7
+-
+
+
+
+FIGURE 3.6
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 49
+
+
+
+
+-
+
+
+
+hired and more sections are added.
+6
+
+
+
+
+
+
+
+
+
+be interpreted with particular caution.
+Enrollments Across Other Institutions
+Computing Alliance of Hispanic-Serving Institutions (CAHSI)
+
+-
+
+ 
+
+
+
+
+
+
+
+7
+
+
+6  Private communication with Valerie Barr.
+7 
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.50 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+-trated at these institutions.
+
+
+8
+
+departments.
+
+
+
+
+
+-
+
+
+
+
+
+
+
+students. Faculty also have less time to develop curricula and carry out other 
+
+
+-
+
+
+
+a weak link between departmental enrollments and actual resources allocated to 
+
+-
+
+
+
+
+
+
+to lower-division courses.
+8 
+charter members.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 51FIGURE 3.8
+
+
+
+
+
+
+-
+
+
+
+
+priate introductory course in which to place students. Some institutions, such as 
+
+
+
+
+
+
+CUSTEMS Institutions
+
+
+
+-
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.52 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+9
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+-
+
+
+
+Minors
+
+
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+9 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 53FIGURE 3.9
+
+-
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.54 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+FINDING 2: 
+
+risen markedly since 2005 at many institutions, and there is no indication that 
+
+
+
+
+
+
+
+
+It is clear that enrollments in several computer science courses include a 
+
+-
+
+
+
+introductory computer science course. 
+
+
+
+
+
+FIGURE 3.10
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 55
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+-
+
+
+
+-
+
+FIGURE 3.11
+
+
+
+
+-
+Snowbird, UT. July 17-19. 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.56 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+
+CHALLENGES WITH FACULTY HIRING
+
+
+
+
+
+-
+
+-
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+ 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 57
+
+positions.
+
+
+
+
+-
+
+
+
+
+-
+11
+
+-
+
+
+
+
+
+
+
+
+-
+have had the resources or the authority to hire over this period.
+12
+ Furthermore, 
+
+
+
+
+
+
+
+accepted employment in industry.
+13
+
+
+-
+
+
+11 
+
+12
+ 
+13
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.58 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 3.12
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+in North America take a position in industry, 11 percent take a tenure-track posi
+-
+
+
+-
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved. 59FIGURE 3.13
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.60 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 3.14
+
+-
+
+
+Computing Research News.
+
+-
+
+
+
+
+
+
+
+
+
+
+
+States, individuals with a Ph.D. not in computer science, and individuals hired 
+
+
+
+
+
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 61
+
+a similar comparison cannot be done. The Taulbee Survey asks departments how 
+
+
+-
+
+production has increased by 74 percent.
+14
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+with more resources, but a supportive environment may help reduce the retention 
+
+
+
+
+
+
+
+
+
+
+14
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.62 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 3.15
+
+
+
+
+
+
+
+05001,0001,5002,00019952000200520102015Nu
+mber of Ph.D.sYearProduc of Ph.D.s iCS ad Rel
+ated FieldsCISCore CSIS0%20%40%60%80%100%19952000200520102015Share of Ph.D.sYearShare of Ph.D.s d Related Fiel
+ds Goig to Temporary Resid
+etsCISCore CSISAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 63
+
+
+-tive to our capacity to provide seats in the classroom, means that admission to 
+
+
+
+
+-
+
+
+15
+FINDING 3: 
+
+
+
+ACTIONS TAKEN OR CONSIDERED IN THE FACE 
+OF CURRENT ENROLLMENT GROWTH
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+Ł Advise weaker students to leave.
+
+Ł Limit access to advanced courses in another way.
+
+-
+15
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.64 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 3.16
+
+
+
+
+FIGURE 3.17
+
+-
+
+
+
+via some other mechanism.
+
+-
+
+-tutions stated that they have restricted the enrollment in their upper-level courses 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.THE CURRENT LANDSCAPE OF COMPUTER SCIENCE ENROLLMENTS
+ 65
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+
+
+
+
+
+-
+
+
+
+THE LABOR MARKET
+
+
+
+
+
+1 1 
+
+
+
+
+4
+
+67
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.68 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+Historical Data on the Computing Labor Market
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 69
+-
+
+
+Population Survey, more than 4.1 million individuals were employed in all com
+-
+2 it is 
+
+-
+3
+
+
+
+
+Employment Levels
+
+
+4
+-
+-
+5
+
+
+
+
+
+
+
+
+
+-
+
+
+
+-2 
+-
+
+
+-
+
+
+3 
+
+
+
+4 
+5 
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.70 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 4.1
+
+-
+
+
+
+
+
+survey results.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 71FIGURE 4.2
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.72 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 4.3
+
+
+
+
+
+
+
+
+-
+
+0.02.04.06.0819801985199019952000200520102015 A. All workers
+0.02.04.06.0819801985199019952000200520102015 B. College graduates0.02.04.06.0819801985199019952000200520102015 C. Young college graduates
+0.02.04.06.0819801985199019952000200520102015 D. Young native college graduates
+Computer, Mathematics
+Engineering, ArchitectureSciences
+
+Wage Trends
+
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 73
+
+
+
+
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+FIGURE 4.4
+
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.74 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 4.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+-
+
+15202530352014 $19801985199019952000200520102015 A. All workers
+15202530352014 $19801985199019952000200520102015 B. College graduates15202530352014 $19801985199019952000200520102015 C. Young college graduates
+15202530352014 $19801985199019952000200520102015 D. Young native college graduates
+Computer, Mathematics
+Engineering, ArchitectureSciencesAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 75The Labor Market for Computing in Recent Years
+
+-
+
+
+
+
+
+
+-
+-
+
+in recent years.
+
+
+
+
+
+
+-TABLE 4.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finance
+
+
+
+General business
+
+
+
+
+
+
+
+
+
+
+
+
+15,008
+26,674
+13,167
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.76 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+TABLE 4.2
+
+
+Industry
+
+
+
+
+
+Finance, insurance, and real estate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current and Projected Demand for Computing Professionals
+
+
+-
+
+
+
+
+
+
+
+labor market as a whole.
+
+-
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 77
+
+
+
+-
+
+
+6
+
+-
+
+
+
+7
+
+-
+
+
+
+
+
+6 
+
+7 
+dollars per hour.
+FIGURE 4.6
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.78 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 4.7
+
+
+-
+
+
+
+-
+
+
+8
+
+
+9
+
+
+
+
+
+
+
+
+
+-
+
+
+-8 
+9 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 79
+
+
+
+
+-
+
+
+
+
+only 1,313,034.
+10
+
+-
+
+
+computer science ever produced in the United States.
+
+
+
+
+
+-
+
+
+
+
+levels.
+
+-
+
+
+11
+ Second, computer science is the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+ 
+11
+ 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.80 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 4.8
+
+
+survey.
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 81
+
+-
+
+
+their paucity in the labor pool.
+
+
+
+
+
+
+-
+-
+
+
+
+
+-
+people in the United States with the necessary skills. In their paper commissioned 
+
+
+
+
+The Effects of Competition for Highly Skilled Software Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+12
+ There is evidence that the variability in 
+ 
+productivity has increased over time. In a 
+Wall Street Journal
+ story in November 
+12
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.82 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+The variation in productivity is the critical dynamic that underlies employ
+-
+
+
+
+-
+
+
+
+
+
+
+
+-
+
+
+
+Los Angeles Times
+
+
+
+
+
+superstars, which have been visible in contemporary news and media, may also 
+
+
+
+The Social Network
+
+Silicon 
+Valley
+ and 
+The Big Bang Theory
+
+
+Workforce Demand in Key Areas
+
+
+particular specialties in computer science varies considerably over time. Some 
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 83
+. 
+
+-
+
+
+-
+
+
+
+-
+Job Market Intelligence: Cybersecurity Jobs 2015
+
+
+
+
+
+
+-
+
+-
+
+
+
+overall.
+
+-
+
+
+
+
+
+
+
+,
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.84 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+-
+Global Institute, 
+Big Data: the Next Frontier for Innovation, Competition, and 
+Productivity
+
+
+
+
+-
+
+
+
+
+
+
+
+-ment demand in this area:
+
+-
+
+
+
+-
+
+
+
+
+-
+
+
+
+-
+University, Portland State University, Purdue University, Rice University, the 
+
+-
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 85
+
+
+
+
+
+
+
+
+FINDING 4:
+ 
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE CHANGING LANDSCAPE OF COMPUTING
+
+
+
+
+Two areas have been central in the last decade: the continued and increased 
+
+
+
+-
+
+
+
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.86 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+-
+
+
+ 
+humanities and computational social sciences.
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+-
+
+-
+-
+
+-
+disciplinary boundaries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 87
+
+
+-
+FINDING 5:
+ 
+-
+
+
+
+
+
+
+Increased Participation in Computing in Primary 
+and Secondary Environments
+
+
+
+
+
+13
+
+
+
+14
+
+-
+
+
+
+
+
+
+
+-
+
+student interest in computer science as an education and career pathway. 
+
+
+
+
+15
+ 13 
+
+14
+ 
+15
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.88 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+
+
+
+
+
+16
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.DRIVERS OF THE RECENT INCREASE IN ENROLLMENTS IN COMPUTING
+ 89
+17
+
+
+-
+
+18
+
+
+
+
+school introductory or AP computer science courses and instructors.
+19
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+-
+-
+
+
+
+
+
+
+
+
+
+17
+ 
+18
+ 
+19
+ 
+20
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+2
+
+-
+3 These representation rates are even smaller 
+
+
+
+-1 
+2 
+3 
+
+5
+
+91
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.92 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.1
+
+
+
+
+
+
+
+
+-
+
+
+
+
+intentional
+
+
+-
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 93
+
+
+
+
+
+HISTORICAL DIVERSITY OF UNDERGRADUATE 
+CIS DEGREE RECIPIENTS 
+
+-
+
+
+based upon available data.
+4Representation of Women among CIS Degree Recipients
+
+
+5
+
+
+
+
+-
+
+
+
+
+6 CIS Degrees by Race/Ethnicity
+
+
+
+7
+4 
+
+
+5 
+
+6 
+institutions in recent years. This is discussed in more detail later in this chapter.
+7 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.94 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.2
+
+
+
+
+
+
+
+8
+
+CIS Degree Production for Women and Underrepresented Minorities
+
+
+
+
+8 
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 95FIGURE 5.3
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.96 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.4
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 97
+9
+the U.S. population.
+10
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+
+
+
+
+
+
+FINDING 6:
+ 
+
+-
+
+
+9 
+
+10
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.98 FIGURE 5.5 
+
+
+
+020,00040,00060,00005001,0001,5002,0002,5003,0
+00197519801985199019952000200520102015Total # of CIS bachelor's degrees
+# of CIS bachelor's degrees
+Year
+Black, non-Hispanic020,00040,00060,00005001,0001,5002,0002,5003,000197519801985199019952000200520102015Total # of CIS bachelor's degrees
+# of CIS bachelor's degrees
+YearHispanic or Lano/a020,00040,00060,000050100150200250197519801985199019952000200520102015Total # of CIS bachelor's degrees
+# of CIS bachelor's degrees
+YearAmerican Indian and Alaska Na
+ve0
+20,00040,00060,00005,00010,00015,00020,00025,000197519801985199019952000200520102015Total # of CIS bachelor's degrees
+# of CIS bachelor's degrees
+YearWhit
+e, non
+-HispanicPublic InsonsPrivate Intuons: NonproPrivate Intuons: For-Pr
+oAll CIS Bachel
+or's (right axis)Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved. 99FIGURE 5.6
+
+
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.100 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.7
+ 
+
+
+
+ 
+ 0100200
+300400500600700200520072009201120132015Number of degrees
+ Year
+ Number of CAHSI Graduates, 2005
+-2016 Total
+Hispanic
+Women
+Other URM
+RECENT DEGREE PRODUCTION FOR WOMEN AND 
+UNDERREPRESENTED MINORITIES IN CORE CS, CE, AND IS
+
+-
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 101FIGURE 5.8
+
+
+
+
+FIGURE 5.9
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.102 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.10
+
+-
+
+-
+
+
+11
+
+
+-
+
+
+
+13.6 percent in 2011 to 15.9 percent in 2015. 
+
+
+
+
+
+
+
+
+11 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 103FIGURE 5.11
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+
+
+doctoral institutions.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.104 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+
+
+
+
+
+
+
+both doctoral and non-doctoral units over this time, with a consistently lower 
+
+
+DIVERSITY OF COMPUTER SCIENCE ENROLLMENTS
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+ Intent to Major in Computer Science
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 105
+-
+
+
+
+
+
+
+
+-can Indian or Alaska Native students have not yet reached dot-com-era levels. 
+
+
+
+
+
+
+
+
+
+
+Computer Science Program and Course Enrollments
+
+
+
+
+-
+-
+
+
+
+
+the 2015-2016 academic year. 
+
+in this time period. At the same time, upward trends were observed in the percent
+-
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.106 FIGURE 5.12
+ 
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 107FIGURE 5.13
+ 
+
+
+-
+
+
+
+
+0%2%4%6%8%19701980199020002010YearBlack or African American0%2%4%6%8%19701980199020002010Year
+Hispanic or Lano/a0%2%4%6%8%19701980199020002010YearAmerican Indian or Alaska NaveFreshmen Intending to Major in CSCompleted Degree in CISAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.108 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+TABLE 5.1
+
+
+2012-2013
+2013-2014
+2014-2015
+2015-2016
+Total enrollment
+43,391
+72,447
+90,604
+104,634
+
+
+
+
+
+American Indian or Alaska Native
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asian
+
+
+
+
+
+
+
+
+
+Nonresident alien
+
+
+
+
+
+
+TABLE 5.2
+
+
+2012-2013
+2013-2014
+2014-2015
+2015-2016
+Institutions reporting
+101
+163
+132
+121
+Total enrollments reported
+6,659
+14,061
+12,759
+11,864
+Average enrollments per institution reporting
+66
+86
+97
+98
+
+
+
+
+
+American Indian or Alaska Native
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asian
+
+
+
+
+
+
+
+
+
+Nonresident alien
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 109
+
+
+
+
+survey was to measure, assess, and better understand enrollment trends, with a 
+
+12
+ In addition to total course enrollment numbers, institutions were asked to 
+
+-
+
+
+-
+-
+12
+ 
+FIGURE 5.14 
+
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.110
+ THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+course between 2005 and 2010, and a more pronounced increase across all course 
+
+
+
+-
+
+-
+
+
+
+
+-
+
+
+
+
+
+FIGURE 5.15
+ 
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 111FIGURE 5.16
+
+
+
+
+
+
+
+
+
+
+
+DIVERSITY IMPACTS ASSOCIATED WITH ENROLLMENT GROWTH
+Representation of Women
+
+-
+
+-
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.112
+ THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.17
+
+
+
+
+
+
+
+-
+
+
+
+
+-
+
+
+-
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 113
+
+
+13
+ Nonetheless, there is a very real possibility 
+
+
+
+
+
+Representation of Underrepresented Minorities
+
+
+
+
+
+
+-
+
+
+
+
+-
+
+
+
+
+
+Best Practices for Diversity
+
+
+At the same time, the need to respond to increased demand also provides an 
+
+
+
+and include institutional and departmental policies on admissions, dedicated re
+-
+
+
+13
+ 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.114
+ THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+disciplines:
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Ł Provide introductory course options that separate students with prior 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+women and underrepresented minorities.
+Diversity and Institutional Responses to Increasing Enrollments
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 115
+
+
+-
+
+
+
+
+
+
+
+14
+ Less than 
+
+
+
+transition points.
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+Asian counterparts, which may be due to disparities in the opportunities avail
+-
+
+
+-
+
+ 
+
+-
+
+14
+ 
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.116
+ THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+-
+15
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+16
+
+
+
+15
+ 
+2010-2015.
+16
+ 
+TABLE 5.3
+ 
+
+
+
+
+
+
+Female
+
+Female
+
+Female
+
+21,779
+4919
+40.1
+9.0
+3.09
+2.91
+Asian
+11,110
+4803
+20.4
+8.8
+3.36
+3.28
+
+4820
+1436
+8.9
+2.6
+2.35
+2.03
+Two or more races
+1770
+645
+3.3
+1.2
+3.15
+2.99
+Black
+1415
+612
+2.6
+1.1
+2.10
+1.81
+No response
+651
+177
+1.2
+0.3
+3.15
+2.79
+American Indian
+79
+90.1
+<0.1
+2.80
+1.89
+
+56
+15
+0.1
+<0.1
+2.38
+2.20
+
+57
+26
+0.1
+<0.1
+3.14
+3.19
+Total
+41,737
+12,642
+76.8
+23.2
+3.05
+2.90
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 117
+
+
+
+-
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+FINDING 7:
+
+
+
+
+
+-
+ACTIVE EFFORTS TO INCREASE DIVERSITY IN COMPUTING
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.118
+ THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+FIGURE 5.18
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+17
+ 17
+ 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 119
+FIGURE 5.19
+
+-
+
+
+
+
+
+
+
+-
+
+
+
+-
+
+
+
+-
+0%10%20%30%
+40%
+50%1985199019952000200520102015Share of CIS associate's degreesYearShare of CIS Associate's Degrees Conferred to Women and Underrepresented MinoriesBlack, n
+on-HispanicHispanic or LnoAmerica
+n Indian or Alaska Nve, non-HispanicWomenAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.120 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+18
+
+
+
+
+
+
+19
+ 
+
+
+
+-
+
+
+
+
+LEVERAGING BOOMING ENROLLMENTS TO INCREASE 
+DIVERSITY IN COMPUTER SCIENCE AND RELATED FIELDS
+
+
+
+
+
+-tions, this is a serious risk.
+
+-
+
+
+
+
+become visible and inspirational to their peers. There will be more women and 
+
+
+
+
+-18
+ 
+19 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.IMPACTS OF ENROLLMENT GROWTH ON DIVERSITY IN COMPUTING
+ 121
+
+-
+
+dimension.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+
+
+
+
+This chapter discusses institutional resources and constraints, ways in which 
+
+-
+-
+INSTITUTIONAL RESOURCES AND CONSTRAINTS 
+
+
+
+
+
+
+
+
+
+
+
+6
+123
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.124 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+Faculty and Teaching Staff
+
+
+
+
+-
+-
+
+
+
+
+-
+
+
+
+
+
+
+
+student stress.
+
+
+
+
+
+
+this is an especially acute issue at research universities, it is a potential problem 
+
+-
+Teaching Assistants
+
+
+
+
+
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 125
+
+
+
+1
+increase in doctoral students to serve as TAs.
+
+
+
+
+-
+
+
+
+-
+
+
+2 As enrollment in
+-
+
+
+
+-
+-
+
+
+
+
+
+-
+
+
+
+
+
+institutions.
+Support Staff
+
+
+
+
+-
+
+
+
+-
+1 
+
+2 
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.126 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+Facilities
+Facilities, such as classrooms, lecture halls, and computer labs, and associ
+-
+
+-
+university-issued laptops or desktops. 
+
+
+
+
+
+
+-
+
+
+
+-
+
+smaller rooms. These pressures are not necessarily limited to introductory courses 
+
+
+Video capture and replay, or even studio preproduction,
+3
+
+
+
+-
+
+
+
+
+
+
+-3 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 127
+
+
+
+
+
+
+
+
+
+
+
+
+INSTITUTIONAL MISSION AND CHARACTER
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+Beyond institutional diversity, there are also important considerations related 
+
+
+-
+
+
+-
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.128 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+-
+
+-
+
+
+
+
+
+-
+
+INSTITUTIONAL RESPONSES TO INCREASING 
+COMPUTER SCIENCE ENROLLMENTS
+
+
+noted that resources at academic institutions may be limited. In particular, invest
+-
+
+
+-
+
+
+
+
+
+
+-
+commitments.
+
+
+
+-
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 129Limit Participation
+Limit the Number of Majors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advantages: 
+
+-
+-
+
+
+Risks:
+
+
+
+the process the limit is imposed, it may also introduce stress or an environment 
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.130 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+Limit Course Enrollment
+
+to simply limit course enrollments. Decisions on whom to allow into courses 
+
+
+
+
+Advantages:
+ This approach will remove the pressure on departmental re
+-
+
+classes or cohorts.
+Risks: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+Redirect Demand for Courses and Majors
+
+-
+
+
+-
+Advantages:
+
+-
+
+ Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 131Risks:
+
+
+
+
+
+
+
+and underrepresented minorities.
+Grow Programs
+
+
+
+Increase Class Sizes 
+
+accommodate the demand. 
+Advantages:
+
+
+
+Risks: 
+
+
+-
+
+
+
+
+
+
+
+
+space may be stretched beyond capacity. 
+
+
+
+-
+
+
+
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.132 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+resources, especially at the onset.
+
+-
+
+
+Increase the Number of Sections or Courses
+
+
+
+Advantages:
+ This approach meets student demand without the downsides 
+
+
+-
+
+
+
+
+
+
+
+
+-
+
+-
+
+
+-
+Risks:
+
+
+
+
+
+
+
+
+-modate additional sections.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 133Hire More Faculty
+Advantages:
+
+
+
+
+
+Risks:
+
+
+
+-
+
+
+
+opportunities around an institution. Furthermore, the same pressures make cur
+-
+other institutions.
+Leverage Resources Creatively
+
+
+-
+
+Use Technology for Teaching
+
+-
+-
+
+
+-
+and tests. 
+Advantages:
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.134 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+more likely to be underrepresented minorities.
+
+
+
+
+
+Risks:
+
+ 
+
+
+
+
+-
+4
+
+
+-
+
+
+
+
+
+and supervised research.
+Leverage Undergraduates as Nontraditional Teachers and Mentors 
+
+-
+
+
+
+
+
+
+
+
+
+
+teach and mentor each other in supportive and inclusive ways in order to increase 
+
+54 
+5 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 135Advantages:
+
+
+
+
+
+
+
+
+
+-
+
+culture. 
+Risks:
+
+-
+
+
+this approach can place additional strain on course instructors.
+Retrain Faculty and Graduate Students from Other Fields as Computing 
+Instructors
+
+-
+-
+
+
+
+
+
+
+
+
+
+
+this purpose,
+6
+
+Advantages:
+
+-
+
+
+
+
+
+Risks:
+
+
+6 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.136 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+-
+
+Leverage External Teaching Resources
+
+-
+
+
+
+
+Advantages:
+
+
+-
+
+
+
+
+
+
+
+interest to the parties.
+Risks:
+
+
+
+-
+
+
+
+
+-
+
+Build Mechanisms for Continuously Aligning Resources with Workload 
+and Demand
+
+-
+
+
+-
+Advantages:
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 137
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+Risks:
+
+-
+
+
+
+
+
+
+
+
+the institution.
+
+
+
+
+
+minority students.
+ Interdisciplinary Collaboration
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.138 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+-ates will pursue.
+
+
+ these sources will increase 
+
+
+
+Increase the Presence of Computer Science in NonŒComputer Science 
+Courses
+
+
+
+
+
+-
+
+
+
+
+-
+
+
+Tailor Introductory Computer Science Courses to the Needs of Non-Majors
+
+-
+
+-
+
+
+
+
+
+
+and risks.
+Advantages: 
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 139
+
+
+-
+
+-
+
+
+Risks: 
+
+
+-
+
+-
+
+
+-
+
+
+
+Develop a Wider Range of Computing-Related Programs 
+
+
+-
+
+
+
+-
+
+
+
+
+
+Data science, naturally spread over computer science, statistics, applied 
+
+
+
+
+-
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.140 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+
+
+-
+
+New Organizational Structures for Computer Science
+
+-
+-
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 141TABLE 6.1
+
+
+
+University
+
+
+
+
+University
+
+
+
+
+
+
+
+
+DePaul University
+
+
+
+
+
+
+
+
+
+
+Indiana University
+
+
+
+University
+
+Science
+
+
+
+University
+
+
+New Jersey Institute 
+
+
+
+Northeastern 
+University
+
+Sciences
+
+Pace University
+
+
+
+Rochester Institute 
+
+
+Sciences
+
+
+
+
+
+
+
+
+Sciences
+
+
+
+
+Sciences
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.142 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+
+
+
+
+
+
+-
+
+
+-
+Advantages:
+
+
+
+
+ 
+considerably and are institution dependent.
+7
+
+
+-
+
+
+
+
+Risks:
+
+
+
+that presumably means that the leadership has another direct report, which could 
+
+
+-
+
+
+FINDING 8: 
+
+
+
+
+7 
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 143
+-
+
+A TEMPLATE FOR ASSESSING THE CURRENT 
+COMPUTER SCIENCE ENROLLMENT CHALLENGE
+
+
+
+
+FINDING 9:
+ 
+
+-
+increases. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
+ Situation and trends
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.144 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+-
+
+
+
+
+
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.INSTITUTIONAL STRATEGIES
+ 145
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+-
+
+
+
+
+
+needs can be met.
+
+RECOMMENDATION 1: The leaders of the institutions of higher 
+education that have experienced rapid increases in computer science 
+course enrollments should take deliberate actions to address this 
+trend with a sense of urgency. 
+
+
+
+
+
+
+-
+RECOMMENDATION 2: A range of actions should be considered 
+as part of a comprehensive institutional strategy, from targeted con
+-trols on enrollments or resource additions to meet demand, to more 
+7Recommendations
+147
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.148 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+extensive institutional changes that extend beyond the computer 
+science department. 
+
+
+
+ 
+issues and elements that the committee calls out here. The committee also notes 
+
+-
+
+
+
+
+-
+
+
+
+
+
+
+-
+RECOMMENDATION 2.1: Institutions experiencing a computer 
+science enrollment surge should seriously consider an increase in 
+resources to address the rising workload on faculty and staff in com
+-puter science and related departments, and the limitations arising 
+from inadequate facilities.
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+RECOMMENDATION 2.2: Some institutions may view the imposi
+-tion of limits on enrollment in computer science and related courses 
+as desirable or unavoidable. However, before imposing limits on 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.RECOMMENDATIONS
+ 149course or major enrollments, the consequences of doing so should 
+
+for the entire university community.
+
+
+
+
+
+
+
+
+
+-
+-
+
+
+
+
+
+
+
+
+
+RECOMMENDATION 2.3: Institutional leadership should engage 
+directly with computer science departments or programs to develop 
+appropriate faculty hiring and faculty size targets, and develop 
+strategies to improve faculty retention. Increasing the number and 
+enhancing the role of academic-rank teaching faculty should be 
+given serious consideration. 
+
+
+-
+
+
+
+-
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.150 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+-
+
+-
+
+RECOMMENDATION 2.4: Larger institutionsŠin particular, re
+-search universitiesŠshould reevaluate the organizational placement 
+of the computer science department and other departmental units 
+with a computational mission. 
+
+
+-
+
+
+
+
+
+RECOMMENDATION 2.5: Institutions should pursue innovative 
+strategies for using technology to deliver high-quality instruction 
+at scale to large numbers of students. Institutions should also pur
+-sue additional, creative strategies for meeting demand for quality 
+computer science courses and skills development among the entire 
+student body. 
+
+
+
+
+
+
+and work with education researchers to better understand how students learn and 
+
+-
+
+
+
+
+
+
+RECOMMENDATION 3: Institutions should take deliberate ac
+-tions to support diversity in computer science and related programs. 
+In particular:
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.RECOMMENDATIONS
+ 151RECOMMENDATION 3.1: Institutions should assess how com
+-puter science enrollment growth, and any actions or strategies for 
+responding to it, affects the diversity of their student bodies, and  
+deliberately align their actions and the culture of their programs 
+with best practices for diversity and retention.
+
+
+
+
+
+
+
+RECOMMENDATION 3.2: Institutions should leverage the increas
+-
+majors and intended majors, to engage, recruit, and retain more 
+
+-dress the diversity problem proactively.
+
+-
+
+RECOMMENDATION 4: The National Science Foundation (NSF) 
+can be especially helpful in advancing undergraduate computer 
+science education in the context of increasing enrollments, for both 
+majors and non-majors. The following actions should receive seri
+-ous consideration:
+RECOMMENDATION 4.1: Use NSF™s convening power to bring 
+computer science faculty and institutional leaders together to iden
+-tify best practices and innovation in computer science education 
+in times of limited departmental resources. This should include 
+assessment of the computer science skills and knowledge needed in 
+nonŒcomputer science disciplines.
+RECOMMENDATION 4.2: Support research on how best to use 
+technology in teaching large classes. Such research should be multi
+-disciplinary, spanning learning sciences, educational pedagogy for 
+computer science, development and deployment of assessment in
+-struments, and technology design. 
+RECOMMENDATION 4.3: Support research to advance the 
+under
+ 
+standing of best practices for diversity in computing, includ
+-
+insti
+ 
+tutional practices, especially those taken or considered in times 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.152 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+of high enrollments. This research should be multidisciplinary, with 
+experts in both micro- and macro-level social science research, sta
+-tistics, computer science education, and diversity in STEM and 
+computing.
+RECOMMENDATION 4.4: Create an initiative to expand instruc
+-tional resources in computer science, informed by an understand
+-ing of the constraints and dynamics of the supply and demand for 
+computer science Ph.D.s. This might include research support and 
+doctoral fellowships for domestic computer science under
+ graduates, and support for incorporating teaching into computer science doc
+-toral programs and junior faculty research. 
+RECOMMENDATION 5: Computer science departments and 
+the computing industry should develop new partnerships to help 
+higher education meet workforce needs, continue to graduate well-
+ prepared students, encourage industry to provide increased support 
+for research funding, and allow a better exchange of Ph.D.-level 
+ 
+researchers between academia and industry. 
+Academic institutions should pursue new partnerships with industry and to 
+
+
+
+
+
+
+fraction of each state™s workforce and the nation™s computer sci
+-
+-port to their public institutions to enable them to support fully 
+their academic missions, including with respect to computer science 
+education. 
+
+-
+
+
+
+RECOMMENDATION 7: To prepare students better for the ex
+-panding role of computing in academia, industry, and daily life 
+underlying the increase in interest in computer science, government 
+agencies and states should support local, state, and national pro
+-grams for computing education for the purpose of increasing expo
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.RECOMMENDATIONS
+ 153sure to computing, computational principles, information security, 
+and data analytics throughout the K-12 pipeline. 
+
+
+-
+
+
+RECOMMENDATION 8: Actions should be taken to facilitate an 
+improved understanding of national undergraduate enrollment 
+trends by improving the primary data available about them and 
+facilitating the availability of that data in a timely fashion. In par
+-ticular, the following actions should be considered:
+RECOMMENDATION 8.1: Improved data sources about under
+-graduate enrollment should be pursued by federal and state gov
+-ernments in collaboration with academic institutions. To the extent 
+possible, data should be made available in a time frame where the 
+information can be useful for academic and government planning 
+purposes. 
+
+
+-
+
+
+
+
+
+
+
+
+-
+
+
+
+such resources.
+
+undergraduate computing degrees and jobs should be reexamined 
+and updated, so that those used in national statistics are more easily 
+brought into alignment, and map more directly to the current orga
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.154 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+-
+
+-
+
+-
+
+
+
+
+
+
+
+
+RECOMMENDATION 8.3: In the absence of comprehensive national 
+statistics, the computer science community, in collaboration with edu
+-cation, social sciences, and statistics researchers, should continue to 
+
+and graduation rates and measuring student diversity. 
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.RECOMMENDATIONS
+ 155
+
+
+
+
+
+
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+-
+
+
+
+Journal of Educational Psychology.
+
+
+-
+
+
+
+-
+
+
+
+
+
+ 
+
+
+
+American Economic Review Papers and Proceedings.
+
+
+
+
+Breneman, D., and R. Freeman. 1974. 
+Forecasting the Ph.D. Labor Market: Pitfalls for Policy. 
+
+
+
+
+
+157
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.158 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+Proceedings of the Aerospace Applications 
+Conference
+
+Software 
+Engineering Project Management.
+
+
+-
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+ACM Inroads.
+
+
+
+ACM 
+Inroads.
+
+
+Chronicle of Higher 
+Education. 
+
+
+-
+php. 
+
+
+
+pipeline. National Public Radio.
+ 
+pipeline. 
+
+
+Journal of Research in 
+Science Teaching. 
+
+
+Los Angeles Times.
+
+
+
+-rations. 
+Education Dive.
+
+
+
+-
+Journal of Personality and Social 
+ Psychology.
+
+
+
+
+
+
+Journal of College Student Devel
+-opment
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.REFERENCES 159
+
+College Student 
+Journal.
+
+
+
+
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+ACM Inroads
+
+
+
+
+New Directions for Teach
+-ing and Learning
+. 11: 63-71.
+
+
+
+
+
+Donnelly, G. 2017. Tech employees overestimate how well their companies promote diversity. 
+Fortune. 
+
+
+
+-
+
+
+
+
+17-20. 
+
+Nature.
+
+
+The Computer Boys Take Over: Computers, Programmers, and the Politics 
+of Technical Expertise.
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.160 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+ Physics, 1948-1973. 
+American Economic Review. 
+
+
+ILR Review.
+ 29: 236-248. 
+
+
+transition points. 
+Transactions on Computing Education.
+
+
+Institutions. 
+ACM Inroads. 
+
+
+
+
+
+
+
+
+. 
+ 
+
+
+Education Week.
+
+-
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+ 
+
+.
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+Science.
+
+
+
+Wired.
+
+
+
+
+
+Communications of the ACM.
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.REFERENCES 161
+The New York Times.
+
+
+html. 
+
+
+
+Key Issues in Minority Educa
+-tion: Research, Directions, and Practical Implications
+
+
+
+Unlocking the Clubhouse: Women in Computing
+
+
+
+Advanced Placement® Exam Participation: Is AP
+® Exam Participation and Performance Related to Choice of College Major?. 
+
+
+
+Gender Codes: Why Women Are Leaving Computing
+
+
+
+Community Colleges: Playing an Important Role to the Education 
+of Science, Engineering, and Health Graduates.
+
+
+
+-
+
+
+
+
+
+
+
+
+Information Technology 
+and the U.S. Workforce: Where Are We and Where Do We Go from Here?
+ National Academies 
+
+
+
+. 
+
+
+
+
+
+Digest of Education Statistics
+. 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.162 THE GROWTH OF COMPUTER SCIENCE UNDERGRADUATE ENROLLMENTS
+
+
+
+
+-
+
+
+
+
+
+-
+
+
+
+Forecasting Demand and Supply of Doctoral Scientists and 
+Engineers: Report of a Workshop on Methodology.
+
+
+
+Continuing Innovation in Information Technology
+
+
+
+
+
+
+State University.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+Communications of the ACM.
+
+-
+
+-
+
+
+science. 
+Journal of Higher Education
+
+
+
+Proceedings 
+of the 37th SIGCSE Technical Symposium on Computer Science Education (SIGCSE ‚06).
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.REFERENCES 163
+
+Canadian Journal of Education. 
+
+Soares, J.A. 2012. SAT Wars: The Case for Test-Optional College Admission
+
+
+
+-
+html. 
+
+Handbook of Information Science
+
+
+Wall 
+Street Journal.
+
+
+
+
+
+
+
+
+
+
+-
+Journal of Engineering Education.
+
+
+
+New Yorker.
+
+-
+problem. 
+
+
+
+  
+
+
+Journal of Science Education and Technology.
+ 
+
+-
+
+
+
+
+
+
+
+
+-tember 2007.
+
+
+ Levels. 
+Computing Research News. 
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+have occurred in the past or whether they are more likely to be sustained.
+
+
+
+
+
+
+
+
+
+
+167
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.168 APPENDIX A
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.NAS Lecture Room, 2101 Constitution Avenue NW, Washington, DC 
+ Monday, August 15, 2016
+AGENDA
+
+
+9:00
+ Welcome, Overview of Study, and Goals for Workshop
+
+9:05
+ Centrality and
+ Dimensions of Computing
+
+
+
+
+
+10:30
+ Break
+10:45
+ Workforce Trends and Industry Needs 
+
+
+
+
+
+
+
+169
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.170 APPENDIX B
+
+1:30
+  Impacts of
+ Enrollment Management Strategies on Diversity in 
+Computing
+
+ Sarita Brown, 
+Excelencia
+
+
+
+
+ 3:00
+ Break
+3:30
+ The Role and Future of Computing in Universities
+
+
+
+
+
+4:55
+ Wrap-Up and Adjourn
+5:00
+  Reception
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+John Bound and Nicolas Morales
+  August 2016
+171
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.172 APPENDIX CFIGURE C.1
+
+
+
+
+
+
+individuals. 
+EMPLOYMENT
+
+
+
+-
+
+
+1 1 
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 173FIGURE C.2
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.174 APPENDIX CFIGURE C.3
+
+
+
+
+old computer scientists seem to respond more to business cycle variations than 
+
+
+EARNINGS AND WAGES
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 175
+2 
+
+
+
+
+
+
+
+
+
+
+SUPPLY-SIDE ADJUSTMENT
+
+
+-
+
+
+-
+
+
+
+
+
+
+3
+-
+
+
+
+
+
+
+
+-
+
+
+2 
+
+in the 2014 survey.
+3 
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.176 APPENDIX CFIGURE C.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 177FIGURE C.5
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.178 APPENDIX C
+
+
+
+
+
+
+
+4 This trend was re
+-4 
+
+
+
+FIGURE C.6
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 179
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+in computer science but do not necessarily work as computer scientists once they 
+
+-
+
+-
+
+
+
+
+-
+computer science.
+5
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 
+
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.180 APPENDIX CTABLE C.2
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10,781
+23,835
+
+TABLE C.1
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finance
+
+
+
+General business
+
+
+
+
+
+
+
+
+
+
+
+
+15,008
+26,674
+13,167
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 181TABLE C.3
+ 
+
+
+
+
+
+
+
+
+
+
+
+0.001
+[0.007]
+0.0574
+c[0.0157]
+
+[0.011]
+
+[0.0101]
+
+
+
+[0.021]
+0.0414
+[0.0522]
+
+[0.0413]
+0.000708
+[0.028]
+
+0.167
+c[0.004]
+0.241
+c[0.01]
+0.162
+c[0.00732]
+0.149
+c[0.00583]
+
+0.059
+ c
+[0.011]
+0.0611
+a[0.0251]
+0.0393
+a[0.0186]
+0.0804
+c[0.0166]
+
+
+
+c[0.016]
+0.0266
+[0.0311]
+-0.0717
+b[0.0273]
+-0.0935
+c[0.0268]
+
+
+
+a[0.021]
+0.0472
+[0.0424]
+-0.0371
+[0.0324]
+-0.0889
+a[0.0355]
+
+0.193
+c[0.005]
+0.253
+c[0.0113
+0.195
+c[0.0084
+0.174
+c[0.00612
+
+0.124
+c[0.005]
+0.112
+c[0.0163]
+0.102
+c[0.011]
+0.128
+c[0.00672
+
+0.144
+c[0.00397]
+0.221
+c[0.0114]
+0.168
+c[0.00657]
+0.104
+c[0.00553]
+N108,226
+15,582
+34,439
+57,888
+
+0.182
+0.105
+0.091
+0.089
+Sample
+
+workers
+
+
+
+
+a p < 0.05, 
+b p < 0.01, 
+c p < 0.001. The dependent variable is 
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+who work as computer scientists.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.182 APPENDIX C
+
+science declines perceptibly but does not disappear. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE C.4
+ 
+
+
+
+
+scientists
+0.022
+a[0.006]
+0.011
+[0.006]
+
+0.181
+a[0.005]
+0.180
+a[0.006]
+
+0.159
+a[0.012]
+0.157
+a[0.014]
+
+0.002
+[0.018]
+0.0212
+[0.021]
+N65,681
+54,443
+
+0.172
+0.176
+Sample
+
+
+
+
+a
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved. 183TABLE C.5
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+132,144
+84,312
+49,677
+83,330
+241,519
+265,571
+2,788,574
+
+2009-2014.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.184 APPENDIX C
+
+
+
+
+
+pace than the increase in demand observed in the late 1990s due to the IT boom. 
+
+
+-
+
+
+
+
+REFERENCES
+
+scientist case. 
+Quarterly Journal of Economics
+
+
+
+American Economic Review Papers and Proceedings
+ 
+
+
+Journal of Labor Economics
+
+S187-S223.
+
+Industrial and Labor Relations Review
+
+
+Journal of Political Economy
+ 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+ 
+
+
+Jennifer Hunt
+ Rutgers University and NBER
+1  October 6, 2016
+ABSTRACT
+
+-
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+185
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.186 APPENDIX D
+
+GROWTH IN COMPUTER SCIENCE DEGREES
+
+
+
+have risen sharply since 2009.
+2
+have trended upward but are almost acyclical, unlike computer science bach
+-
+
+
+
+
+
+
+2 
+FIGURE D.1
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX D 187FIGURE D.2
+ 
+-
+
+
+
+
+
+
+
+-
+
+on temporary visas. 
+
+
+
+-
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.188 APPENDIX DFIGURE D.3
+
+
+
+
+
+
+
+have a common cause.
+EXPLANATIONS FOR PAST BOOMS AND BUSTS 
+IN COMPUTER SCIENCE DEGREES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX D 189FIGURE D.4
+ 
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+
+
+
+ARE COMPUTER SCIENCE DEGREES RISING 
+CURRENTLY BECAUSE DEMAND IS RISING?
+
+-ence has not yet received the same attention as the earlier cycles. There has not 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.190 APPENDIX D
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+-
+the 1990s.
+3
+
+
+
+see more clearly whether the recent increase in employment in panel B is linked 
+
+
+
+bust cycles: employment in computer occupations rose sharply in the early 1980s, 
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+43 
+
+
+4 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX D 191FIGURE D.5
+ 
+
+-
+1979-2015.
+Panel D shows that the recent increase in employment in computer occupa
+-tions and the 1995-2005 cycle are still visible when I limit the sample to workers 
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.02.04.06.0819801985199019952000200520102015 A. All workers
+0.02.04.06.0819801985199019952000200520102015 B. College graduates0.02.04.06.0819801985199019952000200520102015 C. Young college graduates
+0.02.04.06.0819801985199019952000200520102015 D. Young native college graduates
+Computer, Mathematics
+Engineering, ArchitectureSciencesAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.192 APPENDIX D
+-
+
+
+-
+
+
+
+
+-
+
+
+-
+
+
+5 5 
+FIGURE D.6
+ 
+
+
+Groups, 1979-2015.
+15202530352014 $19801985199019952000200520102015 A. All workers
+15202530352014 $19801985199019952000200520102015 B. College graduates15202530352014 $19801985199019952000200520102015 C. Young college graduates
+15202530352014 $19801985199019952000200520102015 D. Young native college graduates
+Computer, Mathematics
+Engineering, ArchitectureSciencesAssessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX D 193
+
+
+
+
+
+-
+
+
+
+
+
+WHAT COULD HAVE CAUSED THE DEMAND FOR 
+COMPUTER SCIENCE MAJORS TO SHIFT OUT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT COULD HAVE CAUSED THE SUPPLY OF 
+COMPUTER SCIENCE MAJORS TO SHIFT OUT?
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.194 APPENDIX D
+6 Another possibility is that computer 
+
+
+-
+
+
+
+
+CONCLUSION
+
+-
+
+
+
+
+
+
+
+-
+
+-
+
+
+
+
+REFERENCES
+
+
+
+
+American Economic Review
+
+
+
+Journal of Labor Economics
+
+S187-S223.
+
+Physics, 1948-1973. 
+American Economic Review
+
+
+Journal 
+of Labor Economics
+
+6 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+Allan Moser and Lynne Molter
+ Department of Engineering
+ Swarthmore College
+  October 3, 2016
+
+
+
+
+-
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+
+195
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.196 APPENDIX E
+
+
+-
+
+
+students.
+
+
+
+-
+all records could be linked, since some institutions provided only partial data. 
+In addition some records could not be used because necessary data elements, 
+
+
+records reduced this number to 19,788 cases. 
+DISCUSSION OF STUDENTS ENROLLED IN 
+COMPUTER SCIENCE CLASSES
+
+
+
+-
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX E 197
+
+
+-
+
+
+
+
+
+
+
+SUMMARY OF ANALYSIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.198 APPENDIX E
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+-
+
+
+
+
+
+-
+
+
+
+
+
+-
+FIGURE 2.1 
+Caption:
+
+
+
+
+
+
+
+
+
+Database Query Parameters Used 
+
+199
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.200 APPENDIX F
+
+IPEDS Data:
+Number of Degrees, All Institutions
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, 6-Digit CIP:
+
+-
+Level of Degree or Other Award:
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, 4-Digit CIP:
+
+Level of Degree or Other Award:
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Level of Degree or Other Award:
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 201
+
+prior to 1987.
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, 6-Digit CIP:
+
+-
+Level of Degree or Other Award:
+
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+
+-
+Year:
+ All values
+Academic Discipline, 4-Digit CIP:
+
+Level of Degree or Other Award:
+
+
+Public Institutions, Private In
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.202 APPENDIX F
+Data Source:
+
+IPEDS Completions Survey:
+
+-
+Year:
+ All values
+Level of Degree or Other Award:
+
+
+Public Institutions, Private In
+-
+Share: 
+
+-
+
+
+-
+FIGURE 2.2
+Caption:
+ 
+
+IPEDS Data:
+Number of CIS Degrees Awarded to Temporary Residents over Time
+Data Source:
+
+IPEDS Completions Survey by Race:
+
+
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+
+Temporary Resident
+Level of Degree or Other Award: 
+
+-
+
+
+Plot includes data for only 1977 on. Data for all category of ﬁDoctor
+-ateﬂ degree in a given year was added together to yield the total.
+Percentage of CIS Degrees Awarded to Temporary Residents over Time
+Absolute numbers of each level of CS degree completed by temporary resi
+-dents produced in a given year were divided by the total number of the cor
+-responding type of CS degree produced in the corresponding year to yield 
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 203the data plotted. Total numbers of each level of CS degree were obtained via 
+the following query:
+Data Source:
+
+IPEDS Completions Survey by Race:
+
+
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award: 
+
+-
+
+
+FIGURE 2.3
+Caption:
+ 
+
+IPEDS Data:
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+
+ Public Institutions, Private In
+-
+
+Data Source:
+
+Year:
+ All values
+Academic Discipline, 4-Digit CIP:
+
+Level of Degree or Other Award:
+
+Institutional Control (standardized):
+ Public Institutions, Private Insti
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.204 APPENDIX FFIGURE 2.4 
+Caption:
+
+
+
+IPEDS Data:
+Bachelor™s degree completions by year and institution type
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Level of Degree or Other Award:
+
+
+ Public Institutions, Private In
+-
+
+
+all private institutions is plotted as a dashed line prior to 1987. Degrees 
+awarded at institutions without a designated Institutional Control (of which 
+there are relatively few) are not plotted.
+FIGURE 2.5 
+Caption:
+
+
+IPEDS Data:
+Bachelor™s degree completions by year and institution type
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+
+Research Uni
+-
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 205
+
+
+ Public Institutions, Private In
+-
+
+-
+FIGURE 2.6 
+Caption:
+
+
+research-activity institutions, and other doctoral institutions, 1987-2017.
+IPEDS Data:
+CIS bachelor™s degree completions by year and institution type
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+
+Research Uni
+-
+-
+
+ Public Institutions, Private In
+-
+
+
+
+unknown were not included.
+FIGURE 2.7 
+Caption:
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.206 APPENDIX FIPEDS Data:
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award: 
+All
+
+ All
+
+
+
+
+
+FIGURE 3.2
+Caption:
+
+-
+
+
+
+
+
+
+
+IPEDS Data:
+
+
+for each year.
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Institutional Control: 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 207
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, 6-Digit CIP:
+
+-
+Level of Degree or Other Award:
+
+Institutional Control: 
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Level of Degree or Other Award:
+
+Institutional Control: 
+
+FIGURE 3.13 
+Caption:
+
+-
+
+
+-
+
+
+IPEDS Data:
+Total numbers of each degree type in each discipline were divided by the 
+total number of bachelor™s degrees in a given year in that discipline to yield 
+their corresponding share of the total for the discipline.
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2015
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.208 APPENDIX FAcademic Discipline, Detailed (standardized):
+
+
+-
+Level of Degree or Other Award:
+ All
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2015
+Academic Discipline, 4-Digit CIP:
+
+Level of Degree or Other Award:
+ All
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2015
+Level of Degree or Other Award:
+ All
+FIGURE 3.15 
+Caption:
+
+
+
+
+
+IPEDS Data:
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Institutional Control: 
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 209
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, 6-Digit CIP:
+
+-
+Level of Degree or Other Award:
+
+Institutional Control: 
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, 6-Digit CIP:
+
+Level of Degree or Other Award:
+
+Institutional Control: 
+
+FIGURE 4.1 
+Caption:
+
+
+
+-
+IPEDS Data:
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+The number of CIS bachelor™s degrees were added cumulatively over time 
+to obtain the plotted data.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.210 APPENDIX FFIGURE 4.2 
+Caption:
+
+
+
+ IPEDS Data:
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Level of Degree or Other Award:
+
+FIGURE 5.2 
+Caption: 
+
+
+institutions.
+IPEDS Data:
+
+
+total number of CIS bachelor™s degrees completed for the same institutional 
+control to yield the plotted data.
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 211
+
+Data Source:
+
+IPEDS Completions Survey:
+
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Gender:
+ All
+Institutional Control: 
+All
+FIGURE 5.3
+Caption:
+
+
+
+
+
+
+-
+
+IPEDS Data:
+
+-
+(public plus private, right-hand panel) was divided by the total number of 
+CIS bachelor™s degrees completed each year to yield the plotted data.
+
+Data Source:
+
+IPEDS Completions Survey by Race:
+
+
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+
+All
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.212 APPENDIX FFIGURE 5.4
+Caption: 
+
+
+IPEDS Data: 
+
+-resented minority group is plotted separately.
+FIGURE 5.5 
+Caption:
+
+
+
+-
+
+
+IPEDS Data:
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+Institutional Control: 
+All
+FIGURE 5.6
+Caption: 
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 213IPEDS Data:
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Gender:
+ All
+Institutional Control: 
+All
+FIGURE 5.8
+Caption: 
+
+
+IPEDS Data: 
+
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2009-2015
+Academic Discipline, 6-Digit CIP:
+
+-
+Level of Degree or Other Award:
+
+Gender: All
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2009-2015
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.214 APPENDIX FAcademic Discipline, 6-Digit CIP:
+
+Level of Degree or Other Award:
+
+Gender: All
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2009-2015
+Academic Discipline, 4-Digit CIP:
+
+Level of Degree or Other Award:
+
+Gender: All
+
+Public Institutions, Private In
+-
+The number of degrees for women was divided by the total number of degrees 
+in each year to obtain the plotted data.
+FIGURES 5.9Œ5.11
+Caption (FIGURE 5.9): 
+
+
+Caption (FIGURE 5.10): 
+
+
+2009 and 2015.
+Caption (FIGURE 5.11): 
+
+
+IPEDS Data for Figures 5.9-5.11: 
+
+Data Source:
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 215IPEDS Completions Survey:
+-
+Year:
+ 2009-2015
+Academic Discipline, 6-Digit CIP:
+
+-
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2009-2015
+Academic Discipline, 6-Digit CIP:
+
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ 2009-2015
+Academic Discipline, 4-Digit CIP:
+
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical): 
+All
+
+Public Institutions, Private In
+-
+FIGURE 5.12
+Caption:
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.216 APPENDIX F
+
+
+
+IPEDS Data:
+The number of students of each gender completing CS bachelor™s degrees 
+
+
+institutions in a given year to yield the plotted data.
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Gender
+: All
+
+Public Institutions, Private In
+-
+
+Data Source:
+
+IPEDS Completions Survey:
+-
+Year:
+ All values
+Level of Degree or Other Award:
+
+Gender
+: All
+
+Public Institutions, Private In
+-
+FIGURE 5.13
+Caption:
+
+-
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX F 217
+-
+IPEDS Data:
+The number of students in each underrepresented minority group completing 
+
+number of students in the same underrepresented minority group completing 
+
+yield the plotted data series.
+
+Data Source:
+
+IPEDS Completions Survey by Race:
+
+
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+
+Data Source:
+
+IPEDS Completions Survey by Race:
+
+
+Year:
+ All values
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+FIGURE 5.18 
+Caption: 
+
+
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.218 APPENDIX FIPEDS Data:
+Total numbers of CIS associate™s degrees for each race/ethnic group were 
+divided by the total number of CIS associate™s degrees in a given year to yield 
+the corresponding share of all CS associate™s degrees.
+
+Data Source:
+
+IPEDS Completions Survey by Race:
+
+
+Year:
+ All values
+Academic Discipline, Detailed (standardized):
+
+Level of Degree or Other Award:
+
+Race & Ethnicity (Historical):
+ All
+FIGURE 5.19
+Caption: 
+
+-
+IPEDS Data:
+Total numbers of CS associate™s degrees for women were divided by the total 
+number of associate™s degrees in a given year to yield the corresponding 
+share of all CS associate™s degrees.
+
+Data Source: 
+
+IPEDS Completions Survey: 
+-
+Year: 
+All values
+Academic Discipline, Detailed (standardized): 
+
+Level of Degree or Other Award: 
+
+Gender: 
+Female
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.STUDY COMMITTEE
+
+Co-Chair
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Co-Chair
+
+
+
+-
+
+
+
+
+219
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.220 APPENDIX G
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+IEEE Internet Computing
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX G 221
+
+
+
+-
+
+
+
+
+
+
+
+Technology Review
+
+
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+Wall Street Journal
+
+
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.222 APPENDIX G
+honorary doctorate in public service.
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+
+
+
+
+-
+and was named to 
+Hispanic Business
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX G 223
+
+and conducted research in control systems.
+
+C
+
+
+
+
+
+
+-
+
+
+-
+
+
+
+
+-
+
+
+
+-
+
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+
+
+-
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.224 APPENDIX G
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+at Berkeley in 1991.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+Saint Francis University, Loretto, Pennsylvania. She accepted her current position 
+
+-
+
+
+-
+
+
+
+
+
+-
+-Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX G 225
+
+
+
+
+
+
+
+
+
+
+
+STAFF
+EMILY GRUMBLING
+ 
+-
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+-
+-
+
+-
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.226 APPENDIX G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.
+
+
+
+
+
+
+AP Advanced Placement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acronyms and Abbreviations
+227
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.228 APPENDIX H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NSF National Science Foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.APPENDIX H 229
+
+Research System
+
+Assessing and Responding to the Growth of Computer Science Undergraduate EnrollmentsCopyright National Academy of Sciences. All rights reserved.

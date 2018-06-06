@@ -1,0 +1,302 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/24949Additional Observations on Foundational CybersecurityResearch: Improving Science, Engineering, and Institutions:An Annex: Unclassified Abbreviated Version of a ClassifiedReport10 pages | 8.5 x 11 | PAPERBACKISBN 978-0-309-46813-8 | DOI 10.17226/24949Committee on Future Research Goals and Directions for Foundational Sciences inCybersecurity; Computer Science and Telecommunications Board; Division onEngineering and Physical Sciences; National Academies of Sciences, Engineering,and MedicineAdditional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of a...Copyright National Academy of Sciences. All rights reserved.   Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex   Unclassified Abbreviated Vers
+ion of a Classified Report 
+  
+   
+ 
+ 
+   
+ 
+ Committee on Future Research Goals and Directions
+ for Foundational Sciences in Cybersecurity 
+ Computer Science and Telecommunications Board 
+ Division on Engineering and Physical Sciences
+  
+  A Consensus Study Report of   
+   
+  
+  Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved. THE NATIONAL ACADEMIES PRESS          500 Fi
+fth Street, NW           Washington, DC 20001 
+ This project was supported by the National Security
+ Agency with assistance from the Office of the 
+Director of National Intelligence under award num
+ber 2014-14041100003-003 and assistance from the 
+National Science Foundation under award number CNS-
+1400278. Any opinions, findings, conclusions, or 
+recommendations expressed in this publication do not n
+ecessarily reflect the views of any organization or 
+agency that provided support for this project. 
+
+ 
+Digital Object Identifier: https://doi.org/10.17226/ 24949 
+ Copyright 2017 by the National Academ
+y of Sciences. All rights reserved.  
+Printed in the United States of America 
+
+ National Academies of Sciences, 
+Engineering, and Medicine. 2017. 
+Additional Observations on 
+Foundational Cybersecurity Resea
+rch: Improving Science, Engineeri
+ng, and Institutions: An AnnexŠ
+Abbreviated Version of a Classified Report
+. Washington, DC: The National Academies Press. doi: 
+https://doi.org/10.17226/ 24949. 
+
+    Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved.     The National Academy of Sciences 
+was established in 1863 by an Act of Congress, signed by 
+President Lincoln, as a private, nongovernmenta
+l institution to advise the nation on issues 
+related to science and technology. Members 
+are elected by their peers for outstanding 
+contributions to research. Dr. 
+Marcia McNutt is president. 
+ The National Academy of Engineering 
+was established in 1964 under the charter of the 
+National Academy of Sciences to bring the prac
+tices of engineering to advising the nation. 
+Members are elected by their peers for extraordin
+ary contributions to en
+gineering. Dr. C. D. 
+Mote, Jr., is president. 
+
+ 
+The National Academy of Medicine
+ (formerly the Institute of Medicine) was established in 
+1970 under the charter of the National Academy of Sciences to advise the nation on medical 
+and health issues. Members are elected by th
+eir peers for distinguished contributions to 
+medicine and health. Dr. Victor J. Dzau is president. 
+
+ 
+The three Academies work together as the 
+National Academies of 
+Sciences, Engineering, 
+and Medicine
+ to provide independent, objective an
+alysis and advice to the nation and 
+conduct other activities to solve complex prob
+lems and inform public policy decisions. The 
+National Academies also encourage education and research, recognize outstanding 
+
+contributions to knowledge, and increase public understanding in matters of science, 
+engineering, and medicine.  
+ 
+Learn more about the National Academies of Sciences, Engineering, and Medicine at 
+
+www.nationalacademies.org
+.     Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved.      Reports document the evidence-based consensus 
+of an authoring committee of experts. 
+Reports typically include findings, conclusion
+s, and recommendations based on information 
+gathered by the committee and committee delibera
+tions. Reports are peer reviewed and are 
+approved by the National Academies of Sciences, Engineering, and Medicine. 
+ 
+Proceedings 
+chronicle the presentations and discussions at a workshop, symposium, or other 
+convening event. The statements and opinions
+ contained in proceedin
+gs are those of the 
+participants and have not been endorsed by other participants, the planning committee, or 
+
+the National Academies of Scienc
+es, Engineering, and Medicine. 
+ For information about other products and activi
+ties of the National Academies, please visit 
+nationalacademies.org/whatwedo.
+Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved.v COMMITTEE ON FUTURE RESEARCH GOALS AND DIRECTIONS FOR FOUNDATIONAL 
+SCIENCES IN CYBERSECURITY 
+ BARUCH FISCHHOFF, NAS
+1/NAM,2 Carnegie Mellon University, 
+Co-Chair 
+PETER WEINBERGER, Google, Inc., Co-Chair JANDRIA S. ALEXANDER, The Aerospace Corporation 
+
+ANNIE ANTON, Georgia Institute of Technology 
+
+STEVEN M. BELLOVIN, NAE,
+3 Columbia University SEYMOUR E. GOODMAN, Georgia Institute of Technology 
+RONALD L. GRAHAM, NAS, University of California, San Diego 
+CARL E. LANDWEHR, Independent Consultant 
+
+STEVEN B. LIPNER, NAE, Software Assurance Forum for Excellence in Code 
+ROY A. MAXION, Carnegie Mellon University 
+
+GREG MORRISETT, Cornell University BRIAN SNOW, Independent Consultant 
+PHIL VENABLES, Goldman Sachs 
+STEVEN J. WALLACH, NAE, Micron Technology 
+  Staff 
+ LYNETTE I. MILLETT, Associate Director and Senior Program Officer 
+
+ 
+ 
+   
+ 
+ 
+   
+ 
+                                                       
+1 Member, National Academy of Sciences. 
+2 Member, National Academy of Medicine. 
+3 Member, National Academy of Engineering. 
+Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved. vi COMPUTER SCIENCE AND TELECOMMUNICATIONS BOARD 
+ FARNAM JAHANIAN, Carnegie Mellon University, 
+Chair ANDRÉ BARRASO, Google, Inc. 
+STEVE M. BELLOVIN, NAE,1 Columbia University 
+ROBERT F. BRAMMER, Brammer Technology, LLC 
+
+DAVID CULLER, NAE, University of California, Berkeley 
+
+EDWARD FRANK, Cloud Parity, Inc. 
+
+LAURA HAAS, NAE, University of Massachusetts, Amherst 
+MARK HOROWITZ, NAE, Stanford University 
+ERIC HORVITZ, NAE, Microsoft 
+
+VIJAY KUMAR, NAE, University of Pennsylvania 
+
+BETH MYNATT, Georgia Tech 
+
+CRAIG PARTRIDGE, Raytheon BBN Technologies 
+DANIELA RUS, NAE, MIT  
+FRED B. SCHNEIDER, NAE, Cornell University 
+
+MARGO SELTZER, Harvard University 
+
+JOHN STANKOVIC, University of Virginia 
+
+MOSHE VARDI, NAS
+2/NAE, Rice 
+KATHERINE YELICK, NAE, University of California, Berkeley 
+ Staff  JON EISENBERG, Director  
+
+LYNETTE I. MILLETT, Associate Director  
+ SHENAE BRADLEY, Administrative Assistant 
+
+EMILY GRUMBLING, Program Officer 
+
+RENEE HAWKINS, Financial and Administrative Manager  
+
+KATIRIA ORTIZ, Research Associate 
+  For more information on CSTB, see its website at http://www.cstb.org, write to CSTB at 
+National Academies of Sciences, Engineering and 
+Medicine, 500 Fifth Street, NW, Washington, DC 
+20001, call (202) 334-2605, or e-mail the CSTB at cstb@nas.edu. 
+                                                        
+1 Member, National Academy of Engineering. 
+2 Member, National Academy of Sciences. 
+Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved.vii   
+   Acknowledgment of Reviewers 
+ 
+ This Consensus Study Report was reviewed in draf
+t form by individuals chosen for their diverse 
+perspectives and technical expertise. The purpose of 
+this independent review 
+is to provide candid and 
+critical comments that will assist the National Academ
+ies of Sciences, Engineering, and Medicine in making each published report as sound as possible and to
+ ensure that it meets the institutional standards for quality, objectivity, evidence, and responsiveness 
+to the study charge. The review comments and draft 
+manuscript remain confidential to protect th
+e integrity of the deliberative process.  
+We wish to thank the following individuals for their review of this report:  
+ Robert Brammer, Brammer Technology, LLC, 
+Fred Chang, NAE,
+1 Southern Methodist University, 
+Richard Danzig, Johns Hopkins University Applied Physics Laboratory, and 
+
+Fred B. Schneider, NAE, Cornell University. 
+
+ 
+Although the reviewers listed he
+re provided many constructive 
+comments and suggestions, they 
+were not asked to endorse the conclusions or reco
+mmendations of this report nor did they see the final 
+draft before its release. The review of this repor
+t was overseen by Anita Jones, NAE, University of 
+Virginia. She was responsible for making certain th
+at an independent examination of this report was 
+carried out in accordance with the standards of th
+e National Academies and that all review comments 
+were carefully considered. Responsibility for the fina
+l content rests entirely with the authoring committee 
+and the National Academies. 
+                                                      
+1 Member, National Academy of Engineering. 
+Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved. Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved. 1 Unclassified Abbreviated Vers
+ion of a Classified Report 
+ At the request of the Special Cyber Operations
+ Research and Engineering (SCORE) Interagency 
+Working Group and sponsored with assistance from th
+e National Science Foundation and from the Office 
+of the Director of National Intelligence, the National Academies of Sciences, Engineering, and Medicine
+1 appointed an expert committee, the Committee on Futu
+re Research Goals and Directions for Foundational 
+Sciences in Cybersecurity, to explore future resear
+ch goals and directions for cybersecurity. The 
+statement of task for the study was as follows: 
+
+ An ad hoc National Research Council committee will conduct a multi-phased sequential study to 
+consider future research goals an
+d directions for foundational science in cybersecurity, to include 
+relevant efforts in economics and behavioral scie
+nce as well as more ﬁtraditionalﬂ cybersecurity 
+topics. It will also consider how investments in foundational work support mission needs in the 
+long term. The committee will review current uncla
+ssified and classified cybersecurity research 
+strategies, plans, and programs as well as requirem
+ents in both domains.  It will consider major 
+challenge problems, explore proposed new directions, identify gaps in the current portfolio, 
+consider the complementary roles of research in 
+unclassified and classified settings, and consider 
+how foundational work in an unclassified setting can be translated to meet national security 
+
+objectives. Phase 1 will involve preliminary data 
+gathering and analysis by the committee but no 
+report will be issued. In Phase 2, the committee will undertake additional data-gathering, analysis 
+and deliberations. In Phase 3, th
+e committee would extend its data
+-gathering and analysis from 
+Phase 2.  The study will result in two reports: (1) a public report at the conclusion of Phase 2 
+providing a high-level roadmap for foundational cybersecurity research based only on public 
+domain information and (2) an additional, brief public report and a non-public classified annex as 
+
+necessary reflecting the commi
+ttee™s work in Phase 3.  
+ This abbreviated report annex is a result of Phase 3. The Office of the Director of National Intelligence has determined that the annex prepared 
+by the committee is classified in its entirety under 
+Executive Order 13526 and therefore cannot be made av
+ailable to the public. Prepared by the committee, 
+this abbreviated annex provides background information on the full annex. The committee gathered 
+additional input for this phase through a limited set 
+of briefings that took place in May 2017.  The 
+committee appreciates the insights and perspectives pr
+ovided by the experts from the Department of 
+Homeland Security, the National Security Agency, 
+the Defense Advanced Research Projects Agency, 
+Cyber Pack Ventures, and ThreatConnect who 
+presented briefings and shared perspectives. 
+The annex does not reprise the main points of the study that were published in the results of Phase 2.  The committee hopes readers will read that unclassified report.2  These reports represent the 
+cooperative effort of many people. The committee th
+anks the individuals who came to speak with us 
+during the course of the study. Although scheduling mean
+t that not all members were able to participate 
+during Phase 3 activities, their work and insights during Phase 2 helped
+ inform efforts in Phase 3. 
+                                                       
+1 Effective July 1, 2015, the institution is called th
+e National Academies of Sciences, Engineering, and 
+Medicine. References in this report to the National Res
+earch Council are used in an
+ historic context identifying 
+programs prior to July 1. 
+2 National Academies of Sciences, Engineering, and Medicine, 2017, 
+Foundational Cybersecurity Research: 
+Improving Science, Engineering, and Institutions
+, Washington, DC: The National Academies Press, 
+https://doi.org/10.17226/24676. 
+Additional Observations on Foundational Cybersecurity Research: Improving Science, Engineering, and Institutions: An Annex: Unclassified Abbreviated Version of ...Copyright National Academy of Sciences. All rights reserved.    
+ 

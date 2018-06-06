@@ -1,0 +1,2867 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/18414Geotargeted Alerts and Warnings: Report of a Workshop onCurrent Knowledge and Research Gaps78 pages | 6 x 9 | HARDBACKISBN 978-0-309-38687-6 | DOI 10.17226/18414Committee on Geotargeted Disaster Alerts and Warnings: A Workshop on CurrentKnowledge and Research Gaps; Computer Science and Telecommunications Board;Division on Engineering and Physical Sciences; National Research CouncilGeotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.Committee on Geotargeted Disaster Alerts and Warnings: 
+ A Workshop on Current Knowledge and Research Gaps
+Computer Science and Telecommunications Board
+Division on Engineering and Physical SciencesGeotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS
+ 500 Fifth Street, NW
+ Washington, DC 20001
+NOTICE: The project that is the subject of this report was approved by the Gov
+-erning Board of the National Research Council, whose members are drawn from 
+the councils of the National Academy of Sciences, the National Academy of Engi
+-neering, and the Institute of Medicine. 
+Support for this project was provided by the Department of Homeland Secu
+-rity under contract number HSHQDC-11-D-00009, task order number HSHQDC-
+12-J-00189. Any opinions, ˜ndings, or conclusions expressed in this publication 
+are those of the authors and do not necessarily re˚ect the views of the organiza
+-tions that provided support for the project.
+International Standard Book Number-13
+ 978-0-309-28985-6
+International Standard Book Number-10:
+ 0-309-28985-8
+This report is available from:
+Computer Science and Telecommunications Board
+National Research Council
+500 Fifth Street, NW
+
+Washington, DC 20001 
+Additional copies of this report are available from the National Academies Press, 
+500 Fifth Street, NW, Keck 360, Washington, DC 20001; (800) 624-6242 or (202) 
+
+334-3313
+; http://www.nap.edu. 
+Copyright 2013 by the National Academy of Sciences. All rights reserved.
+Printed in the United States of America
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.The National Academy of Sciences is a private, nonpro˜t, self-perpetuating 
+society of distinguished scholars engaged in scienti˜c and engineering research, 
+dedicated to the furtherance of science and technology and to their use for the 
+general welfare. Upon the authority of the charter granted to it by the Congress 
+in 1863, the Academy has a mandate that requires it to advise the federal govern
+-ment on scienti˜c and technical matters. Dr. Ralph J. Cicerone is president of the 
+National Academy of Sciences.
+The National Academy of Engineering was established in 1964, under the charter of the National Academy of Sciences, as a parallel organization of outstanding 
+engineers. It is autonomous in its administration and in the selection of its mem
+-bers, sharing with the National Academy of Sciences the responsibility for advis
+-ing the federal government. The National Academy of Engineering also sponsors 
+engineering programs aimed at meeting national needs, encourages education 
+and research, and recognizes the superior achievements of engineers. Dr. C. D. 
+Mote, Jr., is president of the National Academy of Engineering.
+The 
+Institute of Medicine
+ was established in 1970 by the National Academy of 
+Sciences to secure the services of eminent members of appropriate professions 
+in the examination of policy matters pertaining to the health of the public. The 
+Institute acts under the responsibility given to the National Academy of Sciences 
+by its congressional charter to be an adviser to the federal government and, upon 
+its own initiative, to identify issues of medical care, research, and education. 
+Dr. Harvey V. Fineberg is president of the Institute of Medicine.
+The 
+National Research Council
+ was organized by the National Academy of 
+Sciences in 1916 to associate the broad community of science and technology 
+with the Academy™s purposes of furthering knowledge and advising the federal 
+government. Functioning in accordance with general policies determined by the 
+Academy, the Council has become the principal operating agency of both the 
+National Academy of Sciences and the National Academy of Engineering in pro
+-viding services to the government, the public, and the scienti˜c and engineering 
+communities. The Council is administered jointly by both Academies and the 
+Institute of Medicine. Dr. Ralph J. Cicerone and Dr. C. D. Mote, Jr., are chair and 
+vice chair, respectively, of the National Research Council.
+www.national-academies.org
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.iv
+OTHER RELATED REPORTS OF THE COMPUTER 
+SCIENCE AND TELECOMMUNICATIONS BOARD
+Public Response to Alerts and Warnings Using Social Media: Summary 
+of a Workshop on Current Knowledge and Research Gaps (2013)
+Public Response to Alerts and Warnings on Mobile Devices: Summary 
+of a Workshop on Current Knowledge and Research Gaps (2011)
+Improving Disaster Management: The Role of IT in Mitigation, 
+Preparedness, Response, and Recovery (2007)
+The Internet Under Crisis Conditions: Learning from September 11 
+(2003)
+Limited copies of CSTB reports are available free of charge from
+Computer Science and Telecommunications Board
+National Research Council
+The Keck Center of the National Academies
+500 Fifth Street, NW, Washington, DC 20001
+(202) 334-2605/cstb@nas.edu
+www.cstb.org
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.vCOMMITTEE ON GEOTARGETED ALERTS AND WARNINGS: 
+ A WORKSHOP ON CURRENT KNOWLEDGE 
+AND RESEARCH GAPS
+ELLIS M. STANLEY, SR., Independent Consultant, Atlanta, Georgia, 
+Chair
+ART BOTTERELL, Carnegie Mellon University, Silicon Valley
+K. MANI CHANDY, California Institute of Technology
+DENNIS S. MILETI, University of Colorado, Boulder
+HELENA MITCHELL, Georgia Institute of Technology
+RAMESH R. RAO, University of California, San Diego
+SHASHI SHEKHAR, University of Minnesota, Minneapolis
+MING-HSIANG TSOU, San Diego State University
+Staff
+VIRGINIA BACON TALATI, Program Of˜cer
+SHENAE BRADLEY, Senior Program Assistant
+LINDA WALKER, Senior Program Assistant
+JON EISENBERG, Director, Computer Science and Telecommunications 
+Board
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.vi
+COMPUTER SCIENCE AND TELECOMMUNICATIONS BOARD
+ROBERT F. SPROULL, Oracle (retired), 
+Chair 
+JACK L. GOLDSMITH III, Harvard Law School
+SEYMOUR E. GOODMAN, Georgia Institute of Technology 
+ROBERT KRAUT, Carnegie Mellon University 
+SUSAN LANDAU, Radcliffe Institute for Advanced Study 
+PETER LEE, Microsoft Corporation
+DAVID E. LIDDLE, US Venture Partners 
+JOHN STANKOVIC, University of Virginia
+JOHN A. SWAINSON, Dell, Inc.
+PETER SZOLOVITS, Massachusetts Institute of Technology 
+ERNEST J. WILSON, University of Southern California
+KATHERINE YELICK, University of California, Berkeley
+Staff
+JON EISENBERG, Director 
+VIRGINIA BACON TALATI, Program Of˜cer
+SHENAE BRADLEY, Senior Program Assistant
+RENEE HAWKINS, Financial and Administrative Manager 
+HERBERT S. LIN, Chief Scientist, CSTB
+LYNETTE I. MILLETT, Associate Director, CSTB 
+ERIC WHITAKER, Senior Program Assistant
+For more information on CSTB, 
+ see its website at http://www.cstb.org, write to CSTB, 
+ National Research Council, 500 Fifth Street, NW, Washington, DC 20001, 
+call (202) 334-2605, or e
+-mail the CSTB at cstb@nas.edu.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.vii
+Following earlier workshops organized by separate National Research 
+Council (NRC) committees that explored the public response to 
+alerts and warnings delivered to mobile devices
+1 and alerts and 
+warnings delivered using social media,
+2 the Department of Homeland 
+Security™s Science and Technology Directorate asked the Computer Sci
+-ence and Telecommunications Board of the NRC to convene a workshop 
+to examine more precise geotargeting of alerts and warnings.  This report 
+presents a summary of a February 21-22, 2013, workshop organized by 
+the NRC™s Committee on Geotargeted Disaster Alerts and Warnings: Cur
+-rent Knowledge and Research Gaps. The workshop brought together 
+social science researchers, technologists, emergency management profes
+-sionals, and other experts to explore (1) what is known about how the 
+public responds to geotargeted alerts and warnings; (2) technologies and 
+techniques for enhancing the geotargeting of alerts and warnings; and (3) 
+open research questions about how to effectively use geotargeted alerts 
+and warnings and technology gaps. The complete statement of task for 
+the workshop is provided in Box P.1, and the workshop agenda is pro
+-vided in Appendix A.
+1  National Research Council, 
+Public Response to Alerts and Warnings on Mobile Devices: Sum
+-mary of a Workshop on Current Knowledge and Research Gaps,
+ The National Academies Press, 
+Washington, D.C., 2011.
+2  National Research Council, 
+Public Response to Alerts and Warnings Using Social Media: 
+Report of a Workshop on Current Knowledge and Research Gaps, 
+The National Academies Press, 
+Washington, D.C., 2013.
+Preface
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.viii PREFACE
+This report summarizes presentations made by invited speakers and 
+other remarks by workshop participants. In keeping with the workshop™s 
+purpose of exploring an emerging topic, this summary does not contain 
+˜ndings or recommendations. Nor, in keeping with NRC guidelines for 
+workshop reports, does it necessarily re˚ect consensus views of the work
+-shop participants or the organizing committee. The summary draws on 
+the prepared remarks of workshop presenters, comments made by work
+-shop participants, and the ensuing discussion. 
+The ˜rst two chapters of this report summarize presentations and 
+discussions on the value of geotargeted alerts and warnings (Chapter 1) 
+and technologies and tools for geotargeted alerts and warnings (Chapter 
+2). Chapter 3 summarizes the research questionsŠre˚ecting gaps in our 
+present understandingŠthat were identi˜ed by workshop participants 
+during the course of the workshop. Appendix A provides the workshop 
+agenda, and speaker biosketches are provided in Appendix B. Appendix C 
+provides biosketches of the committee members.
+Ellis Stanley, 
+Chair
+Committee on Geotargeted Disaster Alerts and Warnings: 
+Current Knowledge and Research Gaps
+BOX P.1
+ Statement of Task
+An ad hoc steering committee will plan and conduct a public workshop that 
+will consider the potential for more precise geographical targeting to improve 
+the effectiveness of disaster alerts and warnings; examine the opportunities 
+presented by current and emerging technologies to create, deliver, and display 
+alerts and warnings with greater geographical precision; consider the circum
+-stances where more granular targeting would be useful; and examine the po
+-tential roles of federal, state, and local agencies and private sector information 
+and communications providers in delivering more targeted alerts. The com
+-mittee will organize the workshop to include a mix of individual presentations, 
+panels, breakout discussions, and question-and-answer sessions to develop an 
+understanding of the relevant research communities, research already com
+-pleted, ongoing research, and future research needs. Key stakeholders would 
+be identi˜ed and invited to participate. The committee will develop the work
+-shop agenda, select and invite speakers and discussants, and moderate the 
+discussions. An unedited (verbatim) transcript of the event would be prepared. 
+A report summarizing the committee™s assessment of what transpired at the 
+workshop would also be prepared.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ix
+This report has been reviewed in draft form by individuals chosen 
+for their diverse perspectives and technical expertise, in accordance 
+with procedures approved by the National Research Council™s 
+Report Review Committee. The purpose of this independent review is 
+to provide candid and critical comments that will assist the institution in 
+making its published report as sound as possible and to ensure that the 
+report meets institutional standards for objectivity, evidence, and respon
+-siveness to the study charge. The review comments and draft manuscript 
+remain con˜dential to protect the integrity of the deliberative process. We 
+wish to thank the following individuals for their review of this report:
+Hisham Kassab, MobiLaps, LLC,
+Robert Kraut, Carnegie Mellon University,
+Leslie Luke, San Diego County Of˜ce of Emergency Services,
+Patrick P. Meier, Qatar Foundation Computer Research Institute,
+Richard Muth, Baltimore County School District,
+Brenda Phillips, Oklahoma State University, and
+Robert Sproull, Oracle (retired).
+Although the reviewers listed above have provided many construc
+-tive comments and suggestions, they were not asked to endorse the con
+-clusions or recommendations, nor did they see the ˜nal draft of the report 
+before its release. The review of this report was overseen by Joseph Traub, 
+Acknowledgment of Reviewers
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.x ACKNOWLEDGMENT OF REVIEWERSColumbia University. Appointed by the National Research Council, he 
+was responsible for making certain that an independent examination of 
+this report was carried out in accordance with institutional procedures 
+and that all review comments were carefully considered. Responsibility 
+for the ˜nal content of this report rests entirely with the authoring com
+-mittee and the institution.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.xi
+1  
+THE ROLE OF GEOTARGETED ALERTS AND WARNINGS 
+ 1 IN DISASTER RESPONSE
+ Current and Future Vision for the Integrated Public Alert and 
+   
+Warning System, 3
+ Some Current Knowledge and Research on Geotargeted 
+   
+Alerts and Warnings, 8
+ Hazard Type and Geotargeting, 15
+ Data Security and Privacy Challenges, 19
+2  
+TECHNOLOGIES AND TOOLS FOR GEOTARGETED 
+ 24
+ ALERTS AND WARNINGS
+ Continuing Opportunities for Using Traditional 
+    
+Technologies for Geotargeted Alerts and Lessons for the 
+ Use of New Technologies, 25
+ Technologies for Geotargeting Alerts Over the Internet, 29
+ Mobile Device Location Determination Capabilities, 31
+ Current and Future Technologies for Geotargeting Alerts to 
+   
+Mobile Devices, 32
+3 RESEARCH NEEDS AND IMPLEMENTATION CHALLENGES
+ 35
+ Facilitating and Improving Public Response, 35
+ Value of Geotargeted Information, 36
+ Developing and Deploying Technology, 37
+ Respecting Privacy and Meeting Security Needs, 38
+ Facilitating and Encouraging Use by Practitioners, 38
+Contents
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.xii CONTENTSAPPENDIXES
+A Workshop Agenda
+ 41
+B Biosketches of Workshop Speakers
+ 46
+C Biosketches of Committee Members
+ 60
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.11The Role of Geotargeted Alerts and 
+Warnings in Disaster Response
+This report summarizes a February 2013 workshop organized by the 
+National Research Council™s Committee on Geotargeted Disaster 
+Alerts and Warnings: Current Knowledge and Research Gaps. In 
+the context of alerts and warnings,
+1 geographical targeting, or geotarget
+-ing, refers to the effort to transmit alerts only to those recipients physically 
+located in a geographic area affected by an event and/or are at risk. 
+Geotargeting is a two-step process. The ˜rst is the geo-de˜nition of 
+the targeted area is (e.g., a county or a geographic polygon). The second 
+is the geo-delivery of the message to recipients within the targeted area. 
+Both steps are susceptible to imprecision. In the case of geo-de˜nition, 
+some alerting systems only allow the de˜nition of an area down to the 
+county level, even if the actual affected area is only a section within it. In 
+the case of geo-delivery, receipt of wireless transmissions cannot be lim
+-ited precisely to a speci˜c region. Any imprecision in one or both steps 
+results in imprecision in the overall geotargeting.
+At a 2011 CSTB workshop, it was observed that ﬁ[l]ocalization of 
+1  An 
+alert
+ noti˜es the recipient that something signi˜cant has happened or may happen, 
+and a warning, which typically follows an alert, provides more detailed information describ
+-ing the event and indicates what protective action should be taken by the recipient.
+ The 
+distinction between alerts and warnings is not always clear-cut because a warning can also 
+serve as an alert, and an alert may include some information about protective measures. 
+Technology has further eroded the distinction. For example, sirens have evolved to provide 
+both a siren sound (the alert) and a spoken message (which, depending on how much detail 
+it contains, might be considered a warning).
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.2 GEOTARGETED ALERTS AND WARNINGS
+. . . messages by county or equivalent jurisdiction might be too coarse-
+grained, especially in the case of large counties and highly localized 
+events.ﬂ
+2 Past research has shown that speci˜c and clear information, 
+including which locations are and are not at risk, increases the likelihood 
+that people take protective action. The less precise the geotargeting, the 
+more likely the recipient will ignore the alert, or choose to opt out of the 
+alerting system, because they are not sure whether the message applies 
+to them. When alerts and warnings are delivered to broader populations 
+than those actually affected by an event, more people than are actually at 
+risk may be sent messages to take action. This chapter explores discus
+-sions held by panel members and attendees of the February 2013 work
+-shop on public response to geotargeted alerts and warnings.
+There are several systems that provide geotargeted alerts today, with 
+various degrees of precision. Some, such as the so-called ﬁreverse-911ﬂ 
+systems, can dial groups of landline telephone subscribers and can achieve 
+a high degree of precision because they are capable of calling sub
+ 
+scribers 
+located within a speci˜c polygon. On the other hand, wireless-based 
+systems, such as the Emergency Alert System (EAS), are inherently less 
+precise because of the wireless fencing issue. In the case of the national 
+Wireless Emergency Alerts (WEA) system, alerts are transmitted to cel
+-lular phones using cellular broadcast technology.
+3 Only cellular 
+ towers 
+mapped to the geo-de˜ned region broadcast the message. However, 
+the geotargeting precision of WEA in its initial rollout was additionally 
+affected by a design decision to limit geo-de˜nition to the county level. 
+Another system is the National Oceanic and Atmospheric Administra
+-tion (NOAA) weather radio, which uses dedicated radio frequencies and 
+special-purpose receivers. It delivers weather and other hazard alerts 
+and allows users to limit alarms to only those alerts designated for their 
+location by specifying regions that are largely aligned with counties or 
+portions of counties. Other services allow recipients to subscribe to alerts 
+for geographic areas of interest to them, regardless of their actual physi
+-cal location. Generally, such systems are not considered to possess true 
+geotargeting capability.
+Better localization might be provided by re˜nements to existing alert
+-ing systems or the use of new technologies. For example, some tighter 
+localization is possible with the current WEA technology, but overlaps 
+in coverage of individual cellular towers limit the precision that is pos
+-sible. Additionally, if alert messages include information about the target 
+2  National Research Council, 
+Public Response to Alerts and Warnings on Mobile Devices: Sum
+-mary of a Workshop on Current Knowledge and Research Gaps,
+ The National Academies Press, 
+Washington, D.C., 2011.
+3  WEA was formerly known as the Commercial Mobile Alerting System.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 3region, then software running on the receiving mobile device may be able 
+to ˜lter the alerts based on the device™s location. Existing technologies 
+allow mobile phone positions to be determined with suf˜cient accuracy 
+for most applications, at least outdoors, and emerging technologies prom
+-ise signi˜cant improvements to indoor location measurement. Much of 
+the second day of the workshop was spent exploring changes to existing 
+technologies or new technologies for increasing the precision of geotar
+-geted alerts; these discussions are explored in Chapter 2.
+CURRENT AND FUTURE VISION FOR THE INTEGRATED 
+PUBLIC ALERT AND WARNING SYSTEM
+The Federal Emergency Management Agency (FEMA) oversees 
+development and operation of the Integrated Public Alert and Warnings 
+System (IPAWS), a national system for delivering emergency alerts and 
+warnings to the public. One component, WEA, which is in the process of 
+being rolled out, delivers alerts to cell phones using a special broadcast 
+channel in cellular telephone systems. The message and associated meta
+-data are formatted according to the Common Alerting Protocol (CAP) 
+standard. Presentations by Denis Gusty from the Science and Technology 
+Directorate of the Department of Homeland Security (DHS S&T), Wade 
+Witmer from FEMA, and Mike Gerber from the National Weather Service 
+(NWS) described the current state of IPAWS and WEA and outlined future 
+plans for both.
+The Federal Communications Commission, in cooperation with cel
+-lular telephone carriers, established a cell phone alert program, originally 
+known as the Commercial Mobile Alert System. DHS S&T and FEMA 
+have worked with the cell carriers on deployment and testing of the 
+program, which is now known as WEA.
+4 A voluntary program for the 
+cellular carriers, it speci˜es that participating carriers target government-
+originated emergency alert messages to the cell towers that lie within the 
+counties affected by an alert. Messages are limited to 90 characters, which 
+limits WEA to providing brief alerts to inform recipients that an event is 
+occurring and that they need to seek additional information. It provides 
+three types of messages: alerts issued by the president, alerts involving 
+4  WEA was established in response to the Warning, Alert, and Response Network Act (P.L. 
+109-347) passed by Congress in 2006. The Federal Communications Commission proposed 
+and adopted the network structure, operational procedures, and technical requirements for 
+WEA in 2007 and 2008, in cooperation with commercial wireless providers. Subsequently, 
+the Department of Homeland Security Science and Technology Directorate and the Federal 
+Emergency Management Agency have worked with the wireless carriers on deployment 
+and testing of the system. The present design supports only 140-character messages and 
+messages that ˜t into a single cell broadcast.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.4 GEOTARGETED ALERTS AND WARNINGS
+imminent threats to life and safety, and AMBER alerts (law enforcement 
+bulletins in child-abduction cases). Mobile device users can opt out of all 
+but the presidential alerts. However, some devices, such as those run
+-ning the Android operating system, divide the imminent threats into two 
+categories, extreme (e.g., tornados, extreme wind, or tsunami) and severe 
+(e.g., ˚ash ˚ood, dust storm, or blizzard) and permit users to opt out of 
+severe alerts but still receive extreme alerts. 
+WEA is designed to complement, not replace, other existing dissemi
+-nation methods/channels supported by the IPAWS architecture (Figure 
+1.1). The central gateway, the IPAWS Open Platform for Emergency Net
+-works, which is managed by FEMA, provides access to federal, state, 
+local, territorial, and tribal authorities. Emergency managers are issued 
+digital certi˜cates to authenticate their access to the system and use com
+-mercial software to prepare and transmit messages. 
+The CAP standard supports the use of FIPS codes,
+5 which desig-5  FIPS localization is based on standardized codes for county and equivalent geographical 
+entities previously de˜ned in the now-withdrawn Federal Information Processing Standards 
+(FIPS) 6-4 standard and now de˜ned by the American National Standards Institute INCITS 
+31:200x standard.
+1-1FIGURE 1.1
+ Structure of the Integrated Public Alerts and Warnings System. 
+Source: D. Gusty, ﬁOverview of the Commercial Mobile Alert System (CMAS) 
+Research and Development Effort,ﬂ presentation at the Workshop on Geotargeted 
+Alerts and Warnings, Washington, D.C., February 2013.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 5nate counties and subdivisions within a county, to de˜ne the targeted 
+area. (Another standard, speci˜c area message encoding, is still used by 
+weather radios and is discussed in Chapter 2.) CAP also supports the use 
+of a list of polygon vertex coordinates to specify the boundaries of a tar
+-geted area. The NWS has for a number of years de˜ned smaller polygons 
+for many of their severe weather alerts, and local agencies have found it 
+bene˜cial to target alerts to areas much smaller than a county. Carriers 
+have also developed approaches to target smaller areas than required by 
+WEA, although neither perfectly targets the speci˜ed polygon (Figure 
+1.2). Today, each of the three major carriers uses one of these approaches 
+to target only cellular towers in the appropriate portion of a county when 
+subcounty-level alerts are issued. 
+Current Use of the Integrated Public Alerts and Warning 
+System and the Wireless Emergency Alerts
+Today, over 150 entitiesŠincluding approximately 75 counties, 
+25 states, and the Commonwealth of Puerto RicoŠhave access to the 
+IPAWS-
+OPEN
+ gateway, which allows them to transmit messages to cel
+-lular phones (using WEA), radio and television (using the Emergency 
+Alert System), and NOAA weather radios. In addition, the NWS can send 
+weather alerts, and the National Center for Missing and Exploited Chil
+-dren can send 
+AMBER alerts. FEMA receives about four new applications 
+a week for access to IPAWS-
+OPEN
+, and the system is projected to grow to 
+include as many as 10,000 entities. 
+In 2010, the NWS was the ˜rst to use the system. Initially, messages 
+were sent only to weather radios, but are sent now to other alerting sys
+-tems, including WEA. For WEA, the NWS created template text for nine 
+different types of warnings (a small subset of the templates for EAS). 
+These templates are based on those designed for use in EAS but edited 
+to adhere to the CAP standard and limited message length of WEA (Box 
+1.1). The NWS is currently exploring ways to give forecasters additional 
+capabilities to customize messages and add geographic information. 
+Current Research Initiatives
+DHS™s Commercial Mobile Alert Service (CMAS), Research, Devel
+-opment, Testing and Evaluation Program, established as a result of the 
+Warning, Alert, and Response Network Act,
+6 is responsible for coordinat
+-ing WEA testing, developing recommendations and guidance for its use, 
+6  Title VI of P.L. 109-347.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.6 GEOTARGETED ALERTS AND WARNINGS
+County boundaryAlert area polygon1-2aFIGURE 1.2
+ Options for mapping alert polygon regions to cellular towers. The 
+circles surrounding each tower represent that tower™s transmission reach; the 
+shading indicates that the tower is sending an alert.  SOURCE: W. Witmer, FEMA, 
+ﬁIntegrated Public Alerts and Warning System,ﬂ presentation at the Workshop on 
+Geotargeted Alerts and Warnings, Washington, D.C., February 2013.
+.County boundaryAlert area polygon1-2b(a) Regulatory requirements require that a carrier targets an entire county area.
+(b) An alert message is transmitted by each cellular tower located within the 
+polygon.
+(c) An alert message is transmitted by each cellular tower that provides coverage 
+in the polygon.
+County boundaryAlert area polygon1-2cGeotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 7and funding research and development to enhance alerting systems. The 
+act speci˜es research in the following speci˜c areas:
+˜˚
+Improving geotargeting of mobile alerts and warnings, including 
+geotargeting granularity, geotargeting in border areas, public response 
+consideration to geotargeting, and alternative technologies to improve 
+current and future geotargeting capabilities; and 
+˜˚
+Improving public response to mobile alerts and strategies, includ
+-ing reaching special and diverse populations, information diffusion, and 
+BOX 1.1
+ WEA Message Templates Originated by 
+the National Weather Service
+Tsunami warning
+  
+Tsunami danger on the coast. Go to high ground 
+or move inland. Check local media.ŠNWS 
+Tornado warning
+  
+Tornado Warning in this area til hh:mm tzT. Take 
+shelter now. Check local media.ŠNWS
+Extreme wind warning
+  
+Extreme Wind Warning this area til hh:mm tzT 
+ddd. Take shelter.ŠNWS 
+Flash ˚ood warning
+  
+Flash Flood Warning this area til hh:mm tzT. 
+Avoid ˚ooded areas. Check local media.ŠNWS
+Hurricane warning
+  
+Hurricane Warning this area til hh:mm tzT ddd. 
+Check local media and authorities.ŠNWS Typhoon warning
+  
+Typhoon Warning this area til hh:mm tzT ddd. 
+Check local media and authorities.ŠNWSBlizzard warning
+  
+Blizzard Warning this area til hh:mm tzT ddd. 
+Prepare. Avoid Travel. Check media.ŠNWS 
+Ice storm warning
+  
+Ice Storm Warning this area til hh:mm tzT ddd. 
+Prepare. Avoid Travel. Check media.ŠNWS
+Dust storm warning
+  
+Dust Storm Warning in this area til hh:mm tzT 
+ddd. Avoid travel. Check local media.ŠNWS
+˜˚˛˝˙ˆˇ˘˛ˆ
+“ˆ‘‘
+‘‘
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.8 GEOTARGETED ALERTS AND WARNINGS
+public response to WEA initiation, message content, message frequency, 
+follow-up, and source.
+DHS is currently funding research by the University of Maryland™s 
+National Consortium for the Study of Terrorism and Response to Terror
+-ism on comprehensive testing of imminent threat messages for mobile 
+devices and public response and social media (this work is discussed in 
+the section, Current Research on Message Length, Geographical Informa
+-tion, and Geotargeted Alerts) and at the University of Southern Missis
+-sippi on geotargeting and other communication approaches for at-risk 
+communities. A broad agency announcement for additional research and 
+development has been issued, and additional awards are expected in 
+2013. 
+SOME CURRENT KNOWLEDGE AND RESEARCH 
+ON GEOTARGETED ALERTS AND WARNINGS
+In a panel exploring some of the current research on geotargeted 
+alerts and the public response, Timothy Sellnow, University of Kentucky, 
+discussed the role of geotargeted information in effectively communicat
+-ing risk; Michele Wood, California State University, Fullerton, examined 
+the various ways that geotargeted information can be communicated; 
+Brooke Liu, University of Maryland, discussed hazard types and pro
+-tective actions as they are related to geotargeted information; and Ken 
+Rudnicki, City of Fairfax, Virginia, discussed tools used by emergency 
+managers to geotarget alerts and warnings. 
+Wood summarized the results of decades of research on what types 
+of alert and warning message content will motivate appropriate and 
+timely action by the public (Box 1.2). Wood also discussed sense-making, 
+a human process that occurs in the time between the receipt of an alert 
+or warning and the time the recipient takes protective action. Message 
+recipients will try to make sense of the message, con˜rm the message 
+by seeking additional information, personalize the message to their own 
+circumstances, and only then decide what action they should take. A key 
+question is whether geotargeting can help reduce this delay in taking 
+protective action.
+Role of Geotargeted Information in Effectively Communicating Risk
+Geotargeting allows an alert or warning message to be tailored 
+according to the nature of the hazard faced at a particular location and 
+the protective action appropriate for someone at that location. Receipt of 
+a geotargeted message also strengthens the recipient™s perception that 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 9BOX 1.2
+ What Is Known About Effective Alerts and Warnings
+Several decades of research on public response to alerts and warnings have 
+yielded an understanding of how to best formulate an alert or warning message. 
+Key insights from this work are given below.
+Message Content›ˆ˜˚˛˝˙
+ Exactly what protective action can be taken to best pro
+-tect health and safety, and how will it be done.
+›ˆ
+ When protective action should be performed, when it 
+should be completed, and when the threat has ended.›ˆ
+ What locations are at risk and who should take protec
+-tive action.
+›ˆ
+ What the impending hazard is, what the 
+potential consequences of the hazard are, and how the protective action can 
+reduce harm.›ˆ
+ Who is providing the messageŠwhich should be selected 
+based on who would be viewed as the most credible source for the affected 
+population, often several sources.
+Message Style›ˆ
+ Message is simply worded, free of jargon, and uses words that 
+people can understand.›ˆ
+ Message provides precise and unambiguous information. 
+›ˆ
+ Message contains correct and complete information that is up-
+to-date, as free from errors as possible, and corrected when better information 
+is known.›ˆ
+ Message is stated authoritatively and con˜dently, even when 
+there may be uncertainty about elements of the message content, especially 
+about the protective action to be taken.
+›ˆ
+ Message explains any changes from past messages and does 
+not provide con˚icting information that may create uncertainty.
+Message Delivery
+›ˆ Messages may need to be sent multiple times during an 
+emergency.
+›ˆ
+ Messages should be sent using all available alert and 
+warning systems. 
+Contextual Factors 
+›ˆ Demographic factors, including socioeconomic status, age, eth
+-nicity, and gender.
+›ˆ
+ The roles of individuals within and outside of the family, including family size, child ages, pets, and greater community 
+involvement.
+›ˆ Personal experiences of prior disaster. 
+›ˆ Pre-event knowledge related to the hazard, the protective 
+actions, and the warning system. 
+›ˆ
+ Indicators in one™s environments such as rain, wind, 
+or smoke. 
+›ˆ
+ Seeing or hearing about others taking the recommended 
+protective action.
+‘‘‘
+‘–ƒ⁄‹“ˆ
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.10 GEOTARGETED ALERTS AND WARNINGS
+he/she is indeed at risk and should take protective action. Finally, because 
+receipt of a geotargeted message can substitute for lengthy descriptions of 
+what areas are at risk, the message content can focus on the hazard and 
+recommended public actions. (The latter is of particular value in systems 
+that strictly limit message length.)
+Timothy Sellnow reported a recent experiment testing the different 
+wording for a message on a food safety recallŠfor example, Do message 
+recipients understand how to protect themselves? and Do they intend to 
+follow the instructions? Box 1.3 lists the various message variables tested. 
+The fourth test message was geotargeted by stating explicitly that the 
+affected food product was distributed in the recipients™ area.
+Sellnow and his colleagues had two hypotheses: (1) the ef˜cacy scores 
+for behavioral intention, which indicate that a recipient intended to take 
+protective action, would rise after receiving 
+any 
+of the four messages, 
+and (2) the geotargeted message (message 4) would result in the highest 
+level of ef˜cacy and behavioral intentions. Hypothesis 1 proved true; 
+recipients™ had a greater sense of behavioral intention. This con˜rms that 
+those who receive a speci˜c message about appropriate response believe 
+they have the skills and intend to take suggested action. Perhaps more 
+related to the workshop topic, hypothesis 2 also proved true; when a 
+message is geotargeted, messages attract more attention, and recipients 
+better understand potential risk. Sellnow stated that they have found this 
+consistently across several experiments that examined geotargeted alerts 
+and warnings. Additional key observations and open questions offered 
+by Sellnow include the following: 
+BOX 1.3
+ Message Variance in Food Recall Experiment
+Message 1: Risk certainty (certain consequences) and expert opinions (cogni
+-tive salience).
+Message 2: Risk certainty (certain consequences) and concrete experience/
+personal stories about sickness and death (emotional salience).Message 3: Expert opinions (cognitive salience), personal stories (emotional 
+salience), ambiguous risk cause (uncertain consequences), multiple behavioral 
+options (multiple ef˜cacious actions).Message 4: Risk certainty with speci˜c and geotargeted behavioral directives. 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 11˜˚
+Past work has shown how an optimal message can be communi
+-cated in a limited time, but further research is needed on whether and how 
+an optimal message can be conveyed in limited 
+length
+ (e.g., in WEA).
+7 ˜˚
+Some elements of geotargeting have been shown to improve self-
+ef˜ciencyŠthat individuals know what the appropriate action is and 
+believe they can complete itŠbut further work would improve under
+-standing of how other message variables, such as message source or alert 
+type, structure, and delivery systems, affect response.
+˜˚
+The previous experience of message recipients with disasters 
+remains a potentially confounding factor that this work did not control 
+for. What impact might such experience have, and how might it be con
+-trolled for in future experiments needs further research?
+˜˚
+Recent research in health communications has shown that differ
+-ences in recipients™ learning styles, or the way in which an individual 
+best acquires or processes new information, may signi˜cantly affect their 
+ef˜cacy. How do learning styles affect the ef˜cacy of geotargeted alerts?
+˜˚
+What are the optimal strategies with respect to the number and 
+timing of messages at various points in an emergency? For example, when 
+is it helpful to issue alerts as soon as a potential risk emerges? and Are 
+there circumstances under which alerts are best deferred until the actual 
+event onset?
+˜˚
+What types of hazards need what types of alerts or warnings? How 
+does the prevalence of a particular hazard affect public response and alert 
+needs?
+Communicating Geotargeted Information
+Michele Wood discussed the three general ways to communicate what 
+areas are at risk: text that names locations or describes the boundaries of 
+the area, pictures that show a map of the area, or geotargeted delivery of 
+alerts or warning messages so that only affected populations will receive 
+the messages.
+Text-De˜ned Geolocation Information
+Many alerting systems can transmit only text messages and thus must 
+rely on text to convey geographical information. Possible approaches 
+include the following:
+7  B. Reynold and M. Seeger, Crisis and emergency risk communication as an integrative 
+model, 
+Journal of Health Communications
+ 10:43-55, 2005.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.12 GEOTARGETED ALERTS AND WARNINGS
+˜˚
+General text: ﬁ
+Tornado warning in this area until 12:00 
+PM
+ Moun
+-tain Standard Time, take shelter nowŠNWS.ﬂ
+ Although the message is 
+short, recipients may not be able to tell whether they have been geotar
+-geted (unless the message explicitly states they were) or whether they are, 
+in fact, located in the affected area. 
+˜˚
+Named locations: ﬁRadiological hazard warning in Los Angeles, 
+Orange, and Riverside counties until 12:00 AM PST. Take shelter now.Š
+DHS.ﬂ
+ This message names all the locations affected. However, this type 
+of message is longer than necessary (and possibly longer than can be 
+accommodated in systems that only transmit short messages). Addition
+-ally, the boundaries of the area affected by a hazards may not correspond 
+well with the boundaries of cities, counties, or other named places.
+˜˚
+Descriptive boundaries:
+ ﬁFire warning in area bounded by North 
+West Parkway/E-470 on the north, Highway C-470 on the south, High
+-way 285 on the west, and the eastern boundaries of Adams and Arapahoe 
+counties until 12:00 AM PST. Take shelter now.ŠNWS.ﬂ
+ Although this 
+approach makes it possible to de˜ne more precisely the area at risk, it 
+does so with greater message length. Furthermore, it can be dif˜cult to 
+identify suitable boundaries that precisely describe the area at risk and 
+that can be easily understood by recipients. Messages that depend on 
+detailed local knowledge are especially dif˜cult for visitors or new resi
+-dents to interpret.
+Using Maps and Images to Geotarget Messages
+Maps are, of course, the canonical way to represent geographical 
+regions. Map data are generally readily available, and it can be easy to 
+clearly mark areas at risk through shading or coloring. Adding a marker 
+for the recipient™s location further personalizes the information. If the 
+system does not allow the recipient™s location to be shown (which relies 
+on capabilities in the device receiving and displaying the message), a 
+recipient may not readily see whether he/she falls within the affected 
+area. Maps can also be dif˜cult to display on devices with small screens 
+(such as cell phones) or with low resolution (such as non-high-de˜nition 
+televisions). Another challenge is that not all message recipients will be 
+adept at interpreting the map.
+Geode˜ned Message Delivery
+The third method for geotargeting messages is to target delivery of 
+the messages to affected areas and provide the recipient with an indica
+-tion that the message was targeted. For example, the message might 
+include the text ﬁIf you receive this message, you are at risk,ﬂ so the 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 13recipients understand that they are within the targeted area and are at 
+risk. This strategy will work best if the alerting and warning system can 
+target a suf˜ciently ˜ne-grained location. (See Chapter 2 for a discussion 
+of these capabilities.) Messages that purport to be geotargeted but are, 
+in fact, delivered well outside the region actually at risk may be ignored 
+because the recipient is not sure whether the message applies to him/her 
+speci˜cally. 
+Current Research on Message Length, Geographical 
+Information, and Geotargeted Alerts
+Brooke Liu, Michele Wood, and their research collaborators, are cur
+-rently studying the relationships that text alerts, length, and geotargeting 
+have on public response. The research considers how to optimize mes
+-sages within the length constraints of major text alerting systemsŠWEA 
+(90 characters), SMS and Twitter (140 to 160 characters), and the instruc
+-tional ˜eld of an EAS message (1,380 characters). The research team is 
+attempting to answer the following questions:
+˜˚
+How can 90-character messages be optimized? How is public 
+response affected by location speci˜city, the sequence of the location 
+information, and the source of the information?
+˜˚
+What is the relative importance of the key message elements in 
+1,380-character messages? 
+˜˚
+Can these ˜ndings be generalized across different types of hazards?
+˜˚
+What is the relative ef˜cacy of different (message length and loca
+-tion speci˜city) message types?
+Because WEA messages are limited to 90 characters, additional 
+research and thought are needed to understand what should be com
+-municated to people ˜rst, second, third, and so on. In thinking about 
+this question, Liu developed a matrix of imminent threat hazards and a 
+sequence of protective actions that may need to be taken by an affected 
+population.
+8 For example, a primary action in response to a chemical 
+spill might be to shelter in place, and a secondary action might be to get 
+decontaminated. The open question is when geotargeting makes the most 
+sense for which alerts. Liu and her team believe that this is affected by 
+several factors: alert type and format, hazard type and available content, 
+8  The complete matrix can be found in National Consortium for the Study of Terrorism 
+and Responses to Terrorism, 
+Hazards and Protective Actions Sequence Matrix: Comprehensive 
+Testing of Imminent Threat Public Messages for Mobile Devices,
+ 2013, available at http://www.
+start.umd.edu/start/publications/HazardsAndProtectiveActionsSequenceMatrix.pdf.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.14 GEOTARGETED ALERTS AND WARNINGS
+and lead time. Additional open research questions identi˜ed by Wood 
+and Liu include the following:
+˜˚
+How does geotargeting affect people who are visually impaired?
+˜˚
+How does map literacy affect public response to geotargeted alerts?
+˜˚
+Does precise location language reduce time spent milling? Is this 
+true across hazards?
+˜˚
+What limits does technology place on the ability to geotarget alerts?
+˜˚
+What is the most ef˜cient combination of text, image, and 
+geo-delivery?
+˜˚
+What public education is needed to help the public understand 
+geotargeted alerts and new alerting systems?
+Use of Geotargeted Information by Emergency Managers
+Ken Rudnicki discussed the capabilities emergency managers have to 
+issue geotargeted alerts and warnings. Each tool has different geotarget
+-ing capabilities, as follows:
+˜˚
+EAS provides information to television viewers and radio listen
+-ers. Although the messages generally contain descriptions of what areas 
+are at risk, because they reach everyone served by a broadcaster or cable 
+system, they are often disseminated to a large number of people who are 
+not at risk. 
+˜˚
+NOAA weather radios can be kept in constant standby mode, have 
+alarms that can wake people who are sleeping, and support those with 
+impaired vision. However, radios must be purchased and kept powered 
+on by the end user. 
+˜˚
+Subscription-based SMS text systems are used by many jurisdic
+-tions and institutions to send text messages that provide alerts about 
+hazards and other items of interest, such as severe traf˜c alerts. Although 
+these systems typically allow users to sign up for particular geographical 
+areas of interest, the technology does not support delivery based on the 
+recipient™s current location. As opt-in systems, they reach only people 
+who sign up for the service. 
+˜˚
+Reverse-dialing systems, currently one of most precise geotarget
+-ing systems, allow emergency managers to telephone individual homes 
+within a given geographical region quickly. The population coverage of 
+this technology is diminishing now that an increasing number of house
+-holds no longer have a landline telephone. 
+˜˚
+Third-party smartphone applications have also become more pop
+-ular. These systems can use the phone location to provide alerts. Similar 
+to subscription SMS text systems, users must opt in by downloading 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 15the application on their phone. Additionally, since a third party man
+-ages applications, emergency managers have no understanding of who 
+is receiving the alerts. 
+˜˚
+WEA has numerous advantages over prior alerting tools; however, 
+the very short message limits what can be communicated to recipients. 
+While WEA provides county-level geotargeting by cell tower, there is still 
+the potential for bleed over into unaffected areas. Furthermore, as it is a 
+newer system, some practitioners and recipients are not fully aware of the 
+capability or how best to use WEA.
+HAZARD TYPE AND GEOTARGETING 
+The second session focused on the geotargeting needs and challenges 
+for particular hazards. Thomas Cova, University of Utah, discussed wild
+-˜re events; Steven M. Becker, Old Dominion University College of Health 
+Sciences, discussed radiological and nuclear incidents; and Peter LaPorte, 
+Washington Metropolitan Area Transit Authority (WMATA), discussed 
+transportation system emergencies. 
+Wild˜re Events
+Wild˜re events provide signi˜cant challenges and opportunities for 
+geotargeting alerts. While some wild˜re movement is slow, allowing for 
+proactive evacuation, shifting winds can quickly alter the course of the 
+˜re, which results in a need for fast evacuations of very speci˜c areas. 
+Thomas Cova presented the following case studies to illustrate how geo
+-targeted messages might be used in wild˜re events:
+˜˚
+The evacuation area for the 2012 High Park Fire in Colorado was 
+described as ﬁCR44H three miles south to just north of Stringtown Gulch 
+Road, the entire Rist Canyon area, CR27E to Stove Prairie and south to 
+Davis Ranch Road and Whale Rock Road.ﬂ Such a description poses two 
+challenges: ˜rst, it cannot be understood by someone not very familiar 
+with the area, and second, it turns out that this description does not, in 
+fact, de˜ne a closed polygon. 
+˜˚
+The evacuation zone established for the 2007 Angora Fire provides 
+an example of how a very small and precise evacuation zone can be estab
+-lished using polygons. The evacuation order had 100 percent compliance 
+for two reasons: (1) the warned area was small and highly targeted and 
+(2) the ˚ames from the rapidly moving ˜re provided environmental cues 
+that action needed to be taken. The Angora ˜re also illustrates some of 
+the complexities posed by geography. Because many of the roads in the 
+neighborhood led into the ˜re™s path, many evacuees had to ˚ee on foot.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.16 GEOTARGETED ALERTS AND WARNINGS
+˜˚
+In the case of the 2000 Cerro Grande Fire in Los Alamos, New 
+Mexico, emergency responders had as much as a week to carefully plan 
+and carry out evacuations. They were also aided by very detailed emer
+-gency plans already in place, given the proximity of the U.S. Department 
+of Energy laboratory. As the time to evacuate approached, houses in 
+each designated zone were noti˜ed using a reverse 911 telephone dialing 
+system of the need to evacuate and given instructions on when and by 
+which roadways they should evacuate. The evacuation was completed 
+quite swiftly, in 2.5 hours, and with almost 100 percent compliance. 
+Geotargeting could also provide an opportunity for time-sequenced 
+changes in the recommended protective action for those who have not 
+followed previous instructions. For example, the ˜rst alert within an area 
+would instruct recipients to evacuate, a second would recommend that 
+remaining residents shelter in place, a third would recommend sheltering 
+in a refuge, and a fourth would recommend ˜nding a safe area (a protec
+-tive structure or body of water).
+9 Radiological and Nuclear Incidents
+There are different types of radiological and nuclear incident types, 
+including the unintentional release of radioactive material from a con
+-tainer break, nuclear accident at a nuclear power plant or nuclear fuel 
+processing site, and an intentional radiological or nuclear incident, either 
+a radiological dispersal device (i.e., dirty bomb) or a nuclear explosion of 
+an improvised device. For each type of event, the right protective action 
+information needs to be disseminated to the right people as quickly as 
+possible. Steven Becker discussed the substantial challenges of messaging 
+during radiological and nuclear incidents, including the following:
+˜˚
+Uncertainties in determining the composition and direction of 
+radioactive plumes, changing conditions that require frequent changes in 
+information, and, when terrorism is suspected, concern about additional 
+attacks. 
+˜˚
+The potential for widespread fear, profound sense of vulnerability, 
+and a continuing sense of alarm and dread, which research has shown to 
+be associated with emergencies involving radiation. Fatalism is particu
+-larly high with radiological events, and reportedly especially high within 
+9  T.J. Cova, F. Drews, L. Siebeneck, and A. Musters, Protective actions in wild˜res: Evacu
+-ate or shelter-in-place? 
+Natural Hazards Review
+ 10(4):154-162, 2009.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 17minority populations.
+10
+ There is a high propensity to ˜ee in these situa
+-tions, and compliance with shelter-in-place instructions may be poor. 
+˜˚
+The complexity of and unfamiliarity with radiation-related con
+-cepts and terms.
+Although there are messages, templates, and questions and answers 
+that have been developed and vetted for technical accuracy and ef˚-cacy, less is known about how these messages can be communicated in a 
+
+shorter format. There is also a large demand by affected populations for 
+
+graphics of the affected area, especially in regard to plume maps. Mes
+-sages also need to be tested and developed that can address the problem 
+
+of fatalism.
+Fukushima Dai-ichi Nuclear Accident
+During the March 2011 Japan Earthquake, the Fukushima Dai-ichi 
+Nuclear Generating Station, one of the largest such installations in the 
+world, was severely damaged. It would become clear that large amounts 
+
+of radioactive material had been released, that there were threats of addi
+-tional releases, and that a large area needed to be evacuated. Although 
+
+plans had been created for areas immediately surrounding the plant, the 
+
+evacuation zone became much larger, complicating evacuation planning 
+
+and execution. The event provided valuable lessons in communicating 
+
+during nuclear and radiological incidents:
+˜˚
+Evacuation orders for radiological events need to include infor
+-mation about direction of the plume so that people can take appropriate 
+
+action. This information was not provided because scientists felt that the 
+
+plume model was not fully developed and because emergency manag
+-ers feared that people would panic if they were provided incomplete 
+
+information. Unfortunately, the decision to withhold information resulted 
+
+in people in some communities actually evacuating into the path of the 
+
+plume.
+˜˚
+Emergency plans need to handle cases where the infrastructure is 
+degraded. At Fukushima, individual emergency plans had been devel
+-oped for earthquakes, tsunamis, and nuclear accidents. But when all three 
+
+occurred nearly simultaneously, many of the shelters or evacuation routes 
+
+were no longer usable. Similar concerns apply to the communication 
+
+infrastructure needed to alert the population and coordinate emergency 
+
+response.
+10
+  S.M. Becker, Emergency communication and information issues in terrorist events in
+-volving radioactive materials, 
+Biosecurity and Bioterrorism
+ 2(3):195-207, 2004.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.18 GEOTARGETED ALERTS AND WARNINGS
+˜˚
+Messaging strategies and preparedness education need to include 
+methods for the public to recognize genuine communications and identify 
+misinformation. Various credible-looking but false messages were sent 
+to people in the affected area. This resulted in people taking potentially 
+unsafe or useless actions, such as purchasing large amounts of iodized 
+salt in the false belief that this would provide useful protection against 
+radioactive iodine isotopes.
+11Public Mass Transportation Systems
+Peter LaPorte, director of emergency management for WMATA, dis
+-cussed the challenges of communicating with riders of public transpor
+-tation systems. Most messages to the public relate to system delays or 
+temporary closures, while a much smaller number are issued when pas
+-sengers are directly affected by breakdowns or other problems. Many 
+alerts are to notify riders about delays owing to train, track, or signal 
+problems that require trains moving in opposite directions to share a 
+single track temporarily. Alerts may also cover scenarios that have a larger 
+and longer impact on riders, such as a broken rail or a station ˜re. In these 
+incidents, it is important to convey what the public should expect in terms 
+of delays or closures. Some scenarios, such as an individual on the tracks, 
+pose a different challenge because authorities are trying to understand a 
+complicated and potentially serious situation at the same time that the 
+public and the media also want to understand what happened. Did some-one jump? Was someone pushed? Did someone fall? 
+Messages are delivered through multiple channels. Within the system, 
+WMATA can use electronic message boards and public address systems 
+in the stations and public address systems on board the trains. WMATA 
+also provides text message and email alerting and allows customers to 
+subscribe to alerts by line and time of day. WMATA alerts regarding major 
+delays are also picked up by alerting systems operated by local jurisdic
+-tions and the media. In some scenarios, such as when a train is disabled 
+between stations, responders may be needed on the scene to directly com
+-municate appropriate action and to avoid unsafe actions by passengers. 
+The various capabilities for alerting the public all have certain limita
+-tions. For example, cellular coverage in the underground portion of the 
+system is not complete, although a congressional mandate to provide full 
+11  Discussion of ways to identify and correct misinformation during disasters is discussed 
+in depth in the previous report, National Research Council, 
+Public Response to Alerts and 
+Warnings Using Social Media: Report of a Workshop on Current Knowledge and Research Gaps, 
+The National Academies Press, Washington, D.C., 2013.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 19coverage is expected by the end of 2014. In addition, public address sys
+-tems in the trains and stations may not be audible to all riders.
+WMATA™s alerting process also includes alerting and contacting local-
+jurisdiction emergency or transportation staff. WMATA works closely 
+with the federal Of˜ce of Personnel Management (OPM) during severe 
+weather events to consider the impact of service disruptions on the fed
+-eral workforce; many private organizations also follow the OPM™s lead. 
+WMATA also works with local trade organizations to communicate 
+with local workforces. Responding to emergencies within the system 
+involves close cooperation and careful coordination with county and city 
+authorities and ˜rst responders in Maryland, Virginia, and the District of 
+Columbia. 
+DATA SECURITY AND PRIVACY CHALLENGES
+Panelists Patrick McDaniel, Pennsylvania State University, Marc 
+Armstrong, University of Iowa, Darrell Ernst, private consultant, and 
+Kevin Pomfret, Centre for Spatial Law and Policy, examined data security 
+and privacy concerns associated with geotargeted alerts and warnings.
+De˜ning Security and Privacy
+Security was de˜ned by Patrick McDaniel as when a device, system, 
+or service acts as expected. When a system is secure, information is legiti
+-mate and unmodi˜ed, only authorized parties can participate, access is 
+available, and, where needed, secrecy (not to be confused with privacy) is 
+available. In the context of alert and warning systems, security concerns 
+include ensuring that only those who are authorized can send alerts, that 
+messages cannot be modi˜ed or forged to misinform the public, and that 
+messages cannot be suppressed through damage to or overload of the 
+delivery system. 
+Privacy, as de˜ned by McDaniel, means that an individual controls 
+what information about that individual is exposed and to whom, when, 
+and for what purpose. Privacy is often a negotiated and constantly evolv
+-ing term. The issue is mostly of control, not exposure, and privacy starts 
+with informed consent. Users often trade some information for a bene˜t; 
+they need to understand this implicit transaction. If a company collects 
+information for a bene˜t then uses that information for an undisclosed 
+purpose, that is a violation of privacy. While the majority of privacy 
+conversations involve knowing a user™s physical location, collection of 
+location over time can provide a very detailed outlook of an individual. 
+Users often have different reactions to a service provider having location 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.20 GEOTARGETED ALERTS AND WARNINGS
+information versus the government having the same information.
+12
+ The 
+design of an alert and warning system is in˚uenced by both security and 
+privacy, and retro˜tting a system to consider these concerns is dif˜cult.
+A geotargeting service might adhere to some of the following basic, 
+demonstrable, and testable principles and standards to provide security 
+and privacy:
+˜˚
+All alerts must be delivered without modi˜cation.
+˜˚
+Only authorized parties are able to transmit alerts.
+˜˚
+All alerts must be received within a speci˜ed period. An example 
+of this is E911, which requires that a location of a user within 300 meters 
+can be found within 6 minutes. 
+˜˚
+Alerts must be delivered only to the designated area.
+˜˚
+Alerts must not substantially affect the infrastructure over which 
+they are transmitted.
+˜˚
+Users must be able to control or know what personal information 
+is exposed to the service provider and how the service provider will use 
+the information.
+De˜ning Geoprivacy
+Marc Armstrong de˜ned geoprivacy as an individual being secure 
+from unwanted observations and tracking. Currently there are require
+-ments involving location data and mobile devices. This includes E-911, 
+which requires that mobile devices periodically report locations based on 
+Global Positioning System (GPS), cellular towers, or Wi-Fi locations. Simi
+-lar location data are often shared with third-party application developers, 
+who may also then share the data with others. Risk associated with this 
+behavior includes further disclosure of information, consumer tracking, 
+identity theft, threats to physical safety, and surveillance. 
+There are some techniques to preserve geoprivacy while still pro
+-viding location-based services. One is areal masking, in which location 
+information is sent only when someone enters a particular region. Travel 
+within the region would not need to be known. However, this would 
+delay the immediate arrival of geotargeted noti˜cations to the end uses. 
+Current work is being done that highlights these masking techniques and 
+a recently founded company, iGeoLoqi, has developed tools that incor
+-porate some of these techniques, which provide location information and 
+broadcast push noti˜cations, and individuals trigger the messages by 
+entering, staying, or leaving a location.
+12
+  U.S. Government Accountability Of˜cer, Mobile Device Location Data, 2012, available 
+at http://www.gao.gov/assets/650/648044.pdf.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 21Legal Issues Around Geotargeted Alerts 
+Kevin Pomfret de˜ned spatial law as the set of legal issues associated 
+with geospatial technology and the collection, use, and transfer of location 
+information and other types of spatial data. Spatial law involves a range 
+of issues, including privacy, intellectual property and licensing, data qual
+-ity and liability, national security, open records, the Freedom of Informa
+-tion Act, and other government regulations. Location information creates 
+challenges distinct from those created by traditionally protected personal 
+information (such as social security numbers and ˜nancial information). 
+For example, someone who does not have other information about a 
+person™s identity can, nonetheless, readily infer where the person works 
+and where the person lives. In addition, location data are generated dif
+-ferently from other sorts of personal information, making the de˜nition 
+of ﬁpublicﬂŠlong an analytical tool used in assessing privacy and other 
+impactsŠa challenge. For example, individuals move (change location) 
+through public spaces, and most government privacy policies have excep
+-tions for ﬁpublicly available information.ﬂ
+Even as compelling new applications for location information are 
+being developed and deployed, privacy advocates urge careful consid
+-eration of how this information might be used and how to protect the 
+privacy of users. Media scrutiny is having an impact on this discussion. 
+For example, due to media coverage, organizations are pulling back the 
+use of location tracking tools. Short Pump Mall in Richmond, Virginia, 
+decided against using a mobile application after media scrutiny criticiz
+-ing its privacy implications,
+13
+ and a New York community stopped using 
+publicly available aerial imagery to identify unregistered and untaxed 
+pools. Additionally, Congress has considered several pieces of legislation 
+addressing location privacy, and regulatory authorities are examining 
+ways to address this issue. However, geolocation information is often just 
+part of a longer list of issues surrounding privacy. 
+Previously enacted privacy legislationŠsuch as the Commercial Pri
+-vacy Bill of Rights Act of 2011, BEST Practices ACT, Do Not Track Me 
+On-line Act, Consumer Privacy Protection Act of 2011, and an update to 
+Children™s Online Privacy Protection ActŠmay provide a foundation for 
+future legislation protecting location information. Many of these laws are 
+13
+  Richmond Times-Dispatch
+, Town Center™s Monitoring Policy Creates Backlash, posted 
+November 26, 2011, available at http://www.timesdispatch.com/business/town-center-
+s-monitoring-policy-creates-backlash/article_7b6bd70f-7bc8-5564-a417-7856266079f5.html.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.22 GEOTARGETED ALERTS AND WARNINGS
+based on the principles of fair information practices (FIP).
+14
+ Elements of 
+FIP include notice and transparency, consent and use limitations, access 
+and participation, integrity and security, and enforcement and account
+-ability. However, there are challenges in applying FIP to geolocation infor
+-mation: How will ﬁprecise geolocation informationﬂ be de˜ned? How do 
+you provide adequate notice on a mobile device? In which contexts are 
+opt in or opt out the appropriate forms of consent? What is a consumer™s 
+right to have geolocation information corrected or deleted? and How long 
+should geolocation information be permitted to be stored?
+The Federal Trade Commission (FTC) is examining privacy-protecting 
+practices and has broad authority under Section 5 of the Federal Trade 
+Commission Act. These actions include bringing action against companies 
+that do not comply with their own privacy policies and against companies 
+that do not adequately protect personally identi˜able or other sensitive 
+personal information. A December 2012 FTC report, ﬁProtecting Con
+-sumer Privacy in an Era of Rapid ChangeŠA Proposed Framework for 
+Business and Policymakersﬂ provides a list of the FTC™s best practices for 
+mobile privacy (summarized in Box 1.4).
+ 15
+Technologies That Support Privacy
+In 1992, Darrell Ernst began developing a technology to geotarget 
+alerts while preserving privacy. This technology would send an alert to a 
+wide area,
+ and a location-aware device would determine if the alert was 
+relevant to individual users. The technology was originally developed 
+to aid in risk communication to military personal (information regard
+-ing detected missile launches is broadcast to speci˜cally programmed 
+handheld devices carried by personnel in the ˜eld). If a device received 
+such a message and determined it was in the warning area, it would 
+notify the user. A general application of the technology could allow for 
+more privacy-sensitive alerting. Since the device itself assesses and ˜lters 
+messages, the authorities sending the messages do not need the ability to 
+track where end users are. Receivers for this type of alert broadcast could 
+be placed in a wide variety of devices, including in-home appliances that 
+are programmed with their static location. Called GEOcast, SquareLoop 
+14
+  Fair Information Practicies (FIP) were developed by the Federal Trade Commission 
+in the mid-1990s in response to concerns of how online entities collect and use personal 
+information. Current FIP principles can be found at http://www.ftc.gov/reports/privacy3/
+fairinfo.shtm. 
+15
+  Federal Trade Commission, 
+Mobile Privacy Disclosures: Building Trust Through Trans
+-parency,
+ Staff Report, February 2013, available at www.ftc.gov/os/2013/02/130201mobile
+ privacyreport.pdf.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.ROLE OF GEOTARGETED ALERTS AND WARNINGS IN DISASTER RESPONSE
+ 23licensed this technology and continues to further its development for 
+alerts and warnings.
+16
+Workshop attendees noted that some current alerting systems use 
+similar privacy-protecting methodology. For example, with WEA, cellular 
+towers determine if they are within a given alerting area and send alerts 
+to all phones within the designated area. Much of the second-day discus
+-sion at the workshop focused on technologies, such as the one described 
+above, that would support better localization by the device itself. If a 
+device had more precise knowledge of its location, this information would 
+not necessarily need to be shared with alerting authorities. 
+16
+  See http://www.squareloop.com/.
+BOX 1.4
+ The Federal Trade Commission™s Best Practices for Mobile Privacy
+Provide timely privacy disclosures to consumers and obtain their explicit 
+consent before allowing apps to access and collect certain sensitive data and 
+content;Consider developing and implementing a visual ﬁdashboardﬂ that displays 
+for consumers the types of data accessed and collected by apps;
+Consider designing, testing, and implementing intuitive and simple icons to 
+depict certain app privacy practices;
+Implement and enforce contractual obligations for, and promote best 
+practices and educational information to, app developers that address mobile 
+privacy;
+Consider providing consumers with clear disclosures about the extent of 
+prerelease review and postrelease compliance checks that platforms undertake 
+for apps that can be downloaded from the platform; and
+Consider offering a Do Not Track (DNT) option.
+˛
+……
+—–
+ˆ–ƒ⁄‹“ˆ
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.24
+2Technologies and Tools for 
+Geotargeted Alerts and Warnings
+Several recent innovations or capabilities under development provide 
+some of the necessary ingredients for an end-to-end, all-hazards 
+warning system that fully exploits geographical information: 
+˜˚
+The Common Alerting Protocol (CAP) standard for formatting 
+alerts includes geographical locations by Federal Information Processing 
+System (FIPS) code or vertices of polygons to de˜ne affected regions along 
+with information about the source and nature of the alert and the action 
+to be taken. 
+˜˚
+Cellular phones and other mobile devices ﬁknowﬂ where they are 
+located (at a minimum using mandated E911 location capabilities and, 
+increasingly, using embedded Global Positioning System (GPS) receivers 
+and other location information such as nearby wireless access [Wi-Fi] 
+sites) and increasingly possess considerable processing power, high-res
+-olution displays, and the like. More generally, computing devices, such 
+as laptops, desktops, and cable set top boxes, either can establish their 
+location or can easily be out˜tted to determine such information using 
+one or more of the approaches listed above. Wired devices can also use 
+knowledge about the physical location of the networks to which they are 
+attached to establish their location. Applications either built in or installed 
+on these devices can be used to receive and present targeted alerts and 
+warnings. Importantly, even if the systems designed to transmit alerts/
+warnings cannot precisely send messages only to the desired set of recipi
+-ents, the receiving device can use knowledge of its location, together with 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGIES AND TOOLS FOR GEOTARGETED ALERTS AND WARNINGS
+ 25geographical information coded in the message, to deliver messages only 
+to someone at the speci˜ed location.
+˜˚
+Tools for geotargeting at various resolutions are becoming increas
+-ingly available, and these have been adopted by the advertising industry. 
+The alerting community may be able to adopt or adapt capabilities being 
+developed and used for advertising.
+Much of the second day of the workshop focused on new and emerg
+-ing technologies and tools for determining location and disseminating 
+geotargeted alerts and warnings.
+CONTINUING OPPORTUNITIES FOR USING TRADITIONAL 
+TECHNOLOGIES FOR GEOTARGETED ALERTS AND 
+LESSONS FOR THE USE OF NEW TECHNOLOGIES
+Although discussion at the workshop tended to focus on new tech
+-nologies, particularly mobile devices, several presentations examined 
+how older technologies can be used in ways that provide enhanced 
+geotargeting capabilities. Rick Wimberly, Galain Solutions, examined 
+reverse-dialing alerts; John Kean, NPR Labs, discussed innovations in 
+radio broadcast; Bruce Thomas, Midland Radio Corporation, examined 
+weather radios; and Ron Boyer, Boyer Broadband, discussed alerting over 
+cable television systems.
+Telephone Alerting
+Reverse-dialing alerts allow for of˜cials to auto-dial landlines, or 
+mobile numbers of registered users, within a certain area and play a pre-
+recorded alert. As noted by workshop participant Ken Rudnicki, City of 
+Fairfax, Virginia, reverse-dialing systems are currently one of the better 
+tools emergency managers have to provide geotargeted alerting. How
+-ever, the system still has several challenges.
+1 The challenges, as discussed 
+by Rick Wimberly, include the following:
+˜˚
+When large sets of numbers are dialed, this can overwhelm local 
+phone switches and cause calls to be dropped.
+˜˚
+The signi˜cant decrease in the number of households with land
+-lines reduces the reach of these systems. Reverse-dialing systems can 
+1  In a 2012 article, Rick Wimberly examined the shortcoming of these systems during the 
+2012 Colorado wild˜re where approximately 25,000 of the 118,000 reverse-dialing alerts 
+were not delivered. See R. Wimberly, Flawed delivery: Do alert noti˜cations fail to live up 
+to expectations, 
+Emergency Management Magazine
+ 5(7):22-35, 2012.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.26 GEOTARGETED ALERTS AND WARNINGS
+reach mobile devices, but this requires subscribers to register their phone 
+numbers. Despite communities aggressively encouraging people to reg
+-ister, registration rates for mobile subscribers across the country are still 
+well below 10 percent. 
+˜˚
+Reverse-dialing systems are not particularly effective at delivering 
+messages to those with disabilities. 
+˜˚
+Reverse-dialing systems are expensive, and local jurisdictions may 
+not be in a position to purchase or modernize a system. 
+Radio Broadcast Technologies
+NPR Labs, a small, self-supported broadcast technology research and 
+development out˜t operated by National Public Radio, is currently exam
+-ining the use of two new technologies that may bene˜t alerting: broadcast 
+repeaters and the use of the radio broadcast system (RBDS).
+NPR Labs partnered with Geo-Broadcast Solutions (GBS) to examine 
+the performance and use of GBS technologies known as ZoneCasting 
+and MaxCasting. In both technologies, a group of synchronous repeat
+-ers repeats the signal of the primary station using lower power and 
+transmitter heights. In MaxCasting, the nodes are time-aligned to the 
+primary transmitter to reinforce or extend coverage. In ZoneCasting, the 
+individual nodes can be used to send distinct programming to different 
+locations. Figure 2.1 demonstrates how these tools can expand coverage 
+of a radio station and also provide separate coverage by zone.
+John Kean discussed how both tools support alerting: ˜rst, they extend 
+the reach of radio alerts to communities currently poorly served by single 
+radio transmitters; and, second, by supporting distinct programming by 
+different nodes, they enable geotargeting of alert and warning messages. 
+Although they require new equipment on the part of the broadcaster, they 
+have the advantage of requiring no new equipment for the public. 
+NPR Labs is also working to demonstrate the use of RBDS to reach 
+at-risk populations, including those with hearing impairments. RBDS is a 
+standard to embed small amounts of digital information in conventional 
+radio broadcasts that almost all FM stations are capable of supporting. It 
+is currently used most often to transmit and display song or other pro
+-gram information and is commonly found in automobile radios. One of 
+the objectives of the NPR Lab project is to experiment with using RBDS to 
+send text information using household receivers to people with hearing 
+impairments to explore how effectively this technology would reach this 
+large segment of the public.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGIES AND TOOLS FOR GEOTARGETED ALERTS AND WARNINGS
+ 27FIGURE 2.1
+ Radio broadcast coverage of KVIL-FM, Dallas, Texas. 
+NOTE: Radio coverage in images b-d is indicated by shading; darker areas have 
+basic coverage, and lighter areas have increased coverage, including indoors and 
+in previously terrain-blocked areas. SOURCE: John Kean, NPR Labs, presenta
+-tion at the Workshop on Geotargeted Alerts and Warnings, Washington, D.C., 
+ February 2013.
+(a) KVIL-FM is a class C FM station, the largest classi˜cation for stations. The 
+station has coverage of approximately 
+24,000 square miles (with a coverage ra
+-dius of 88 kilometers). A smooth circle 
+usually represents this coverage; how
+-ever, coverage is not that consistent.
+Circle added by NPR Labs, map copy
+-right 2013 Google.
+(b) Broadcast is a terrestrial signal, so 
+the signal strength is impacted by ter
+-rain. Coverage is also lost due to less ef
+-˜cient antennas and building penetra
+-tion. For this station, coverage should 
+be approximately 6,373,000 people. 
+When terrain sensitivity and indoor 
+penetration are factored in, coverage 
+shrinks to about 3,173,000 people.
+(d) When ZoneCast nodes are added 
+to Denton, the signal can reach indoors 
+and also allows for special announce
+-ments to separate areas.
+(c) Denton, Texas, falls within the sta
+-tion™s coverage area; however, almost 
+the entire town sits within an area 
+where there is little to no coverage. 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.28 GEOTARGETED ALERTS AND WARNINGS
+NOAA Weather Radio
+The National Oceanic and Atmospheric Administration (NOAA) 
+Weather Radio (NWR) was originally developed in the 1950s and 1960s 
+to provide weather observations and forecasts to those in ˚ight or at sea. 
+In 1974, an outbreak of 146 tornadoes within a single day spurred the 
+expansion of the service. Bruce Thomas noted that today, more than 1,000 
+broadcast transmitters provide coverage across the United States and its 
+territories.
+NWR uses the Speci˜c Area Message Encoding (SAME) standard 
+to geotarget its alerts. Adopted in 1988, SAME was the ˜rst geotargeted 
+alerting standard and remains an important foundation for geotargeted 
+alerts to this day. SAME allows NWR to target at the FIPS code level. This 
+generally means at the county level (or equivalent geographical area); 
+however, large cities located within counties may have their own unique 
+FIPS and SAME codes. Additionally, high-risk areas may have a unique 
+SAME, such as areas around a nuclear power plant. More precise geo
+-targeting may be possible by adjusting the ˜rst digit of the SAME code. 
+Cable Television
+Boyer discussed current capabilities and opportunities for enhanced 
+alerting over cable networks (more formally known as multichannel 
+video programming distributors or MVPDs). Currently, cable providers 
+are required to distribute presidential alerts, test their alert system weekly, 
+and monitor two Emergency Alert System (EAS) origination sources. 
+Many operators support additional alerting capabilities on a voluntary 
+basis. 
+Today, an alert received from EAS is distributed to all the subscribers 
+to a cable system, even though they may live outside the speci˜c region 
+that is the subject of the alert. In principle, modifying cable boxes to know 
+their location and ˜lter messages accordingly could provide better geo
+-targeting. Boyer explained that this is not entirely straightforward since 
+cable boxes have been designed chie˚y to decode video content, were not 
+designed to be location-aware, and the systems that would be needed to 
+link a subscriber™s cable box to the subscriber™s address in the MVPD™s 
+billing or operational systems do not exist today. 
+A second option would be to determine location via service nodes 
+within the cable system. However, these do not necessary follow the 
+geopolitical boundaries commonly used to geotarget alerts. Boyer noted 
+that, as a result, adding enhanced geotargeting to MVPDs will most likely 
+require enhancements to the entire networks, not just a single network 
+element.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGIES AND TOOLS FOR GEOTARGETED ALERTS AND WARNINGS
+ 29TECHNOLOGIES FOR GEOTARGETING 
+ALERTS OVER THE INTERNET
+Although television is still the primary source by which the public 
+receives information about disasters, this is rapidly changing as individu
+-als spend more time using the Internet for infotainment. Richard Barnes, 
+BBN Technologies, discussed the challenges of alerting over the Internet, 
+and Hisham Kassab, MobiLaps, discussed how alerts and warnings can 
+be introduced into streaming video content.
+In principle, alerting over the Internet appears to be a straightforward 
+task requiring, essentially, the delivery of a suitably formatted document 
+that the Internet-connected device can render, something that is done 
+trillions of times a day. However, this would require that the location of 
+the Internet-connected device can be established by some combination 
+of the device itself and the network and that a device either monitors for 
+alert information or the alert can be placed in an information source that 
+is already being monitored by the device. 
+Geotargeting Using Internet Protocol
+Richard Barnes explained that geolocating based on Internet protocol 
+(IP) address is very limited and generally relies on privately managed 
+databases that match IP addresses to physical addresses. IPV6 has extra 
+space, a 128-bit address, and many hoped that this extra space could be 
+used to insert geolocation information and allow for better IP topology-
+based geolocation. However, IP addresses are assigned based on the net
+-work topology, not physical geography. In addition, IPV6 might make 
+IP-based geolocation more dif˜cult because the larger address space may 
+make it more dif˜cult to complete network traces used to determine 
+location. Essentially, IPV6 has the same geotargeting capabilities as IPV4, 
+where geotargeting using network tracing can be done in a metro area. 
+(Law enforcement can obtain additional information on a geolocation of 
+an IP address from a service provider with a subpoena.) 
+Another method for geotargeting would be to incorporate alert and 
+geographical information in an information source that a user already 
+frequently monitors. For example, an alert could be sent to Facebook, 
+which would then send the alert to all of its subscribers in Nebraska. 
+This bounds delivery of alerts to speci˜c channels, and these platforms 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.30 GEOTARGETED ALERTS AND WARNINGS
+have their own challenges in accurately geolocating their subscribers and 
+geotargeting messages.
+2 Alerting Over Streaming Video
+Increasingly, Hisham Kassab noted, Internet-delivered services, such 
+as Hulu Plus, Net˚ix, and YouTube, that stream video over the Internet 
+are starting to be used in place of traditional broadcast and cable televi
+-sion for which alerting systems already exist. There are a variety of ways 
+to deliver and display alerts on Internet-connected devices like comput
+-ers, tablets, or game consoles, including streaming video services and 
+the applications that display them. With the right modi˜cations, these 
+services can be used to receive and display geotargeted alerts delivered 
+or triggered by the video stream and displayed by the application used 
+to view the content.
+There are four steps to streaming video, content creation (e.g., Warner 
+Brothers ˜lms a television episode), content provision (e.g., Hulu licenses 
+content and makes it available to its subscribers), content transmission 
+(e.g., the viewer streams content over a Comcast broadband connection), 
+and content presentation (an application running on a device displays 
+the content). It obviously is not practical to insert alert information at the 
+content creation step, but alerts could potentially be inserted at any of 
+the other three steps, each with a differing capability to geotarget alerts:
+˜˚
+Content provider.
+ Two possible mechanisms could be used to geo
+-target at the content provider level: the billing address, as a proxy for 
+location, or an IP address. Both of these have limited accuracy because a 
+person may be accessing content away from their home, and IP address 
+databases are not always accurate, as discussed in the previous section. 
+˜˚
+Content transmission. ISPs may be able to use their knowledge about 
+network topography to determine the physical location of their users. 
+˜˚
+Content presentation
+. End-user devices, most notably tablets and 
+smart phones, often have some information on their location. An alert 
+could be inserted into the video stream, and once the alert reaches the 
+device, an application could use its location to determine if the informa
+-tion is relevant. 
+2  For discussion of the challenges of alerting over Facebook and other social media plat
+-forms, see National Research Council, 
+Public Response to Alerts and Warnings Using Social 
+Media: Report of a Workshop on Current Knowledge and Research Gaps, 
+The National Academies 
+Press, Washington, D.C., 2013.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGIES AND TOOLS FOR GEOTARGETED ALERTS AND WARNINGS
+ 31MOBILE DEVICE LOCATION DETERMINATION CAPABILITIES
+There are several ways in which a mobile user™s location might be 
+determined. Farshid Alizadeh, Skyhook Wireless, Larry Dodds, TruePosi
+-tion, and Ayman Naguib, Qualcomm, presented potential technologies for 
+determining mobile device location.
+Mobile Location Determination Using Wi-Fi Access Points
+Traditionally, mobile device location has been established using two 
+methods: GPS, which is fairly accurate but only works outside and takes 
+signi˜cant time to obtain a location ˜x and cellular tower triangulation, 
+which has comparatively poor accuracy but provides a faster location 
+˜x. Skyhook incorporates a third source, Wi-Fi access point signals. The 
+technology works by matching access point and cell tower signals to a 
+proprietary location database. The technology has a median accuracy of 
+20 to 40 meters and can return a location ˜x within a few seconds, and 
+currently, Skyhook has almost 400 million access points in its database. 
+ A unique challenge to using Wi-Fi access points is their dynamism. 
+Wi-Fi access points are under varying people™s control and are dynamicŠ
+being moved, being removed, and being added. To compensate for this, 
+Skyhook relies on a huge redundancy in these access points. Additionally, 
+the location database is updated frequently. For example, when a user 
+sends a snapshot of surrounding access points to Skyhook servers, not 
+only does the system return a location, but it also incorporates those data 
+into the database to calibrate the location of the access points. 
+Mobile Location Determination Using Television Broadcast Signals
+TrueFix TV Positioning, developed by TruePosition, uses over-the-air 
+(OTA) television broadcast signals to determine mobile device location. 
+Similar to using Wi-Fi signal strength to determine location, these devices 
+search for local broadcast signals and use the signal arrival times, which 
+are directly proportional to the distance to the transmitter, to determine 
+the location. A key bene˜t of this technology is that it can be used in 
+indoor and urban environments where GPS signals are not able to pen
+-etrate building structures. According to Dodds, about 95 percent of the 
+U.S. population lives in areas where the OTA coverage is suf˜cient to 
+determine position. However, to fully use OTA for mobile device locating, 
+a television-band receiver would need to be added to handsets. 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.32 GEOTARGETED ALERTS AND WARNINGS
+Mobile Location Determination Using Uplink Time Difference
+UpLink Time Difference of Arrival (U-TDOA), also developed by 
+TruePosition, uses the time of arrival of signals at multiple cellular towers. 
+Measurements are made using devices that are 1,000 times more sensitive 
+than traditional base stations and are located at or near cellular towers. 
+Several measurements are sent to a central node that calculates the loca
+-tion with fairly high accuracy, typically within a 50-m radius of the correct 
+position. The technology is widely used today by cellular companies to 
+provide E-911 services. 
+Indoor Geolocation of Mobile Devices
+Indoor geolocation is more dif˜cult because GPS and other signals 
+used to determine location do not readily penetrate building structures, 
+and because a signi˜cantly higher accuracy is needed indoors. Naguib 
+noted that a 10-meter error while driving is barely noticeable, but it would 
+be problematic for someone navigating through a building. 
+Qualcomm is developing an indoor positioning technique that uses 
+three additional data sources to determine indoor positioning:
+˜˚
+Wi-Fi measurements;
+˜˚
+Building maps, which provide additional information on what 
+locations are viable (places the receiver could not be located, such as 
+within a wall) and routing information (transitions that are impossible, 
+such as crossing through walls); and
+˜˚
+Sensors on the phone such as accelerometers, gyroscopes, and 
+compasses that can be used as an inertial navigation system by which a 
+prediction is made based on relative motion of the device from its previ
+-ous position. 
+CURRENT AND FUTURE TECHNOLOGIES FOR 
+GEOTARGETING ALERTS TO MOBILE DEVICES
+As described in Chapter 1, WEA provides limited capabilities for geo
+-targeting alerts to mobile users. New technologies and innovations may 
+provide additional capabilities for alerting and more narrowly de˜ned 
+geotargeting. George Percivall, Open Geospatial Consortium, discussed 
+the use of Short Message Service (SMS) to report geotargeted informa
+-tion; J.T. Johnson, Weather Decision Technologies, described a third-party 
+application for geotargeted weather alerts; and John Davis, Sprint, dis
+-cussed possible approaches to enhancing the geotargeting capabilities of 
+WEA.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGIES AND TOOLS FOR GEOTARGETED ALERTS AND WARNINGS
+ 33Geotargeting of SMS
+SMS is almost universally supported on mobile phones and widely 
+used to send and receive text messages. George Percivall discussed the 
+Open Geospatial Consortium™s (OGC™s) work to develop a standard, 
+Open GeoSMS, for representing location information in SMS messages. 
+The location can be displayed in a mapping tool or used to retrieve satel
+-lite images or other information about the location. Open GeoSMS was 
+used in the mobile phone app Find Me Maybe, which was developed and 
+deployed for limited use during Hurricane Sandy in 2012. The tool also 
+subscribed to the FEMA SMS alert service. 
+Third-Party Application Capabilities
+Using an application on a mobile device and location information 
+from that device is another method for geotargeting alerts. One such 
+application is iMap Weather Radio, which was developed by Weather 
+Decision Technologies (WDT). iMap Weather Radio communicates NWS 
+alerts to the public with the goal of providing some of the key features of 
+NWR (e.g., always on and provides an alert tone that awakens users) on 
+smartphones, which are much more widely deployed. J.T. Johnson noted 
+that iMap Weather Radio offers the following features:
+˜˚
+Phone wakes up automatically with alerts;
+˜˚
+Alerts are for current location and for additional saved locations;
+˜˚
+Interactive maps provide radar view, alert polygons, and phone 
+location; and
+˜˚
+Text and text-to-speech of alerts reaches drivers or those with 
+visual impairments.
+To improve accuracy and continuity, WDT uses triple redundant feeds 
+from the NWS and clusters of redundant computers; the data center has 
+an uptime of 99 percent. WDT has also begun working to incorporate 
+CAP EAS into iMap Weather Radio by using the FM channel. WDT also 
+works with local media so that an individual receiving an alert can then 
+watch the local television news directly within the application, either as 
+real-time content or prerecorded material.
+Carrier Geotargeting of WEA
+As discussed in Chapter 1, targeting methods used by carriers to 
+deliver WEA vary. Geotargeting an alert to a small, de˜ned area is the 
+ultimate goal in the alerting community. John Davis highlighted chal
+-Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.34 GEOTARGETED ALERTS AND WARNINGS
+lenges and opportunities for better geotargeting of mobile devices. These 
+include the following:
+˜˚
+The current deployment of the long-term evolution (LTE)
+3 standard 
+may provide a partial solution. With LTE, cellular IDs, which are used to 
+determine if a tower is within the alerted area, are assigned to individual 
+antennas on each tower, rather than the tower as a whole. This may allow 
+for tighter sectioning of geographical regions within the tower™s signal. 
+˜˚
+The use of GPS is a possibility for determining a mobile device™s 
+location, but may pose a challenge if the GPS initiates a request to carrier 
+networks to request location information. Davis noted that this may cre
+-ate congestion in the network and cause its failure. Furthermore, Davis 
+reiterated that GPS inside buildings or on subways is a challenge, and 
+commercial needs will drive the development of tools to allow this. 
+˜˚
+Alerting systems may not need to do the geotargeting. A phone™s 
+position may be determined by a combination of technologies, as described 
+in previous sections, and then the phone can determine if an alert applies 
+to its location. 
+˜˚
+Another challenge is that geotargeting capabilities vary across car
+-riers and devices and are an area of extreme competition between carriers. 
+This creates barriers to discussions across organizations. 
+˜˚
+The size of the message is probably the greatest hindrance. Davis 
+explained that the biggest gain in encouraging appropriate public 
+response, with the least impact on networks and devices, is the modest 
+expansion of message information. An option to do this is to allow pagi
+-nation of a messageŠthat is, a series of messages that together provide 
+the full alert text.
+3  Long-term evolution is often marketed as 4G LTE.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.35
+3Research Needs and 
+Implementation Challenges
+The following sections outline research opportunities and associated 
+implementation challenges identi˜ed by attendees of the workshop. 
+The opportunities and challenges compiled here by the commit
+-tee from presentations and discussions at the workshop do not re˚ect a 
+consensus of the committee or the workshop participants, nor are they 
+intended to be a comprehensive list of research questions.
+FACILITATING AND IMPROVING PUBLIC RESPONSE
+While there are decades of research on public response to traditional 
+alert and warning technologies, less is known about how the public may 
+respond when new technologies are used for alerts and warnings. As 
+noted in Chapter 1, much research is currently being done to answer 
+several of the questions around public response, including the following:
+˜˚
+What are the opportunities for optimizing message content, struc
+-ture, and alert delivery systems?
+˜˚
+To what extent could more precise geotargeted alerts and warnings 
+reduce mortality, morbidity, human suffering, and other costs associated 
+with disasters? 
+˜˚
+How can better communication of locations at risk and appropri
+-ate protective actions for each location help reduce delay in recipients™ 
+taking protective actions, for example, because less time is spent seeking 
+additional or con˜rming information or milling?
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.36 GEOTARGETED ALERTS AND WARNINGS
+˜˚
+What are opt-out rates and causes? Would more tailored opt-out 
+options reduce the opt-out rate? For example, would allowing people to 
+opt in or out of speci˜c categories or sources of warnings help? If so, is 
+there an optimal level of granularity for such selections? How can people 
+be encouraged to opt back in? 
+˜˚
+For a given alerting system, what is the most effective repetition 
+frequency for messages and the most effective update interval during an 
+extended emergency?
+ Does this depend on the nature of the hazard or 
+message?
+˜˚
+How can one determine the effectiveness of the alerts or warnings 
+issued during an event? Can the effectiveness of particular messages or 
+systems be measured directly? If not, are there indirect indications that 
+can be used to gauge effectiveness?
+VALUE OF GEOTARGETED INFORMATION
+Geotargeted information can be presented in several ways: for exam
+-ple, text that includes a place name (e.g., city, county, or zip code), a map 
+that clearly delineates the affected area, a map that shows the affected area 
+and includes the location of the message recipient, or some combination 
+of these. Open research questions regarding the display and presentation 
+of geotargeted information include the following:
+˜˚
+How would using multiple approaches to communicate geotar
+-geted alerts and warnings enhance personalization of risk and subsequent 
+public protective action response? What combinations of text and maps 
+would best motivate recipients to take protective action?
+˜˚
+Does the content of the messageŠfor example, the hazard being 
+warned about or the protective action being urgedŠplay a role in which 
+presentation method is best?
+˜˚
+Given that targeting and sending messages to recipients in unnec
+-essarily large geographic areas can lead to frustration and opting out, 
+what is the most effective size of geotargeting boundaries? 
+˜˚
+If maps are incorporated into alerts, what is the most effective 
+method to represent, transmit, and display them? For example, should 
+the maps be represented as raster or vector images? What image size and 
+resolution are best? What level of compression is needed? Should mes
+-sages contain the maps themselves or just links (e.g., URLs) to the maps? 
+˜˚
+How will map literacy in the general populace affect pub
+-lic response? Will map literacy need to be incorporated into disaster 
+education?
+˜˚
+What are the most effective design and visualization principles for 
+geotargeted alerts? Which map symbols, scales, labels, and point of inter
+-Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.RESEARCH NEEDS AND IMPLEMENTATION CHALLENGES
+ 37ests would be most effective? Should a standardized set of map symbols 
+for displaying various disaster scenarios be developed? 
+˜˚
+What can be learned and applied to alerting tools by examining the 
+use and innovations of mobile and location-based advertising?
+˜˚
+How can geotargeted messages be made more accessible, espe
+-cially for individuals with disabilities?
+DEVELOPING AND DEPLOYING TECHNOLOGY 
+Communication technologies have greatly evolved in the past decade 
+and will continue to evolve. While much of this innovation is driven by 
+non-disaster response sectors, these technologies will inevitably shift how 
+best to communicate with the public during disasters. Research gaps con
+-cerning the use of new technologies include:
+˜˚
+How can new technologies developed by the private sector be 
+adapted quickly and effectively for delivering geotargeted alerts and 
+warnings? What is the role of the third-party developers (e.g., smartphone 
+applications) in delivering geotargeted alerts and warnings? 
+˜˚
+What respective roles will special-purpose alert and warning sys
+-tems (e.g., WEA or NWR) and general-purpose messaging systems (e.g., 
+SMS or social media) play in delivering alerts and warnings to the public? 
+What are the bene˜ts and challenges of each type of alert system? How 
+do they complement each other?
+˜˚
+What legal, regulatory, technology standard, or other barriers stand 
+in the way of rapidly deploying new technology for delivering alerts and 
+warnings?
+˜˚
+How can the gap between what is understood about public 
+response and the technology available for delivering alerts be closed?
+˜˚
+How do new technologies and public use of these technologies 
+affect network traf˜c?
+˜˚
+What is the future role of sensors within an alerting system? 
+˜˚
+WEA is currently limited to text only. What additional technologies 
+are needed to extend WEA to include either images or links to maps? 
+˜˚
+As recipients receive messages on their various computing and 
+mobile devices, they may wish to forward those messages to others via 
+text or email or to social media sites. Additionally, they may want to sim
+-ply link to additional information. How can these capabilities be incor
+-porated in alerting systems? What strategies and techniques can be used 
+to decrease bandwidth requirements?
+˜˚
+How can existing systems and new technologies incorporate the 
+needs of at-risk populations, including those with physical or mental 
+disabilities?
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.38 GEOTARGETED ALERTS AND WARNINGS
+RESPECTING PRIVACY AND MEETING SECURITY NEEDS
+Concerns over privacy are prevalent in discussions surrounding the 
+use of mobile devices and the use of geolocation information. 
+˜˚
+Users make privacy trade-offs frequently. They enjoy the use of a 
+particular mobile application that may share their location information 
+with others, often without explicit consent. If more explicit consent is 
+needed for applications to share information, do users have the knowl
+-edge to make this decision?
+˜˚
+How can alerting systems be designed up front to incorporate 
+privacy and security concerns (versus trying to incorporate privacy and 
+safety considerations after the system is designed, or worse, after it is 
+deployed)?
+˜˚
+What is the likelihood that concerns about negative public relations 
+or apprehensiveness regarding government regulation will discourage 
+developers from incorporating geolocation information into emerging 
+technologies? 
+FACILITATING AND ENCOURAGING USE BY PRACTITIONERS 
+Ultimately, practitioners at various levels of government decide how 
+and when to send an alert. Clear guidelines may be required to encourage 
+more and appropriate use of new systems. Additional questions include 
+the following:
+˜˚
+What are possible incentives for emergency managers to experi
+-ment with the use of new alerting systems and geotargeted alerts and 
+warnings? What are the major constraints that limit adoption by local 
+practitioners?
+˜˚
+What policy framework would help encourage the use of new 
+technologies for alerting by practitioners?
+˜˚
+What are useful ways to involve more practitioners in technology 
+and system design and decision-making processes?
+ Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.Appendixes
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.41
+AWorkshop Agenda
+FEBRUARY 21-22, 2013
+ NATIONAL ACADEMIES KECK CENTER
+ WASHINGTON, D.C.
+Day 1: Public Response and Considerations 
+for Geotargeted Alerts and Warnings
+Past research has shown that speci˜c and clear information, includ
+-ing which locations are and are not at risk, increases the likelihood that 
+people take protective action. When alerts and warnings are delivered to 
+broader populations than those actually affected by an event, the result 
+may be that an alert or warning indicating more people than are actually 
+at risk should take action. With new technological opportunities to more 
+precisely target alerts and warnings come new questions about public 
+response:
+˜˚
+What degree of geographical targeting is needed to make messages 
+relevant? In what scenarios might greater precision be useful? 
+˜˚
+What is known about the consequences of too many messages 
+(e.g., if the threshold for events which trigger alerts is set too low, if alerts 
+cover too large a geographical area, if messages are repeated too often, 
+or if there are too many false alarms)? Is there a threshold above which 
+people will ignore messages or opt out from receiving them?
+˜˚
+What are potential drawbacks of better geotargeting capabilities, 
+such potential for privacy protections?
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.42 GEOTARGETED ALERTS AND WARNINGS
+8:30 am
+ Welcome
+  
+Ellis Stanley, Chair, Committee on Geotargeted Disaster Alerts 
+  and Warnings
+  
+Dan Cotter, Geospatial Information Of˜cer, Department of 
+  Homeland Security
+  
+Denis Gusty, Science and Technology Directorate, Department 
+  of Homeland Security
+9:00
+ Overview of Past CSTB Alerts and Warning Work
+  
+Public Response to Alerts and Warnings on Mobile 
+  Devices
+  
+Jeannette Sutton, Chair, Committee on Public Response to 
+  Alerts and Warnings on Mobile Devices
+  
+Public Response to Alerts and Warnings Using Social 
+  Media
+  
+Leslie Luke, Committee on Public Response to Alerts and 
+  Warnings Using Social Media
+9:45
+ Value of Geotargeted Alerts and Warnings 
+  Moderator: Dennis Mileti
+  
+What Role Does Geotargeted Information Play in 
+   
+Effectively Communicating Risks to At-Risk and Not-
+At-Risk Populations?
+ Tim Sellnow, University of Kentucky
+   
+What Are the Various Ways that Geotargeted Information 
+   
+Can Be Communicated to the Public? Under What 
+Circumstances Might One Method Be Preferred Over 
+Another?
+ Michele Wood, California State University, Fullerton 
+  
+For What Hazards and Protective Actions Is Geotargeting 
+  Most Needed?
+ Brooke Liu, University of Maryland
+   
+How Do Present-Day Tools Constrain Emergency 
+   
+Managers? Are Some Deployed Capabilities Being 
+Underused? 
+ Ken Rudnicki, City of Fairfax, Virginia 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX A 4311:45
+  Geotargeting Needs and Challenges for Particular 
+Hazards
+ Moderator: Ellis Stanley
+ Wild˜re Events
+ Thomas Cova, University of Utah
+  Radiological/Nuclear Incident
+  
+Steven M. Becker, Old Dominion University College of Health 
+  Sciences
+ Transportation Systems
+  
+Peter LaPorte, Washington Metropolitan Area Transit Authority
+12:45 pm
+ Lunch
+2:00
+ Data Security and Privacy
+  Moderator: Ming-Hsiang Tsou
+ Mobile Device Privacy and Security Concerns
+ Patrick McDaniel, Pennsylvania State
+ University 
+ Personal Privacy
+ Marc Armstrong, University of Iowa
+  
+Methods for Preserving Privacy While Providing 
+  Geotargeted Alerting
+ Darrell Ernst, Private Consultant 
+ Legal Questions Surrounding Location Information
+ Kevin Pomfret, Centre for Spatial Law and Policy
+3:30
+ Location-Enabled TechnologiesŠPart 1
+  Moderator: Shashi Shekhar
+ Wireless Location Determination
+ Larry Dodds, TruePosition
+ Indoor Position Technologies
+ Ayman Naguib, Qualcomm 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.44 GEOTARGETED ALERTS AND WARNINGS
+4:30
+ Day 1 Summary and Discussion
+  
+Ellis Stanley, Chair, Committee on Geotargeted Disaster Alerts 
+  and Warnings
+  
+Dennis Mileti, University of Colorado, Boulder; Committee 
+  Member
+Day 2: Technologies and Tools for More Precise 
+Geotargeted Alerts and Warnings
+Cell phones and other mobile devices can determine their position 
+using cell tower triangulation, GPS, and nearby Wi-Fi sites and offer 
+ample computing power and high-resolution displays to receive, process, 
+and display alerts and warnings. Similarly, other computing devices such 
+as laptops, desktops, and cable set top boxes can also establish their loca
+-tion and with suitable software provide targeted alerts. 
+˜˚
+How can already-deployed and emerging technologies be used to 
+deliver improved geographical targeting capabilities?
+˜˚
+What would be effective strategies for introducing more precise 
+geographic information as systems are modernized and enhanced?
+˜˚
+What technical and operational standards are needed to facilitate 
+the delivery of more precise alerts/warnings?
+˜˚
+How can commercial off-the-shelf technology and commercial ser
+-vices be leveraged to deliver alerts and warnings?
+8:30 am
+   
+Current and Future Vision for the Integrated Public  
+Alert and Warning System 
+ Moderator: Art Botterell
+ Mike Gerber, National Weather Service 
+  
+Denis Gusty, S&T Directorate, Department of Homeland 
+  Security
+  
+Wade Witmer, IPAWS Division, Federal Emergency 
+  Management Agency
+9:15
+  Lessons from and Opportunities for Traditional 
+Technologies for Geotargeted Alerts
+ Moderator: Helena Mitchell
+ Telephone Alerting
+ Rick Wimberly, Galain Solutions 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX A 45 Radio Broadcast Technologies
+ John Kean, NPR Labs 
+ Weather Radio Technologies
+ Bruce Thomas, Midland Radios (remotely)
+ Cable Television Alerting
+ Ron Boyer, Boyer Broadband
+10:30
+ Location-Enabled TechnologiesŠPart 2
+ Moderator: Mani Chandy
+ Geotargeted Alerts and Warnings in Streaming Video
+ Hisham Kassab, MobiLaps 
+ Geotargeting with Internet Protocols
+  
+Richard Barnes, BBN Technologies/Raytheon, IETF Geographic 
+  Location Working Group 
+11:45
+  Current and Future Capabilities of Location-Enabled 
+Mobile Devices
+ Moderator: Ramesh Rao
+ Geotargeting of SMS
+ George Percivall, Open Geospatial Consortium
+ Carrier Capabilities
+ John Davis, Sprint 
+ Third-Party Application Capabilities
+ J.T. Johnson, Weather Decision Technologies
+ Mobile Location Determination
+ Farshid Alizadeh, Skyhook Wireless (remotely)
+1:00 pm
+  Wrap-Up Discussion
+  
+Ellis Stanley, Committee on Geotargeted Disaster Alerts and 
+  Warnings
+ Denis Gusty, Department of Homeland Security
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.46
+BBiosketches of Workshop Speakers
+Farshid Alizadeh-Shabdiz, chief scientist for Skyhook, is responsible 
+for the research and development of Skyhook™s positioning technology. 
+Dr. Alizadeh-Shabdiz has almost 20 years of industrial experience in the 
+design and implementation of satellite and wireless networks. Before join
+-ing Skyhook, he was the head of the communications section of Advanced 
+Solutions Group (part of Cross Country Automotive Services). There, 
+he was responsible for the management, design, and implementation of 
+an application server and media gateway. Dr. Alizadeh-Shabdiz was a 
+member of the design and implementation team of the ˜rst three satel
+-lite-based mobile networks at Hughes Network Systems: ICO, Thuraya, 
+and Inmarsat high-speed data network. He proposed the ˜rst complete 
+analytical model to carry out an analysis of single-hop and multihop 
+ad hoc networks and 802.11 based on WLANs. Dr. Alizadeh-Shabdiz is 
+on the faculty of Boston University and received his Ph.D. from George 
+Washington University and his M.Sc. from Tehran University.
+Marc P. Armstrong
+ is a professor in the Department of Geography at Uni
+-versity of Iowa. During the 2012-2013 academic year, he served as interim 
+chair of the Department of Communication Studies and as interim chair 
+of the Department of Cinema and Comparative Literature. Dr. Armstrong 
+also holds a courtesy appointment in the Graduate Program in Applied 
+Mathematical and Computational Sciences. He was named a College of 
+Liberal Arts and Sciences (CLAS) collegiate fellow in 2005 and he served 
+as interim associate dean for research in CLAS in 2006, as interim direc
+-Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 47tor of Iowa™s School of Journalism and Mass Communication in 2007 
+and 2008, and as interim director of the Division of World Languages, 
+Literatures, and Culture in 2010-2011. Dr. Armstrong™s Ph.D. is from the 
+University of Illinois, Urbana-Champaign. A primary focus of his research 
+is on the use of cyberinfrastructure to improve the performance of spa
+-tial analysis methods. Other active areas of interest focus on the use of 
+geospatial technologies by groups and geographic aspects of privacy. 
+Dr. Armstrong has served as North American editor of the 
+International 
+Journal of Geographical Information Science, served on the editorial boards of 
+six journals, and has published more than 100 academic papers, including 
+articles in a wide variety of peer-reviewed journals such as 
+Annals of the 
+Association of American Geographers, Photogrammetic Engineering and Remote Sensing, Geographical Analysis, Statistics and Medicine, Mathematical Geology, 
+Computers and Geosciences, International Journal of Geographical Information 
+Science, Parallel Computing, Computers, Environment and Urban Systems
+, and 
+Journal of the American Society for Information Science
+. Richard Barnes
+ is a researcher with BBN Technologies. He leads BBN™s 
+Internet standards efforts in the areas of geolocation, presence, and emer
+-gency services. He is chair of the IETF GEOPRIV working group, a former 
+chair of the ECRIT working group, and was recently appointed to be the 
+IETF area director for real-time applications and infrastructure.
+Steven M. Becker
+ is professor of community and environmental health 
+in the College of Health Sciences at Old Dominion University. He is a 
+leading international expert on community responses to unconventional 
+disasters, public health preparedness and response, and risk communica
+-tion and emergency messaging for chemical, biological, radiological, and 
+nuclear issues. Dr. Becker served as a principal investigator (PI) in the 
+Centers for Disease Control and PreventionŒAssociation of Schools of 
+Public Health Pre-Event Message Development Project, one of the most 
+extensive peer-reviewed studies ever conducted of people™s concerns 
+and communication needs in situations involving unconventional health 
+threats. More recently, he has served as PI for a multiyear Department of 
+Homeland Security (DHS) study of the communication and information 
+challenges posed by radiological threats and incidents. In addition to his 
+scholarly research, Dr. Becker has extensive ˜eld experience at the sites 
+of major incidents around the world, including such cases as a major 
+drinking-water contamination incident in Great Britain; the 1999 nuclear 
+criticality accident in Tokaimura, Japan; and the 2001 foot-and-mouth 
+disease outbreak in the United Kingdom. He has also done follow-up 
+work in Ukraine and Belarus on the community impacts of the Chernobyl 
+disaster. In 2011, Dr. Becker was a member of a three-person radiological 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.48 GEOTARGETED ALERTS AND WARNINGS
+emergency assistance team invited to Japan in response to the earthquake-
+tsunami disaster and the accident at Fukushima Dai-ichi nuclear plant. 
+While on the ground, the team carried out a rapid site assessment in 
+affected areas, exchanged information with Japanese disaster response 
+organizations, and provided training to more than 1,100 Japanese physi
+-cians, nurses, and other healthcare providers and emergency responders. 
+In 2005, Dr. Becker was elected to serve on the National Council on Radia
+-tion Protection and Measurements, and his work on emergency manage
+-ment and risk communication has been recognized by such scienti˜c 
+organizations as the Health Physics Society and Oak Ridge Associated 
+Universities. He has also been a visiting fellow at the Japan Emergency 
+Medicine Foundation and National Hospital Tokyo Disaster Medical 
+Center. For more than a decade, Dr. Becker has been an invited faculty 
+member for Harvard School of Public Health™s course on radiological 
+emergency planning. Early in 2012, he was named to the Thought Leader 
+Advisory Council of the National Public Health Information Coalition. In 
+September 2012, Dr. Becker was appointed by President Barack Obama to 
+the U.S. Nuclear Waste Technical Review Board.
+Ron Boyer
+ serves the cable telecommunications industry, having spent 
+more than 35 years as an engineer, working in both the manufactur
+-ing and operations sides. He has experience in virtually all engineering 
+aspects that the industry has to offer. Prior to starting his consulting ˜rm 
+Boyer Broadband in 2011, Mr. Boyer worked for Time Warner Cable, 
+the second-largest cable operator in the United States. He held various 
+positions in their corporate management. At ˜rst as a senior staff engi
+-neer, then as senior network engineer, and ˜nally more than 7 years as 
+senior regulatory engineer in the legal department. This experience pro
+-vided him a solid working understanding of both the technology utilized 
+and regulatory environments involved in the day-to-day operations of 
+a cable system. Before joining Time Warner Cable in 1997, Mr. Thomas 
+also worked for ADC Broadband and Scienti˜c Atlanta (now a division 
+of Cisco) for more than 11 years. This experience proved invaluable when 
+working for Time Warner Cable; it provided a ˜rm understanding of 
+how important the communications between the manufacturer and the 
+user are when deploying advanced technologies. He has maintained an 
+association with a diverse range of organizations, including the Society of 
+Cable Telecommunications Engineers, California Public Utilities Commis
+-sion, IEEE National Electrical Safety Code and National Electrical Code 
+committees, and Communications Security, Reliability and Interoperabil
+-ity Council (CSRIC). He has participated as a member or held various 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 49lead positions in the different working groups. Recent activities included 
+participating in two CSRIC III Working Groups (2 and 9).
+Dan Cotter
+ is the director of the Information Applications Division of the 
+First Responder Group (FRG) in the Science and Technology Directorate, 
+DHS. Mr. Cotter is also the DHS geospatial information of˜cer and senior 
+agency of˜cial for geospatial information. FRG identi˜es, validates, and 
+facilitates the ful˜llment of ˜rst responder capability gaps through the 
+use of existing and emerging technologies, knowledge products, and the 
+acceleration of standards. FRG engages ˜rst responder working groups, 
+teams, and other stakeholders to better understand the needs and require
+-ments of the ˜rst responder communities. Prior to joining the FRG, Mr. 
+Cotter served as the DHS chief technology of˜cer (CTO). As the DHS 
+CTO, his responsibilities included overseeing programs for information 
+sharing, enterprise architecture, enterprise data management, geospatial 
+technologies, identity, credentialing and access management, as well as the 
+Homeland Security Information Network (HSIN) and the DHS Common 
+Operational Picture investments. Mr. Cotter served as the DHS geospa
+-tial management of˜cer from 2005 to 2007. In fall 2005 he was deployed 
+to the Katrina-Rita Joint Field Of˜ce, Baton Rouge, Louisiana, to serve 
+as the Geospatial Intelligence Unit manager. Mr. Cotter™s private sector 
+experience includes acting as the geospatial information technologies 
+manger for a large engineering ˜rm, as the president of an airborne light 
+detection and ranging (lidar) company, and as vice president of a ˚ood 
+zone determination ˜rm. His prior public sector experience includes 12 
+years with the Federal Emergency Management Agency (FEMA) applying 
+geospatial and remote sensing technology to natural hazard mitigation 
+programs, including the National Flood Insurance Program, and disaster 
+response, including Hurricane Andrew, the Northridge Earthquake, and 
+the 1993 Midwest Floods. Mr. Cotter was elected as a fellow of the Ameri
+-can Association for the Advancement of Science in 2005. He has received 
+numerous awards, including the FEMA Director™s Distinguished Service 
+Award, the National States Geographic Information Council Outstanding 
+Service Award, the Transamerica Pyramid Award for Business Reengi
+-neering, and the NASA National Resources Award for lidar commercial
+-ization. Mr. Cotter holds an M.B.A. from Texas A&M University, an M.S. 
+in geographic and cartographic sciences from George Mason University, 
+a B.S. in hydrology from the University of Arizona, an A.A.S. in computer 
+information systems from Northern Virginia Community College, and a 
+Federal Chief Information Of˜cer Graduate Certi˜cate from the Univer
+-sity of Maryland, University College.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.50 GEOTARGETED ALERTS AND WARNINGS
+Thomas Cova
+ is professor of geography and director of the Center for 
+Natural and Technological Hazards at the University of Utah, Salt Lake 
+City. He has a B.S. in computer science from the University of Oregon 
+and an M.A. and Ph.D. in geography from the University of California, 
+Santa Barbara. His research and teaching interests are environmental haz
+-ards, transportation, and geographic information science with a particular 
+focus on wild˜re evacuation modeling, analysis, and planning. He has 
+published on a variety of topics in many leading hazards, transportation, 
+and geographic information system (GIS) science journals and is most 
+known for work on evacuation vulnerability and routing in ˜re-prone 
+communities of the western United States. He has served as chair of the 
+GIS Specialty Group of the Association of American Geographers (AAG) 
+and as program chair for the International Conference of Geographic 
+Information Science (GIScience ‚08) and currently chairs the AAG Haz
+-ards, Risks, and Disasters Specialty Group. He teaches courses on hazards 
+geography, emergency management, and GIS.
+John Davis is the lead network design and development engineer at 
+Sprint responsible for implementation of the Commercial Mobile Alert 
+Service (CMAS) platform within the Carrier network. Sprint was an early 
+adopter of CMAS, and Mr. Davis led the ˜rst large-scale test at the Carrier 
+level with the County of San Diego. He has been with Sprint for 12 years 
+helping to develop the wireless Internet since its genesis in addition to 
+leading all CMAS initiatives. He is currently Sprint™s representative on the 
+CSRIC III Working Group 2 committee.
+Larry Dodds
+ is currently the vice president of product line management 
+and business development at TruePosition. In his current role, Mr. Dodds 
+is responsible for all of TruePosition™s location solutions and forging new 
+partner relationships. He has more than 20 year of experience in location, 
+including star-based navigation for the U.S. Navy™s sea-launched ballistic 
+missiles, the initial test program for the U.S. Air Force GPS receivers, and 
+now various forms of location techniques for mobile devices. He has a 
+bachelor™s degree in electrical engineering from Drexel University and a 
+master™s degree in computer science from Northeastern University. 
+Darrell Ernst
+ is an advisor to the of˜ce in the Pentagon responsible for 
+the development of the instrumentation systems used on U.S. test ranges 
+for the testing of weapon systems. He advises the deputy director of the 
+of˜ce on technical and regulatory issues on radio spectrum used at the 
+test ranges. He advises on the implementation of C-band for telemetry 
+and range spectrum encroachment. He led planning for investment in 
+research and development of technologies for more ef˜cient use of the 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 51radio spectrum. He was a member of the U.S. delegation to the 2007 and 
+2012 World Radiocommunication Conferences. He began his career in 
+1961 as a telemetry technician in tracking aircraft operating on the Air 
+Force Eastern Test Range. Mr. Ernst was involved in the test programs 
+for Atlas, Titan, Polaris, Poseidon, Projects Mercury, Gemini, Apollo, the 
+space shuttle, the Global Positioning System (GPS) user segment, and 
+many other space programs. In 1998 his employer, the MITRE Corpora
+-tion, asked him to work with the emergency management community to 
+explore the possibility of using the technology he and others had invented 
+for public warning. Working with various leaders in the emergency man
+-agement community, he came up with the idea of convening a workshop 
+to identify the requirements for a modern emergency warning system. 
+He was at the 2001 annual meeting of the National Emergency Manage
+-ment Association meeting in Montana on September 11 to announce the 
+workshop, which was scheduled for that November. As a consequence 
+of the events of that day, the workshop became a national referendum 
+that resulted in the creation of the Partnership for Public Warning (PPW). 
+MITRE assigned him to manage the PPW. One of the achievements of 
+PPW was its sponsorship of Art Botterell™s Common Alerting Protocol 
+(CAP) standard project that included an important national workshop on 
+CAP at the National Emergency Training Center in Emmitsburg, Mary
+-land. Mr. Ernst graduated from Auburn University with a bachelor of 
+science degree in mathematics and graduated from Rensselaer Polytech
+-nic Institute with a master™s degree in operations research and statistics. 
+He retired from the U.S. Air Force in 1982. Mr. Ernst is a co-inventor of a 
+concept for message distribution using spatial coordinates for addressing, 
+thereby obviating the need to know the address or location of message 
+recipients. The concept has been embodied in various prototypes such as 
+the Tactical Automated Situation Receiver for the U.S. Army and a cell-
+phone-based alerting system for a major telecommunications company. 
+He is listed as an inventor on three patents issued to MITRE. 
+Mike Gerber
+ is the emerging dissemination technologies lead for the 
+National Oceanic and Atmospheric Administration™s (NOAA™s) National 
+Weather Service (NWS) in Silver Spring, Maryland. He joined the NWS in 
+1992. Mr. Gerber is leading efforts to bring about the integration of NWS 
+alert information across the widest possible range of warning systems 
+and consumer electronic devices to better save lives, protect property, and 
+enhance the national economy. Mr. Gerber brings a visionary perspective 
+as the NWS representative on several cross-organizational teams working 
+to improve the Wireless Emergency Alert (WEA) system. He also leads 
+efforts within the NWS to improve mobile alerting through enhance
+-ments to NWS alert generation tools and CAP. Mr. Gerber is a senior 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.52 GEOTARGETED ALERTS AND WARNINGS
+fellow of the Council for Excellence in Government. He made signi˜cant 
+contributions to the land and ˜re management community as a former 
+˜re weather and incident meteorologist at the NWS Forecast Of˜ce in 
+Boise, Idaho. Mr. Gerber spearheaded development of weather forecast 
+guidance for hundreds of weather observation stations that improved 
+prescribed ˜re planning and wild˜re prediction throughout the western 
+United States. While working as a meteorologist at the NWS Forecast 
+Of˜ce in Sterling, Virginia, Mr. Gerber co-anchored the PBS television 
+show, 
+AM Weather
+. Mr. Gerber earned a bachelor™s degree in atmospheric 
+science from the University of Arizona.
+Denis Gusty
+ serves as the program manager for the FRG™s Commercial 
+Mobile Alert Service (CMAS) Research, Development, Testing, and Evalu
+-ation (RDT&E) Program. CMAS RDT&E is responsible for improving 
+CMAS™s capabilities, including geotargeting and how the public responds 
+to wireless emergency alerts. In addition, Mr. Gusty leads FRG™s Emer
+-gency Data Exchange Language Program, which focuses on improving 
+messaging standards that help emergency responders manage incidents 
+and exchange information in real time. Mr. Gusty came to DHS Science 
+and Technology Directorate from the U.S. General Services Administra
+-tion (GSA), where he served as director of GSA™s Of˜ce of Intergovern
+-mental Solutions. Prior to joining GSA, Mr. Gusty served as a program 
+manager at the U.S. Department of Labor. In this role, he was responsible 
+for helping to implement the President™s Management Agenda by manag
+-ing the e-government initiative, GovBene˜ts.gov. Mr. Gusty has 15 years 
+of experience in developing intergovernmental partnerships and informa
+-tion technology policy and practices. 
+J.T. Johnson 
+co-founded Weather Decision Technologies, a global weather 
+information company helping businesses and individuals make decisions 
+related to weather, in 2000 where he currently serves as the chief technol
+-ogy of˜cer. Before joining Weather Decision Technologies, Mr. Johnson 
+was a team leader at NOAA™s National Severe Storms Laboratory and 
+a science and operations of˜cer at the Olympic Weather Support Of˜ce. 
+He completed his B.S. and M.S. degrees in meteorology at the University 
+of Oklahoma. 
+Hisham Kassab
+ is the founder and president of MobiLaps, LLC, a high-
+tech company developing innovative technologies to power/enable/enhance next-generation alert dissemination channels, with a current 
+emphasis on broadband alerts (including streaming media), CMAS/
+WEA/Personal Localized Alerting Network, and social media alerting. 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 53Dr. Kassab has 20 years of experience in the information and commu
+-nications technology (ICT) industry, with the last 5 focused on next-
+generation alerting. He has been an active member of an advisory group 
+to the Federal Communications Commission on next-generation alerting 
+(CSRIC III-Working Group 2). Prior to MobiLaps, Dr. Kassab worked as a 
+strategy and technology consultant with Booz Allen Hamilton (now Booz 
+and Co.) focusing exclusively on ICT clients. He earned his B.S., M.S., 
+and Ph.D. degrees in electrical engineering and computer science from 
+the Massachusetts Institute of Technology (MIT). He also holds an M.S. 
+in operations research from MIT. His doctoral dissertation was in the area 
+of wireless data networks.
+John Kean, a senior technologist for NPR Labs, develops and super-vises the technical projects of NPR Labs, the only not-for-pro˜t broad
+-cast engineering laboratory in the United States, which is involved in 
+the development and evaluation of new technologies, procedures, and 
+standards on behalf of public radio. Mr. Kean was a senior engineer at 
+NPR from 1980 to 1986, where he supported new broadcast technologies 
+and pioneered expansion of FM subcarrier services. He left NPR to join 
+Jules Cohen and Associates and get his start in consulting engineering. 
+From 1987 to 2000 he was a director of engineering for Moffet Larson and 
+Johnson, Inc., consulting in the ˜elds of broadband wireless networks, 
+TV and radio facilities, FCC regulations, and microwave and satellite 
+systems. Before returning to NPR in 2004, Mr. Kean was director of wire
+-less architecture for XO Communications, a broadband telecommunica
+-tions company having extensive broadband wireless holdings. He is a 
+member of IEEE and past president of the IEEE Broadcast Symposium, 
+contributing author to The NAB Engineering Handbook,
+ Editions 7, 8, and 9, 
+and presenter of numerous papers in the ˜eld of radio systems engineer
+-ing to the National Association of Broadcasters™ Engineering Conference, 
+International Engineering Consortium, Wireless Communications Asso
+-ciation, and has served as a delegate to the International Telecommunica
+-tion Union plenary meetings in Geneva on behalf of the North American 
+Broadcasters Association. He is past president of the Audio Engineering 
+Society (Washington DC Section), co-chair of the National Radio Systems 
+Committee™s AM Study Task Group, a recent member of the Consumer 
+Electronics Association™s Audio Division Board, and has a patent pending 
+for the prediction of coverage for U.S. in-band on-channel digital audio 
+broadcasting. His recent work has focused on digital audio broadcasting, 
+including digital audio codec performance, HD Radio® multicast devel
+-opments, overall broadcast system performance, and the prediction of 
+broadcast signal transmission and reception.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.54 GEOTARGETED ALERTS AND WARNINGS
+Peter LaPorte
+ currently serves as the director of the Of˜ce of Emer
+-gency Management (OEM) of the Washington Metropolitan Area Transit 
+Authority (WMATA). WMATA established its OEM within the Metro 
+Transit Police Department in 2009 to institute an emergency management 
+mindset and culture, and the OEM team has seen emergency management 
+awareness and practices become more common at WMATA in the past 
+3 years from the development of an emergency operations plan (EOP), 
+continuity of operations plans, a terrorism incident annex to the EOP, rail 
+station emergency response plans, and more.
+Brooke Liu
+ is an associate of communication at the University of Mary
+-land and a research af˜liate with the National Consortium for the Study 
+of Terrorism and Responses to Terrorism (START). Dr. Liu™s research 
+primarily examines how governments manage communication during 
+crisis and noncrisis situations. Her research has been published in outlets 
+such the 
+Handbook of Crisis Communication
+, 
+Journal of Applied Communi
+-cation Research
+, Journal of Communication Management, Journal of Public 
+Relations Research, 
+and 
+Natural Hazards Review
+. She received her Ph.D. in 
+mass communication from the University of North Carolina, Chapel Hill 
+(2006), and M.A. in journalism from the University of Missouri, Columbia 
+(2003). In recent years, Dr. Liu has served as a public affairs volunteer for 
+the American Red Cross for the Arlington, Virginia, and Chicago, Illinois, 
+chapters as well as a research consultant for national headquarters. As 
+part of her work at START, she currently leads four DHS-funded projects 
+focusing on effective risk communication and messaging. She also contin
+-ues to provide research support as an independent consultant primarily to 
+government agencies, most recently focusing on evaluating social media 
+campaigns.
+Leslie Luke
+ is the group program manager for the County of San Diego™s 
+Of˜ce of Emergency Services, where he oversees the Planning Branch, 
+Info/Intel Branch, Recovery Branch, and Support Services. Mr. Luke is the 
+recovery coordinator for the County of San Diego and has been the recov
+-ery operational area lead for ˜ve federally declared disasters and numer
+-ous state-declared disasters. He coordinates the Continuity of Community 
+Programs and is a liaison with schools, including child care resource 
+centers, the business sector (leads the ReadySanDiego Business Alliance), 
+and faith-based initiatives. He oversees the of˜ce™s public awareness/
+public education initiatives, special projects, and the student worker/
+internship/volunteer program. Mr. Luke has worked for the County of 
+San Diego for 22 years, in the Of˜ce of Emergency Services since 2004. 
+Prior to that, he worked in the Public Safety Group, a division of the 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 55County™s Chief Administrative Of˜ce, and was an investigator for the 
+County Medical Examiner™s Of˜ce.
+Patrick McDaniel
+ is a professor in the Computer Science and Engineering 
+Department at the Pennsylvania State University and co-director of the 
+Systems and Internet Infrastructure Security Laboratory. Dr. McDaniel™s 
+research efforts centrally focus on network, telecommunications, and sys
+-tems security, language-based security, and technical public policy. He is 
+the editor-in-chief of the Association for Computing Machinery (ACM) 
+journal
+ Transactions on Internet Technology
+ and serves as associate editor 
+of 
+Transactions on Information and System Security
+ and 
+IEEE Transactions on 
+Computers
+, and he stepped down as associate editor of 
+IEEE Transactions 
+on Software Engineering
+ in 2012. Dr. McDaniel was awarded the National 
+Science Foundation (NSF) CAREER Award and has chaired several top 
+conferences in security including, among others, the 2007 and 2008 Insti
+-tute of Electrical and Electronics Engineers (IEEE) Symposium on Security 
+and Privacy and the 2005 USENIX Security Symposium. Prior to pursuing 
+his Ph.D. in 1996 at the University of Michigan, he was a software archi
+-tect and project manager in the telecommunications industry.
+Ayman Naguib 
+received a B.Sc. degree (with honors) and a M.S.EE degree 
+in electrical engineering from Cairo University, Cairo, Egypt, in 1987 and 
+1990, respectively, and an M.S. degree in statistics and Ph.D. degree in 
+electrical engineering from Stanford University in 1993 and 1996, respec
+-tively. From 1996 to 2000, Dr. Naguib was a principal member of techni
+-cal staff at AT&T Shannon Labs, where he, along with his colleagues at 
+AT&T Labs, pioneered the ˜eld space-time coding. From September 2000 
+to August 2002, he was with Morphics Technology, Inc. In October 2002, 
+Dr. Naguib joined Qualcomm, Inc., where he is now a director of engi
+-neering with Qualcomm Research, Silicon Valley, where he is currently 
+leading indoor positioning and navigation research activities. His 1998 
+IEEE Journal on Selected Areas in Communications 
+paper on space-time cod
+-ing was selected by the IEEE Communication Society as one of the 50 fun-damental papers ever published by the society. His 2003 
+IEEE JSAC paper 
+won the best paper award. He has 40 U.S. patents, more than 90 pending 
+patent applications, and more than 50 book chapter, conference, and 
+journal publications. Dr. Naguib served as an associate editor for 
+IEEE 
+Transactions on Communications
+ from 2002 to 2007 and as a guest editor to 
+a number of IEEE transactions journals. In 2006, Dr. Naguib was named 
+an IEEE fellow for his contributions to space-time coding and signal pro
+-cessing and wireless communications. His current research interests are 
+statistical learning, location determination, and indoor positioning.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.56 GEOTARGETED ALERTS AND WARNINGS
+George Percivall
+ is an accomplished leader in geospatial information 
+systems and standards. As chief engineer of the Open Geospatial Con
+-sortium (OGC), he is responsible for the OGC Interoperability Program 
+and the OGC Compliance Program. His roles include articulating OGC 
+standards as a coherent architecture, as well as addressing implications of 
+technology and market trends on the OGC baseline. Prior to joining OGC, 
+Mr. Percivall was chief engineer with Hughes Aircraft for NASA™s Earth 
+Observing System Data and Information SystemŠLandsat/Terra release; 
+principal engineer for NASA™s Digital Earth Of˜ce; and he represented 
+NASA in OGC, International Organization for Standardization, and Com
+-mittee on Earth Observation Satellites. He was director of the Global 
+Science and Technology™s Geospatial Interoperability Group. Previously, 
+he led developments in intelligent transportation systems with the U.S. 
+Automated Highway Consortium and General Motors Systems Engineer-ing, including the EV1 program. He began his career with Hughes as a 
+control system engineer on GOES/GMS satellites. He holds a B.S. in engi
+-neering physics and an M.S. in electrical engineering from the University 
+of Illinois, Urbana-Champaign.
+Kevin Pomfret
+ is the executive director of the Centre for Spatial Law 
+and Policy and the founder of GeoLaw, P.C. He is well known within the 
+spatial technology community for his efforts to increase the dialogue on 
+the legal and policy issues associated with spatial data. Mr. Pomfret has 
+worked with and around spatial technology for more than 20 years. Prior 
+to attending law school, Mr. Pomfret served as a satellite imagery analyst 
+with the U.S. government. In that capacity, he developed an imagery col
+-lection strategy to monitor critical arms control agreements and worked 
+on requirements for future collection systems. In addition, he served 
+as the special assistant to the U.S. government of˜cial responsible for 
+developing the intelligence community™s satellite imagery collection and 
+exploitation requirements. Upon entering private practice, Mr. Pomfret 
+recognized that there were a number of unique legal issues associated 
+with spatial data, including intellectual property rights, licensing, liabil
+-ity, privacy, and national security. He regularly advises a variety of spa
+-tial technology companies on such matters as licensing and distribution 
+agreements, privacy policies, and spatial data audits. He also works as 
+a consultant on developing a legal and policy framework for national 
+spatial data infrastructures.
+Ken Rudnicki
+ has more than 35 years of experience in emergency man
+-agement. Mr. Rudnicki began his career in emergency management in 
+1977 while a member of the U.S. Air Force. After completing the Air Force 
+Disaster Preparedness School, he was stationed in Fort Walton Beach, 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 57Florida, at Hurlburt Field where his of˜ce was awarded Best Disaster 
+Preparedness Program in Tactical Air Command. Throughout his Air 
+Force career he was stationed across the globe and has responded to a 
+wide variety of disasters, including earthquakes in California, typhoons 
+in the far east, and volcanoes in the Philippines. He was awarded two 
+Humanitarian Service Medals, ˜ve Air Force Commendation Medals, 
+and a Meritorious Service Medal during his 24-year career in disaster 
+preparedness. Following his retirement from the Air Force, Mr. Rudnicki 
+joined the Florida Division of Emergency Management where he worked 
+as a planner for 4 years and the area coordinator for the Tampa Bay 
+region for 6 years. During this time, he was involved in more than 20 
+federal disaster declarations. While working for Florida, he was awarded 
+three Distinguished Service Awards. As a member of the Florida Emer
+-gency Preparedness Association, he helped develop regional response 
+team procedures bringing local emergency managers to the assistance of 
+impacted counties and the state. Mr. Rudnicki then moved into the private 
+sector as a consultant working in Reston, Virginia, where he developed 
+numerous domestic security exercises, developed state and local plans, 
+and was selected by the Secretary of DHS to be part of the Nationwide 
+Plan Review ordered by the President following Hurricane Katrina. In 
+2006, Mr. Rudnicki accepted a job with the City of Fairfax, Virginia, as the 
+emergency coordinator and has remained in this position to date. He has 
+served on numerous committees throughout his career and now serves 
+as the president of the Virginia Emergency Managers Association, and he 
+is the International Association of Emergency Managers (IAEM) USA-
+Region III secretary and treasurer. Mr. Rudnicki is a certi˜ed professional 
+emergency manager with the states of Florida and Virginia and a certi˜ed 
+emergency manager through the IAEM. 
+Timothy L. Sellnow 
+is a professor of communication at the University 
+of Kentucky, where he teaches courses in risk and crisis communication. 
+Dr. Sellnow™s research focuses on bioterrorism, pre-crisis planning, and 
+communication strategies for crisis management and mitigation. He has 
+conducted funded research for DHS, the U.S. Department of Agriculture, 
+and the Centers for Disease Control and Prevention. He has published 
+numerous refereed journal articles on risk and crisis communication and 
+has co-authored four books on risk and crisis communication. His most 
+recent book is 
+Risk Communication: A Message-Centered Approach.
+ He is also past editor of the National Communication Association™s 
+Journal of Applied 
+Communication Research.
+ Dr. Sellnow received his Ph.D. from Wayne State 
+University in 1987.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.58 GEOTARGETED ALERTS AND WARNINGS
+Jeannette Sutton
+ is a senior research scientist in the Trauma Health and 
+Hazards Center at the University of Colorado, Colorado Springs, where 
+she specializes in disaster sociology with a primary focus on online 
+informal communications in disaster, public alerts and warnings, and 
+community resiliency. Much of her research investigates the evolving 
+role of information and community technology, including social media 
+and mobile devices, for disaster preparedness, response, and recovery. 
+Dr. Sutton is the principal investigator (PI) on two NSF-funded projects, 
+one on the use of Twitter for disaster communications and a second on the 
+role of information access in relation to perceptions of collective ef˜cacy. 
+She is also a co-investigator on the DHS-sponsored project Comprehen
+-sive Testing of Imminent Threat Public Messages for Mobile Devices. 
+Dr. Sutton holds a Ph.D. in sociology from the University of Colorado, 
+Boulder, and completed her postdoctoral training at the Natural Hazards 
+Center. She is also a special term appointee with the Center for Integrated 
+Emergency Preparedness at Argonne National Laboratory. 
+Bruce Thomas
+ has served as chief meteorologist and national spokesper
+-son for Midland Radio Corporation, Kansas City, Missouri, since 2004. 
+Mr. Thomas has been recognized by the Department of Commerce with 
+the Mark Trail Award for outstanding service promoting 
+All Hazards 
+NOAA Weather Radio
+ across America. Prior to his work with Midland 
+Radio, Mr. Thomas spent nearly two decades as a broadcast meteorologist 
+in Tornado Alley, working with network af˜liate television stations in Col
+-lege Station, Waco, Dallas/Fort Worth, and Kansas City. He is currently 
+serving as president of the National Weather Association. He is also an 
+active member of the American Meteorological Society where he holds the 
+designation Certi˜ed Broadcast Meteorologist.  
+Rick Wimberly
+ is president of Galain Solutions, Inc., an independent 
+consultancy with expertise in alerts and warnings, which serves clients at 
+local, state, and federal levels as well as private industry. Galain™s clients 
+include the FEMA Integrated Public Alert and Warning System (IPAWS) 
+program. Mr. Wimberly has been involved in the alert and warning indus
+-try for 15 years and in the public safety industry for nearly 25 years. He 
+writes extensively on topics related to alerts and warnings, including a 
+widely followed blog for Emergency Management
+ magazine. A recent cover 
+story article Mr. Wimberly wrote for 
+Emergency Management
+ magazine, 
+ﬁDo Alert Noti˜cations Fail to Live Up to Expectations,ﬂ addressed com
+-mon shortcomings of telephone-based alerting systems, including chal
+-lenges with geotargeted messages.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX B 59Wade Witmer
+ has been with the FEMA IPAWS Division since January 
+2009. The IPAWS program is tasked with implementing the vision of 
+Executive Order 13407 for the United States to have ﬁan effective, reli
+-able, integrated, ˚exible, and comprehensive system to alert and warn 
+the American people.ﬂ The IPAWS brings together the Emergency Alert 
+System, the new CMAS, a feed for publishing alerts to Internet services, 
+and integration with NWS™s All-Hazards Radio network. Using industry 
+standard protocols, authorized public safety of˜cials can use IPAWS to 
+send emergency alerts to citizens in their local area. Prior to joining the 
+IPAWS Division at FEMA, Mr. Witmer was employed with the Defense 
+Information Systems Agency for 9 years, serving across various pro
+-grams as a communications systems engineer, program manager, and 
+portfolio manager for Mobile Communications in the Presidential Com
+-munications Upgrade Program. Just prior to joining FEMA, he served as 
+the White House Communications Agency deputy director of enterprise 
+architecture, strategic planning, and systems engineering. Mr. Witmer has 
+more than 20 years of experience in government systems engineering and 
+program acquisition management. He has a bachelor of science degree in 
+electrical engineering from the Pennsylvania State University. 
+Michele Wood 
+is an assistant professor in the Health Science Department 
+at the California State University, Fullerton, where she teaches courses 
+in statistics and program design and evaluation. Dr. Wood has 20 years 
+of experience designing, implementing, and evaluating interventions. 
+Through her af˜liation with the Southern California Injury Prevention 
+Center in the University of California, Los Angeles (UCLA) School of 
+Public Health, she managed a national household preparedness survey 
+conducted as part of the National Center for the START program through 
+the University of Maryland™s Center of Excellence, as well as a Califor
+-nia household telephone survey of earthquake preparedness. Dr. Wood
+ received her Ph.D. in public health from the Department of Community 
+Health Sciences at UCLA, and she also holds a master™s degree in com
+-munity psychology.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.60
+CBiosketches of Committee Members
+Ellis M. Stanley, Sr.
+, 
+Chair,
+ is the former vice president, emergency man
+-agement, disaster and mitigation at Dewberry, LLC, and has more than 32 
+years of work experience in emergency management beginning as direc
+-tor of emergency management for Brunswick County, North Carolina, 
+in 1975. Mr. Stanley was selected as the ˜rst ˜re marshal for Brunswick 
+County and served as ˜re and rescue commissioner and was very involved 
+with hurricane planning and response as well as having developed one 
+of the ˜rst ˜xed nuclear facility plans in the United States following 
+Three Mile Island. Mr. Stanley was appointed in 1982 as the director of 
+the Durham-Durham County Emergency Management Agency where he 
+worked very closely with the world™s largest research park in the North 
+Carolina Triangle area and was heavily involved with hazardous materi
+-als planning. In 1987 Mr. Stanley was appointed by the Governor of Geor
+-gia as the director of the Atlanta-Fulton County Emergency Management 
+Agency. While in Atlanta, Mr. Stanley had extensive experience in major 
+event planning (1988 Democratic National Convention (DNC), 1995 Man
+-dela visit, and the 2006 International Olympic Games). He was appointed 
+in 1997 as assistant city administrative of˜cer for the City of Los Angeles 
+and then in 2000 as general manager of the Emergency Preparedness 
+Department for the City of Los Angeles until his retirement in 2007.  Mr. 
+Stanley joined Dewberry, LLC, in November 2007 as director of Western 
+Emergency Management Services. In March 2008, he was selected to be 
+the director of DNC planning for the City and County of Denver, Colo
+-Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 61rado. He received his B.S. in political science from the University of North 
+Carolina, Chapel Hill.
+Art Botterell 
+is a research scientist at Carnegie Mellon University™s Sili
+-con Valley campus. His experience in emergency public information and 
+public warning spans more than four decades, including service with 
+the Federal Emergency Management Agency, the California Emergency 
+Management Agency, and local public safety and emergency manage
+-ment agencies. Mr. Botterell has served as a consultant to the Depart
+-ment of Homeland Security and other federal agencies, as well as in 
+North America, Europe, Australia, and Asia, and with the United Nations 
+Development Programme. He served as a member of the Federal Com
+-munications Commission™s (FCC™s) Commercial Mobile Alerting Advi
+-sory Committee and a variety of other government and scienti˜c panels, 
+including an National Research Council committee. Mr. Botterell was a 
+founding trustee of the nonpro˜t Partnership for Public Warning. He has 
+also worked as a broadcast engineer, a journalist, and an online content 
+producer. He originated and guided the development of the Common 
+Alerting Protocol standard. 
+K. Mani Chandy
+ (NAE) is the Simon Ramo Professor at the California 
+Institute of Technology (Caltech). Dr. Chandy has worked for Honeywell 
+and IBM. From 1970 to 1989, he was in the Computer Science Depart
+-ment of the University of Texas, Austin, serving as chair in 1978-1979 
+and 1983-1985. He has served as a consultant to a number of companies, 
+including IBM and AT&T Bell Labs. He has been at Caltech since 1987, 2 
+years as a Sherman Fairchild Fellow and then as a professor in computer 
+science. Dr. Chandy is a member of the National Academy of Engineer
+-ing. He received the IEEE Koji Kobayashi Award for Computers and 
+Communication in 1987, the A.A. Michelson Award from the Computer 
+Measurement Group in 1985, and has numerous other awards. Software 
+developed by Dr. Chandy and colleagues in the area of computer per
+-formance modeling was marketed by Boole and Babbage, Inc. He was 
+a co-founder of iSpheres in the area of event-driven architecture; that 
+software is now marketed by Avaya. Dr. Chandy does research on sense-
+and-respond systems. He has published three books and more than 100 
+papers on distributed computing, veri˜cation of concurrent programs, 
+parallel programming languages, and performance models of comput
+-ing and communication systems. Dr. Chandy received his Ph.D. from 
+the Massachusetts Institute of Technology in electrical engineering at 
+the Operations Research Center in 1969. He received a master™s from the 
+Polytechnic Institute of Brooklyn, and a bachelor™s from the Indian Insti
+-tute of Technology, Madras, in 1965.
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.62 GEOTARGETED ALERTS AND WARNINGS
+Dennis S. Mileti
+ is a recently retired professor and former chair of the 
+Department of Sociology at the University of Colorado, Boulder, and 
+director emeritus of the Natural Hazards Center. Dr. Mileti is author of 
+more than 100 publications, most of which focus on the societal aspects of 
+mitigation, preparedness, response, and recovery for hazards and disas
+-ters. His book 
+Disasters by Design
+ (1999) involved more than 130 experts 
+to assess knowledge, research, and policy needs for hazards in the United 
+States. He has served on a variety of advisory boards and was co-founder 
+and co-editor-in-chief of 
+Natural Hazards Review,
+ an interdisciplinary all-
+hazards journal devoted to bringing together the natural and social sci
+-ences, engineering, and the policy communities. Dr. Mileti received his 
+Ph.D. in sociology from the University of Colorado, Boulder.
+Helena Mitchell
+ is the executive director of the Center for Advanced 
+Communications Policy and principal research scientist at the Georgia 
+Institute of Technology. In tandem, she is also the principal investiga
+-tor (PI) for the Rehabilitation Engineering Research Center for Wireless 
+Technologies, funded by the U.S. Department of Education since 2001 to 
+promote equitable access to wireless technologies by people with disabili
+-ties and the adoption of universal design in wireless devices. Dr. Mitchell 
+was recruited to Georgia through the Georgia Research Alliance Eminent 
+Scholar program that spans educational, community, and business envi
+-ronments. Her areas of specialty include broadband and wireless com
+-munications, educational technologies, regulatory and legislative policy, 
+emergency/public safety communications, and universal service to vul
+-nerable, rural, and inner-city populations. Dr. Mitchell has held positions 
+in academia, business, and government, which contribute to her unique 
+ability to see multiple perspectives. This expertise has enabled her to cre
+-ate innovative interdisciplinary technology and educational programs, as 
+well as utilize her unique skill for navigating new waters. Dr. Mitchell has 
+held executive posts in Washington, D.C., with the federal government. At 
+the FCC, she served as the associate chief, strategic communications, for 
+the Of˜ce of Engineering and Technology to increase commission dialog 
+with advanced technology companies. Earlier, as the chief of the Emer
+-gency Broadcast System (EBS), her work resulted in major rulemakings 
+that expanded EBS to include cable, satellite, and advanced communica
+-tions systems and the adoption of the Emergency Alert System. As a result, 
+her team was selected as the FCC Organization of the Year. Dr. Mitchell 
+previously headed the telecommunications development programs for 
+the National Telecommunications and Information Administration of the 
+U.S. Department of Commerce, where she spearheaded executive branch 
+policy initiatives to increase educational, broadcast, and nonbroadcast 
+telecommunications ownership opportunities; advanced joint venture 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 63projects between the education and business sectors; worked on interna
+-tional privatization activities; and was responsible for earmarking more 
+than $50 million dollars in domestic and international grants and loans. 
+In recognition of the success of her policy initiatives in telecommunica
+-tions, she received the prestigious U.S. Department of Commerce Silver 
+Medal. Dr. Mitchell received her Ph.D. in telecommunications policy from 
+Syracuse University.
+Ramesh R. Rao
+ is the director of the University of California, San Diego 
+(UCSD), division of the California Institute for Telecommunications and 
+Information Technology (Calit2). In 2004, he was appointed the ˜rst 
+holder of the Qualcomm Endowed Chair in Telecommunications and 
+Information Technologies in the Department of Electrical and Computer 
+Engineering of the Jacobs School of Engineering at UCSD, where he has 
+been a faculty member since 1984. Prior to becoming the Calit2 UCSD 
+division director in 2001, he served as the director of UCSD™s Center 
+for Wireless Communications. In addition to directing Calit2, Dr. Rao 
+is involved on a day-to-day basis with a wide variety of interdisciplin
+-ary and collaborative research initiatives, leading several major projects 
+at Calit2. He has been a lead investigator on dozens of major federal-, 
+state-, foundation-, defense-, and industry-funded grants, including the 
+National Institutes of Health-funded Wireless Internet Information Sys
+-tem for Medical Response in Disasters Self-Scaling Systems for Mass 
+Casualty Management, the Multimedia Telemedical Diagnostic System, 
+the National Science Foundation (NSF)-funded Responding to Crises and 
+Unexpected Events and ResponSphere projects, and multiple projects 
+involving cognitive networking, as well as leading several international 
+collaborations. He has authored more than 230 peer-reviewed technical 
+papers on a wide range of research topics in wireless communications, 
+including architectures, protocols, performance analysis of computer and 
+communication networks, adaptive systems, energy-ef˜cient communi
+-cations, disaster management applications, and health-related applica
+-tions, among others. He is currently engaged in numerous projects to 
+bridge emerging technologies with medicine and healthcare and investi
+-gating the power of utilizing information technologies to enhance, even 
+transform, healthcare resources, knowledge bases, and outcomes. Dr. Rao 
+received his Ph.D. in computer science from the University of Maryland, 
+College Park.
+Shashi Shekhar
+ is a McKnight Distinguished University Professor at the 
+University of Minnesota (computer science faculty). For contributions to 
+geographic information systems (GIS), spatial databases, and spatial data 
+mining, he received the IEEE-Computer Society (CS) Technical Achieve
+-Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.64 GEOTARGETED ALERTS AND WARNINGS
+ment Award and was elected an IEEE fellow as well as an American Asso
+-ciation for the Advancement of Science fellow. He was also named a key 
+difference-maker for the ˜eld of GIS by the most popular GIS textbook. He 
+has a distinguished academic record that includes more than 260 refereed 
+papers, a popular textbook 
+Spatial Databases
+ (2003), and an authoritative 
+Encyclopedia of GIS
+ (2008). Dr. Shekhar is serving as a member of the Com
+-puting Community Consortium Council (2012-2015), a co-editor-in-chief 
+of Geo-Informatica: An International Journal on Advances in Computer Sciences 
+for GIS, a series editor for the Springer-Briefs on GIS, and as a program co-
+chair for the International Conference on Geographic Information Science 
+(2012). Earlier, Dr. Shekhar served on multiple National Research Coun
+-cil committees, including Future Workforce for Geospatial Intelligence 
+(2011), Mapping Sciences (2004-2009), and Priorities for GEOINT Research 
+(2004-2005). He also served as a general co-chair for the Internaional Sym
+-posium on Spatial and Temporal Databases (2011) and the Association for 
+Computing Machinery Geographic Information Systems (1996). He also 
+served on the board of directors of University Consortium on GIS (2003-
+2004) and was on the editorial board of 
+IEEE Transactions on Knowledge 
+and Data Engineering
+ and the IEEE-CS Computer Science and Engineer
+-ing Practice Board. In early 1990s, Dr. Shekhar™s research developed core 
+technologies behind in-vehicle navigation devices as well as web-based 
+routing services, which revolutionized outdoor navigation in urban envi
+-ronments in the last decade. His recent research results played a critical 
+role in evacuation route planning for homeland security and received 
+multiple recognitions including the Center for Transportation Studies 
+Research Partnership Award for signi˜cant impact on transportation. He 
+pioneered the research area of spatial data mining via pattern families 
+(e.g., collocation, mixed-drove co-occurrence, cascade), keynote speeches, 
+survey papers, and workshop organization. Dr. Shekhar received a Ph.D. 
+degree in computer science from the University of California, Berkeley.
+Ming-Hsiang (Ming) Tsou
+ is a professor in the Department of Geogra
+-phy, San Diego State University. He received a B.S. from National Taiwan 
+University in 1991, an M.A. from the State University of New York at 
+Buffalo in 1996, and a Ph.D. from the University of Colorado, Boulder, in 
+2001, all in geography. His research interests are in mapping cyberspace 
+and social media, Internet mapping, Web GIS applications, mobile GIS 
+and wireless communication, and cyberinfrastructure with grid and cloud 
+computing technology. He has applied his research interests in wild˜re 
+mapping, environmental monitoring and management, habitat conserva
+-tion, K-12 education, and homeland border security. He is co-author of 
+the book 
+Internet GIS
+ and has served on the editorial boards of 
+Annals 
+of GIS
+ (since 2008) and 
+The Professional Geographer
+ (since 2011). Dr. Tsou 
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.APPENDIX C 65was the chair of the Cartographic Specialty Group (2007-2008) and the 
+chair of Cyberinfrastructure Specialty Group (2012-2013) in the Associa
+-tion of American Geographers. Dr. Tsou served on the 2006 committee 
+on ﬁResearch Priorities for the USGS Center of Excellence for Geospatial 
+Information Science.ﬂ In 2007, he created and maintained an interactive 
+Web-based mapping services for San Diego Wild˜res 2007. In 2010, Dr. 
+Tsou served as the PI of a NSF-CDI-funded project, ﬁMapping ideas from 
+Cyberspace to Realspace.ﬂ
+Geotargeted Alerts and Warnings: Report of a Workshop on Current Knowledge and Research GapsCopyright National Academy of Sciences. All rights reserved.

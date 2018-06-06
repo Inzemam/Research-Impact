@@ -1,0 +1,1914 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/10346IDs -- Not That Easy: Questions About Nationwide IdentitySystems74 pages | 6 x 9 | PAPERBACKISBN 978-0-309-08430-7 | DOI 10.17226/10346Stephen T. Kent and Lynette I. Millett, Editors, Committee on AuthenticationTechnologies and Their Privacy Implications, National Research CouncilIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.IDsÑNot That EasyQuestions About Nationwide Identity Systems
+Stephen T. Kent and Lynette I. Millett, EditorsCommittee on Authentication Technologies andTheir Privacy ImplicationsComputer Science and Telecommunications BoardDivision on Engineering and Physical SciencesNational Research CouncilNATIONAL ACADEMY PRESSWashington, D.C.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.NATIONAL ACADEMY PRESS ¥ 2101 Constitution Avenue, N.W. ¥ Washington DC 20418NOTICE: The project from which this report was generated was approved by theGoverning Board of the National Research Council, whose members are drawnfrom the councils of the National Academy of Sciences, the National Academy ofEngineering, and the Institute of Medicine.  The members of the committee re-
+
+sponsible for the report were chosen for their special competences and with re-gard for appropriate balance.Support for this project was provided by the National Science Foundation, theOffice of Naval Research, the General Services Administration, the Federal ChiefInformation OfficersÕ Council, and the Social Security Administration.  Support
+for this special report was provided by the Vadasz Family Foundation, a contribu-tor to the Computer Science and Telecommunications BoardÕs program on infor-mation technology and society.  Any opinions, findings, conclusions, or recom-
+
+mendations expressed in this material are those of the authors and do notnecessarily reflect the views of the sponsors.International Standard Book Number 0-309-08430-XAdditional copies of this report are available from:
+National Academy Press2101 Constitution Avenue, N.W.
+Box 285Washington, DC  20055
+800/624-6242
+202/334-3313 (in the Washington metropolitan area)The report is also available online at <http://www.nap.edu> and <http://www.cstb.org/>Copyright 2002 by the National Academy of Sciences.  All rights reserved.
+
+Printed in the United States of AmericaIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.The National Academy of Sciences is a private, nonprofit, self-perpetuating soci-
+ety of distinguished scholars engaged in scientific and engineering research, dedi-
+cated to the furtherance of science and technology and to their use for the generalwelfare. Upon the authority of the charter granted to it by the Congress in 1863,the Academy has a mandate that requires it to advise the federal government on
+scientific and technical matters. Dr. Bruce M. Alberts is president of the NationalAcademy of Sciences.The National Academy of Engineering was established in 1964, under the charter
+of the National Academy of Sciences, as a parallel organization of outstandingengineers. It is autonomous in its administration and in the selection of its mem-
+bers, sharing with the National Academy of Sciences the responsibility for advis-ing the federal government. The National Academy of Engineering also sponsorsengineering programs aimed at meeting national needs, encourages education
+and research, and recognizes the superior achievements of engineers. Dr. Wm. A.Wulf is president of the National Academy of Engineering.The Institute of Medicine was established in 1970 by the National Academy of
+Sciences to secure the services of eminent members of appropriate professions inthe examination of policy matters pertaining to the health of the public. The
+Institute acts under the responsibility given to the National Academy of Sciencesby its congressional charter to be an adviser to the federal government and, uponits own initiative, to identify issues of medical care, research, and education.
+Dr. Kenneth I. Shine is president of the Institute of Medicine.The National Research Council was organized by the National Academy of Sci-
+ences in 1916 to associate the broad community of science and technology withthe AcademyÕs purposes of furthering knowledge and advising the federal gov-ernment. Functioning in accordance with general policies determined by the Acad-
+
+emy, the Council has become the principal operating agency of both the NationalAcademy of Sciences and the National Academy of Engineering in providingservices to the government, the public, and the scientific and engineering commu-
+nities. The Council is administered jointly by both Academies and the Institute ofMedicine. Dr. Bruce M. Alberts and Dr. Wm. A. Wulf are chairman and vicechairman, respectively, of the National Research Council.National Academy of SciencesNational Academy of Engineering
+Institute of Medicine
+National Research Council
+IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.COMMITTEE ON AUTHENTICATION TECHNOLOGIES ANDTHEIR PRIVACY IMPLICATIONSSTEPHEN T. KENT, BBN Technologies, ChairMICHAEL ANGELO, Compaq Computer Corporation
+STEVEN BELLOVIN, AT&T Labs Research
+BOB BLAKLEY, IBM Tivoli Software
+DREW DEAN, SRI International
+BARBARA FOX, Microsoft Corporation
+STEPHEN H. HOLDEN, University of Maryland at Baltimore County
+DEIRDRE MULLIGAN, University of California at Berkeley
+JUDITH S. OLSON, University of Michigan
+JOE PATO, HP Labs Cambridge
+RADIA PERLMAN, Sun Microsystems
+PRISCILLA M. REGAN, George Mason University
+JEFFREY I. SCHILLER, Massachusetts Institute of Technology
+SOUMITRA SENGUPTA, Columbia University
+JAMES L. WAYMAN, San Jose State University
+DANIEL J. WEITZNER, Massachusetts Institute of TechnologyStaffLYNETTE I. MILLETT, Study Director and Program OfficerJENNIFER BISHOP, Senior Project AssistantivIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.vCOMPUTER SCIENCE AND TELECOMMUNICATIONS BOARDDAVID D. CLARK, Massachusetts Institute of Technology, ChairDAVID E. BORTH, Motorola Labs
+JAMES CHIDDIX, AOL Time Warner
+JOHN M. CIOFFI, Stanford University
+ELAINE COHEN, University of Utah
+W. BRUCE CROFT, University of Massachusetts at Amherst
+THOMAS E. DARCIE, AT&T Labs Research
+JOSEPH V. FARRELL, University of California at Berkeley
+JEFFREY M. JAFFE, Bell Laboratories, Lucent Technologies
+ANNA KARLIN, University of Washington
+BUTLER W. LAMPSON, Microsoft Corporation
+EDWARD D. LAZOWSKA, University of Washington
+DAVID E. LIDDLE, U.S. Venture Partners
+TOM M. MITCHELL, Carnegie Mellon University
+DONALD A. NORMAN, Nielsen Norman Group
+DAVID A. PATTERSON, University of California at Berkeley
+HENRY (HANK) PERRITT, JR., Chicago-Kent College of Law
+BURTON J. SMITH, Cray Inc.
+TERRY R. SMITH, University of California at Santa Barbara
+LEE S. SPROULL, New York University
+JEANNETTE M. WING, Carnegie Mellon UniversityMARJORY S. BLUMENTHAL, DirectorHERBERT S. LIN, Senior Scientist
+ALAN S. INOUYE, Senior Program Officer
+JON EISENBERG, Senior Program Officer
+LYNETTE I. MILLETT, Program Officer
+CYNTHIA A. PATTERSON, Program Officer
+STEVEN WOO, Program Officer
+JANET BRISCOE, Administrative Officer
+DAVID PADGHAM, Research Associate
+MARGARET HUYNH, Senior Project Assistant
+DAVID DRAKE, Senior Project Assistant
+JANICE SABUDA, Senior Project Assistant
+JENNIFER M. BISHOP, Senior Project Assistant
+BRANDYE WILLIAMS, Staff AssistantIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.Preface
+The terrorist attacks of September 11, 2001, and subsequent discus-sions have brought fresh urgency to the challenges of providing
+information security.  In the wake of these and other recent events,
+numerous proposals have been circulating both in policy circles and the
+national media.One proposal that has received a fair amount of attention is a nationalidentification cardÑor, more precisely, a nationwide identity system.  The
+Bush administration has indicated that a national identification card is
+not within the scope of options it is contemplating.  Congress, however,
+
+has been considering various alternativesÑfor example, a measure in theEnhanced Border Security and Visa Entry Reform Act of 2001 would
+require biometric identifiers to be employed on visas and other travel and
+entry documents for aliens (H.R. 3525, Section 303).  Additional sugges-
+
+tions include a proposal by the American Association of Motor Vehicle
+Administrators (AAMVA) to link state motor vehicle departments and a
+proposed Òtrusted travelerÓ system for airports.
+The persistence of public discussion on the topic and the expectationthat other proposals will be offered argue for an informed analysis and
+critique of the concept of a nationwide identity system.In early 2001, the Computer Science and Telecommunications Board,(CSTB) a unit of the National Research Council with a long history ofviiIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.viiiPREFACEexamining information technology, security, and related issues,1 launched
+a study to examine authentication technologies and their privacy implica-
+tions.  Sponsored by the National Science Foundation, the Office of Naval
+
+Research, the General Services Administration, the Federal Chief Infor-mation OfficersÕ Council, and the Social Security Administration, the
+study aims to assess emerging approaches to user authentication in com-
+puting and communications systems, and it specifically focuses on the
+implications of these authentication technologies for privacy.The study is being conducted by the multidisciplinary Committee onAuthentication Technologies and Their Privacy Implications, whose mem-
+bers include experts in the design, implementation, deployment, and use
+of information systems generally and information systems security in
+particular, along with experts in privacy law and policy (see Appendix A
+for committee and staff biographies).  Given that identification and au-
+
+thentication systems constitute a large portion of the committeeÕs agenda,it is well positioned to comment on the technology and policy issues
+surrounding a nationwide identity system and its supporting infrastruc-
+tures (hereinafter referred to as a nationwide identity system).  In fact,
+
+CSTB asked the committee to do so, in the interest of providing a timely
+contribution to the public debate.  Additional resources from the Vadasz
+
+Family Foundation enabled development of this report.The committeeÕs broader and more comprehensive final report is ex-pected in late 2002, but its members felt compelled to issue a brief report
+at this time because of the real possibility that further debate on a nation-
+wide identity system, and even action on the topic, could take place prior
+to the final reportÕs issuance.  Thus the present effort outlines the issues
+the committee believes must be addressed and raises a number of ques-
+tions that the committee believes should be answered as part of any con-
+sideration of a nationwide identity system.This brief report is a product of the committeeÕs deliberations, draw-ing on its membersÕ areas of expertise.  But, given time and resource
+limitations, it is not an exhaustive assessment.  It is intended to catalyze a
+1See, for example, CSTB reports such as Growing Vulnerability of the Public Switched Net-works (1989), 
+Computers at Risk (1991), 
+Evolving the High Performance Computing and Commu-nications Initiative to Support the NationÕs Information Infrastructure (1995), CryptographyÕs Rolein Securing the Information Society (1996), 
+For the Record: Protecting Electronic Health Informa-tion (1997), 
+Trust in Cyberspace (1999), 
+The InternetÕs Coming of Age (2000), 
+Embedded, Every-where: A Research Agenda for Networked Systems of Embedded Computers (2001), and Cyber-security Today and Tomorrow:  Pay Now or Pay Later 
+(2002).  See <http://www.cstb.org/web/
+topic_security> for a complete list of CSTB reports related to security, assurance, andprivacy.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.PREFACEixbroader and more sophisticated discussion.  Clearly, the legal, policy, and
+technological issues associated with nationwide identity systems warrant
+a much more detailed and comprehensive examination.   The committee
+
+invites feedback on this brief report as it continues the process of prepar-
+ing its broader and more in-depth final report on the topic of authentica-
+tion technologies and their implications for privacy.The committee thanks David D. Clark, chair of the CSTB, and MarjoryS. Blumenthal, CSTBÕs director, for their commentary and feedback ondraft versions of the report.  The committee also wishes to thank the
+
+various members of the CSTB staff who helped to make it happen.  Jenni-
+
+fer Bishop took over as senior project assistant for the authentication study
+midway through the project, managing logistics, organizing materials,
+and coping with an unplanned brief report and review with aplomb.  She
+
+also assisted in developing the diagrams in the report and designed its
+cover.  Janet Briscoe, CSTB
+Õs administrative officer, provided crucial ad-ministrative and logistical support as well as the suggestion that ulti-
+mately led to the reportÕs title.  Andy White, director of the NRC
+Õs Com-mittee on National Statistics, provided feedback during the formulation
+and review phases.  The committee also thanks Steven J. Marcus, a free-
+
+lance editor, for assistance at multiple stages of the reportÕs development.Liz Fikre at the National Research Council also made significant editorialcontributions to the final manuscript.  Lynette Millett is the study director
+
+for this project; she synthesized this report, coordinating contributions
+from committee members and drafting the response to reviewers.Stephen T. Kent, ChairCommittee on Authentication
+Technologies and Their
+Privacy ImplicationsIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.Acknowledgment of ReviewersThis report has been reviewed in draft form by individuals chosen fortheir diverse perspectives and technical expertise, in accordance with pro-
+cedures approved by the National Research CouncilÕs Report ReviewCommittee.  The purpose of this independent review is to provide candid
+
+and critical comments that will assist the institution in making its pub-lished report as sound as possible and to ensure that the report meets
+institutional standards for objectivity, evidence, and responsiveness to
+the study charge. The review comments and draft manuscript remain
+confidential to protect the integrity of the deliberative process.  We wish
+
+to thank the following individuals for their review of this report:Alfred Blumstein, Carnegie Mellon University,Michael Caloyannides, Mitretek Systems, Inc.,
+Julie E. Cohen, Georgetown University Law Center,
+Jerome H. Saltzer, Massachusetts Institute of Technology,
+Peter Swire, George Washington University, and
+Lee M. Zeichner, LegalNet Works, Inc.Although the reviewers listed above have provided many construc-tive comments and suggestions, they were not asked to endorse the con-
+clusions or recommendations, nor did they see the final draft of the report
+before its release.  The review of this report was overseen by Willis Ware
+
+of RAND.  Appointed by the National Research Council, he was respon-
+
+sible for making certain that an independent examination of this report
+was carried out in accordance with institutional procedures and that all
+review comments were carefully considered.  Responsibility for the final
+
+content of this report rests entirely with the authoring committee and the
+institution.xIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.ContentsEXECUTIVE SUMMARY1
+1INTRODUCTION AND OVERVIEW5
+2POLICY CONSIDERATIONS16
+What Does Identity Provide?, 16
+To Whom and for What?, 19
+Permitted Users of the System, 24
+Permitted Uses of the System, 26
+Voluntary or Mandatory?, 28
+What Legal Structures?, 29
+Benefits and Drawbacks, 303TECHNOLOGICAL CHALLENGES34
+Binding Persons to Identities, 37
+Backend Systems, 41
+Data Correlation and Privacy, 444CONCLUDING REMARKS46
+
+APPENDIXESACommittee Member and Staff Biographies51
+
+BWhat Is CSTB?60
+xiIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.1Executive SummaryNationwide identity systems have been proposed as a solution forproblems ranging from counterterrorism to fraud detection to
+enabling electoral reforms.  In the wake of September 11, 2001,
+and renewed interest in the topic, the Committee on Authentication Tech-
+nologies and Their Privacy Implications of the Computer Science and
+Telecommunications Board1 developed this short report as part of its on-going study process, in order to raise questions and catalyze a broader
+debate about such systems.  The committee believes that serious and
+
+sustained analysis and discussion of the complex constellation of issues
+presented by nationwide identity systems are needed.  Understanding
+
+the goals of such a system is a primary consideration.  Indeed, before any
+
+decisions can be made about whether to attempt some kind of nationwideidentity system, the question of what is being discussed (and why) mustbe answered.There are numerous questions about the desirability and feasibility ofa nationwide identity system.  This report does not attempt to answer
+
+these questions comprehensively and does not propose moving toward
+such a system or backing away.  Instead, it aims to highlight some of the
+
+significant and challenging policy, procedural, and technological issues1See <http://www.cstb.org/web/project_authentication>.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.2IDsÑNOT THAT EASYpresented by such a system, with the goal of fostering a broad, deliberate,and sophisticated discussion among policy makers and stakeholders
+about whether such a system is desirable or feasible.Policy questions that the committee believes should be consideredwhen contemplating any kind of identity system include the following:¥What is the 
+purpose of the system? Possibilities range from expedit-ing and/or tracking travel to prospectively monitoring individualsÕ ac-
+tivities in order to identify and look for suspicious activity to retrospec-
+tively identifying perpetrators of crimes.¥What is the 
+scope of the population that would be issued an ÒIDÓ and,
+presumably, be recorded in the system?  How would the identities of
+
+these individuals be authenticated?¥What is the 
+scope of the data that would be gathered about individu-
+als participating in the system and correlated with their national identity?
+While colloquially it is referred to as an Òidentification system,Ó implying
+that all the system would do is identify individuals, many proposals talk
+about the ID as a key to a much larger collection of data.  Would these
+
+data be identity data only (and what is meant by identity data)? Or would
+other data be collected, stored, and/or analyzed as well?  With what
+
+confidence would the accuracy and quality of this data be established and
+subsequently determined?¥Who would be the user(s) of the system (as opposed to those who
+would participate in the system by having an ID)?  One assumption seems
+
+to be that the public sector/government will be the primary user, but
+what parts of the government, in what contexts, and with what con-
+straints?  In what setting(s) in the public sphere would such a system be
+
+used?  Would state and local governments have access to the system?
+
+Would the private sector be allowed to use the system?  What entities
+
+within the government or private sector would be allowed to use the
+system? Who could contribute, view, and/or edit data in the system?¥What 
+types of use would be allowed?  Who would be able to ask for
+an ID, and under what circumstances?  Assuming that there are datasets
+
+associated with an individualÕs identity, what types of queries would be
+permitted (e.g., ÒIs this person allowed to travel?Ó ÒDoes this person have
+a criminal record?Ó)?  Beyond simple queries, would analysis and data
+
+mining of the information collected be permitted?  If so, who would be
+
+allowed to do such analysis and for what purpose(s)?¥Would participation in and/or identification by the system be 
+vol-untary or mandatory?  In addition, would participants have to be aware of
+or consent to having their IDs checked (as opposed to, for example, allow-
+ing surreptitious facial recognition)?IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.EXECUTIVE SUMMARY3¥What legal structures protect the system
+Õs integrity as well as thedata subjectÕs privacy and due process rights, and determine the govern-ment and relying partiesÕ liability for system misuse or failure?
+Each of these issues is elaborated on in the report.  And each of the
+above questions evokes a larger set of issues and questions that must be
+resolved.  In addition, many of these issues are interdependent, and
+
+choices made for each will bear on the options available for resolving
+other issues.Decisions made at this level will also have ramifications for the tech-nological underpinnings of the system, including what levels and kinds
+of system security will be required.  In fact, 
+ÒsystemÓ may be the most
+important (and heretofore least discussed) aspect of the term Ònationwideidentity system,Ó because it implies the linking together of many social,
+legal, and technological components in complex and interdependent
+ways.  The success or failure of such a system is dependent not just on the
+
+individual components but also on the ways they workÑor do not workÑtogether.  The control of these interdependencies, and the mitigation of
+
+security vulnerabilities and their unintended consequences, would deter-
+mine the overall effectiveness of the system.The committee believes that given the complexity and potential im-pact of nationwide identity systems, more analysis is needed with respect
+to both desirability and feasibility.  In particular,
+¥Given the potential economic costs, significant design and imple-mentation challenges, and risks to both security and privacy, there should
+be broad agreement on what problem(s) a nationwide identity system
+would address.  Once there is agreement on the problem(s) to be solved,
+
+alternatives to identity systems should also be considered as potential
+solutions to whatever problem(s) is identified and agreed upon.¥The goals of a nationwide identity system must be clearly andpublicly identified and deliberated upon, with input sought from all stake-
+holders; public review of these goals prior to selecting a proposed system
+is essential.¥Proponents of such a system should be required to present a verycompelling case, addressing the issues raised in this report and soliciting
+input from a broad range of stakeholder communities.¥Serious consideration must be given to the idea thatÑgiven thebroad range of uses, security needs, and privacy needs that might be
+contemplatedÑno single system may suffice to meet the needs of poten-tial users of the system.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.4IDsÑNOT THAT EASY¥Care must be taken to explore completely the potential ramifica-tions, because the costs of abandoning, correcting, or redesigning a sys-
+tem after broad deployment might well be extremely high.The legal, policy, and technological issues associated with nation-wide identity systems warrant much more detailed and comprehensive
+examination and assessment than are presented in this report.  The com-
+
+mittee hopes that the extensive set of questions and issues raised here will
+help to both further and inform the policy debate.  The committee wel-
+
+comes feedback on this brief report as it continues preparing its broader
+and more in-depth final report on the topic of authentication technologies
+and their privacy implications.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.1Introduction and Overview
+While the events of September 11, 2001, have galvanized a searchfor improvements in the safety and security of our society, the
+challenge is to provide protection without sacrificing funda-mental freedoms.  An idea that has resurfaced as a result of the attacks is
+
+the creation of a Ònational identity card,Ó often referred to simply as a
+Ònational ID.Ó1  This term is a bit of a misnomer, in that a card would
+likely be but one component of a large and complex nationwide identity
+system, the core of which could be a database of personal information on
+the U.S. population.  This report by the Committee on Authentication
+
+Technologies and Their Privacy Implications provides a limited explora-
+tion of such a system and of the potential legal, policy, and technical
+challenges that it might present.No one really knows if a nationwide identity system could detect ordeter terrorism, although several arguments have been advanced.  One is
+
+that such a system could be used to easily identify known terrorists upon
+their interaction with particular agents (such as airline security officials),
+facilitating their arrest.  On the other hand, unless the database of sus-
+
+pects includes those particular individuals, the best possible identity sys-51See, for example, ÒStates Devising Plan for High-Tech National Identification SystemÓat <http://www.washingtonpost.com/wp-dyn/articles/A32717-2001Nov2.html> and
+ÒNational ID Card Gaining SupportÓ at <http://www.washingtonpost.com/wp-dyn/
+articles/A52300-2001Dec16.html>.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.6IDsÑNOT THAT EASYtem would not lead to their apprehension.  Another suggestion is that the
+data collected from the widespread use of nationwide IDs could help
+prevent terrorists from achieving their objectives.  This might involve the
+
+detection of abnormal or suspicious patterns of behavior that accompany
+the planning and/or execution of a terrorist act.Another potential role of a nationwide identity system is as an inves-tigative tool in the aftermath of a crime or terrorist attack.  Here, the data
+collected could help retrospectively in the identification, arrest, and pros-
+ecution of the perpetrators.  Some argue that this is primarily (though not
+
+exclusively) a post facto activity, more useful for law enforcement than
+for counterterrorism, which is, in part, an a priori intelligence function.
+Terrorism issues per se are beyond the scope of this report, whichexamines the concept of a nationwide identity system in the large, not
+solely with respect to counterterrorism.   The committee believes that the
+
+concept of a nationwide identity systemÑincluding whether such a sys-
+tem is a good ideaÑmust be examined on its own merits.Indeed, nationwide identity systems have been sought for many pur-poses in addition to countering terrorism.  They have been proposed to
+
+aid in fraud prevention (for example, in the administration of public ben-
+efits), catch Òdeadbeat dads,Ó enable electoral reforms, allow quick back-
+ground checks for those buying guns or other monitored items, and pre-
+vent illegal aliens from working in the United States.Depending on the nature of the population, the data collected, andthe scope of use, a nationwide identity system might be able to help with
+other tasks as well.  For example, a robust, accurate and comprehensive
+
+system might aid law-enforcement officials in tracking or finding people.2It is possible that the correlation of social (for example, health, economic,
+demographic) information could be more easily accomplished with the
+use of a national identity system; statisticians, for example, note how a
+single identifier would facilitate some of their analyses.  In addition, de-
+
+pending on implementation choices, e-commerce and e-government trans-
+actions might be simplified.  However, there could also be negative con-
+
+sequences, ranging from infringement on rights and liberties (including
+loss of or invasion of personal privacy) to harm resulting from misiden-
+tification or misuse of the system, plus significant implementation and
+deployment costs.  The trade-offs (enhanced security versus risks to pri-
+2Examples include tracking fugitives, executing warrants, tracking noncitizens with ex-pired visas, tracking illegal aliens, and confirming alibis for those innocent of criminalcharges.  A nationwide identity system could facilitate the work done by the National
+Crime Information Center, a computerized database at the Federal Bureau of Investigation
+that permits access by authorized users to documented criminal justice information.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION AND OVERVIEW7vacy, cost versus functionality, and so on) need to be carefully consid-ered.Many other countries have nationwide identity systems, which theyoften use for such diverse purposes as proof of age (e.g., Belgium), proof
+of citizenship, and for generating electronic signatures (e.g., Finland).  In
+
+the United States, citizensÕ concern for civil liberties, their historic associa-
+tion of ID cards with repressive regimes, and statesÕ rights concerns havediscouraged movement toward a governmentally sanctioned nationwide
+identity system.3  Additionally, because the country was settled by immi-
+grants, a significant fraction of whom wanted to escape just such prac-
+tices, many U.S. record systems were intentionally designed not to gather
+linking data.4  Further, it appears that laws requiring individuals to show
+proof of legal status or citizenship result in increased discrimination based
+on national origin and/or appearance.5  The human rights issues that
+could arise, such as increased demands for documentation from those
+who look or sound ÒforeignÓ and the deterioration of living and working
+conditions for aliens, are substantial.6  Clearly, an examination of the
+legal and social framework surrounding identity systems, while outside
+the scope of this report, would be essential.7Although discriminatory acts such as those alluded to above might beconstrainable by law, the presentation of identifying documentsÑdriverÕslicenses and credit cards, for exampleÑis being demanded today in more3The Electronic Privacy Information Center has compiled a set of resources and reportson the topic at its Web site, <http://www.epic.org/privacy/id_cards/>.4An example that frustrates many genealogists is that U.S. birth certificates usually re-quire identifying the town of birth only for parents born in the United States; for peopleborn elsewhere, the country of birth is sufficient.  Generally speaking, the mindset that such
+things are Òno oneÕs businessÓ has deep roots.
+5See U.S. General Accounting Office (GAO), Immigration Reform: Employer Sanctions and
+the Question of Discrimination, March 1990; Marvin Howe, ÒImmigration Law Leads to JobBias, New York Reports,Ó New York Times
+, February 26, 1990, p. A1.  The GAO report on the
+Immigration Reform and Control Act of 1986 (IRCA) cites a Òwidespread pattern of dis-criminationÓ resulting 
+Òsolely from the implementation of IRCA.Ó  Ten percent of employers
+discriminated on the basis of foreign accent or appearance, and nine percent discriminated
+by preferring certain authorized workers over others.6Especially for communities of recent immigrants, there is likely to be significant contro-versy in shifting to a system that would prohibit or make difficult work and other activities
+without presentation of an ID. In considering the feasibility and desirability of a particularapproach, designers of any such system should be aware of this potential opposition, aswell as possible opposition from other segments of the population.7It would be useful to examine how such systems have worked in other countries, as wellas to examine nations where IDs have been proposed but not implemented (such as theUnited Kingdom).IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.8IDsÑNOT THAT EASYand more generic circumstances.  There is also evidence of growing ef-
+forts in the public and private sectors to collect, maintain, correlate, and
+use more and more information on citizensÕ activities based on existing
+identifiers such as Social Security numbers (SSNs). Initially designed only
+for administering social security benefits, SSNs are now common data
+elements in public and private sector databases, allowing for easy sharing
+and correlation of disparate records.  This is a classic example of function
+
+ÒcreepÓÑcontinuous expansion in the use of a system first intended for alimited purpose.8Before any decisions can be made about whether to attempt to formal-
+ize some kind of nationwide identity system, the question of what is being
+discussed must be answered.  Thus the committee believes that substan-
+
+tive and sustained analysis is needed on the issue.There is no recognized universal model for a nationwide identitysystem.  Because different people mean different things when they dis-
+
+cuss the concept, evaluating it requires clarification of what is intended.
+The range of possibilities for identity systems is broad and includes alter-
+native approaches such as the following:¥A database establishing a unique identity and maintaining infor-mation on every U.S. citizen, including, for example, information on
+known felony convictions and place of residence, available for govern-
+ment and commercial query;¥A system similar to the above system that also includes noncitizenswho are legally in the United States;98Some might argue that the SSN is already a de facto national identifier.  The General
+Accounting Office makes this assertion and also points out that no one law governs the use
+of SSNs.   While originally intended to identify retirees who qualified for the Social Security
+retirement system, the SSN is now required, in some cases by law, to be used to identifyindividuals who seek federal assistance.  In addition, of course, the SSN has been adopted
+
+as a taxpayer ID number.  In his book 
+Database Nation, Simson Garfinkel provides a historyof the expanded use of the SSN.  Provisions of the Social Security Act, the Privacy Act, and
+the Computer Matching Act are among the laws that attempt to limit the conditions under
+which SSNs and associated data are used (General Accounting Office, Social Security: Gov-ernment and Commercial Use of the Social Security Number Is Widespread, GAO/HEHS-99-28,February 1999).  For example, the Privacy Act of 1974, available at <http://www.usdoj.gov/
+
+foia/privstat.htm>, requires the disclosure of how the SSN will be used by all governmentagencies.   In 1986, the Office of Technology Assessment addressed the issue of ubiquitous
+use of the SSN as well (U.S. Congress, Office of Technology Assessment, Government Infor-mation Technology: Electronic Records Systems and Individual Privacy, OTA-CIT-296, Washing-ton, D.C., U.S. Government Printing Office, June 1986).9Note that there are additional discussions about systems aimed exclusively at non-citizens, including, for example, proposals that would more rigorously track foreign stu-dents within the United States.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION AND OVERVIEW9¥A database of only a fraction of the countryÕs populationÑthoseindividuals who have a specific characteristic (for example, criminal
+record, past noncriminal but anomalous behavior, trusted travelers)Ñthat would not include the majority of people in the country; and¥A database allowing voluntary participation in return for such ben-
+efits as ease of entry into the country or access to the fast line at the airport
+security checkpoint.The above possibilities (there are others as well) emphasize the needfor answers to a number of questions before a more substantive analysis
+can proceed.  Several policy questions should be asked when considering
+
+any kind of identity system (see also Figure 1.1):¥What would be the purpose of the system? Possibilities include expe-diting and/or tracking travel, prospectively monitoring citizensÕ activi-
+ties in order to discern suspicious behavior, and retrospectively aiding in
+the identification of perpetrators of crime, among others.10¥What is the scope of the population for whom an ID would be issuedand whose activities would presumably be recorded in the system?  How
+
+would the identities of these individuals be authenticated?¥What is the scope of the data that would be gathered about individu-
+als participating in the system and correlated with their national identity?
+While it may be referred to casually as an Òidentification system,Ó imply-ing that all the system would do is identify individuals, many proposals
+talk about the ID as a key to a much larger collection of data.  Would these
+
+data include only identity data (and what, precisely, is meant by identity
+data)? Or would other data be collected, stored, and/or analyzed as well?
+With what confidence would the accuracy and quality of these data be
+established and subsequently determined?¥Who would be the user(s) of the system (as opposed to who would
+participate in the system by having an ID)?  One assumption seems to be
+
+that the public sector/federal government would be the primary user, but
+what parts of the government, in what contexts, and with what con-
+straints?  In what setting(s) in the public sphere would such a system be
+
+used?  Would state and local governments have access to the system?
+
+Would the private sector be allowed to use it?  What entities within the
+
+government or private sector would be allowed to use the system? Who
+could contribute, view, and/or edit data in the system?10In general, the narrower the goals, the simpler and, perhaps, less controversial a sys-tem is likely to be, although even a narrowly focused system can run into function creepand problems associated with misidentification.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.10IDsÑNOT THAT EASYFIGURE 1.1  Interconnecting policy choices. The choices made for each of the
+questions posed will bear, with differing degrees of influence, on the choicesmade with respect to all of the other issues.  For example, the goals of the system
+
+will influence what data are collected about individuals.  What data are collected
+about individuals will constrain the possible goals of the system.  Who is allowed
+to use the system will have a bearing on what legal structures are needed.  What
+
+legal structures are put in place will bear on what kinds of access to the systemare allowed.  And so on.
+¥What types of use would be allowed?  Who would be able to ask for
+an ID, and under what circumstances?  Assuming that there are datasets
+
+associated with an individualÕs identity, what types of queries would bepermitted (e.g., ÒIs this person allowed to travel?Ó ÒDoes this person havea criminal record?Ó)?  Beyond simple queries, would analysis and data
+mining of the collected information be permitted?  If so, who would be
+
+allowed to do this kind of analysis and for what purpose(s)?¥Would participation in and/or identification by the system be vol-untary or mandatory?  In addition, must participants be aware of or con-
+sent to having their IDs checked (as opposed to, for example, undergoing
+surreptitious facial recognition)?Users?Voluntary ormandatory?What data?Type ofuse?Who is participating?Legal structures?Goals?IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION AND OVERVIEW11¥What legal structures would protect the system
+Õs integrity, as wellas the data subjectÕs privacy and due process rights, and define the gov-ernment and relying partiesÕ liability for system misuse or failure?
+These questions will drive technological considerations (described inChapter 3), including what kinds and what levels of system security
+would be required.Throughout this report, the term Ònationwide identity systemÓ is used
+in lieu of the more colloquial Ònational IDÓ or 
+Ònational ID card.Ó  Many
+of the proposals are often presented in terms of a national identity card,though technologies existÑpossibly including biometrics, which mea-sures and analyzes unique physiological and behavioral characteristics of
+individualsÑthat might serve some of the same proposed purposes with-out requiring a physical card.  Nevertheless, the emphasis in this report is
+
+on card-based models simply because they have been proposed most
+frequently.  In addition, many of the policy questions and database-re-
+
+lated technical issues apply both to card-based systems and those that do
+not require a physical card (see Chapter 3).With respect to the chosen phrase, nationwide identity system, Òna-tionwideÓ is meant to underscore the scale (both geographic and in terms
+of numbers of users) needed, without implying that IDs would necessar-
+ily be generated from a single central location or, implicit in the term
+Ònational,Ó that only citizens would need an ID.
+The notion of identity is complicated, even when only the identity ofpersons (and not things, arguments, systems, etc.) is being referred to, as
+this report is doing.  This report distinguishes between an identifier (the
+
+name or sign by which a person is known), which can be thought of as a
+label by which an individual is known in and to society and with which
+he or she conducts his or her affairs within society, and the identity of a
+person as seen by others.  For the purposes of this report, 
+ÒidentityÓ refers
+to a set of information about a person X believed to be true by Y.  More
+
+colloquially, identity is associated with an individual as a convenient way
+to characterize that individual to others.  The set of information and the
+
+identifier (name, label, or sign) by which a person is known are also
+sometimes referred to as that personÕs Òidentity.Ó   The choice of informa-
+tion may be arbitrary, linked to the purpose of the identity verification
+(also referred to as authentication) in any given context, or linked intrinsi-
+cally to the personÑas in the case of biometrics (see Box 1.1).11   For
+11Although biometrics are proposed with increasing frequency for a variety of identifica-tion and authentication purposes, they pose many difficult issues for system design, imple-mentation, and use.  These will be explored in the committee
+Õs final report.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.12IDsÑNOT THAT EASYBOX 1.1
+TerminologyFor the purposes of this brief report, and to help clarify discussion, concepts thatthe committeeÕs final report1 will explore in detail are explained here.
+¥Identity. The identity of X according to Y is a set of statements believed by Yto be true about X.  In this report, identity generally refers to a set of informa-tion about X, especially in the context of a particular identity system.¥Identification. Identification is the process of determining to what identity a
+particular individual corresponds, often without a claimed identity on the partof the individual (for example, the identification of an unconscious patient in
+an emergency room).¥ID. In this report, ID refers to the identity information pertaining to a particularindividual that is contained within an identity system and/or the token associ-
+ated with that information.¥Authentication. Authentication is the process of confirming an asserted iden-tity with a specified or understood level of confidence.  Note that authentica-
+
+tion is quite distinct from identification.¥Security.  Security refers to a collection of safeguards that ensure the confi-
+dentiality of information, protect the integrity of information, ensure the avail-
+ability of information, account for use of the system, and protect the system(s)and/or network(s) used to process the information.  Security is intended to
+ensure that a system resists (potentially correlated) attacks.¥Privacy. The right to privacy is the right of an individual to decide for himselfor herself when and on what terms his or her attributes should be revealed.It should be noted that each of these terms represents a complicated, nuanced,and, in some instances, deeply philosophical topic.  The descriptions of these con-
+cepts given here are not meant to be definitive, prescriptive, or comprehensive. 1See <http://www.cstb.org/web/project_authentication> for more information.example, the information corresponding to an identity may contain facts(such as eye color, age, address), capabilities (for example, licensed to
+drive a car), medical history, financial activity, and so forth.  Generally,
+
+not all such information will be contained in the same identity, allowing a
+multiplicity of identities, each of which will contain information relevant
+to the purpose at hand. In the phrase Ònationwide identity system,Ó the
+word ÒidentityÓ implies that decisions must be made about what consti-
+tutes an identity within a system and that an identity will be established
+for participants.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION AND OVERVIEW13A critical questionÑwhich goes beyond the scope of this report, butwhich must be considered in the larger law-enforcement and national-
+security contextÑis whether establishing and verifying identity is eithernecessary or sufficient for achieving any of the desired objectives of the
+system.  It may be that they require collection and analysis of data and/or
+
+prospective or retrospective tracking or surveillance, well beyond mere
+identity verification.12  Note that even the question of whether to institute
+collection of data and surveillance is not binary (see Box 1.2).ÒSystemÓ may be the most important (and heretofore least discussed)
+aspect of the term Ònationwide identity system,Ó because it implies the
+linking together of many social, legal, and technological components in
+complex and interdependent ways.    The success or failure of such a
+
+system is dependent not just on the individual components, but on the
+ways they workÑor do not workÑtogether.  Each individual component
+could, in isolation, function flawlessly yet the total system fail to meet its
+objectives.13   The control of these interdependencies, and the mitigation
+of security vulnerabilities and their unintended consequences, would de-
+termine the effectiveness of the system.A nationwide identity system would also consist of more than simplya database, communications networks, card readers, and hundreds of
+millions of physical ID cards.  The system would need to encompass
+
+policies and procedures and to take into account security and privacy
+considerations and issues of scalability, along with human factors and
+manageability considerations (if the requirements of use prove too oner-
+ous or put up too many barriers to meeting the goal of the relying party,
+that party might try to bypass the system).  The system might need to
+
+specify the participants who will be enrolled, the users (individuals, orga-
+nizations, governments) that would have access to the data, the permitted12For example, if the goal were to track the activities or whereabouts of an individual todetect illegal activity or suspicious patterns, surveillance of the behavior and activities of
+said individual would be needed after identification was accomplished.  Surveillance might
+require a warrant or other judicial intervention, depending on the approach taken.  If the
+goal were to detect suspicious activity by previously unsuspected individuals (in order to
+prevent illegal activity), correlation of surveyed actions would be required after identifica-
+tion and surveillance were accomplished.  Such correlation would presumably have to be
+done before establishment of probable cause for a search in order for it to be useful.13There are examples of this in security mechanismsÑfor example, where individualtechniques to provide additional security interact unexpectedly in such a way as to makethe system less secure.  Charles Perrow explores the broad concept more thoroughly in
+
+Normal Accidents, McGraw-Hill, 1986.  In addition, the Web site <http://www.safeware-
+eng.com/software-safety/accidents.shtml> describes the distinction between componentfailure accidents and system accidents.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.14IDsÑNOT THAT EASYuses of the data, and the legal and operational policies and procedureswithin which the system would operate. In addition, a process would
+need to be in place to register individuals, manipulate (enter, store, up-
+date, search and return) identity information about them, issue creden-
+tials (if needed), and verify search requests, among other things.  The
+
+word ÒsystemÓ suggests the complicated nature of what would be re-
+quired in a way that the colloquial phrase Ònational ID cardÓ does not.
+It is important to note that a variety of identity systems fit within thescope of what is being discussed in this report.  The recent AAMVA
+
+proposal14 to link state motor-vehicle databases is a nationwide identity
+system.  So is the recent proposal to create a traveler ID and database to
+
+expedite security checks at airports.  Each of these systems could and
+
+should be subjected to the kind of analysis and critique described in thisBOX 1.2
+Degrees of Data Collection and SurveillanceMerely asserting that some data collection or surveillance would occur in asystem or that data would be analyzed is insufficient.  It is important to determine
+precisely what is meant or intended by ÒcollectionÓ and ÒanalysisÓ within an identi-fication system.  There are at least five different ways to approach this issue:
+¥Little to no data collection.  The only data collected and stored are those
+needed to establish, at a particular time, an individualÕs identity within thesystem (for a predetermined meaning of Òidentity.Ó)¥Individual data collection.  Information about an individual
+Õs activities andbehavior is collected and stored but analyzed only upon request by an autho-
+rized agent (for example, a court order).¥Aggregate data collection.  Behavioral data are aggregated and stored but
+only analyzed upon request or for a specific purpose.  It may or may not be
+
+possible to link data to an individual.¥Aggregate data analysis. Behavioral data are aggregated and proactively ana-lyzed to search for suspicious or abnormal patterns.  Upon an authorized
+
+request it may or may not be possible to link data to an individual.¥Individual data analysis.  Each individual
+Õs data are proactively analyzed tocheck for suspicious or abnormal patterns of behavior, and any such findings
+are flagged and authorized agents alerted.14See <http://www.aamva.org/> for more information.  The committee received a brief-
+ing describing some of the issues facing AAMVA in developing a more secure driverÕslicense infrastructure in a context where use of driverÕs licenses is expanding beyond theirnominal function.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.INTRODUCTION AND OVERVIEW15report.  Some of the issues raised here will be more applicable to some
+systems than to others, but virtually any large-scale identity system will
+need to take into consideration a number of policy and technological
+issues; in fact, before deciding to build any identity system, the issues
+outlined in this report should be explored.A top-down, monolithic system controlled by the federal governmentis not the only kind of nationwide identity system that this report ad-
+dresses.  For example, unifying document formats and linking the data-
+
+bases of state driverÕs licenses and ID-issuing systems would providebroad (though not complete) coverage without creating a federally con-
+trolled nationwide identity system.  Further, the successes and failures ofthe various nationwide identity systems in use in other countries should
+be examined in order to have a fully informed discussion in the United
+States.  However, when studying such systems, questions of scale must be
+
+kept in mind.  Experience with a system for a population of tens of millions
+
+is not necessarily applicable to a system that might incorporate hundreds
+of millions.  In any case, many of the questions raised in this report assume
+
+large-scale systems and widespread participation in and use of such
+systems.Without attempting to answer comprehensively the many questionssurrounding a nationwide identity system and without making asser-
+tions about whether to move toward or away from a nationwide identity
+system, the report aims to highlight some of the significant policy, proce-
+dural, and technical challenges presented by such a system, with the over-
+all goal of prompting a broad discussion among and between policy mak-
+ers and stakeholders.This brief document is intended to inform the policy debate.  Com-
+plete policy analysis is outside its scope, though several of the broad
+themes outlined here will be addressed more fully in the committeeÕsfinal report. Chapter 2 describes what the committee believes is the most
+important issue in the debateÑnamely, the system goalsÑalong withother policy issues that the committee believes should be considered in
+advance of implementation and deployment. Chapter 3 explores some of
+the technological issues involved in implementing a reliable and secure
+nationwide identity system while minimizing unintended consequences,
+such as compromises of privacy or the creation of new vulnerabilities.
+Chapter 4 offers concluding remarks and suggestions.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.2Policy ConsiderationsNumerous policy questions surround any proposed nationwideidentity system.  They require sustained deliberation by policy
+
+makers and significant input from the various stakeholdersÑincluding federal, state, and local governments and agencies, privacy ad-
+vocates, public-interest groups, civil rights and liberties groups, and those
+who would participate in and use the system (that is, ID holders, ID
+requestors, and data analysts). Establishing a nationwide identity system
+would almost certainly be a complex and expensive process, requiring
+years of legislative, technical, and public relations work, as systems now
+in place elsewhere have shown.1WHAT DOES IDENTITY PROVIDE?Whether and when knowledge of ÒidentityÓ could aid in solving a
+problem or meeting an objective depends in part on the wordÕs verydefinition.  For the purposes of this report, identity refers to sets of infor-
+
+mation (say, a database record or a strongly linked system of records)
+about a person that can be used to tell who that person is.  Confirmation
+161In the Philippines, for example, the social security system ID card project has beenunder active development and deployment for 6 years and has only reached an enrollmentof just over 2 million, en route to the goal of enrolling 40 million social security beneficia-ries, members, and dependents.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS17(at some level of assurance) of identity is useful in contexts when one ormore of the following are needed: (1) knowledge (in the present) about a
+personÕs past is sought (e.g., the use of a dossier), (2) knowledge about aperson in the present needs to be remembered for use in the future (e.g.,
+the creation of a dossier), (3) distinguishing between two individuals is
+required to prevent the possibility of mistaking one of them for the other,
+or (4) verification of identity information provided by a third party.  Iden-
+
+tification and/or authentication are generally used to aid in recognition
+when there are multiple dealings with a single individual but could also
+be relevant to a single experience/transaction.  (Note that authentication
+
+presumes a proffered identity that needs to be confirmed, whereas identi-
+fication does notÑsee Box 1.1.)While casual discussions of IDs or ID cards may assume simple,unique pairings of information and individuals, the reality is often more
+complicated.  In practice, individuals usually have multiple identities
+Ñtofamily, to an employer or school, to neighbors, to friends, to business
+associates, and so on.  Thus, different sets of information are associated
+
+with an individual in different contextsÑand sometimes an ID card orequivalent is relied upon to provide or point to that information.   For
+
+identity systems that have existed in our society for some time, there is a
+common understanding of what information is associated with each.  A
+
+record associated with a driverÕs license, for example, includes trafficviolations; a record associated with a credit card includes late payment
+information; and so on.Multiple identities (that is, multiple sets of information correspond-ing to a single individual) may allow individuals to control who has
+access to what kinds of information about them, and the use of multiple
+identities can be a legitimate strategy for controlling personal privacy in
+an information society.  In addition to providing a measure of privacy
+
+protection, the use of multiple identities, even with respect to a single
+organization, serves legitimate and desirable functions in societal institu-
+tions as well.  One individual may have several distinct roles with respect
+
+to a particular organization.  For example, as far as the IRS is concerned,
+
+one might be an individual taxpayer, an IRS employee, or the comptroller
+of a nonprofit organization.If, however, colluding agents are willing to make the effort, they mightbe able to link an individualÕs recordsÑthrough additional informationor correlation with each otherÕs informationÑto create a single record.  In
+many cases, an identity will include a common cross-reference, such as a
+Social Security number, that makes it trivially easy to link it to other
+identities.  Moreover, there are usually other possible cross-references
+
+(such as address, age, and so on) that enable different sets of information
+to be linked, though there may be institutional practices or practical barri-IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.18IDsÑNOT THAT EASYers that discourage such linking.2  In addition, questions arise as to how
+reliable the linking would beÑsome institutions may not mind if linkagesare not completely supported, whereas others demand high levels of ac-
+curacy.Sometimes, the use of multiple identities by a single person, or theuse of a single identity by multiple persons, may be evidence of (or ex-
+ploitable for) fraudulent behavior.  Several criminals could use a single
+
+identity not considered problematic within the system, or a single terror-
+ist could use the least suspicious of multiple identities accessible to him
+for boarding a plane.  In principle, a nationwide identity system could, in
+
+some contexts, eliminate or significantly reduce these sorts of problems if
+it is designed to prevent both multiple individuals from claiming a single
+identity and multiple identities from being claimed by a single person.3One implication of the term Ònational IDÓ is that these identities are
+centrally managed in order to make it difficult, if not impossible, for one
+person to have multiple identities.  A system designed to link a person to
+a single identity (and prohibit use of multiple identities by a single per-
+son) within a certain domain must be mandatory (that is, everyone within
+the domain of interest must be included in the system), otherwise those
+wishing to establish multiple identities would simply opt out of the pro-
+gram.  Also, checking is essential at the time an individual joins, to be surethat he or she is not already in the system.  If an identity reveals poten-
+
+tially damaging information about a person, the person may try to avoid
+the entry of this information into the system by creating a different iden-
+tity.  In some cases, this capability is controlled by having only one central
+
+registry for the identity information.42See the 1997 CSTB report For the Record: Protecting Electronic Health Information.3Historically, the Social Security Administration (SSA) allowed husbands and wives toshare a single Social Security number, and some grandfathered couples still do.  Thus, suchan SSA ÒidentityÓ refers to two people.  Similarly, children and one of their parents can
+share a single passport and passport number.  More commonly, the case of two or more
+individuals maintaining a joint bank account illustrates one identity (the bank account andassociated information) being shared by multiple individuals.  Creating multiple identities
+
+out of the single record set would be extremely hard for the issuing agencies, because thelinked people usually share a single last name.  Splitting the record, therefore, might re-
+quire additional personal information.4A current example of a system that attempts to disallow multiple identities is the Com-mercial DriverÕs License Information System (CDLIS).  U.S. federal law
+Ñthe CommercialMotor Vehicle Safety Act of 1986 (P.L. 99-570)Ñprohibits commercial truck drivers fromhaving multiple driving identities.  In compliance with the law, CDLIS is used by the statesÑvia a centralized system that links the various issuing (state) agenciesÑto check that multiplelicenses are not issued.  However, nothing in the CDLIS system itself prevents multiple
+
+drivers from using this single license and, in fact, fraud of this type has been documented(see ÒBiometric Identification Standards Research: Final Report Volume I,Ó San Jose State
+University, December 1997, at <http://www.engr.sjsu.edu/biometrics/fhwabiom.zip>).IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS19Depending on the goals of the system, creating a tight identity-to-individual bond might be excessive.  Often it doesn
+Õt matter exactly whosomeone is as long as it is clear that he or she is a member of a particular
+group (e.g., over 21 or an officer of a corporation with check-signing
+privileges).  Such group identities are often extremely useful in expedit-
+
+ing matters in certain contexts and may raise fewer privacy concerns.Thus, any proposal for a new identity system requires a discussion ofwhat sorts of identity information would be relevant and helpful to the
+stated goals of the system.5  It also requires taking into account the levels
+of confidence with which information was associated to an individual,
+since basing a system on fragile or unreliable data poses numerous risks.
+In addition, in some cases there are legal restrictions on what sort of
+information may be asked of an individual (presumably to include in that
+personÕs associated identity information)Ñfor example, it may not belegal to take into account a personÕs race, gender, national origin, religion,and so forth.  In other cases, retaining the advantages that come with the
+
+ability of an individual to maintain multiple identities or to maintain
+group identities could also be desirable.  All in all, establishing what is
+
+meant by ÒidentityÓ in a nationwide identity system
+Ñin other words,which collection of information is meant to encapsulate an individualÕsdistinctivenessÑis a first-order concern.TO WHOM AND FOR WHAT?Once the notion of identity has been articulated, a determination mustbe made as to who would be issued an ID (see Box 1.1 for the distinction
+between ÒIDÓ and 
+ÒidentityÓ) and for what purpose.  First and foremost,
+the goals and requirements of the system must be carefully articulated.
+What problems should the system be designed to solve?  How would it
+
+provide solutions to those problems?  Without a priori decisions about
+
+what types of system functions, determined by policy choices, are de-
+sired, the software and hardware may impose unwanted or undesirable
+restrictions or allowances.6If a goal of the system is the identification and/or tracking of non-U.S.nationals, then issuing IDs only to U.S. citizens would not be sufficient.5If the goal of the system is to aid in counterterrorism, then relevant questions mightinclude the following: Is a past criminal record a signal of a potential terrorist?  Is a long
+record of frequent travel a signal that a person is or is not likely to be a terrorist?  And so on.
+6See Lawrence LessigÕs treatment of software imposing values in Code and Other Laws ofCyberspace,  Basic Books, New York, 1999.
+IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.20IDsÑNOT THAT EASYIdentification and tracking of all individuals would be required.7  Fur-
+thermore, non-U.S. nationals are already required to have IDs when in the
+United States (passports and, in some cases, visas); however, there is
+likely to be less control overÑand therefore less confidence inÑsuch for-eign-issued credentials.  This raises questions about international coordi-
+nation, cooperation, and harmonization.8,9
+  The problems now present in
+keeping track of passports and visas, and in assuring that the right indi-
+viduals and agencies have the appropriate data when needed, would
+undoubtedly persist in a new identification system.10  They also serve to
+demonstrate how difficult it is to implement a large identification system
+that is also robust.What Is Required for ID Issuance?The best that any system of authentication can do is provide a com-pelling connection with some previous verification of identity.  Accord-
+
+ingly, trust in the integrity of the system is based not so much on the first
+such verification as on increasing confidence when all previous transac-7The terrorist attacks of September 11, 2001, were carried out exclusively by non-U.S.nationals; none of them would have had a U.S. ID if one had been required only of citizens.In addition, undercover operatives sponsored by a major foreign group or state hostile to
+the United States generally are individuals without suspicious records.  It follows that suchpeopleÕs IDs (be they within a United States nationwide identity system or outside it) wouldnot contain anything particularly problematic.8The logistical considerations involved in issuing high-security identities for everyoneentering the country are significant, especially when individuals do not need visas in ad-vance (such as citizens of countries in the Visa Waiver Program).9Even if IDs were issued to foreign visitors entering the United States, the informationwould be based on information provided by their country of origin.  Its usefulness is lim-
+ited for at least two reasons: (1)  many countries do not have much data about their citizens
+to begin with, and others may be unlikely to provide other nations with suspicious back-ground information about their own citizens and (2) even if a country indicates that anindividual seeking admission to the United States has a problematic background record,
+that doesnÕt mean the United States would consider such a person a risk (for example, acountry might provide warnings about political dissidents).  Adding information to an
+individualÕs ID beyond what his or her country of origin provides (presumably gathered byU.S. intelligence) is problematic for a number of reasons, including cost, scale, paucity ofdata, and potential compromise of sources and methods behind the information.10As an example of this, the Washington Post reported that 15 of the September 11 hijack-
+ers applied for visas in Saudi Arabia, where officials have indicated that identity theft is aserious concern.  See  <http://www.washingtonpost.com/wp-dyn/articles/A14788-2001
+Oct30.html>.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS21tions with that particular individual have worked out.11  But at the outset,
+upon determination of who should have IDs, a host of questions arises:
+How is identity first established within the system?  What information
+
+would be required of an individual upon application?  How would that
+
+information be verified?Such broad questions imply others that are more specific:  How would
+the ÒtrueÓ identity of individuals be established (e.g., for individuals in
+the initial stages of a program or after card loss or destruction)?  What
+
+family name(s) would be used for the individual (birth name, adopted
+name, married name, fatherÕs name, fatherÕs motherÕs name)?  Could
+middle names, diminutives, or nicknames be used as first names?   When
+
+can or must these names be changed?  How would people with similar or
+
+identical names (or other pieces of associated data) be differentiated in
+the system?  If participation in the system were mandatory, at what point
+
+in a personÕs life would the ID begin to be required?  How frequently
+would renewal be required?  Under what circumstances would reissuance
+
+be required?  What if the system 
+ÒlosesÓ a person (that is, a person claims
+to be in the system, but his or her information is not accessible)?What Is the Meaning of an ID?Broader, and perhaps more important, is the meaning of the ID (thatis, the identity information about a person in the identity system and its
+associated token).  Would the law define rights, privileges, and obliga-
+
+tions with respect to the ID?  Would the law define a legal person in terms
+
+of the ID, or vice versa, or neither?  Related to the meaning is the issue of
+a citizenÕs and the governmentÕs responsibilities with respect to a nation-wide identity system.  A host of legal issues arises if an ID is to have
+
+significance as, say, a government-authorized identification token.  Using
+
+an ID to verify a personÕs identity would not be of value without anobligation to present it upon demand by authorities or in an authorized
+search of oneÕs person.12Questions that would need to be addressed include the following:When must the ID be carried?  When must it be presented to a govern-
+
+ment official?  What happens if the holder refuses to present it?  What
+
+happens if the ID has been lost or stolen?  How can information on the ID
+11Although trust developed in this fashion is vulnerable as well.  For example, individu-
+als may act in a completely trustworthy fashion for a long period of time and then behavefraudulently or criminally.12 Other identification techniques, such as facial recognition, might not require an obliga-
+tion to present an ID.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.22IDsÑNOT THAT EASY(or associated with it) be changed, and by whom?  What if the infrastruc-ture is down and the ID cannot be verified?  Can only the federal govern-
+
+ment compel the presentation of the ID, or would state and local govern-
+ment officials (which is where most law-enforcement occurs and many
+social services are delivered) also have such authority?13Where Does the Identity Information Reside?These questions point to other questions that must be consideredabout the information associated with a personÕs ID.  If it is a card or other
+physical token, what information is stored on it in human-readable for-
+mat on the ID?  What information does the ID store in machine-readable
+
+format?  What information about or pertaining to an individual is stored
+
+in the identity systemÕs databases?  What information in those databases
+is explicitly linked to information in other databases?  Who has the au-
+
+thority to create these linkages?  Who can access which information about
+
+a person in the system?  What algorithms are used to analyze data in
+
+order to make assessments about a particular individual in a particular
+context (e.g., risk profiling)?14  (See Figure 2.1 for a description of what
+can happen to identity information within a system.)Many of the questions raised in this section point more broadly to theproblem of controlling function creep (as mentioned in Chapter 1).  Deci-
+sions and policies made for one kind of system may not apply well if that
+system begins to be used for other than its original purposes.  In the
+
+context of an identity system, function creep can occur when the same
+ID/token is used to access multiple systems.  (This has happened with
+
+driverÕs licenses in that they are used not only to prove authorization todrive, but also for proof of age and proof of address in various contexts.)13For example, if the goal were to locate and keep track of non-U.S. citizens and/orknown criminals within the United States, it would probably be necessary to challenge allindividuals (including citizens) to present the card at regular intervals and/or for a wide
+variety of activities.  It would further be necessary to require all individuals to carry the
+card at all times.  It could be that many forms of purchases and transactions would require
+use of the card in an ancillary fashion, in the same way that purchases with a check often
+require the presentation of a driverÕs license or equivalent form of photo identification.  In
+this way, the information associated with the card (and by extension with the holderÕsidentity) would become part of the records generated by some set of interactions, just as
+Social Security numbers and license numbers are used todayÑa practice that suggests thedevelopment, in effect, of dossiers.  A question then arises as to what an individual
+Õs failureor refusal to present the card under these circumstances would mean.14The European Data Protection Directive mandates a limited right of individuals toknow what algorithms are used to make decisions about them on the basis of personalinformation.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS23IDFormat?Location?CardDatabaseElsewhereHumanReadableMachineReadableFIGURE 2.1  Potential information flow in identity systems.  The information
+associated with an individual identity could be distributed within the identity
+system in multiple ways.  Parts of it may be machine-readable, parts may be
+readable by humans.  Parts may be stored on a card, in a database, or elsewhere.
+Access to this information may be available to other systems, card readers, and/
+or people.  Not present in this diagram, but implicit, is the notion that pieces of
+information, once outside the system, could then be added to other systems.  Or,
+information from outside the system could be incorporated into this system.
+Understanding how information flows through the system, who has access to it,and who can change it will be important in understanding both the security andprivacy implications of an identity system.Reuse of an ID/token for purposes beyond the original intent leads to thefeasibility of correlating information from many different sources and
+systems, which can be a cause of concern, particularly with respect to
+privacy.  Strategies and policies that prevent or constrain function creep
+
+will be an important factor in any identity system.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.24IDsÑNOT THAT EASYPERMITTED USERS OF THE SYSTEMAnother set of policy questions arises over users of a nationwideidentity system (recall that a system encompasses numerous social, legal,
+and technological aspects):  May only the government use or request an
+
+ID?  Under what circumstances?  Which branches (federal, state, local) of
+the government?  May any private person or commercial entity request
+
+presentation of an ID within the system?  May any private person or
+
+commercial entity require presentation of an ID?    Would certain private-
+
+sector organizations be required to use, ask for, and verify IDs?  If so,
+
+there is a possibility that such mandates might be interpreted as a safe
+harbor with respect to some liability questions.  How would that be
+
+handled?  Who may use the information on (or associated with) the ID,
+
+and for what?  Who may enter or modify information associated with the
+
+ID?Depending on the goals of the system, use of the system by the pri-vate sector may be necessary.  For example, if the goal is to create a
+
+database to mine for suspicious activities, tracking of a broad class of
+activities in the private sector may be viewed as critical. To accomplish
+this tracking, the ID would need to be presented in connection with many
+transactions in the private sector (e.g., when traveling on commercial
+airlines, when purchasing weapons, or when staying in a hotel.)  How-
+
+ever, as the set of users of a system expands, securing against misuse
+becomes more complicated.  Widespread use (and abuse) of the informa-
+tion associated with an ID is a major concern, underscoring the impor-
+tance of the initial policy choices related to the purpose of the system.Management and OperationsDetermining how any nationwide identity system should be man-aged and operated will be a key issue.  If the federal government were to
+play a leading role in operations and management, an overhaul of busi-
+ness and management practices at multiple levels might be necessary.15In addition, worldwide coordination would likely be necessary.  For ex-
+15Since passage of the Paperwork Reduction Act of 1995, the Office of Management andBudget has been challenged to manage complex information assurance issues, even thoughit has both budgetary and statutory authority. The Department of Defense, as another ex-
+ample, is charged with managing classified and other national security systems.  Nation-
+wide identity systems pose new problems for each of these organizations.  If the federal
+government were to attempt oversight of the system, it would be necessary to determine an
+appropriate management model suited to undertaking management of large-scale identitysystems.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS25ample, depending on the system goals, ID issuance by U.S. consulatesabroad may have to be allowed, raising the potential for fraudulently
+obtained IDs.  Pragmatically, even the most secure documents issued by
+
+the U.S. government (passports, green cards, and even currency) have
+been forged with regularity.  Requiring federal government management
+
+and operations expertise for nationwide identity systems thus raises a
+host of issues that must be taken into consideration.Another set of policy issues involves the roles of the public, private,and not-for-profit sectors in a nationwide identity system.  For example,
+
+in place of the above scenario (in which the federal government takes
+responsibility for the management and administration of a nationwide
+identity system), the private sector alone might develop and maintain the
+system.  Alternatively, the private sector could be subordinate to some
+
+procuring federal agency, in which case any resulting data would be
+subject to federal laws such as the Privacy Act, the Computer Matching
+Act, the Government Information Security Reform Act, and the Com-
+puter Security Act.16Of course, some hybrid modelÑfeaturing a public/private partner-shipÑis also possible, though it would require explicit designation ofwhich sector is responsible for what and who might be liable to poten-
+tially aggrieved parties when errors or abuses occur.  (In particular, care-
+ful attention should be paid to due process issues that may arise in con-
+nection with error correction.)  In any case, it would be absolutely
+
+necessary to define how a single organizationÕs private role in enablingthe system should relate, if at all, to that same organizationÕs private rolein its use.  Furthermore, how the private entity would be funded would
+
+also be an issue.  Moreover, the goals of private institutions with respect
+
+to such a system are likely to be very different from those of public insti-
+tutions.17  This difference in ultimate objectives could lead to significantly
+16These acts all impose regulatory requirements on federal agencies that collect, use, andmaintain sensitive information.  The Privacy Act and the Government Information SecurityReform Act in particular impose significant public notice and comment requirements onfederal agencies to ensure public participation in the appropriateness of planned agency
+uses of data.  The Computer Security Act imposes a risk-based standard for agencies to
+ensure they protect the confidentiality, integrity, and availability of sensitive federal infor-mation and supporting systems.  If a nationwide identity system turned out not to be a
+
+federal government system, these laws would not apply and the protections they offerwould not be available to individuals whose information is housed in the system.17For example, a small-store owner probably is not as interested in customersÕ individual
+identities at point-of-sale transactions as he or she is in receiving assurance that paymentwill be made.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.26IDsÑNOT THAT EASYdifferent system requirements and design and could encourage functioncreep over time.PERMITTED USES OF THE SYSTEMA key question about a nationwide identity system is the uses towhich the information in it will be put.  Will the system be designed to
+
+foster consolidation of other (especially federal) databasesÑor might thatbe a predictable side effect?  Will it be designed to support individualized
+
+queries about individuals or provide a yes/no answer to simple questions
+(for example, ÒIs this individual a U.S. citizen?Ó)?  Will the system facilitate
+data mining to establish Òsuspicious profilesÓ?  If the system is to be used
+extensively by law enforcement, checks and balances would need to be
+put in place to prevent misuse of information (for example, constraints
+should be placed on how information collected or seenÑperhaps tangen-tiallyÑas a result of a particular investigation can be used for other pur-poses).Consider the systemÕs potential need to make real-time associationsof persons with identityÑa policy question with technology-challengingimplications.  For many purposes, the linkage between the person and the
+
+identity need not be provided instantly.  An application for a mortgage
+
+need not be processed in seconds.  On the other hand, an identity that
+
+authorizes access to a secure building must be validated at the time of the
+intended entry.  A related issue is the prospect of constant real-time corre-
+
+lation and analysis of an individualÕs national-identity-based transac-tions.18  It is likely that such correlation, while possibly desirable depend-
+ing on the goals of the system, would be financially, technologically, and
+administratively impossible.  For that matter, even retrospective correla-
+
+tion of all transactions would be extremely challenging and expensive.
+Depending on what information must be tracked and stored, very large
+amounts of data may be generated.  And the analysis of large amounts of
+
+data while looking for certain kinds of patterns is a large and open re-
+search area.An additional correlation concern relates to potential uses beyondthose associated with public safety and counterterrorism.  If private enti-
+
+ties are allowed to use the nationwide identity system for their own pur-
+poses, it is likely that IDs would be linked to a wide range of information,
+including bank accounts, credit cards, airline tickets, car rentals, hotel
+stays, retail transactions, purchases of controlled items (guns, explosives,18For example, it may be useful to correlate instantly the renting of a large truck in onestate with the purchase of a large amount of fertilizer a day later in another state.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS27perhaps some fertilizers, prescription drugs subject to abuse), phone lines,cell phone accounts, prepaid cell phones, and so on.19  Even if the data
+were not explicitly tied together by organizations, linking users by data
+items in their identity (such as SSNs) is possible.  In addition, systems that
+
+employ biometrics could have the ability to link individuals whose infor-
+mation is stored in different databases.  That is, two different digital
+
+representations of an iris or fingerprint could be compared to see if they
+might have come from the same eye or finger.20,21
+Finally, privacy is of serious concern to many, especially when infor-mation linkages extend across the boundaries of multiple identitiesÑforexample, in the linking of health data, credit ratings, or organizational
+memberships with our employment records.  Of greatest concern to most
+
+people is the creation without authorization of such linkages by others,
+particularly those in positions of authorityÑgovernments or employers,for example.The Òminimization principleÓ is often used as a guideline when build-
+ing systems sensitive to privacy concerns.22  It relates to the kind and
+quantity of information collected from and/or about individuals and
+emphasizes the need to collect only the minimum amount necessary for19The issues become even thornier when one considers the possibility that physical itemsmay eventually have their own tracking systems embedded in them.  Cross-correlation of
+
+information about things and people would likely result in an exponential explosion of
+data, further complicating the technical questions and confounding the privacy issues.  See
+Charlie SchmidtÕs ÒBeyond the Bar Code,Ó Technology Review, March 2001.20Systems that will allow eye/finger versus database comparisons but not database ver-sus database comparisons have been proposed, such as in N.K. Ratha, J.H. Connell, andR.M. Bolle, ÒEnhancing  Security and Privacy in Biometrics-Based Authentication Systems,
+ÓIBM Systems Journal, vol. 40, No. 3, 2001.   Another possible solution would be to use
+biometrics only at three points in any given system: when checking for duplicate enroll-ments at initial registration to prevent issuance of multiple IDs to a single user, when
+checking the binding between the cardholder and the card at point-of-service applications,and when reissuing the card.  This check, which could occur without revealing the biomet-
+ric pattern to the holder of the card, would create yet another point in the system where
+security is needed.21Work done by Latanya Sweeney (see <http://sweeney.heinz.cmu.edu/confidentiality.html>) suggests that very little information is needed to uniquely identity a particular
+individual in even an ostensibly anonymized database, suggesting that creating linkagesbetween databasesÑeven without biometric data tying individuals to their dataÑmay notbe difficult.22This notion is articulated in a report of the U.S. Privacy Protection Study Commission,Personal Privacy in an Information Society, Government Printing Office, Washington, D.C.,1977, also known as the Privacy Commission Report.  Three principles espoused in that
+
+report are to (1) minimize intrusiveness, (2) maximize fairness, and (3) create legitimate,enforceable expectations of confidentiality.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.28IDsÑNOT THAT EASYthe desired transaction.  Minimization also implies that disclosure of in-
+formation should be limited to the purpose(s) for which it was collected.
+A pragmatic reason for this, in addition to the privacy aspects, is that
+information is likely to have an accuracy commensurate with its original
+purpose (for example, the address given on a video-store membership
+application form is more likely to be false than the home telephone num-
+ber given on an employment application).  In addition, the minimization
+
+principle suggests that information should be deleted when no longer
+needed and that the information disclosed be limited to that which is
+needed to fulfill the request (as opposed to disclosing all available infor-
+mation about an individual or transaction).Clearly, minimization runs counter to the kinds of information collec-tion and correlation needed for the preemptive and retrospective analyses
+contemplated by proposals for a nationwide identity system meant to
+counter terrorism and unlawful activities.   Resolving or mitigating this
+
+tension will be a serious challenge to those developing policies for a na-
+tionwide identity system.VOLUNTARY OR MANDATORY?Whether participation in the system is to be required or chosen is amajor policy decision.  Until the goals of the system are clearly articu-
+
+lated, it will be difficult to gauge which type of participation would be
+preferable.  Some goals may directly or indirectly require mandatory
+
+checking of identities and/or enrollment in the system.  For example, if
+
+the goal were to prohibit travel by persons with malicious intentions, all
+air travelers would need to be enrolledÑif enrollment were voluntary,such people would simply not enroll and would be permitted to travel.  In
+
+general, any attempt to ascertain that an individual does not possess an
+unwanted attribute (for example, malicious intent) requires a complete
+knowledge of behaviors related to that attribute, and hence mandatory
+checks.Clearly, a voluntary system is likely to meet with less resistance andto raise fewer concerns about civil liberties, although its voluntary nature
+would seem to limit the kinds of goals that it could expect to achieve.
+However, even when a system is nominally voluntary, attention should
+be paid to whether the large inconveniences of nonparticipation make it
+effectively mandatory.  Deliberate consideration of whether and when to
+
+require participation and the implications of widespread but voluntary
+participation would be essential.There are at least two levels at which participation occurs:  when an
+individual establishes an identity within the system and when his or her
+ID is requested or used in a given interaction.  Whether an individual
+IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS29must consent to presenting his or her ID as opposed to having the IDobserved from a distance (possibly without the personÕs knowledge) isanother critical policy decision.WHAT LEGAL STRUCTURES?In considering whether to implement any nationwide identity sys-tem, decision makers would have to determine whether and how such a
+system would be regulated, and by whom.  What constitutes misuse of
+
+the ID or the data associated with it?  What penalties are imposed on the
+
+holder for misusing or tampering with the ID?   What penalties are im-
+
+posed on officers of the government for abuse of the card or misuse of its
+information?  What penalties are imposed on private parties or busi-
+
+nesses other than the holder for abuse of the card or misuse of the identity
+and associated information?  Would laws permit, discourage, or forbid
+
+private-sector actors from asking individuals to present the card for rea-
+sons other than those intended by the public sector?Depending on the policy choices and deployment strategies a nation-wide identity system reflects, its constitutional implications may be sig-
+nificant. The constitutional limitations on an agentÕs ability to requirepresentation of IDs,23 along with the limitations on the ability of Con-
+gress to enact a nationwide identity system, should be explored before
+any such enactment to avert the costs of imposing the system and then
+having to revise or abandon it in the face of its unconstitutionality, to say
+nothing of its effects on civil liberties.Depending on implementation details and policy decisions, a nation-wide identity system could be used to compile and store large amounts of
+information on individuals, so that the legal restrictions on compiling and
+using dossiers would have to be strictly obeyed.  More broadly, an under-
+
+standing of the principles that support significant privacy-related authori-
+ties, as well as the major legal traditions and principles that drive U.S.
+privacy law and policy, will be necessary when considering identity sys-
+tems that will handle personally identifiable information.24  In particular,
+23In fact, the Supreme Court has limited the situations in which government authoritiesand police officers may require individuals to leave an area due to lack of apparent pur-
+pose.  See 
+Brown v. Texas at <http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?navby=
+case&court=us&vol=443&invol=47>.24U.S. Department of Health, Education and Welfare, SecretaryÕs Advisory Committeeon Automated Personal Data Systems, Records, Computers, and the Rights of Citizens, Govern-ment Printing Office,  Washington, D.C., 1973.
+IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.30IDsÑNOT THAT EASYit would be helpful to have insight into the statutory models that pertainwhere mistakes can have severe repercussions (such as census informa-
+tion collection or tax returns).A further consideration is that because identification in the form ofbirth certificates and driverÕs licenses has traditionally been done at thestate and local level, statesÕ rights and associated issues could well arise.
+It will be important to examine the federal/state constitutional tensions
+along with how such issues may facilitate or impede development of
+policy solutions in this arena.   How, for example, should a nationwide
+
+identity system interact with the other federal, state, and local identity
+systems that are already in place?  Should these other systems continue,
+
+be coupled to the nationwide system, or be superseded?BENEFITS AND DRAWBACKSCreation of a well-thought-out and well-designed nationwide iden-tity system could have some advantages over the current methods of
+establishing and verifying identity, such as state-issued driverÕs licenses,Immigration and Naturalization Service documents, and birth certificates.
+Current systems have many characteristics that pose a challenge to meet-
+ing the goals expressed by proponents of a more uniform nationwide
+identity system.  For example, the documents in current systems are not
+
+standardized in form or information content, so that a person inspecting
+an offered document often cannot determine if it even resembles an au-
+thentic document (much less whether it actually is authentic) without
+substantial research.Similarly, such documents are generally not strongly linked to theperson who offers one for identity, allowing several people to use a single
+authentic document.  Identities also cannot be clearly revoked in current
+
+systems, allowing a person to successfully offer an invalid ID as verifica-
+tion of identity. Moreover, these systems do not universally employ strong
+anticounterfeiting measuresÑindeed, the existing measures vary fromdocument to document, and the documents are not easily checked.A nationwide identity system, depending on its implementation,might drive many other forms of identification out of use by subsuming
+their functionality.  Several factors in particular could encourage wide-
+
+spread third-party reliance on the nationwide identity system to the ex-
+clusion of current systems.  First, if the cost of the system is borne by the
+
+government and its associated agencies, the systemÕs use would be free toother segments of society unless measures (technical, legal, or otherwise)
+are taken to prevent unauthorized use.  Second, unless private parties are
+
+prevented by law (or restrictions on technology) from relying on the na-
+tionwide identity system, the liability associated with such reliance wouldIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS31be shielded by the governmentÕs sovereign immunity.  Third, even if the
+private parties were forbidden to rely on the data, it is very likely that
+private commercial organizations would begin to correlate data about
+citizens based on their card and/or identity within the system.  The infor-
+
+mation in these commercial databases may not be as strongly protected
+(legally or technologically) as, presumably, is the information in the na-
+tionwide identity systemÕs own databases.  The correlation and aggrega-
+tion of personal information thus raise a variety of policy questions about
+the use of such information and constraints on it.As Garrett Hardin wrote in 1968, ÒYou canÕt do just one thing.Ó25  Theintroduction of a nationwide identity system would create ripples
+throughout society and the legal system.  It is difficult to predict what
+
+unintended effects these ripples would have.  In part due to our frontier
+
+history, there seems to be a widespread belief in our country that some
+socially good things derive from the current inability to strongly correlate
+an identity with an individualÑfor example, a person often has the op-tion of leaving some detail of his or her life behind.  Examples include the
+
+expunging of the criminal records of minors, anonymous testing for sexu-
+ally transmissible diseases (and the consequent public-health benefits of
+reducing the incidence of these diseases), shielding the identity of rape
+victims from public view, and erasing the records of bankruptcy after a
+statutory interval.It is not known how much the smooth operation of society dependson such things, or on the assumption that they are possible.  There is a
+
+risk, however, that they would be lost, or at least significantly impaired, if
+a broadly used nationwide identity system came into existence.26  Ensur-
+ing the privacy protections in these examples would likely depend on
+carefully limiting access to, and the specific uses of, the systemÕs data-bases, and on restricting the required uses of an ID to certain circum-
+stances.Identity theft is already a critical problem,27 even without central-
+25Garrett Hardin, ÒThe Tragedy of the Commons,Ó Science 162:1243-1248 (1968).
+26Years of experience show that when people automate or regiment a previously manualor only lightly regimented system, they discover the new systemÕs demand that things bedone Òexactly rightÓ can create havoc, and that what used to be a smooth process needs to
+be redesigned to accommodate the less flexible automated system.  Decision makers must
+consider that introducing a rigorous identity system might wreak similar havoc when
+people discover that some authentication activities require more flexibility than the newsystem can offer.27Time magazine notes that in 2001 the 
+ÒFederal Trade Commission logged more than85,000 complaints from people whose identities had been piratedÓ and that 
+Òsome con-sumer advocates suggest as many as 750,000 identities are stolen each year.Ó See <http://
+www.time.com/time/nation/article/0,8599,196857,00.html>.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.32IDsÑNOT THAT EASYized, mandated identities for everyone. Identity theft is an individualÕsfraudulent claim that he or she is the person to whom the information in
+the system refers, allowing him or her to derive some benefit from an-
+other party who is relying on that claim.  It might involve theft of a
+
+physical ID token or it might involve the thiefÕs learning some secret orpersonal information and using this in lieu of the token.  One reason for
+
+the problem is the broad misuse of SSNs, coupled with the fact that the
+number itself is small enough to be easily memorized.  In addition, birth
+
+and death data in the United States are not subject to stringent accuracy
+requirements nor are they highly correlated, making it relatively straight-
+forward to exploit a deceased personÕs birth certificate in order to estab-lish credentials as a basis for an identity.Given the attendant risks, a nationwide identity system would needto provide much better protection against identity theft than do current
+systems of identification.28  Additional questions arise in the context of a
+nationwide system of how to recover from identity theft.  Who would
+
+have the authority to restore or create a new identity for someone when
+necessary? And what safeguards would be needed to prevent this author-
+ity from being abused?While offering better solutions to some problems surrounding iden-tity theft, a nationwide identity system poses its own risks.  For example,
+it is likely that the existence of a single, distinct source of identity would
+create a single point of failure that could facilitate identity theft.  The theft
+
+or counterfeiting of an ID would allow an individual to ÒbecomeÓ the
+person described by the card, in very strong terms, especially if the na-
+tionwide identity system were to be used for many purposes other than
+those required by the government.  Paradoxically, it could be that a ro-
+
+bust nationwide identity system makes identity theft more difficult while
+at the same time making its consequences more dire.  The economic in-
+
+centive to counterfeit these cards could turn out to be much greater than
+the economic incentive to counterfeit U.S. currency.28One strategy might be for the system to avoid displaying human-readable ID Ònum-bersÓ or other unique identifiers to private organizations.  This would, in effect, make it
+impossible for anyone to read another personÕs information off his or her card. (Imagine,for example, a credit card that does not have the account number embossed on the front butmakes it available only to machines that read magnetic stripes, thereby reducing opportuni-ties for casual theft).  The strategy would instead require that agents use cryptographic
+
+techniques to authenticate individuals or enable transactions.  See Figure 2.1 for a descrip-
+tion of the kinds of information in an identity system and where the information might endup.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.POLICY CONSIDERATIONS33To determine what safeguards are necessary, a realistic threat analy-sis would be required.  Are the as-yet-undetermined countermeasures up
+
+to the challenge?  Any proposed system must be examined to determine
+
+whether the net result with respect to identity theft would be better or
+worse than it is now.  It may be that more robust security in a nationwide
+
+identity system, along with increased attention to data integrity (for ex-
+ample, correlating birth and death records, as discussed above) in current
+identity systems, would mitigate some of the identity theft problems that
+arise.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.3Technological Challenges
+Though the aim of this short report is merely to point out some ofthe essential policy questions that would be raised by the introduc-tion of a nationwide identity system, the committee believes thatthe technological and implementation challenges raisedÑeven without aprecise characterization of such a systemÕs goals or subsequent policiesÑare enormous and that they warrant significant and serious analysis.This need becomes clear when an ID is understood as an element of amuch larger system that includes technical, material, and human ele-
+ments.  At a minimum,
+¥Cards and card readers (if used for validation) would need to bedesigned, fabricated, distributed, and updated or otherwise maintained
+or replaced.¥A corresponding (backend) database would need to be established,maintained, and protected.¥Procedures for checking the authenticity of IDs and for verifyingthe presenter (with or without specialized equipment) would need to be
+established, promulgated, practiced, and audited.1341Association of an identity card with its holder has to be verified before the identityinformation it contains can be relied upon (otherwise, stealing the card would permit thetheft of the cardholderÕs identity).IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGICAL CHALLENGES35¥Means to discover, report, verify, and authoritatively correct mis-takes would need to be put in place.¥A variety of security measures would need to be factored into allaspects of the system to be sure that it meets its objectives and is not
+vulnerable to things such as fraud or denial-of-service abuses that can
+
+result in privacy violations.Fraud (and security in general) is a significant concern in any system,even the most technologically sophisticated.2  The nationwide scale of
+such a system would require knowing that all aspects of the system are
+scalableÑa daunting problem for lesser systems.3  In any case, the chal-
+lenges of building robust and trustworthy information systemsÑthey areextensive and well-documented4Ñare accompanied by the even greaterchallenge of making the systems resistant to attacks by well-funded ad-
+versaries.Architectural issues include the degree of centralization of the under-lying databases as well as the location and cost of data storage, computa-
+tion, and communication, which can all be done at different places.5  For
+example, how would authorized entities obtain the records they wanted,
+under what circumstances, and with what degree of authorization?
+Would there be daily or weekly downloads of selected records to more
+permanent storage media?  Would a real-time network feed be required
+
+(perhaps similar to those used in real-time credit authorization systems)?
+Would it be possible to secure such a feed sufficiently?6Choices among architectural options, as well as other options, woulddepend on the functional goal(s) of the system.  Architecture influences
+
+scalability, cost, and usability/human factors. It also interacts with proce-2A large breach of security with French banking cards is causing a significant upgrade ofthe infrastructure in France (<http://parodie.com/english/smart card.htm>).  In the United
+
+States, satellite-signal theft by smart card fraud is so extensive that it is now the focus of agovernment sting operation.  See Ross AndersonÕs work on cryptography and security,much of which is available at <http://www.cl.cam.ac.uk/users/rja14/>.3CSTBÕs 2000 report Making IT Better underscores the profound challenges associated
+with large-scale systems.4See the CSTB reports Computers at Risk (1990), Trust in Cyberspace (1999), 
+Making IT Better(2000), and Embedded, Everywhere: A Research Agenda for Networked Systems of Embedded Com-puters (2001).5A general rule is that the lower the cost of accessing an online database and the largerthe likelihood of doing so, the less sophisticated the card needs to be.6Such security might require a very large new network that would have to be connectedinside the firewalls of the institutions and organizations using the system.  Securing such a
+network is extremely difficult; experience suggests that maintaining that security would bevery challenging.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.36IDsÑNOT THAT EASYdure: Decisions must be made about who would be in charge of issuing,reissuing, renewing, revoking, and administering the cards, along with
+maintaining, updating, and granting access to the database.  A further
+
+concern is the need for graceful recovery from failure as well as substitute
+mechanisms when the system is compromised or not adequately respon-
+sive at the time verification of an identity is needed.  All of these factors
+
+influence cost, as well as effectiveness.Cost needs to be analyzed completely, on a life-cycle basis and withattention to numerous trade-offs.  Even if software and hardware costs
+
+are minimized, experience with lesser systemsÑfrom SSNs to state driv-ersÕ licenses to military identification systems
+Ñshows that there will besignificant ongoing administrative costs for training, issuing cards, verifi-
+cation, maintenance (keeping whatever information is associated with an
+individual and his or her ID up to date), and detection and investigation
+of counterfeiting.7  In particular, the costs
+Ñand technological and admin-istrative complexityÑof assuring the integrity and security of an identityinfrastructure are likely to be large. They would depend in part on
+whether technology for automated checking of an IDÑas opposed to avisual check used today with SSNs or driversÕ licenses
+Ñis required, whichin turn depends on the choice of ID technology (see Box 3.1).For example, in response to legislation enacted in August 1996,8 the
+Social Security Administration (SSA) conducted an analysis and produced
+a report on options for enhancing the Social Security card.9 Citing a num-
+ber of key business and technology assumptions that appeared valid at
+the time of the study (1997), SSA estimated that issuing enhanced cards
+might have a life-cycle cost of $5.2 billion to $10.5 billion, depending on
+the technology developed and deployed.  These estimates included as-
+
+sumptions about the need for reissuing cards, issuing new cards, and
+maintaining the systems in order to store data related to the cards and
+keep that data up to date.  The study did not assume that each SSN and its
+
+related card would relate to just one individual, because SSA estimated
+that at the time, approximately 10 million of the 269 million valid SSNs7There are numerous ways in which fraudulent (ÒnoveltyÓ) identification documents canbe obtained.  A simple Web search on 
+Òfake idÓ provides links to many possible suppliers.
+8Section 111 of P.L. 104-193, ÒPersonal Responsibility and Work Opportunity Reconcilia-tion Act of 1996Ó (Welfare Reform) and section 657 of P.L. 104-208, Division C, 
+ÒIllegalImmigration Reform and Immigrant Responsibility Act of 1996Ó (Immigration Reform).
+9See Report to Congress on Options for Enhancing the Social Security Card, Social Security
+Administration, Publication No. 12-002, September 1997. Available at <http://www.ssa.gov/history/reports/ssnreport.html>.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGICAL CHALLENGES37were duplicates (that is, two or more persons had been given the sameSSN).  There was a variety of reasons for such duplication, including error
+
+on the part of SSA and malfeasance on the part of some individuals.As with the design of any system, decisions about trade-offs wouldneed to be made in advance. The security, efficiency, and effectiveness
+options chosen would depend on the goals and policies (see Chapter 2)
+and the planned uses of the system.  For example, a 
+Òtrusted travelerÓsystem whose sole function was to authenticate individuals who had been
+previously certified as ÒtrustedÓ in the particular context of travel might
+place more emphasis on efficiency in travel-related queues and on elimi-
+nating false positives than on protecting the fact that a particular person
+has been certified as trusted (or untrusted).  A secure driver
+Õs licensesystem, in which the license is used as an ID for many activities beyond
+driving on a public roadway, might trade ease of replacing a lost license
+against the rigorous authentication of individuals who request a replace-
+ment.  In making decisions about trade-offs, understanding the potential
+
+threats and risks will be a large component of assessing the security re-
+quirements of a system.BINDING PERSONS TO IDENTITIESA practical issue that would arise in a card-based identity system isthat of relating cards and identities to individuals: How would the issu-
+ing authorities create this binding?  Most of the systems (both hypotheti-
+
+cal and actual) alluded to in this report employ what is known as two-
+factor authentication, requiring the holders to present more information
+than the card itself (perhaps a face that matches the picture, a PIN, or a
+thumbprint) to verify that they are the legitimate holders.If someone has a valid card, how would anyone know that it belongsto him or her?  A picture on the front of the card would not be sufficient if
+
+very high assurance is sought.10  If the card makes use of a magnetic
+stripe, it would have been easy to copy the stored information to a new
+card with a different picture.  If the card is a memory card or smart card,
+
+duplication, while a little more difficult, would still have been possible.  If
+
+biometric information11 is used, it could have been stored on the card and
+10The inability of human inspectors to reliably match faces to cards was demonstrated inPike, Kemp, and Brace, ÒPsychology of Human Face Recognition,Ó IEEE Conference on
+Visual Biometrics, London, March 2, 2001.11There are a number of biometrics that might be used; for the purposes of this discus-sion, assume an iris scan or fingerprint.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.38IDsÑNOT THAT EASYBOX 3.1
+Cards and Their RequirementsThe presumed goal of a counterfeit-resistant, long-lasting, easily replaceable IDpresents difficult technical challenges.  With respect to the ID itself, assuming that itis a physical artifact such as a card, a number of questions need to be answered.1Form factorsÑthe size, shape, and substance of the cardÑwould likely play a partboth in acceptance on the part of the citizenry and in the cardÕs resistance to coun-terfeiting.  The more difficult challenges pertain to the aspects of cards that are deter-
+mined by the kind of technology used.One could use a relatively simple card, like a credit card or driverÕs license.Each individual in the system would have a card with some information printed on itabout the holder and perhaps a picture. There might be a unique number on the
+card, and the information in a nationwide database would be indexed by that num-ber.  The card itself might contain a magnetic stripe along with embossed and printed
+data.  As with a driverÕs license or passport, access to this database (for reading dataout or putting data in) would presumably be limited,2 as it would be under the
+proposal by the American Association of Motor Vehicle Administrators to createnationwide standards for driverÕs licenses.On the other hand, the counterfeiting of magnetic stripe cards is a trivial under-taking.3  More important, the ease with which the information contained in the mag-
+netic stripe can be duplicated means that a counterfeiter can produce a clone card
+and/or retransmit the data in other transactions as if they came from a legitimate card.All of this implies serious security and privacy vulnerabilities, and there is no verifi-able connection (by means of biometrics, for example) between the holder of the
+card and the person to whom the card was issued.   Hence, using such credentials as
+a basis for issuing new cards (and, ergo, identities) would compromise the accuracyof some of the identification data, inasmuch as the credentials depend on attestations
+by the individual or even third parties.41The Department of Defense is now deploying a smart card that it refers to as a commonaccess card (CAC) as an authentication device and for other purposes.  The card combines a
+
+magnetic stripe, bar code, a photo ID, and smart card technology.  DOD
+Õs experiences may wellprove instructive when considering a nationwide system.  However, the privacy concerns of
+
+military employees are likely to be different from those of average citizens, making an exact
+analogue unlikely.  In addition, the CAC will be deployed for a population that is more than an
+
+order of magnitude smaller than the U.S. population, which is more diverse in many dimensions
+than the military and currently less subject than the military to sanctions for failure to comply
+with the identification systemÕs requirements.2On November 2, 2001, the Washington Post reported that the American Association of
+Motor Vehicle Administrators was working on a plan to link all driver databases and to strength-
+en the security and functionality of current driverÕs licenses and state identification cards.  See
+<http://www.washingtonpost.com/wp-dyn/articles/A32717-2001Nov2.html>.  See also <http://
+
+www.aamva.org/standards/stdAAMVADLIstandard2000.asp> for a description of  AAMVA
+Õsstandard, which aims to provide a uniform means for identifying holders of driverÕs licensesthroughout North America.3See, as just two of many examples, ÒSkim Artists Can Swipe Your Credit,Ó at <http://
+www.techtv.com/cybercrime/internetfraud/story/0,23008,2583624,00.html> and ÒNewly Dis-covered Bug Skims Credit Card Data,Ó at <http://www.newsfactor.com/perl/story/11494.html>.
+4Note that the existing identification infrastructure (including the system of birth and deathrecords) in the United States often depends on the presentation of credentials and is highly
+decentralized.  The lack of common national standards generates skepticism about the quality of
+
+the data.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGICAL CHALLENGES39Another possibility is a memory card (or storage card), which would hold moreinformation and be more expensive than the magnetic-stripe cards of the previousexample.5  These cards contain memory as well as some security logic to prevent
+unauthorized reading or tampering with their data.  The information contained on
+them could be digitally signed (that is, a number would be associated with thatinformation that is dependent on a secret known only to the signer as well as on the
+data itself) to prevent easy counterfeiting.  The correspondence between the user and
+the card (along with the information on the card and in the database) could beascertained through biometric authentication, which would be undertaken using
+special equipmentÑsuch as a reader for fingerprints or iris scansÑin addition topresentation of the card.  An additional possibility is to use smart card technology
+that permits computation (such as digital signatures and encryption) to take place on
+the card itself.Though successful attacks have taken place, these cards are even harder tocounterfeit than memory cards.  They might have a name, photo, number, and bio-
+
+metric data, all of which could be cryptographically signed.  The data would be
+backed up in a database to enable checking when reissuing a card and checking forduplicates when the card is first issued.  A card of this sort could engage in a real-
+
+time, cryptographic exchange with an online system to verify a userÕs identityÑpossibly without exposing details of that identity to the organization performing thedata captureÑfor example, an airline or a retail establishment.As an example of a card-based system using biometrics, consider the Connect-icut Department of Social Services, which issues cards to aid welfare recipients.6Fingerprints of each applicant are taken and compared with the fingerprint of allapplicants previously enrolled.  Under the assumption that people are not modifying
+their fingerprints (and assuming no matching errors), this can prevent a single userfrom registering under multiple identities within the system.  The card is printed with
+
+the fingerprints encoded in a two-dimensional optical bar code on the front of thecard.  At point-of-service applications, the user presents a fingerprint that is com-
+pared with that encoded on the card.  This prevents multiple users from making use
+
+of a single identity.  Other biometric technologies, such as iris recognition, might be
+useful in this application as well.  However, no biometric technology is completely
+invulnerable to attacks by sophisticated adversaries.7,8
+5One example is the INSPASS and the data stored on it, coupled with a hand-geometryreader at point of entry to verify identity.  Another example is a German identification card, 
+dieKarte, which uses two separate smart card chips and contains 22 separate mechanisms for cardvalidation/antifraud technology.6For a discussion of the costs associated with identification cards and fingerprints in socialservice applications, see ÒA Review of Five Cost/Benefit Studies of Fingerprinting in Social Ser-vice Applications,Ó Roger Salstrom, Burton Dean, and James Wayman, available at <http://
+www.dss.state.ct.us/digital/news22/bhsug22.htm>.7T. van der Putte and J. Keuning, ÒBiometrical Fingerprint Recognition: DonÕt Let YourFingers Get Burned,Ó Proceedings of IFIP TC8/WG8.8 Fourth Working Conference on Smart CardResearch and Advanced Applications, Kluwer Academic Publishers, September 2000, pp. 289-303.  Also, see T. Matsumoto et al., 
+ÒImpact of Artificial ÔGummyÕ Fingers on Fingerprint Sys-
+tems,Ó Proceedings of the SPIE, vol. 4677 (January 2002) and D. Maio, D. Maltoni, J. Wayman,and A. Jain, ÒFVC2000: Fingerprint Verification Competition 2000,Ó Proceedings of the 15thInternational Conference on Pattern Recognition, Barcelona, September 2000, available on-lineat <http://bias.csr.unibo.it/FVC2000/>.8D. Willis and M. Lee, ÒSix Biometric Devices Point the Finger at Security,Ó NetworkComputing, June 1, 1998.
+IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.40IDsÑNOT THAT EASYa Òlive captureÓ of the biometric could be carried out when an individualpresents the card.  The captured data would then be compared with the
+
+data stored on the card.  Depending on what kinds of cryptographic
+
+protections are used, this system could be susceptible to forgery as wellÑfor example, someone might recreate the card with his or her own biomet-
+ric information in combination with another personÕs identity informa-tion.Another scenario might be to have the person present a biometric to acontrolled scanner and present the card that contains reference informa-
+tion. Both pieces of information are then validated in combination against
+a backend server.  However, this creates a requirement for high availabil-
+
+ity (that is, the system should be usable essentially all of the time) and a
+dependence on reliable, secure network and communications infrastruc-
+tures.In principle, a card coupled with biometrics and the appropriate in-frastructure for reading and verifying biometric data may offer the great-
+est confidence with respect to linking persons and their cards.  But getting
+
+biometrics technology right (including control of the risks of compro-
+mise) and widely distributed is not easy.12,13
+  There are additional issues
+associated with the use of biometrics, such as some popular resistance.14Note that biometrics allows for cardless system options: A database-only system based solely on biometrics eliminates the risk of card loss or
+theft, but real-time database accessibility then becomes a major consider-
+ation.  In addition, compromise of the database is an even greater concern
+
+than in card-based systems, where the cards can be used to provide a
+check against corrupted data in the database.  Further, a cardless system
+
+implies that anyone wishing to use the system (even for activities needing
+only moderate to low levels of security) would have to invest in the equip-
+ment needed to access the infrastructure in real time.12ÒAdvice on the Selection of Biometric Products: Issue 1.0,Ó (U.K.) Communication
+Electronic Security Group, November 23, 2001, available at <http://www.cesg.gov.uk/technology/biometrics>.13J.D.M. Ashbourn, Biometrics: Advanced Identity Verification: The Complete Guide, Springer,
+London, 2000.14For further information, see the recent RAND report Army Biometric Applications:  Iden-
+tifying and Addressing Sociocultural Concerns, 2001.   In addition, an accuracy issue arises
+with biometrics because it uses what are known as probabilistic measures of similarity.  Notwo images of the same biometric pattern (even fingerprints) from the same person are
+exactly alike.  Consequently, biometrics is based on pattern-matching techniques that re-
+turn sufficiently close measures of similarity. With enough (or not enough) informationabout the application environment and user population, it is possible to convert those mea-
+sures into probabilities of a match or nonmatch.  Thus, incorrect decisions occur randomly
+with a probability that can be measured.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGICAL CHALLENGES41Cryptographic protection and digital signatures, in combination withoffline verification of the signature and a properly deployed public key
+infrastructure (PKI),15 could provide a measure of protection for the in-
+formation associated with IDs and guard against misuse.  But for any
+
+technology, some degree of imperfection will exist.  Therefore, it is neces-
+
+sary to decide on thresholds for false rejection rates (false negatives) and
+false acceptance rates (false positives), not only for when the ID is used
+but also at the time of issuance, reissuance, and renewal.  Policy deci-
+
+sionsÑperhaps with corresponding legal backingÑneed to be madeabout what happens in the event of a false negative or false positive.
+Creation of exception-handling procedures for dealing with incorrect de-
+cisions opens up additional vulnerabilities for the system, as impostors
+might claim to have been falsely rejected and request handling as an
+exception.BACKEND SYSTEMSOnce methods are in place to satisfactorily link persons to IDs, therequirements and goals of the system should drive decision making about
+associated databases.  The databases
+Õ principal features are likely to in-
+clude an ability to search based on an ID number or other unique identi-
+fier, various ID attributes, and possibly biometric data.  Depending on
+
+whether tracking and prediction are requirements of the system, signifi-
+cant logging, auditing, and data mining capabilities would be needed as
+well.Key issues related to this part of the system stem from both structuraland procedural decisions.  If the database needs to be readily accessible
+
+from remote locations (which is likely), it would almost certainly need to
+be replicated.  This, in combination with its perceived (and actual) value
+
+and the fact that more people over a more widespread area would be
+likely to have authorized access to the system, makes it even more vulner-
+able to break-ins:  by physically accessing one of the sites, by finding some
+
+communications-based vulnerability, or by bribing or corrupting some-
+one with access to the system.  Moreover, if verification of identity re-
+
+quired an online database query at airports, a handful of ÒaccidentsÓ at
+key places around the country (such as wires being cut at critical points in
+a way that appears accidental) could cripple civil aviation and any other15The committeeÕs final report will examine PKI and other authentication technologies indetail.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.42IDsÑNOT THAT EASYcommerce that required identity verification (for example, purchase ofguns or certain chemicals).Note that availability would be a key aspect of any online componentof a nationwide identity system.  While the desire for cost savings might
+
+lead to such a backend system being accessible via the public Internet (as
+opposed to a dedicated network), this would expose the system to yet
+more attacks, both direct and indirect, on shared infrastructure, such as
+the routing systems and hardware, the domain name system, or shared
+bandwidth.  As noted previously, it has proven extremely difficult to
+
+secure systems that utilize the Internet; a nationwide identity system
+would likewise need to be widely accessible and would inevitably be the
+target of malicious attacks as well as subject to unintentional or incidental
+damage.   Failure modes of the system would have to be very carefully
+
+studied, and backup plans and procedures would have to be designed
+and tested for all critical systems that depend on use of the nationwide
+identity system.A further complication would result if it were decided that differentusers should be granted different levels of access to the database, whether
+for aggregated data or information about individuals.  This raises query
+
+capability, access control, and security issues.  Related to the size of the
+
+user base (that is, those who use the identity system to make some sort of
+determination about an individual) is the question of whether the same
+security measures need to hold for each user.  For example, if the system
+
+were used broadly in the private sector, a clerk at a liquor store might be
+relatively less concerned about detecting counterfeit cards than would be
+an intelligence or law-enforcement agent granting access to national secu-
+rity-related sites or information.   In addition, the clerk would need less
+
+information (for example, age of individual is greater than 21) verified
+through the system than would the agent.It is a significant challenge to develop an infrastructure that wouldallow multiple kinds of queries, differing constraints on queries (based on
+who was making them), restrictions on the data displayed to what was
+needed for the particular transaction or interaction, and varying thresh-
+olds for security based on the requirements of the user.  Determining the
+
+scope of use and the breadth of the user population in advance would
+dictate which functionalities are needed.A further challenge resulting from a wide variety of users and uses isdata integrity.  Different users (even if the system were used only by
+
+agencies within the government) would undoubtedly have different per-
+ceptions of how critical the accuracy of the data is.  Therefore, to maintain
+
+the quality of the data, controls over who could input data, and with what
+degree of specificity and security, must also be a factor in the design of the
+system.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGICAL CHALLENGES43Another necessary component of system and data integrity is audit-ing capability.  Keeping track of who has accessed what parts of the
+
+system and which data would be necessary for reasons of technology (to
+track down errors and bugs, for example) and liability.16Procedurally, such a large system would require many people to beauthorized to maintain and administer it.  Even if perfect technological
+
+security were achievable, there would still be the security risk of compro-
+mised insiders, given the very large numbers of people needed to main-
+tain and administer the system.17,18
+ The human factor would also be an
+issue with regard to data entry and possible errors in the database.  This is
+
+well known among statisticians, and various technical and procedural
+steps can be taken to offset risks of inaccuracy.  In general, therefore,
+
+correction mechanisms would need to be created; however, these mecha-
+nisms provide additional opportunity for fraud.  Given the uses to which
+
+such a system is expected to be put, however, and potential impacts on
+individualsÕ reputations and freedom to function as social and economic
+actors, mechanisms that allow individuals to know what is in the data-
+base and to contest and/or correct alleged inaccuracies would be desir-
+able and politically essential (and, if run by the federal government, le-
+gally required).  While such mechanisms can be found in credit-reporting
+
+and medical databases,19 the law-enforcement and national-security
+frameworks that are motivating proposals for a nationwide identity sys-
+tem pose unique accessibility and disclosure challenges.Another concern is that depending solely on feedback from partici-pants to correct inaccuracies would catch only a fraction of the errors.
+People may tend to notice and report only those errors that interfere with
+something they are attempting to accomplish.  An incorrectly entered
+
+birth date, for example, may not be noticed or corrected for decades and
+may only come to light when the person applies for, say, Medicare.  An
+16Indeed, major federal agencies such as the Internal Revenue Service have run intoproblems with tracking and controlling access to information. For a discussion of this as itrelates to privacy, see Peter P. Swire, ÒFinancial Privacy and the Theory of High-Tech Gov-ernment Surveillance,Ó Washington University Law Quarterly
+ 177(2):461-512 (1999).
+17CSTB held a planning meeting on the topic of the insider threat in late 2000.  For more
+information, see <http://www.cstb.org/web/whitepaper_insiderthreat>.18The PresidentÕs Commission on Critical Infrastructure Protection at <http://www.ciao.gov/PCCIP/PCCIP_Report.pdf> discusses cyberthreats, including the insider threat.  For-tune has examined the cost of insider attacks online at <www.fortune.com/sitelets/sec-tions/fortune/tech/2001_01esecurity2.html>.19See, for example, Computer Science and Telecommunications Board, For the Record:Protecting Electronic Health Information, National Academy Press, Washington, D.C., 1997.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.44IDsÑNOT THAT EASYaccumulation of latent errors is inevitable and leads to at least two prob-lems:  (1) by the time the error is discovered it may be hard to locate the
+
+information needed to verify the claim of error and (2) the act of making
+the correction may interfere with or delay some action that should be
+allowed by the system.  Creating a workable nationwide identity system
+
+that can compensate in effective ways for these inevitabilities is clearly a
+nontrivial task.DATA CORRELATION AND PRIVACYA key question about a nationwide identity system database iswhether it would be designed to foster consolidation of other (especially
+federal) databasesÑor whether that might happen as a side effect.  Either
+way, proponents note that this would make information sharing among
+intelligence and law-enforcement agencies easier,20,21
+ although the com-
+mittee believes that it could also carry significant risks.A centralized, nationwide identity system essentially offers adversar-ies a single point of failure and presents an attractive target for identity
+theft and fraud.  The more valuable the information in the database and
+
+the credentials associated with an identity, the more they become a target
+for subversion.  Unauthorized access might be sought by terrorists, stalk-
+
+ers, abusive ex-spouses, blackmailers, or organized crime.  Furthermore,
+
+to the extent that important activities become dependent on the system,
+the system becomes an attractive target for denial-of-service attacks.
+Implementing a secure and reliable nationwide identity system that is
+resistant to credential theft or loss,22 fraud, and attack is  a significant
+technological challenge, with ancillary procedural challenges.Related to consolidation, information correlation is facilitated by sys-
+tems in which one individual has exactly one identity.  This has both
+
+negative and positive implications.  Such a system is useful for predicting
+20A forthcoming CSTB report will explore issues on critical information infrastructureprotection and the law, including a preliminary analysis of the issue of information sharingbetween the public and private sectors.  For more information, see <http://www.cstb.org/
+web/project_cip>.21See, for example, Larry EllisonÕs October 8, 2001, article in the Wall Street Journal, ÒDigi-tal IDs Can Help Prevent Terrorism,Ó and Cara Garretson
+Õs December 2001 article in CIO,ÒGovernment Info Sharing Key to Fighting Terrorism,Ó at <http://www.cio.com/govern-
+ment/edit/122001_share.html>.22Loss of ID cards presents its own challenges to the system; if all of the individuals withlost IDs were to become immediately ÒsuspectÓ in the system, intolerable backlogs and/or
+overload could result.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.TECHNOLOGICAL CHALLENGES45or detecting socially detrimental activities, because it avoids the uncer-tainty and confusion that may arise from multiple identities (notwith-
+standing that multiple identities can serve useful and socially desirable
+purposes, as described previously).  Credit card companies, for example,
+
+can conduct behavior-pattern analysis for fraud detection.23 Similar tech-
+nologies must be used to detect behavior indicative of impending crimi-
+nal or terrorist activities, although this raises concerns about profiling.On the negative side, such analysis also enables invasions of personalprivacy.  The extent to which this occurs would depend heavily on the
+
+circumstances under which an individual can be compelled to present an
+ID, what information is retained, and which activities are tracked within
+the system (a topic explored above).  Indeed, detecting a problem might
+
+only be possible in some instances through broad analysis.  This would
+
+necessitate examining the behavior of many people who do not pose a
+riskÑmost human behavior involves law-abiding citizens pursuing con-stitutionally protected activitiesÑin order to identify the few who do.2423Credit card companies make these correlations using both standard statistical methodsand neural networks.24For a discussion of some of the effects and implications of ubiquitous surveillancecameras, see the October 7, 2001, article by Jeffrey Rosen, ÒA Watchful State,Ó New YorkTimes Magazine.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.4Concluding Remarks46Given the complexity of a nationwide identity system, its potentialimpacts, and the broad scope of the issues it raises, the committee
+believes that much more analysis is needed.  Such analysis cannot
+proceed, however, without a clear articulation of the systemÕs goals andrequirements.  The committee believes that if a nationwide identity system
+is to be created, the goals of such a system must be clearly and publicly
+identified and deliberated upon, with input sought from all stakeholders
+(including private citizens).  Given the economic costs, the significant
+
+design and implementation challenges, and the risks to security and
+privacy posed by a poorly thought-out system, prior public review1 is
+essential.Thus the committee believes that proponents of a nationwide identitysystem should be required to present a very compelling case addressing
+these issues and that they should solicit input from a broad range of
+stakeholder communities.2  The committee
+Õs own discussion of a nation-1For an example of how this might work, consider the public-review cycle for the Ad-vanced Encryption Standard (AES); see <http://csrc.nist.gov/encryption/aes/>, managed
+by the National Institute of Standards and Technology.2Other stakeholder groups have already commented on the idea of a national identitycard, albeit within varying contexts.  For example, in 1995 the Cato Institute presented an
+
+extensive policy analysis of the notion of a nationwide worker registry within the context ofa larger immigration debate (see <http://www.cato.org/pubs/pas/pa237.html>).  The
+American Civil Liberties Union offered similar opposition (see <http://www.aclu.org/li-
+brary/aaidcard.html>); around the same time, Privacy International prepared a report de-scribing the use and implications of national ID cards from an international perspective (see<http://www.privacy.org/pi/activities/idcard/idcard_faq.html>).IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.CONCLUDING REMARKS47wide identity system, although brief and modest in scope, raised numer-ous complex questions.  It is clear that an evaluation of the potential costs,
+
+presumed benefits, and potential drawbacks of any proposed system is
+necessary in order to fully appreciate its trade-offs.Care must be taken to completely explore the ramifications of anynationwide identity system not only because of the significant policy con-
+cerns and technological challenges but also because after-the-fact costsÑthe result of revoking, correcting, or redesigning after broad deploy-
+mentÑwould be enormous.  Moreover, analysts must give serious
+consideration to the idea thatÑgiven the broad range of potential uses,security requirements, and privacy needs that might be contemplatedÑno single nationwide identity system is likely to meet the varied demands
+of all potential users.  Undoubtedly many more issues exist that are not
+
+even touched upon here.Given the wide range of technological and logistical challenges, thelikely direct and indirect costs, the serious potential for infringing on the
+rights and freedoms of ordinary citizens, and the gravity of the policy
+issues raised, any proposed nationwide identity system requires strict
+scrutiny and significant deliberation well in advance of design and de-
+ployment.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.AppendixesIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.51ACommittee Member andStaff Biographies
+STEPHEN T. KENT, Chair, is chief scientist for information security atBBN Technologies, a division of Verizon Communications.  During the
+
+last two decades, Dr. KentÕs R&D activities have included the design anddevelopment of user authentication and access control systems, network
+layer encryption and access control systems, secure transport layer proto-
+cols, secure e-mail technology, multilevel secure (X.500) directory sys-
+tems, and public-key certification authority systems.  His most recent
+
+work focuses on security for Internet routing, very high-speed IP encryp-
+tion, and high-assurance cryptographic modules.  Dr. Kent served as a
+
+member of the Internet Architecture Board (1983-1994) and chaired the
+Privacy and Security Research Group of the Internet Research Task Force
+(1985-1998).  He chaired the Privacy Enhanced Mail (PEM) working group
+
+of the Internet Engineering Task Force (IETF) from 1990 to 1995 and co-
+chairs the Public Key Infrastructure Working Group (1995-present).  He is
+
+the primary author of the core IPsec standards: RFCs 2401, 2402, and 2406.
+He is a member of the editorial board of the Journal of Computer Security(1995-present), serves on the board of the Security Research Alliance, and
+served on the board of directors of the International Association for
+Cryptologic Research (1982-1989).  Dr. Kent was a member of CSTB
+ÕsInformation Systems Trustworthiness Committee (1996-1998), which pro-
+duced Trust in Cyberspace.  His other previous NRC service includes the
+CSTB Committee on Rights and Responsibilities of Participants in Net-
+worked Communities (1993-1994), the Technical Assessment panel for the
+NIST Computer Systems Laboratory (1990-1992), and the CSTB SecureIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.52IDsÑNOT THAT EASYSystems Study Committee (1988-1990).  The U.S. Secretary of Commerce
+appointed Dr. Kent as chair of the Federal Advisory Committee to De-
+velop a FIPS for Federal Key Management Infrastructure (1996-1998).  The
+
+author of two book chapters and numerous technical papers on network
+security, Dr. Kent has served as a referee, panelist, and session chair for a
+number of conferences.  Since 1977 he has lectured on the topic of net-
+
+work security on behalf of government agencies, universities, and private
+companies throughout the United States, Europe, Australia, and the Far
+East.  Dr. Kent received the B.S. degree in mathematics summa cum laude
+
+from Loyola University of New Orleans and the S.M., E.E., and Ph.D.
+degrees in computer science from the Massachusetts Institute of Technol-
+ogy.  He is a fellow of the Association for Computing Machinery and a
+
+member of the Internet Society and Sigma Xi.MICHAEL ANGELO is currently a staff fellow at Compaq Computer
+Corporation and runs a laboratory at Compaq that assesses biometrics
+and other security-enhancing technologies, such as smart cards.  He is
+
+considered a subject-matter expert for security and its associated tech-
+nologies.  His job is to provide technical guidance and input into strategic
+
+planning and the development of secure solutions.  In addition, he is
+
+responsible for providing technical assistance to the corporate security
+team.  Dr. Angelo possesses expertise in both biometric and token access
+
+authentication technology, including technical threat model and imple-
+mentation analysis, as well as in risk reduction enhancement methodol-
+ogy, applied computer system security, computer forensics, advanced
+data protection methodologies, and practical encryption techniques.  His
+
+experience comprises 15 years in designing, implementing, managing,
+and supporting secure intra- and Internets, including gateways, firewalls,
+and sentinels, plus 20 years working at the kernel level of numerous
+operating systems, including a wide variety of hardware platforms (from
+PCs to supercomputers) and software platforms (including several fla-
+vors of UNIX, MS-DOS/Windows/NT, and VMS).  He holds several pat-
+
+ents. Dr. Angelo has been active in a number of trade standards organiza-
+tions:  the Trusted Computing Platform Association (TCPA), Americans
+
+for Computer Privacy (ACP), the Bureau of Export Administration Tech-
+nical Advisory Committee (BXA-TAC), the Information Security Explor-
+atory Committee (ISEC), the Key Recovery Alliance (KRA), the Computer
+Systems Policy Project, the Cross-Industry Working Team Security Work-
+ing Group, and the National Institute of Standards and TechnologyÕs In-dustry Key Escrow Working Group.STEVEN BELLOVIN is a fellow at AT&T Research.  Dr. Bellovin re-
+ceived a B.A. degree from Columbia University and an M.S. and Ph.D. inIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.APPENDIX A53computer science from the University of North Carolina at Chapel Hill.While a graduate student, he helped create Netnews; for this, he and the
+other collaborators were awarded the 1995 USENIX Lifetime Achieve-
+ment Award. At AT&T Laboratories, he does research in networks and
+security and why the two do not get along.  Dr. Bellovin has embraced a
+
+number of public interest causes and weighed in (e.g., through his writ-
+ings) on initiatives (e.g., in cryptography and law enforcement) that ap-
+pear to threaten privacy.  He is currently focusing on cryptographic pro-
+
+tocols and network management.  Bellovin is the coauthor of the recent
+
+book Firewalls and Internet Security:  Repelling the Wily Hacker
+, and he is amember of the Internet Architecture Board.  He was a member of the
+
+CSTB committee that produced Trust in Cyberspace (1999), and he is amember of the National Academy of Engineering.BOB BLAKLEY is chief scientist for security and privacy at IBM TivoliSoftware in Austin, Texas.  Dr. Blakley was chief scientist for DASCOM,
+
+Inc., at the time of its acquisition by IBM and integration into Tivoli.
+Before joining DASCOM, Dr. Blakley was lead security architect for IBM,
+where he was employed for 9 years.  In addition to his product design
+
+responsibilities, Dr. Blakley led the IBM Security Architecture Board and
+was the IBM representative to the Open Group Security Program Group.
+He also served for 2 years as the chair of the OSF DME/DCE security
+working group. He is the author of CORBA Security: An Introduction toSafe Computing with Objects, published by Addison-Wesley.  Dr. Blakley
+was also the editor of the Open Group PKI working groupÕs ÒArchitec-ture for Public Key Infrastructure.Ó He has been involved in cryptogra-
+phy and data security design work since 1979 and has authored or coau-
+thored seven papers on cryptography, secret-sharing schemes, access
+control, and other aspects of computer security.  He was designated 
+ÒDis-tinguished PractitionerÓ by the 2001 Annual Computer Security and Ap-
+plications Conference.  He is currently the general editor of the OASIS
+
+Security Services Technical CommitteeÕs SAML specification effort. Heholds eight patents on security-related technologies. Dr. Blakley cochaired
+the ACM New Security Paradigms Workshop in 1997 and 1998, and he
+served on the program committees for several industry and academic
+conferences, including the NSA/OMG Distributed Object Computing
+Workshop, IEEE Security and Privacy, and ISOC Network and Distrib-
+uted Systems Security (NDSS).  Dr. Blakley received an A.B. in classics
+
+from Princeton University and a masterÕs degree and Ph.D. in computerand communications sciences from the University of Michigan.DREW DEAN is a computer scientist at SRI International.  He joined SRIfull time in July 2001; prior to that he was a member of the research staffIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.54IDsÑNOT THAT EASYat Xerox PARC.  Dr. Dean holds M.A. and Ph.D. degrees from Princeton
+University and a B.S. degree from Carnegie Mellon University, all in com-
+puter science. He pioneered the systematic study of Java security and
+more recently has worked across a wide range of areas in security, includ-
+ing cryptography, the theory of access control, and IP traceback. He has
+received a Best Student Paper award from the ACM Computer and Com-
+munications Security conference (1997), an Outstanding Paper award
+from the ACM Symposium on Operating System Principles (1997), and a
+Best Paper award from the Internet SocietyÕs Network and DistributedSystems Security Symposium (2001).  Dr. Dean is a member of the edito-
+
+rial board of Springer-VerlagÕs International Journal of Information Security.BARBARA FOX is currently senior architect, Digital Rights Managementand Cryptography, at Microsoft Corporation.  She is coauthor of a num-
+
+ber of research papers in the application of public key infrastructures to
+payment systems and, most recently, the IETF/W3C XML Digital Signa-
+ture standard.  Ms. Fox also serves on the board of directors for the Inter-
+national Financial Cryptography Association.STEPHEN H. HOLDEN is an assistant professor in the Department of
+Information Systems at the University of Maryland, Baltimore County
+(UMBC).  Dr. HoldenÕs research, publications, and teachings leverage hissubstantial federal government experience in government-wide policy in
+information technology management and electronic government.  Other
+
+research interests include information policy, electronic authentication
+policies and practices, and strategic management processes.  He recently
+
+left the Internal Revenue Service (IRS) as a senior executive after a 16-year
+career in the federal career service. While at the IRS he served as the
+program executive, Electronic Tax Administration (ETA) Modernization,
+reporting to the assistant commissioner. Before that position in ETA he
+served as the national director of Electronic Program Enhancements.
+During that time he led efforts to develop new ETA programs, policies,
+and e-government systems for the IRS, including the ETA partnership
+effort, electronic payments, electronic authentication, and the IRS e-file
+promotional campaign.  He also served on the federal Public Key Infra-
+
+structure Steering Committee.  Prior to going to the IRS, Dr. Holden
+
+worked for 10 years at the Office of Management and Budget (OMB),
+doing a variety of policy, management, and budget analysis work.  Sig-
+
+nificant accomplishments at OMB included drafting and completing a
+revision to the information technology management section of Circular
+A-130 and overseeing the publication of the first ÒInformation ResourceManagement Plan of the Federal Government.Ó  Dr. Holden
+Õs career as afederal civil servant began in 1983 as a Presidential Management Intern atIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.APPENDIX A55the Naval Sea Systems Command.   He holds a Ph.D. (public administra-
+tion and public affairs) from Virginia Polytechnic and State University
+and an M.P.A in public administration and a B.A. in public management
+from the University of Maine.DEIRDRE MULLIGAN is director of the new Samuelson Law, Technol-
+ogy and Public Policy Clinic at the University of California, Berkeley,
+School of Law (Boalt Hall).  While attending Georgetown University Law
+
+Center, Mulligan worked on the American Civil Liberties UnionÕs privacyand technology project, where she honed her interest in preserving and
+enhancing civil liberties and democratic values.  After law school, she
+
+became a founding member of the Center for Democracy and Technol-
+ogy, a high-tech, civil liberties public interest organization based in Wash-
+ington, D.C.  For 6 years, Mulligan was staff counsel at the center.  She has
+
+worked with federal lawmakers, governmental agencies, the judicial sys-
+tem, public interest organizations, and the high-tech business commu-
+nity, with the goal of enhancing individual privacy on the Internet, thwart-
+ing threats to free speech on the Internet, and limiting governmental access
+to private data.  She has testified in several settings and contributed to
+
+technical standards development.  Ms. Mulligan received her J.D., cum
+
+laude, from Georgetown University Law Center in 1994 and a B.A. in
+architecture and art history from Smith College in 1988.JUDITH S. OLSON is the Richard W. Pew Chair in Human Computer
+Interaction at the University of Michigan.  She is also a professor in the
+
+School of Information, the Business School, and the Department of Psy-
+chology.  Her research interests include computer-supported cooperative
+
+work, human-computer interaction, the design of business information
+systems for organizational effectiveness, and cognitive psychology.  Pro-
+
+fessor OlsonÕs recent research focuses on the nature of group work andthe design and evaluation of technology to support it.  This field com-
+
+bines cognitive and social psychology with the design of information
+systems.  She began her career at the University of Michigan in the De-
+
+partment of Psychology, served as a technical supervisor for human fac-
+tors in systems engineering at Bell Laboratories in New Jersey, and re-
+turned to Michigan to the Business School and the then-new School of
+Information.  She has over 60 publications in journals and books and has
+
+served on a number of national committees, including the National Re-
+search Council Committee on Human Factors and the Council of the As-
+sociation for Computing Machinery.  She has recently been appointed to
+
+the CHI Academy of ACMÕs Special Interest Group on Computer-HumanInteraction.  Dr. Olson earned a B.A. in mathematics and psychology from
+IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.56IDsÑNOT THAT EASYNorthwestern University in 1965 and a Ph.D. 4 years later in the samedisciplines from the University of Michigan.JOE PATO is currently the principal scientist for the trust, security, and
+privacy research program at HP Labs and has served as the CTO for
+Hewlett-PackardÕs Internet Security Solutions Division. Mr. PatoÕs cur-rent research focuses on the trust needs of collaborative enterprises on the
+Internet, addressing both interenterprise models and the needs of light-
+weight information appliances representing the interests of the individual.
+He is looking at critical infrastructure protection and the confluence of
+trust, e-services, and mobility. This work recently led him to be one of the
+founders of the Information Technology Information Sharing and Analy-
+sis Center (IT-ISAC). His past work has included the design of delegation
+protocols for secure distributed computation; key exchange protocols;
+interdomain trust structures; the development of public- and secret-key-
+based infrastructures; and the more general development of distributed
+enterprise environments. Mr. Pato is currently cochair of the OASIS Secu-
+rity Services Technical Committee and has participated on several IEEE,
+ANSI, and NIST standards or advisory committees.RADIA PERLMAN is a Distinguished Engineer at Sun MicrosystemsLaboratories.  She is the architect for a group that does research in net-
+
+work security issues, recently focused on PKI deployment.  Some of the
+
+groupÕs implementation will be distributed as part of a reference imple-mentation for Java.  She is the author of many papers in the field of
+
+network security, as well as coauthor of a textbook on network security
+and author of a textbook on lower-layer networking protocols.  She is also
+
+well known for her work on sabotage-proof routing protocols.  Her work
+on lower-layer protocols is also well known and forms the basis of mod-
+ern bridging, switching, and routing protocols.  This expertise is crucial to
+
+understanding the technology behind such things as providing Internet
+anonymity.  She has about 50 issued patents, a Ph.D. in computer science
+from MIT, and S.B. and S.M. degrees in mathematics from that institution.
+She was recently awarded an honorary doctorate from KTH, the Royal
+Institute of Technology, Sweden.PRISCILLA M. REGAN is an associate professor in the Department ofPublic and International Affairs at George Mason University.  Prior to
+
+joining that faculty in 1989, she was a senior analyst in the Congressional
+Office of Technology Assessment (1984-1989) and an assistant professor
+of politics and government at the University of Puget Sound (1979-1984).
+Since the mid-1970s, Dr. ReganÕs primary research interest has been theanalysis of the social, policy, and legal implications of organizational useIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.APPENDIX A57of new information and communications technologies.  Dr. Regan has
+published over 20 articles or book chapters, as well as Legislating Privacy:Technology, Social Values, and Public Policy (University of North Carolina
+Press, 1995).  As a recognized researcher in this area, Dr. Regan has testi-
+
+fied before Congress and participated in meetings held by the Depart-
+ment of Commerce, the Federal Trade Commission, the Social Security
+Administration, and the Census Bureau.  Dr. Regan received her Ph.D. in
+
+government from Cornell University in 1981 and her B.A. from Mount
+Holyoke College in 1972.JEFFREY I. SCHILLER received his S.B. in electrical engineering (1979)
+from the Massachusetts Institute of Technology.  As MIT network man-
+
+ager he has managed the MIT Campus Computer Network since its in-
+ception in 1984.  Prior to his work in the Network Group, he maintained
+
+MITÕs Multics timesharing system during the time frame of the ARPANETTCP/IP conversion.  He is an author of MIT
+Õs Kerberos Authenticationsystem. Mr. Schiller is the Internet Engineering Steering GroupÕs (IESG)area director for security.  He is responsible for overseeing security-re-
+
+lated working groups of the Internet Engineering Task Force (IETF).  He
+
+was responsible for releasing a U.S. legal freeware version of the popular
+PGP encryption program.  Mr. Schiller is also responsible for the develop-
+
+ment and deployment of an X.509-based PKI at MIT.  He is the technical
+
+lead for the new Higher Education Certifying Authority being operated
+by the Corporation for Research and Educational Networking (CREN).
+Mr. Schiller is also a founding member of the Steering Group of the New
+England Academic and Research Network (NEARnet).  NEARnet, now
+
+part of Genuity, Inc., is a major nationwide Internet service provider.SOUMITRA SENGUPTA is assistant professor in the Department ofMedical Informatics at Columbia University.  Dr. Sengupta has focused
+
+his work on the challenges of security and privacy in health care, comple-
+menting his academic work by service as security officer for the New
+York-Presbyterian Healthcare System.  His research interests are in the
+
+areas of distributed systems, their monitoring, management, and security
+aspects, and their application in a health care environment.  He is inter-
+
+ested in the architectural design and engineering concerns of building
+large, functioning systems over heterogeneous platforms and protocols.
+Dr. Sengupta holds a B.E. from Birla Institute of Technology and Science
+(electrical and electronics engineering), Pilani, India, and M.S. and Ph.D.
+degrees in computer science from the State University of New York at
+Stony Brook.  He was a member of the Association for Computing Machinery
+
+(ACM) from 1984 to 1994 and the Institute for Electrical and ElectronicIDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.58IDsÑNOT THAT EASYEngineers (Computer Society) from 1984 to1992, and is currently a mem-ber of the American Medical Informatics Association.JAMES L. WAYMAN has been the director of the Biometrics Test Centerat San Jose State University in San Jose, California, since 1995.  The center
+
+is funded by the United States and other countries to develop standards
+and scientific test and analysis methods and to advise on the use or non-
+use of biometric identification technologies.  The test center served as the
+U.S. National Biometrics Test Center from 1997 to 2000.  Dr. Wayman
+
+received the Ph.D. degree in engineering from the University of Califor-
+nia at Santa Barbara in 1980 and joined the faculty of the Department of
+Mathematics at the U.S. Naval Postgraduate School in 1981.  In 1986, he
+
+became a full-time researcher for the Department of Defense in the areas
+of technical security and biometrics. Dr. Wayman holds three patents in
+speech processing and is the author of dozens of articles in books, techni-
+cal journals, and conference proceedings on biometrics, speech compres-
+sion, acoustics, and network control.  He serves on the editorial boards of
+
+two journals and on several national and international biometrics stan-
+dards committees.  He is a senior member of the Institute of Electrical and
+
+Electronic Engineers.DANIEL J. WEITZNER is director of the World Wide Web ConsortiumÕsTechnology and Society activities. As such, he is responsible for develop-
+ment of technology standards that enable the Web to address social, legal,
+and public policy concerns such as privacy, free speech, protection of
+minors, authentication, intellectual property, and identification. He is also
+the W3CÕs chief liaison to public policy communities around the worldand a member of the ICANN Protocol Supporting OrganizationÕs ProtocolCouncil.  Mr. Weitzner holds a research appointment at MIT
+Õs Laboratoryfor Computer Science and teaches Internet public policy at MIT.  Before
+
+joining the W3C, Mr. Weitzner was cofounder and deputy director of the
+Center for Democracy and Technology, an Internet civil liberties organi-
+zation in Washington, D.C.  He was also deputy policy director of the
+
+Electronic Frontier Foundation.  As a leading figure in the Internet public
+
+policy community, he was the first to advocate user control technologies
+such as content filtering and rating to protect children and avoid govern-
+ment censorship of the Internet.  These arguments played a critical role in
+
+the 1997 U.S. Supreme Court case Reno v. ACLU, awarding the highestfree speech protections to the Internet.  He successfully advocated the
+
+adoption of amendments to the Electronic Communications Privacy Act,
+creating new privacy protections for online transactional information such
+as Web site access logs.  Mr. Weitzner has a degree in law from Buffalo
+
+Law School and a B.A. in philosophy from Swarthmore College. His pub-IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.APPENDIX A59lications on communications policy have appeared in the Yale Law Review,Global Networks, Computerworld, Wired, Social Research, Electronic Network-ing: Research, Applications & Policy, and Whole Earth.  He is also a commen-
+tator for NPRÕs Marketplace Radio.STAFFLYNETTE I. MILLETT is a study director and program officer with the
+Computer Science and Telecommunications Board of the National Re-
+search Council.  She is currently involved in several CSTB projects along
+
+with the authentication study, including a comprehensive exploration of
+privacy in the information age and a study examining the fundamentals
+of computer science.  She is also exploring possible study options for
+
+CSTB with respect to the issues of open source software development,
+dependability of complex software systems, and women in computer sci-
+ence.  She recently completed the CSTB study that produced 
+Embedded,Everywhere: A Research Agenda for Networked Systems of Embedded Comput-
+ers.  Before joining CSTB, she was involved in research on static analysis
+techniques for concurrent programming languages as well as research on
+value-sensitive design and informed consent online. She has an M.Sc. in
+computer science from Cornell University.  Her undergraduate degree is
+
+in mathematics and computer science from Colby College.  Her graduate
+work was supported by both an NSF graduate fellowship and an Intel
+graduate fellowship.  While at Cornell, Ms. Millett cofounded its Engi-
+
+neering Graduate Student Association.JENNIFER BISHOP is a senior project assistant with the Computer Sci-ence and Telecommunications Board of the National Research Council.
+Before moving to Washington, Ms. Bishop worked for the City of Ithaca,
+New York, coordinating the Police DepartmentÕs transition to a new SQL-based time accrual and scheduling application.  Her other work experi-
+
+ence includes designing customized hospitality industry performance re-
+ports for Ithaca-based RealTime Hotel Reports, LLC, maintaining the
+police records database for the City of Ithaca, and hand-painting furni-
+ture for Mackenzie-Childs, Ltd., of Aurora, New York.  She is an artist
+
+working in oil and mixed media and is currently attempting to make her
+professional debut on the Washington art scene.  Ms. Bishop holds a
+
+B.F.A (2001) in studio art from Cornell University.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.BWhat Is CSTB?As a part of the National Research Council, the Computer Scienceand Telecommunications Board (CSTB) was established in 1986to provide independent advice to the federal government on tech-nical and public policy issues relating to computing and communications.
+Composed of leaders from industry and academia, CSTB conducts stud-
+ies of critical national issues and makes recommendations to government,
+industry, and academic researchers.  CSTB also provides a neutral meet-
+
+ing ground for consideration of complex issues where resolution and
+action may be premature. It convenes invitational discussions that bring
+together principals from the public and private sectors, assuring consid-
+eration of all perspectives.  The majority of CSTB
+Õs work is requested byfederal agencies and Congress, consistent with its National Academies
+context.A pioneer in framing and analyzing Internet policy issues, CSTB isunique in its comprehensive scope and effective, interdisciplinary ap-
+praisal of technical, economic, social, and policy issues.  Beginning with
+
+early work in computer and communications security, cyberassurance
+and information systems trustworthiness have been a cross-cutting theme
+in CSTBÕs work.  CSTB has produced several reports known as classics in
+the field, and it continues to address these topics as the fields grow in
+importance.To do its work, CSTB draws on some of the best minds in the country,inviting experts to participate in its projects as a public service.  Studies
+
+are conducted by balanced committees without direct financial interests60IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.APPENDIX B61in the topics they are addressing.  Those committees meet, confer elec-
+tronically, and build analyses through their deliberations.  Additional
+
+expertise from around the country is tapped in a rigorous process of
+review and critique, further enhancing the quality of CSTB reports.  By
+
+engaging groups of principals, CSTB gets the facts and insights critical to
+assessing key issues.The mission of CSTB is to¥Respond to requests from the government, nonprofit organizations,and private industry for advice on computer and telecommunications
+issues and from the government for advice on computer and telecommu-
+nications systems planning, utilization, and modernization;¥Monitor and promote the health of the fields of computer science and
+telecommunications, with attention to issues of human resources, infor-
+mation infrastructure, and societal impacts;¥Initiate and conduct studies involving computer science, technology,and telecommunications as critical resources; and¥Foster interaction among the disciplines underlying computing and
+telecommunications technologies and other fields, at large and within the
+National Academies.As of March 2002, CSTB activities with security and privacy compo-nents address privacy in the information age, critical information infra-
+structure protection, authentication technologies and their privacy impli-
+cations, information technology for countering terrorism, and geospatial
+information systems.  Additional studies examine broadband, digital gov-
+
+ernment, the fundamentals of computer science, limiting childrenÕs accessto pornography on the Internet, digital archiving and preservation, and
+Internet navigation and the domain name system.  Explorations touching
+
+on security and privacy are under way in the areas of the insider threat,
+cybersecurity research, cybersecurity principles and practices, depend-
+able/safe software systems, wireless communications and spectrum man-
+agement, open source software, digital democracy, the Òdigital divide,Ómanageable systems, information technology and journalism, super-
+computing, and information technology and education.For more information on CSTB, see its Web site at <http://www.cstb.org>; write to CSTB, National Research Council, 2101 Con-
+stitution Avenue, N.W., Room HA 560, Washington, DC 20418; call at
+(202) 334-2605; or e-mail the CSTB at cstb@nas.edu.IDs -- Not That Easy: Questions About Nationwide Identity SystemsCopyright National Academy of Sciences. All rights reserved.

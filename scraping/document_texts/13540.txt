@@ -1,0 +1,1604 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/13540Summary of a Workshop on the Future of Antennas29 pages | 8.5 x 11 | PAPERBACKISBN 978-0-309-26683-3 | DOI 10.17226/13540Norm Haller, Rapporteur; Division on Engineering and Physical Sciences; NationalResearch CouncilSummary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.   
+  
+ 
+ Summary of a Workshop on the Future of Antennas 
+  
+ 
+ Norm Haller, Rapporteur      
+ 
+ Division on Engineering and Physical Sciences   
+ 
+ 
+     
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ THE NATIONAL ACADEMIES PRESS Washington, D.C. 
+www.nap.edu  Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS   500 FIFTH STREET, NW   Washington, DC 20001 
+ NOTICE:  The project that is the subject of this re
+port was approved by the Governing Board of the National 
+Research Council, whose members ar
+e drawn from the councils of the 
+National Academy of Sciences, the 
+National Academy of Engineering, and the Institute of Medicine.  The members of the committee responsible 
+
+for the report were chosen for their special comp
+etences and with regard 
+for appropriate balance. 
+ This study was supported by Contract HHM402-10-D-
+0036 between the Defense Intelligence Agency and the 
+National Academy of Sciences.  Any views or observations expressed in this publication are those of the 
+author(s) and do not necessarily re
+flect the views of the agency that
+ provided support for the project. 
+ International Standard Book Number:  13: 978-0-309-26683-3 
+International Standard Book Number:  10: 0-309-26683-1 
+ 
+Limited copies of this report are available from the Division on Engineering and Physical Sciences, National 
+Research Council, 500 Fifth Street, NW, Washington, DC 20001; (202) 334-2400. 
+ 
+Additional copies of this report are available from th
+e National Academies Press, 500 Fifth Street, NW, Keck 
+360, Washington, DC 20001; (800) 624-6242 or (202) 334-3313; http://www.nap.edu. 
+ 
+Copyright 2012 by the National Academy of Sciences.  All rights reserved. 
+ Printed in the United States of America 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. The National Academy of Sciences
+ is a private, nonprofit, self-perpetuating 
+society of distinguished scholars engaged 
+in scientific and engineering research, dedicated to the furt
+herance of science and technology and to their use for the 
+general welfare.  Upon the authority of
+ the charter granted to it by the Congress in 1863, the Academy has a mandate 
+that requires it to advise the federal gover
+nment on scientific and technical matters.
+  Dr. Ralph J. Cicerone is president 
+of the National Academy of Sciences. 
+The National Academy of Engineering
+ was established in 1964, under the charter of the National Academy of 
+Sciences, as a parallel organi
+zation of outstanding engineers.  It is autonom
+ous in its administration and in the selection 
+of its members, sharing with the National Academy of Scien
+ces the responsibility for advising the federal government.  
+The National Academy of Engineering also sponsors e
+ngineering programs aimed at meeting national needs, 
+encourages education and research, and recognizes the superi
+or achievements of engineers.
+  Dr. Charles M. Vest is 
+president of the National Academy of Engineering. 
+The Institute of Medicine
+ was established in 1970 by the National Academ
+y of Sciences to secure the services of 
+eminent members of appropriate professions in the examinati
+on of policy matters pertaining to the health of the public.  
+The Institute acts under the responsibility given to the Nationa
+l Academy of Sciences by its congressional charter to be 
+an adviser to the federal government and, upon its own initia
+tive, to identify issues of medical care, research, and 
+education.  Dr. Harvey V. Fineberg is president of the Institute of Medicine. 
+The National Research Council
+ was organized by the National Academy of Sciences in 1916 to associate the broad 
+community of science and technology with the Academy™
+s purposes of furthering knowle
+dge and advising the federal 
+government.  Functioning in accordance w
+ith general policies determined by th
+e Academy, the Council has become the 
+principal operating agency of both the National Academy of
+ Sciences and the National Academy of Engineering in 
+providing services to the government, the public, and the sc
+ientific and engineering communities.  The Council is 
+administered jointly by both Academies and the Institute of 
+Medicine.  Dr. Ralph J. Cicer
+one and Dr. Charles M. Vest 
+are chair and vice chair, respectively, of the National Research Council 
+
+ www.national-academies.org 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. iv COMMITTEE FOR SCIENCE AND TECHNOLOGY  
+CHALLENGES TO U.S. NATIONAL SECURITY INTERESTS
+  J. JEROME HOLTON,* Tauri Group, 
+Chair EDWARD M. GREITZER, Massachusetts Institute of Technology, 
+Vice Chair  BRIAN BALLARD,* APX Labs 
+KENNETH I. BERNS, University of Florida College of Medicine 
+ANN N. CAMPBELL,* Sandia National Laboratories 
+DEAN R. COLLINS, Defense Advanced Research Projects Agency (retired) 
+
+SHARON C. GLOTZER, University of Michigan 
+
+J.C. HERZ, Batchtags, LLC 
+KENNETH A. KRESS,* KBK Consulting, Inc. 
+DARRELL LONG, University of California, Santa Cruz 
+
+JULIE J.C.H. RYAN,* George Washington University  
+
+JANET K. THERIANOS, Independent Consultant (USAF, retired) 
+ELIAS TOWE, Carnegie Mellon University 
+
+ALFONSO VELOSA III,* Gartner, Inc. 
+ELI YABLONOVITCH,* University of California, Berkeley 
+ Staff 
+ TERRY JAGGERS, Lead DEPS Board Director DANIEL E.J. TALMAGE, JR., Study Director 
+SARAH CAPOTE, Research Associate 
+
+MARGUERITE SCHNEIDER, Administrative Coordinator 
+
+DIONNA ALI, Senior Program Assistant 
+
+CHRIS JONES, Financial Associate 
+
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+___________________________ 
+*Planned or attended the workshop. 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. v   
+ 
+ 
+ Preface   
+ 
+The workshop described in this report is the 
+second in a series of three workshops, held 
+in early 2012 to further the ongoing engagement 
+among the National Research Council™s (NRC™s) 
+Technology InsightŠGauge, Evaluate, and Review
+ (TIGER) Standing Committee, the scientific 
+and technical intelligence (S&TI) community, and th
+e consumers of S&TI products. A restricted 
+version of this report is available by contacting 
+the Public Affairs Office of the sponsoring agency 
+(Defense Intelligence Agency) directly. 
+We express our appreciation to the me
+mbers of the Committee for Science and 
+Technology Challenges to U.S. National Security In
+terests for their contributions to the planning 
+of this workshop. We are also grateful for 
+the active participation of many members of the 
+technology community in the workshop, as well as 
+to the sponsor for its support. The committee 
+also expresses sincere appreciation for the suppor
+t and assistance of the NRC staff, including 
+Terry Jaggers, Daniel Talmage, Sarah Capote, 
+Marguerite Schneider, Ze
+ida Patmon, and Dionna 
+Ali. Finally, we would like to thank the rapporte
+ur for this report, Norm Haller, a consultant. 
+ 
+ J. Jerome Holton, 
+Chair  Edward M. Greitzer, 
+Vice Chair  Committee for Science and Technology 
+    Challenges to U.S. National Security Interests 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. vi 
+     
+   Acknowledgment of Reviewers  
+ 
+ This report has been reviewed in draft form
+ by individuals chosen for their diverse 
+perspectives and technical expertise, in accord
+ance with procedures approved by the National 
+Research Council™s (NRC™s) Report Review Committ
+ee. The purpose of this independent review 
+is to provide candid and critical comments that will assist the institution in making its published 
+
+report as sound as possible and to ensure that 
+the report meets institutional standards for 
+objectivity, evidence, and responsiveness to the 
+study charge. The review comments and draft 
+manuscript remain confidential to protect the inte
+grity of the deliberative process. We wish to 
+thank the following individuals for their review of this report: 
+ James Armitage, Potomac In
+stitute for Policy Studies, 
+Lawrence J. Delaney, Independent Cons
+ultant (Titan Corporation, retired), 
+Gilman Louie, Alsop Louie Partners, and 
+
+Al Romig, NAE, Lockheed Martin Aeronautics Company. 
+ Although the reviewers listed above have 
+provided many constructive comments and 
+suggestions, they were not asked to endorse the vi
+ews of individual participants, nor did they see 
+the final draft of the report before its release. The review of this report was overseen by Lou 
+
+Lanzerotti (NAE), New Jersey Institute of T
+echnology. Appointed by the NRC, he was 
+responsible for making certain that an independent
+ examination of this report was carried out in 
+accordance with institutional proce
+dures and that all review comments were carefully considered. 
+Responsibility for the final content of this report r
+ests entirely with the author and the institution. 
+   
+ 
+ 
+ 
+ 
+ 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. vii 
+  
+ 
+ 
+ 
+ 
+ Contents  
+  1 INTRODUCTION 1 
+
+ 
+2 FIRST DAY (OPEN) 3 
+Future of Antennas, 3 
+ Discussion After Presentation, 3 
+
+Commercial State of the Art of Wireless Communications and Control, 4 
+
+ Discussion After Presentation, 4 
+
+ General Discussion on Several Topics by Attendees, 5 
+Military State of the Art of Wireless Communications and Control, 5 
+ Discussion After Presentation, 6 
+
+Future Trends in Antenna Design and 
+Wireless Communications and Control, 6 
+ Questions and General Discussion, 7 
+ 
+3 SECOND DAY (CLOSED) 8 
+ APPENDIXES 
+A Committee Biographies 11 
+
+B Workshop Agenda and Participants 17 
+
+C Speaker Biographies 19 
+  Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.    
+ 
+ 
+ 
+ 
+ 
+ 
+  Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.1   
+   1 Introduction
+    The Workshop on the Future of Antennas was the second of three workshops conducted by the 
+National Research Council™s Comm
+ittee for Science and Technology Challenges to U.S. National 
+Security Interests. The statement of task can be 
+found in Box 1-1. The workshop objectives were to: 
+  Review trends in advanced antenna research and design.  
+ Review trends in commercial and military use 
+of advanced antennas that enable improved 
+communication, data transfer, soldier health m
+onitoring, and other overt and covert methods 
+of standoff data collection. 
+ The first day™s sessions, consisting of five presenta
+tions and discussions on antennas and wireless 
+communications and control, were open to committee 
+members, staff, guests, and members of the public. 
+The second day was a data-gathering session addressing 
+vulnerabilities, indicators, and observables; 
+presentations and discussions during this session include
+d classified material and were not open to the 
+public. Appendix A contains biographies of the comm
+ittee members. The workshop agenda and a list of 
+participants are given in Appendix B. Appe
+ndix C gives the biographies of the presenters. 
+This report has been prepared by the workshop rapp
+orteur as a factual summary of what occurred at 
+the workshop. The committ
+ee™s role was limited to planning and convening the workshop. The views 
+contained in the report are those of individual work
+shop participants and do not necessarily represent the 
+views of all workshop participants, the committee, 
+or the National Research Council. The workshop was 
+not intended to provide a comprehensive review of the state of antenna technology. 
+This report is organized by topic in the order of presentation and discussion at the workshop. For 
+Day 1 the topics were Future of Antennas, Commercia
+l State of the Art of Wireless Communications and 
+Control, Military State of the Art of Wireless 
+Communications and Control, and Future Trends in 
+Antenna Design and Wireless Communications and Control. For Day 2 the topics were Vulnerabilities of 
+
+Ubiquitous Antennas, and Indicators and Ob
+servables, followed by a wrap-up discussion. 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+   Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.2 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+    
+     
+   
+    BOX 1-1 Statement of Task  
+An ad hoc committee will plan and conduct three workshops on the science and technology 
+(S&T) fields noted below that have potential impact on U.S. national security. 
+  Ł Big DataŠThe workshop will review emergi
+ng capabilities in large computational data to 
+include speed, data fusion, use, and commodification 
+of data used in decision making. The workshop 
+will also review the subsequent increase in vul
+nerabilities over the capabilities gained and the 
+significance to national security. 
+Ł Future of AntennasŠThe workshop will review 
+trends in advanced 
+antenna research and 
+design. The workshop will also review trends in 
+commercial and military use of advanced antennas 
+that enable improved communication, data transfer
+, soldier health monitoring, and other overt and 
+covert methods of standoff data collection.  
+Ł Future Battlespace Situati
+onal AwarenessŠThe workshop will review the technologies that 
+enable battlespace situational awareness 10-20 years in
+to the future for both red and blue forces. The 
+workshop will emphasize the capabilities within 
+air, land, sea, space, and cyberspace.  
+ The committee will design the workshops to a
+ddress U.S. and foreign research, why S&T 
+applications of technologies in development are im
+portant in the context of military capabilities, and 
+what critical scientific breakthroughs
+ are needed to achieve advan
+ces in the fields of interestŠ
+focusing detailed attention on specific developments in
+ the foregoing fields that might have national 
+security implications for the United States. The 
+workshops will each also consider methodology to 
+track the relevant technology landscape for the future. Each of the three workshops will feature i
+nvited presentations and 
+panelists and include 
+discussions on a selected topic including themes re
+lating to defense warning and surprise. The 
+committee will plan the agenda for the workshops, 
+select and invite speakers and discussants, and 
+moderate the discussions. Each event will result in
+ a workshop summary that will be subject to 
+appropriate institutional review prior to release.  
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.3   
+   2 First Day (Open)
+    The presentations were followed by discussion periods during which questions were posed and 
+answered and ideas were exchanged among the partic
+ipants. Summaries of these discussions sometimes 
+do not follow their specific order of occurrence during the meeting, thus allowing like topics to be 
+
+synthesized (e.g., discussions of entities engaged 
+in antenna design activities). The first three 
+presentations had one speaker each. The last topic was covered by two speakers. 
+ FUTURE OF ANTENNAS 
+Lon Pringle, director of the Signature Technolog
+y Laboratory at Georgia Tech Research Institute, 
+was the speaker. His key point was that the ﬁfut
+ure of antennas is nowﬂ and that several enabling 
+technologies, most notably the increase in computational power, are combining to make the present an era 
+
+of dramatic improvements in antenna performance.ﬂ
+ Signatures dominated 20 years ago, and then 
+technology really started to accelerate. Apertures ar
+e solved, but the electronics are still maturing to 
+enable utilization of the future capability of the an
+tenna. Everyone likes low frequency, but big antennas 
+are needed, in his view.  Pringle reemphasized a major element of his ke
+y point as follows: the ability to predict the 
+performance of antennas by calculation has taken over
+ the prior slow process of building (by intuition) 
+and testing. The fact that the United States can now 
+model how an antenna is going to perform is really 
+significant and a great breakthrough. Enabling technologies include electromagnetic modeling, speed of 
+computation, and micro-electronics; he affirmed that these tools are enabling design and discovery. He 
+
+further amplified the importance of computation by noti
+ng that the future of antenna design is in a person 
+who understands electromagnetics and works with a com
+puter to design a new antenna (i.e., person plus 
+computer). In 5 to 8 years, fast commercial 
+codes will give most radar houses this capability.  
+His many other comments included that (1) a comput
+er can tell what values of resistive sheets to 
+place in cavities; (2) some connected arrays have coup
+ling that works for them rather than against them; 
+(3) challenges include getting rid of heat, packag
+ing, wide-band electronics, and beam-formers; (4) 
+optical switches can optimize performance (e.g., switc
+h bands, steer antenna, use several beams or 
+combine them into a more powerful one); and (5) 
+there is a revolution in ground-plane structuresŠ
+hopefully, with these and active meta-materials, one ca
+n build an adaptable antenna, which actually reacts 
+to the environment (e.g., a missile is also the antenna).  
+ 
+ Discussion After Presentation
+1 Q: What kind antennas for UAVs? A: Low gain. Sm
+all UAVs just can™t carry a heavy dish antenna. 
+Larger UAVs have dish antennas. 
+Q: Will better materials come into play? A: Magne
+tic and meta-materials. But we must have area, 
+which some say we can get along withoutŠbe skeptical. 
+                                                     
+ 1Unless specifically stated otherwise, the speaker answered all questions. 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.4 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+Q: How about advances in other countries or areas, su
+ch as Europe or China? A: If need is there, 
+then the Chinese will go for it. Right now, they n
+eed to work on building 
+the infrastructure (e.g., foundries) to support the technology. Regarding ultr
+a-wideband phased arrays, ultra-thin low-frequency 
+antennas, reconfigurable ground planes for low-frequen
+cy applications, and reconfigurable antennas, the 
+Europeans are working in these areas. 
+This information is also publishe
+d, and so we can research where 
+Europeans are going. Q: Are you seeing really interesting publications
+ and new innovative concepts outside the United 
+States? A (by James Armitage, attendee): When it come
+s to who is producing the most, then it is China. 
+However, although quantity is high, quality is not there yet. At the same time, the Chinese are catching up 
+and will eventually be at the same level as we are; 
+many Chinese working in this field went to school in 
+the United States. They are going home and applyi
+ng in China what they learned here. Don™t 
+underestimate computing resources outside the Unite
+d States. The Chinese ar
+e building foundries like 
+crazy to feed the auto industry wo
+rldwide. It is all money driven and requires large investments.  
+Q: What countries around the world are doing this type of workŠChina, India, Russia, Israel, 
+France, Germany? A (by James Armitage and Gilman
+ Louie): We need to watch where the money is 
+going. We have been spending more money, by orders
+ of magnitude, than other countries in developing 
+these types of technologies. Now, when we are not spending as much, and other countries decide to make 
+
+heavy investments, they will catch up quickly. Most of 
+the professors in China received their PhDs in the 
+United States. Now they are going back to China to t
+each the next generation of engineers. This also 
+applies to other regions of the world (e.g., Europe and India). 
+ COMMERCIAL STATE OF THE ART OF WI
+RELESS                                               
+COMMUNICATIONS AND CONTROL 
+Sebastian Rowson, chief scientist at Ethertronics,
+ was the speaker. His privately held company 
+manufactures million of antennas per week (e.g., for 
+cell phones, laptops, medical devices). They have 
+moved from simple designs and manufacturing challe
+nges to active, reconfigurable antenna systems 
+defined and optimized for commercial applications. 
+ﬁActive antenna systems technology applies to any 
+wireless device. Mobile device data throughput incr
+eased (46 percent increase de
+monstrated in an access 
+point).ﬂ Challenges are numbers of applications
+ supported and very small volumes (e.g., 2 cubic 
+centimeters with active antennas). Ideally, active and r
+econfigurable antennas can adjust automatically to 
+changes in the environment enveloping the 
+device (e.g., when a hand is on a phone).  For the future, Rowson noted that a goal is to in
+tegrate everything inside the phone; the antenna is 
+the link to outside signals. If switching from different 
+base stations can be minimized by optimizing for 
+only one base station, effort and resources can be fr
+eed up. Associated challenges involve development of 
+new software to support the antenna. Again, the aim is
+ to design everything together and have elements 
+that adjust ﬁon the flyﬂ so as to achie
+ve more capability with these systems. 
+ Discussion After Presentation
+2 Q: Where have you seen more gain in technology a
+dvances? A: Probably in filters. Already a lot of 
+work has been done on power amplifiers, but there are still opportunities for improvement. 
+Q: How transparent to the user is a change in mod
+es? A: It is very fast; the user does not know it is 
+happening. 
+Q: Are any of these things dependent on materials? 
+A: Mostly on design, but in some cases they are 
+dependent on new semiconductor technology. 
+Q: How about jamming? A: The hope is that the 
+FCC is keeping others off these frequencies. We™re 
+not looking closely at jamming. 
+                                                     
+ 2Unless specifically stated otherwise, the speaker answered all questions. 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.FIRST DAY (OPEN)  5 
+Q: Are there safeguards to limit power coming from an
+tennas? A: The only way to solve this issue is 
+to reduce power. 
+Q: What™s next, most interesting? A: Innovative 
+research and development is done at Ethertronics 
+(e.g., switching) to anticipate what the market is going 
+to look like. However, it is customer driven when 
+it comes to producing new designs for antennasŠapproximately 200 new designs each year. Medical 
+
+device drawers (metal) were challenging; each had to have six antennas. 
+Q: Does Ethertronics have a single point of failure in
+ its process, such as raw materials? A: Not that 
+we can see. The belief is that nothing will really 
+stump Ethertronics; it has such a wide variety of 
+resources. 
+Q: How about hiring the right engineers to work fo
+r Ethertronics; has that been difficult? A: Yes. 
+Now the company hires graduate students and trains
+ them, enabling new employees to fit well into the 
+company environment. Grants help fund these trai
+ning sessions. There is also recruiting from local 
+colleges (e.g., San Diego State University). 
+Q: How much does Ethertronics work with intern
+ational companies? A. The company shows some 
+current and advanced designs to companies in vari
+ous countries. Technology shared with each country 
+depends on the relationship and on 
+the amount of cooperation that has occurred with that company. 
+Samsung and Ethertronics have a good relationship ba
+sed on design cooperation and past experience. 
+ General Discussion on Several Topics by Attendees 
+Individual attendees and speakers then generall
+y discussed several topics and questions. Some 
+participants noted that the future 
+is driven largely by fancier algor
+ithms but that other frequency bands 
+will be needed. NATICK (U.S. Army) is interested 
+in battlefield monitoring. Commercial is going Blue-
+Tooth (for heart-rate, breathing, skin temperatur
+e monitoring). When it comes to physiological 
+monitoring, some participants wanted ubiquity and ease
+ of use. Some participants suggested a need to 
+figure out how to move the data and store it effec
+tively for easy analysis. Some challenges facing the 
+industry: Should data all be on the same network or 
+on different networks? Wher
+e should we leverage the 
+infrastructure that exists? 
+ MILITARY STATE OF THE ART OF WIRELESS COMMUNICATIONS AND CONTROL 
+Robert Newgard, director of Advanced Radi
+o Systems, Rockwell Collins, was the speaker. 
+Rockwell Collins serves two marketsŠcommercial a
+nd military. A publicly traded company, it is 
+there for shareholder value; the commercial side 
+is becoming an early adapter of new technologies. 
+Newgard opened with military radio objectives (i.e
+., cost-effective capabilities, support for operational 
+needs). More specifically, today™s 
+military requires multi-mode, multi-
+channel, upgradable, networked, 
+remotely configurable, actionable information; br
+oadband; low power, high performance; geo-location 
+(for blue- and red-force tracking); and ultimately, an
+y waveform, any time, any place. He also addressed 
+software-defined radios, noting th
+at any waveform can be loaded. 
+Newgard also pointed out that an array of techni
+cal challenges exist for military systems: today™s 
+fielded radios use large radio frequency (RF) front 
+ends and components that can accommodate the worst-
+case requirements (ﬁcornerﬂ cases are difficult). Future
+ designs need adaptable and reconfigurable RF 
+front ends; flexible and dynamic RF performance; real-time optimization and performance; low 
+
+observability; and the characteristic of being capab
+ilities driven, not requirements driven. He explained 
+how to do more with less. More capability with fewe
+r assets (e.g., we have a lot of capability, but we 
+cannot fix all issues by throwing more hardware at th
+e problem). If one throws ha
+rdware or software at a 
+problem, the solution could become too expens
+ive (especially in the software realm). 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.6 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+Discussion After Presentation
+3 Q: Is the point solution going to be cheaper and 
+better than software-defined radio? A: Yes. 
+Q: Does the manufacturer reconfigure, or does the 
+operator do that? A: The radio does it by itself. 
+Q: How much red force or outside threats do you factor into your research and development? A: 
+Quite a bit; we try to vector threats into our prod
+uction and technolog
+y and regularly consult with people 
+in the field (engineers in the battle-space) for design.
+ We also have cleared staff that can work on 
+classified projects. 
+Q: Is there an opportunity for photonics in the front end? A: Yes, small power. 
+
+Q: What fraction of radios are software defined? 
+A: Somewhere in the 25 percent range are software 
+defined, and it is not growing fast. 
+Q: How far behind Android and iPhone are the military? A: Not that far.  
+Q: What is U.S. technology vulnerability in your field? A: The biggest concern is what the 
+Department of Defense (DoD) is doing to deve
+lop requirements. DoD ac
+quisition managers are 
+developing requirements that may not be realistic. In
+stead of engineers, there are people who lack the 
+technology expertise to develop proper requirements.
+ They have business majors instead of engineers 
+working on this, people who do not have the necessary
+ expertise. People need intuition, knowledge, and 
+experience to create effective requirements. 
+Q: What percentage of Rockwell Collins engineer
+s are foreign nationals? A: It has no foreign 
+nationals; most of the engineers have projects that involve work requiring a clearance.  
+Prompted by questions and exchanges among partic
+ipants, Newgard made the following general 
+comments: Our biggest concern going forward is the sk
+ill set, not the technology. It is more about having 
+the engineers who are capable of doing what needs 
+doing, and being passionate about it. Yes, Rockwell 
+Collins is having problems hiring qualified candidates,
+ and now tends to grow its
+ own people (e.g., hire 
+engineers while they are going through college, use inte
+rnships, and then train them). Also, a large portion 
+of the Rockwell Collins engineering design team is goi
+ng to retire in the next decade. We need capable 
+engineers who are ﬁcommitted experts.ﬂ Regarding th
+e Federal Acquisition Regulatory (FAR) process, 
+there are many problems that involve one hand not talk
+ing to another. F-22s don™t talk well to legacy 
+systems. The Navy builds systems that do not talk 
+to the Army™s. On top of that, the FAR process does 
+not allow a lot of critical thinking to determine 
+effective tradeoffs (make 
+tough calls with limited 
+resources). And when the requirement developers lack engineering experience, it creates a somewhat 
+
+confusing environment that inhibits innovative thinking. 
+ FUTURE TRENDS IN ANTENNA DESIGN AND WI
+RELESS                                        
+COMMUNICATIONS AND CONTROL 
+Timothy Hancock, assistant group leader, Analog 
+Device Technology, Lincoln Laboratory, MIT, 
+was the first speaker. He was followed by Ya
+hya Ramat-Samii, Northrop Grumman Chair in 
+Electromagnetics at UCLA, who spoke by phone. 
+Hancock reviewed trends in the use of antennas th
+at enable improved communications, data transfer, 
+soldier health monitoring, and methods of data coll
+ection. He briefly described techniques for overt and 
+covert methods of standoff data collection (e.g., re
+duce transmitted power and energy per bit, mitigate or 
+exploit in-band interference), noting that it would be
+ good to get away from the concept of ﬁthat™s my 
+band, so don™t use it.ﬂ Turning to multiple-input, mutip
+le-output (MIMO) wireless systems, he introduced 
+the approaches of spatial multiplexing, diversity co
+ding, and pre-coding and then pointed out several 
+advantages of MIMO (e.g., improved data transfer fro
+m or to a disadvantaged transmitter or receiver and 
+mitigating interference). Challenges in implementing 
+MIMO systems include the design of antennas, 
+receivers, and transmitters; much computing power and math are involved. 
+                                                     
+ 3Unless specifically stated otherwise, the speaker answered all questions. 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.FIRST DAY (OPEN)  7 
+Rahmat-Samii (using nearly three dozen slides)
+ described novel outside-of-the-box concepts for 
+antennasŠfrom tiny ingestibles to large space ante
+nnas. UCLA™s antenna research, analysis, and 
+measurement laboratory is organized in five fi
+elds: personal communications; medical RFID (RF 
+identification); remote sensing; electromagnetic band
+ gap (EBG), photonic ba
+nd gap (PBG), nano, and 
+MEMS (microelectromechanical systems); and analyzi
+ng, optimizing, and measuring. The laboratory (in 
+cooperation with other institutions) 
+is advancing miniature antenna concepts as well as large antenna 
+concepts. One of his key points was that ﬁw
+e can optimize antennas for almost any need!ﬂ 
+Rahmat-Samii highlighted the many conflicting cha
+llenges of miniaturization (e.g., low profile or 
+low volume, with or without ground plane, single 
+frequency or multifrequency,
+ narrow or broad band, 
+single or multiple elements, low or high cost). Appr
+oaches for miniaturization included low profiles using 
+EGB, folding structures, incorporating switches, hybrid
+ization of the above, and stored energy utilization. 
+He mentioned advances in RFID, including platform
+-tolerant tag designs, medicine-monitoring RFID 
+systems, and medical diagnostics and sensing. He al
+so covered advances in meta-materials, including 
+double-negative materials, EBG structures, and artificial complex ground planes. 
+ Questions and General Discussion
+4 Q: For wearable textile antennas, where do you see th
+is research going? A: Two fronts, embroidery 
+machines and wearable designs (e.g., communica
+tions on clothing, such as for firemen).  
+Q: In medical applications, are you looking at 
+RFID tags embedded inside the body for medical 
+scans? A: Designing these types of chips, which create
+ the communication link, is a challenge. However, 
+this area of study is emerging, and the UCLA
+ team is examining this application.  
+Q: International work? A: Europeans are doing 
+interesting work (e.g., research on antennas and 
+establishing a school of antenna engineering for 
+worldwide Ph.D. students). The Far East (e.g., 
+Singapore) is working in areas of miniaturizati
+on and multi-band design plus medical applications 
+(biotelemetry). The Japanese are trying to reduce 
+the cost of arrays and are also harvesting 
+electromagnetic energy (e.g., charging cell phones from 
+energy in the environment). Finally, China is 
+doing research and producing various products. 
+                                                      
+ 4Unless specifically stated otherwise, the speaker answered all questions. 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. 8   
+   3 Second Day (Closed) 
+   This day included the availabilit
+y of classified materials. The presentations were followed by 
+discussion periods during which questions were pos
+ed and answered. At times during the discussion 
+periods there were also exchanges of ideas among
+ the participants. Again, summaries of these 
+discussions sometimes do not follow their specific 
+order of occurrence during the meeting, thus 
+allowing like topics to be synthesized. The first tw
+o topics had three speakers. The last topic was a 
+general wrap-up discussion moderated by a committee member. 
+Mark Schrote, senior consulting engineer, Nort
+hrop Grumman Electronic Systems, was the first 
+speaker. He was followed by Luke Feldner, principa
+l member of the technical staff, Sandia National 
+Laboratories. Schrote discussed technology trends in active 
+electronically steered antennas (AESAs). He 
+opened by describing the advantages of AESAs (e
+.g., more power output, higher sensitivity, much 
+faster steering without gimbals) and their heritage from the 1970s. AESAs are used for air, ship, 
+
+ground, and space applications, and new designs have
+ been appearing about once per year. Trends are 
+moving to more functionality, applications beyo
+nd radar (e.g., communications), open architectures, 
+scalability, and digital beam-formingŠoverall, providi
+ng rapidly growing capability and lower cost. 
+Better design tools, also discussed on Day 1, are ve
+ry helpful as the future multi-mission applications 
+for AESAs evolve and mature.  
+James Armitage, senior fellow, Po
+tomac Institute for Policy Studies, was the principal speaker. 
+Luke Feldner™s material, originally scheduled for 
+this session, was covered in the session summarized 
+above. Committee member Kenneth Kress, 
+senior scientist for KBK Consulting, Inc., and consultant for 
+Booz Allen Hamilton, moderated the wrap-up discussi
+on. Participants commented about the merits of 
+this kind of workshop and offered 
+statements about key issues. The statements are not necessarily 
+consensus correlations of views expressed at the 
+workshop, but rather were the comments of 
+individuals. 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Appendixes 
+ Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. 11 
+  
+   
+ Appendix A 
+Committee Biographies    J. Jerome Holton
+, Chair, is a senior systems engineer with the Tauri Group, where he supports 
+the BioWatch Systems Program Office within th
+e Office of Health Affairs, Department of 
+Homeland Security (DHS). He provides analys
+is, advice, and counsel to senior government 
+decision makers on policy, technology, and oper
+ations issues related to weapons of mass 
+destruction and their effects on civilian infrastructure, first responders, military forces, and 
+tactical operations. Prior to this, he served in a 
+variety of leadership positions for private-sector 
+companies, spanning the gamut from scientific research start-up to large management consulting 
+
+firm. Past clients include the Office of the De
+puty Assistant to the Secretary of Defense for 
+Counterproliferation and Chemical/Biological 
+Defense, the Chemical Biological Defense 
+Directorate of the Defense Threat Reduction Ag
+ency, the Chemical Biological National Security 
+Program of the Department of Energy, and the DHS Science and Technology Directorate. His 
+
+work extends broadly across the chemical/biologi
+cal/radiological/nuclear/conventional explosives 
+detection and countermeasures arena. For several ye
+ars, he focused on the counterproliferation of, 
+counterterrorism/domestic preparedness issues fo
+r, and the detection, identification, and 
+decontamination of chemical and biological we
+apons. Recent accomplishm
+ents include fielding 
+information operations tools a
+nd enhancing the intelligence, surveillance, and reconnaissance 
+capabilities to detect and defeat improvised e
+xplosive devices as well as the development of 
+applique armor solutions to counter explosively 
+formed penetrators. Holton previously served on 
+the NRC™s Standing Committee on Defense In
+telligence Agency Technology Forecasts and 
+Reviews (TIGER), the Committee for the Sym
+posium on Avoiding Technology Surprise for 
+Tomorrow™s Warfighter, and the Committee on 
+Alternative Technologies to Replace 
+Antipersonnel Landmines. He earned his B.S. in 
+physics from Mississippi State University and 
+holds M.S. and Ph.D. degrees in experi
+mental physics from Duke University. 
+ 
+Edward M. Greitzer (NAE)
+, Vice Chair
+, is the H.N. Slater Professor, Department of 
+Aeronautics and Astronautics at Massachusetts In
+stitute of Technology. He received his A.B., 
+S.M., and Ph.D. from Harvard University. Prior 
+to joining MIT in 1977, he was with United 
+Technologies Corporation, and, more recently, 
+he was on leave at United Technologies Research 
+Center as director, Aeromechanical, Chemical, and Fluid Systems. From 1984 to 1996 he was the 
+
+director of MIT™s Gas Turbine Laboratory, and 
+from 1996 to 2002 was associate head, and from 
+2006 to 2008 deputy head, of the Department of
+ Aeronautics and Astronautics. His research 
+interests have spanned a range of topics in gas 
+turbines, internal flow, turbomachinery, active 
+control of fluid systems, university-industry colla
+boration, and robust gas turbine engine design; 
+he was the MIT lead for the Cambridge-MIT Ins
+titute Silent Aircraft Initiative. He teaches 
+graduate and undergraduate courses in the fields 
+of propulsion, fluid mechanics, thermodynamics, 
+and energy conversion, as well as the department
+™s undergraduate project course. Greitzer is a 
+three-time recipient of the American Society 
+of Mechanical Engineer
+s Gas Turbine Award for 
+outstanding gas turbine paper of the year; in 
+addition, he received the ASME Freeman Scholar 
+Award in Fluids Engineering, the Internati
+onal Gas Turbine Institute Scholar Award, and 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.12 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+publication awards from the American Institute
+ of Aeronautics and Astronautics and the 
+Institution of Mechanical Engineer
+s. He has also received the Aircraft Engine Technology Award 
+from the ASME International Gas Turbine Ins
+titute, the U.S. Air Force Exceptional Civilian 
+Service Award, and the ASME R. Tom Sawyer Awa
+rd. He has been a member of the U.S. Air 
+Force Scientific Advisory Board and the NASA Ae
+ronautics Advisory Committee, and he is an 
+Honorary Professor at Beihang University (Beijing)
+. Greitzer has published more than 70 papers 
+and is lead author of the book 
+Internal Flow: Concepts and Applications
+, published by 
+Cambridge University Press. He is a fellow of AIAA and ASME, a member of the National 
+Academy of Engineering, and an International 
+Fellow of the Royal Academy of Engineering.  
+ 
+Brian Ballard founded and currently serves as the CE
+O of APX Labs, a software company 
+focused on leading development into wearable 
+augmented reality products at the nexus of 
+computer vision, user experience, and see-through displays. Previously he served as the director 
+
+of product development and vice president at Battlefield Telecommunication Systems (BTS), 
+where he led the development of defense-orient
+ed augmented reality and biometric data fusion 
+
+applications. As part of his portfolio, he was al
+so heavily engaged in developing mobile 3G and 
+4G networks, devices, and applications for tactical military employments. Prior to joining BTS, 
+Ballard served as the CTO at Mav6, where he wa
+s involved in the development of emerging 
+networking and embedded systems technologies for 
+intelligence, surveillance, and reconnaissance 
+(ISR) systems and applications in government and military. He is a highly experienced 
+
+professional in the field of national intelligence systems and computer engineering. Employed for 
+
+more than 10 years with the National Security 
+Agency, he has dealt with all forms of data 
+collection, dissemination, processing, and visuali
+zation. Ballard holds an M.S. and a B.S. in electrical and computer engineering from Carn
+egie Mellon University, and a master™s of 
+technology management from the University of Ma
+ryland. He is currently working on an MBA at 
+the University of Maryland.  
+
+ 
+Kenneth I. Berns
+ (NAS/IOM) is director of the Univer
+sity of Florida Genetics Institute and 
+Distinguished Professor of Molecular Genetics a
+nd Microbiology, Medicine. He has served as a 
+
+member of the Composite Committee of the Unit
+ed States Medical Licensing Examination, 
+chairman of the Association of American Medi
+cal Colleges, president of the Association of 
+Medical School Microbiology and Immunology Chairs, president of the American Society for 
+
+Virology, president of the American Society for Microbiology, and vice-president of the 
+
+International Union of Microbiological Societies.
+ He is a member of the National Academy of 
+Sciences and the Institute of Medicine. Bern
+s™s research examines the molecular basis of 
+
+replication of the human parvovirus, adeno-asso
+ciated virus, and the ability of an adeno-
+associated virus to establish latent infections and 
+be reactivated. His work has helped provide the 
+basis for use of this virus as a vector for ge
+ne therapy. Berns™s M.D. and his Ph.D. in 
+biochemistry are from the Johns Hopkins University.  
+
+ 
+Ann N. Campbell
+ is director, Information Solutions and Services, at Sandia National 
+Laboratories. Her organization develops and stewards a broad range of soft
+ware applications and information systems for both internal (enterprise) 
+and external customers to facilitate the delivery 
+of effective national security technologies. At 
+Sandia, she previously served as senior manager 
+and deputy to the chief technology officer for 
+cybersecurity science and technology (S&T). In 
+that role she was responsible for developing and implementing an institutional strategy for cyber 
+S&T. She was recently acting director for Sandia™
+s Cyber Security Strategic Thrust, leading the 
+lab™s activities to expand Sandia™s cyber workforce 
+and infrastructure, and strategies to provide 
+increased support for Sandia™s national security sponsors™ cyber missions. Campbell has also 
+
+served as deputy for technical programs for th
+e Defense Systems and Assessments Strategic 
+
+Management Unit (DSA SMU). In that role sh
+e advised the DSA vice president regarding the Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.APPENDIX A  13 
+ unit™s national security programs, was responsib
+le for strategic planning and the investment 
+strategy for the DSA, and assisted with implemen
+tation of the laboratory™s cyber strategy. From 
+2003 to 2007, Campbell led the Assessment 
+Technologies Group in Sandia™s Information 
+Systems Analysis Center. She was responsible fo
+r development, coordina
+tion, and oversight of 
+programs focusing on vulnerability assessments and de
+velopment of national security solutions in 
+information technologies for multiple government sp
+onsors. From 1999 to 2003 she was manager 
+of the Microsystems Partnerships Department, which assessed and addressed microelectronics 
+
+vulnerabilities for a variety of government sponsors.
+ In that role Campbell led Sandia™s program 
+to support the DoD Anti-Tamper In
+itiative. She joined the technical
+ staff at Sandia in 1985 and 
+had assignments in the Materials and Process Center
+ and the Microsystems Science, Technology, 
+and Components Center. She conducted research on th
+e microstructure and physical properties of 
+advanced materials, the physics of microelectr
+onics failures, and the development of advanced 
+microelectronics failure analysis techniques. Campbell serves on the National Academies™ 
+
+Standing Committee on Technology 
+InsightŒGauge, Evaluate and Review (TIGER). She is a 
+senior member of IEEE and served as vice president of membership for the IEEE Reliability 
+Society and on the Management Committee and boa
+rd of directors for the IEEE International 
+Reliability Physics Symposium. She has more than 
+20 publications and several patents. She holds 
+a B.S. degree in materials engineering from Rens
+selaer Polytechnic Institute and M.S. and Ph.D. 
+degrees in applied physics (materials scien
+ce concentration) from Harvard University
+.  Dean R. Collins
+ recently retired as a deputy director
+ of DARPA™s Microsystems Technology 
+Office (MTO); as a chief scientist he was responsib
+le for the monitoring, analysis, and evaluation 
+of research projects directed by MTO program ma
+nagers and also participated in the concept 
+planning for leading MTO into new programs beyo
+nd the current state of the art in electronics, 
+photonics, microelectromechanical systems (MEMS), component architectures, and algorithms. 
+
+He managed the MTO program on integrated ci
+rcuit cybersecurity. Prior to joining DARPA, 
+Collins was director for the Advanced Resear
+ch and Development Activity (ARDA) in 
+information technology. ARDA functioned as a jo
+int activity of the intelligence community and 
+the Department of Defense, addressing high-ri
+sk/high-payoff information technology problems 
+that had broad impact across both supporting 
+communities. Collins initiated ARDA™s key cyber 
+security effort. He was also a member of th
+e intelligence community Advanced Research and 
+Development Committee and managed the ARDA qua
+ntum information science effort. Prior to 
+joining ARDA, Collins was with the National In
+stitute of Standards 
+and Technology (NIST), 
+where he was chief of the High Performance Systems and Services Division, the largest division 
+
+at NIST. This position focused on information technology with a strong commercial bias, and the 
+
+topics investigated ranged from biometrics to electronic books. Previously, Collins was with 
+
+Texas Instruments, as director of the System
+ Components Lab, which 
+was responsible for all 
+research on III-V devices, nanoelectronics, photonics,
+ and neural networks. Prior to that, he was 
+director of the Interface Technology Lab, whic
+h was responsible for all sensor and display 
+research, including LCDs, DLPs, and CCDs. Collin
+s is a fellow of the IEEE, a member of the 
+American Physical Society, and a registered professional engineer. He has published more than 
+
+40 refereed articles and has 10 issued U.S. patents.  
+ Sharon C. Glotzer
+ is the Stuart W. Churchill Collegiate Professor of Chemical Engineering and 
+a professor of materials science and engineering at
+ the University of Michigan (UM), Ann Arbor, 
+and is director of research computing in the UM
+ College of Engineering. She also holds faculty 
+appointments in physics, applied physics, and 
+macromolecular science and engineering. She 
+received a B.S. in physics from UCLA and a Ph.D
+. in physics from Boston University. Prior to 
+joining UM, she worked at th
+e National Institute of Standards and Technology. Her research 
+focuses on computational nanoscience and simulation of soft matter, self-assembly and materials 
+
+design, and computational science and engineering 
+and is sponsored by the DoD, DoE, NSF, and 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.14 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+the J.S. McDonnell Foundation. Glotzer is a fellow 
+of the American Physical Society and of the 
+National Security Science and Engineering Faculty, and she was elected to the American 
+Academy of Arts and Sciences in 2011. She has 
+served on the National Academies™ Solid State 
+Sciences Committee; Technology Warning and 
+Surprise study committee; Biomolecular 
+Materials and Processes study committee; Modeling, Simulation, and Games study committee; 
+
+and Technology InsightŒGauge, Evaluate, and Re
+view (TIGER) Committee. She is involved in 
+roadmapping activities for computational science and engineering, including chairing or co-
+
+chairing several workshops, steering committees and pan-agency initiatives, and she serves on the 
+advisory committees for the DOE Office of Adva
+nced Scientific Computing and NSF Directorate 
+for Mathematical and Physical Sciences. Glotzer
+ is also co-founding director of the Virtual 
+School for Computational Science and Engineering under the auspices of the NSF-funded Blue 
+
+Waters Petascale Computing Project at the Nati
+onal Center for Supercomputing Applications.  
+ J.C. Herz
+ is chief executive officer at Batchtags,
+ LLC. She is also a technologist with a 
+background in biological systems and computer game design. Her specialty is massively 
+multiplayer systems that leverage social network ef
+fects, whether on the web, mobile devices, or 
+more exotic high-end or grubby low-end hard
+ware. She currently serves as a White House 
+Special Consultant to the Office of the Secr
+etary of Defense (Networks and Information 
+Integration). Defense projects range from aerospace systems to a computer-game-derived 
+interface for next-generation unmanned air systems. Hertz is one of the three co-authors of OSD™s 
+Open Technology Development roadmap. She ser
+ves on the Federal Advisory Committee for the 
+National Science Foundation™s education directorate.
+ In that capacity, she 
+is helping NSF harness emerging technologies to drive U.S. competitiveness
+ in math and science. Hertz was a member of 
+the National Research Council™s Committee on IT and Creative Practice and is currently a fellow 
+
+of Columbia University™s American Assembly, 
+where she is on the leadership team of the 
+Assembly™s Next Generation Project. In 2002, 
+she was designated a Global Leader for Tomorrow 
+by the World Economic Forum. She is a member
+ of the Global Business Network; a founding 
+member of the IEEE Task Force on Game Te
+chnologies; a term member of the Council on 
+Foreign Relations; and a member of the advisory
+ board of Carnegie Mellon™s ETC Press. Hertz 
+graduated from Harvard University with a B.A. in
+ biology and environmental studies, magna cum 
+laude. She is the author of two books, 
+Surfing on the Internet
+ (Little Brown, 1994), an 
+ethnography of cyberspace before the web, and 
+Joystick Nation: How Videogames Ate Our 
+
+Quarters, Won Our Hearts, and Rewired Our Minds
+ (Little Brown, 1997), a history of 
+videogames which traces the cultural and technologi
+cal evolution of the first medium that was 
+
+born digital and how it shaped the minds of a 
+generation weaned on Ni
+ntendo. Her books have 
+been translated into seven languages. As a 
+New York Times
+ columnist, Hertz published 100 
+essays on the grammar and syntax of game 
+design between 1998 and 2000. She has also 
+contributed to Esther Dyson™s Release 1.0, 
+Rolling Stone
+, Wired, GQ, and the Calgary Philatelist
+.   
+Kenneth A. Kress
+ is a senior scientist for KBK Consulting, Inc., an affilate of Montana State 
+
+University™s Department of Physics, and a c
+onsultant for Booz Allen Hamilton, where he specializes in quantum information science and othe
+r technical evaluations and strategic planning for intelligence and defense applications. Some of his past clients include DARPA™s Microsytems 
+
+Technology Office, Noblis, Georgia Tech Rese
+arch Institute, Mitretek Systems Inc., and 
+Lockheed Martin™s Special Programs Division. 
+From 1971 to 1999 he worked in a series of 
+
+positions at the Central Intelligence Agency™s Dir
+ectorate of Operations, Office of Development 
+and Engineering, and finally, Office of Research
+ and Development (ORD); first as a research and 
+development manager, later as a program manager,
+ and finally as an ORD Office senior scientist 
+
+responsible for management support, the developm
+ent of technical and strategic plans, and DOD 
+inter-agency coordination for advan
+ced technology. He is the inventor of the solid-state neutron 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.APPENDIX A  15 
+ detector, for which he won an award in 1981. He
+ holds a Ph.D. in physics from Montana State 
+University.  
+
+ Darrell D.E. Long
+ is the Kumar Malavalli Professor of Computer Science at the University of 
+California, Santa Cruz. He holds the Kumar 
+Malavalli Endowed Chair of Storage Systems 
+Research and is director of the Storage Syst
+ems Research Center. He received his B.S. in 
+computer science from San Diego State University and his M.S. and Ph.D. from the University of 
+
+California, San Diego. His dissertation advisor w
+as Jehan-François Pâris. He is a fellow of the 
+Institute of Electrical and Electronics Engineers and of the American Association for the 
+Advancement of Science. He is a member of 
+the IEEE Computer Society, the Association for 
+Computing Machinery, the American Society for E
+ngineering Education, the Usenix Association, 
+Upsilon Pi Epsilon, and Sigma Xi. He has broad 
+research interests in many areas of mathematics 
+and science, and in the area of computer scien
+ce including data storage systems, operating 
+systems, distributed computing, reliability a
+nd fault tolerance, and computer security. His 
+research has been supported by the National Sc
+ience Foundation; the Department of Energy 
+(Office of Science and National Nuclear Security Administration); Lawrence Livermore, Los 
+
+Alamos, and Sandia National Laboratories; the 
+Office of Naval Research; and a number of 
+industrial sponsors that include IBM, Micros
+oft, NetApp, Symantec, LSI Logic, Samsung, 
+Hewlett-Packard, and Data Domain. He served as th
+e vice chair and then chair of the University 
+of California Committee on Research Policy. He has served on the University of California 
+President™s Council on the National Laboratories,
+ and on the Science and Technology, National 
+Security, and Intelligence committees. He cu
+rrently serves on the Science and Technology 
+committee for both Los Alamos and Lawrence Live
+rmore National Laboratories. He previously 
+served on the National Research Council Standi
+ng Committee for Technology InsightŒGauge, 
+Evaluate and Review. He continues to serve 
+on numerous committees and advisory panels for 
+various federal government agencies. 
+ 
+Julie J.C.H. Ryan
+ is an associate professor and chair of Engineering Management and Systems 
+Engineering at George Washington University. She holds a B.S. degree in humanities from the 
+
+U.S. Air Force Academy, an M.L.S. in tec
+hnology from Eastern Michigan University, and a 
+D.Sc. in engineering management from the George Washington University. Ryan began her 
+career as an intelligence officer, serving the U.S.
+ Air Force and the U.S. Defense Intelligence 
+Agency. After leaving government service, she con
+tinued to serve U.S. national security interests 
+through positions in industry. Her areas of inte
+rest are in information security and information 
+warfare research. She was a member of the Na
+tional Research Council™s Naval Studies Board 
+from 1995 to 1998. She has conducted several res
+earch projects and has written several articles 
+and book chapters in her focus area. 
+ 
+Janet A. Therianos
+, a consultant, has 30 years of military experience. She is a U.S. Air Force 
+Academy graduate with an underg
+raduate degree in aeronautical engineering; an MBA from 
+Harvard Business School; and a masters of arts in air and space power strategy. She was a 
+National Defense fellow and has executive edu
+cation from Harvard™s Kennedy School of 
+government, the Center for Creative Leadership, 
+and the Intelligence Community Senior Leader 
+Program. Therianos has flown several military aircraft and has served as a command pilot, flight 
+
+examiner, flight instructor, and functional check 
+pilot. She also holds an FAA Airline Transport 
+Pilot rating. Her military career was grounded in 
+operations, but she also had extensive higher-
+headquarters staff duties, including serving as senio
+r military assistant to the Secretary of the Air 
+Force. Her leadership experi
+ences were threaded throughout her career, including several 
+Commands. Her final military assignment was lead
+ing the Air Mobility Command™s Directorate 
+of Intelligence, where she was responsible for orga
+nizing, training, and equipping the Air Force™s 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.16 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+global mobility intelligence units. Operationall
+y she led the Command™s daily Threat Working 
+Group, which assessed threat levels for all global mobility flight operations. 
+ Elias Towe is currently a professor of electrical and computer engineering and the Albert and 
+Ethel Grobstein Professor of Materials Science and Engineering at Carnegie Mellon University. 
+He was educated at the Massac
+husetts Institute of Technology (MIT), where he received B.S, 
+M.S., and Ph.D. degrees from the Department of 
+Electrical Engineering and Computer Science. 
+Towe was a Vinton Hayes Fellow at MIT. After leaving MIT he became a professor of electrical 
+and computer engineering, and engineering physics 
+at the University of Virginia. He also served 
+as a program manager in the Microsystems Technol
+ogy Office at the Defense Advanced Research 
+Projects Agency (DARPA) while he was a professor 
+at the University of Virginia. In 2001, he 
+joined the faculty at Carnegie Mellon University
+. Towe is a recipient of several awards and 
+honors that include the National Science Foundation Young Investigator Award, the Young 
+Faculty Teaching Award, and an Outstanding Achievement Award from the Office of the 
+Secretary of Defense. He is a fellow of the In
+stitute of Electrical and Electronics Engineers (IEEE), the Optical Society of America (OSA), the American Physical Society (APS), and the 
+American Association for the Advancement of Science (AAAS). 
+
+ 
+Alfonso Velosa III
+ is research director for Gartner w
+ith a focus on sustainability, business 
+ecosystems, and smart cities. He is also agenda manager for electronic equipment research at 
+
+Gartner, concentrating on electronics and semic
+onductor supply chain research, with a particular 
+focus on global trends for manufacturing, consumption, financing, and the key vendors in the 
+
+market. Velosa has also written extensively about electronics, outsourcing of electronics 
+
+manufacturing, electronic manufacturing services (EMS), original design manufacturing (ODM), 
+
+and semiconductor consumption. He previously worked at or consulted for Intel Corporation, 
+NASA Lewis Research Center and NASA Headquarters, Mars & Co
+., and IBM Research. Velosa graduated from Columbia University with a B.
+S. in materials science engineering; from 
+Rensselaer Polytechnic Institute with an M.S. 
+in materials science engineering; and from 
+Thunderbird, the Garvin School of International 
+Management, with an M.I.M. in international 
+management.  
+ Eli Yablonovitch (NAS/NAE) is an adjunct professor of electrical engineering at UCLA after 
+having served as a full faculty member until 2007. 
+He is currently a professor of electrical and 
+computer engineering at University of California,
+ Berkeley. He graduated with a Ph.D. in applied 
+
+physics from Harvard University, worked for 2 years at Bell Telephone Laboratories, and then 
+
+became a professor of applied physics at Harvar
+d. In 1979 he joined Exxon to do research on 
+photovoltaic solar energy; in 1984, joined 
+Bell Communications Research, where he was a Distinguished Member of Staff and also director
+ of Solid-State Physics Research; and in 1992, 
+joined the University of California, Los Angel
+es, where he became the Northrop Grumman Opto-
+Electronics Chair and a professor of electrical engineering. Yablonovitch™s work has covered a 
+
+broad variety of topics: nonlinear optics, laser-p
+lasma interaction, infrared laser chemistry, 
+photovoltaic energy conversion, strained-quant
+um-well lasers, and chemical modification of 
+semiconductor surfaces. Yablonovitch™s research 
+focuses on optoelectronics, high-speed optical 
+communications, high-efficiency light-emitting diodes and nanocavity lasers, photonic crystals at 
+
+optical and microwave frequencies, and quantum computing and communication.  
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. 17 
+  
+   Appendix B 
+Workshop Agenda and Participants    AGENDA 
+Workshop on the Future of Antennas May 8-9, 2012 
+Battelle Charlottesville Operations Charlottesville, Virginia  Future of Antennas Lon Pringle, Director, Signature Technology La
+boratory, Georgia Tech Research Institute 
+ Commercial State of the Art of Wireless Communications and Control 
+Sebastian Rowson, Chief Scientist, Ethertronics 
+ Military State of the Art of Wireless Communications and Control 
+Robert Newgard, Director, Advanced Radio Systems, Rockwell Collins 
+ Future Trends in Antenna Design a
+nd Wireless Communications and Control 
+Timothy Hancock, Assistant Group Leader, An
+alog Device Technology, Lincoln Laboratory, 
+MIT Yahya Rahmat-Samii, Northrop Grumman Chair in Electromagnetics, University of California, 
+
+Los Angeles 
+ Vulnerabilities of Ubiquitous Antennas Mark Schrote, Senior Consulting Engineer, Northrop Grumman Electronic Systems 
+Luke Feldner, Principal Member of Tec
+hnical Staff, Sandia National Laboratories   Indicators and Observables 
+James Armitage, Senior Fellow, Po
+tomac Institute for Policy Studies 
+Luke Feldner, Principal Member of Tec
+hnical Staff, Sandia National Laboratories  PARTICIPANTS 
+Committee 
+Kenneth Berns, University of Florida College of Medicine 
+Jerome Holton, Tauri Group 
+
+Kenneth Kress, KBK Consulting, Inc. 
+
+Julie Ryan, George Washington University 
+
+Janet Therianos, Independent Consultant, (USAF, retired) 
+
+Alfonso Velosa, Gartner, Inc. Eli Yablonovitch, University of California, Berkeley 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.18 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+  Staff Terry Jaggers, Lead DEPS Board Director 
+Daniel Talmage, Study Director 
+
+Sarah Capote, Research Associate 
+Marguerite Schneider, Administrative Coordinator 
+ Speakers James Armitage, Potomac In
+stitute for Policy Studies 
+Luke Feldner, Sandia National Laboratories 
+
+Timothy Hancock, MIT Lincoln Laboratory 
+
+Robert Newgard,  Rockwell Collins, Inc. 
+Lon Pringle, Georgia Tech Research Institute 
+Yahya Rahmat-Samii, University of California, Los Angeles 
+
+Sebastian Rowson, Ethertronics 
+Mark Schrote, Northrop Grumman Electronic Systems 
+ Guest Affiliations 
+Defense Intelligence Agency Department of Defense National Ground Intelligence Center 
+United States Navy 
+United States Army 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved. 19 
+  
+   Appendix C 
+Speaker Biographies    James Armitage 
+is a senior fellow at the Potomac Institute
+ for Policy Studies. As a former vice 
+president and sector chief technology officer for Northrop Grumman Electronic Systems, he was 
+
+responsible for the sector™s overall technology stra
+tegy and development plans. Armitage™s career 
+began as a design engineer in the Antenna and 
+Microwave Department at Westinghouse, where 
+he pioneered the development of low observa
+ble apertures and active electronically scanned 
+arrays. His technical leadership led to a numbe
+r of roles in business development and program 
+management. During his 36 years with Westingho
+use and Northrop Grumman, he served in a 
+variety of executive and leadership roles. In
+ 1984, Armitage received the IEEE Aerospace 
+Electronic Systems Society Centennial Key to
+ the Future Award as the outstanding young 
+engineer. He also served on the Defense Science 
+Board Global Surveillance Task Force and is a 
+member of the IEEE International Radar Conf
+erence Board, having served as treasurer in 1995 
+and as general chairman for the 2010 Conference. 
+In 1998, he completed the Harvard University 
+General Manager Program. 
+Armitage earned his B.S. degree in electrical engineering from Ohio 
+State University in 1975 and an M.S. in applied physics from Johns Hopkins University in 1980. 
+
+ Luke Feldner 
+is a principal member of the technical staff at Sandia National Laboratories in the 
+Special Technologies Department of the System
+s Assessment and Research Center, where he 
+manages several research and development program
+s related to U.S. national security interests. 
+As a member of the Department of Energy™s 
+Field Intelligence Element at Sandia, he lends 
+technical, analytical, and research support to th
+e federal law enforcement, intelligence, and 
+defense communities. From 2001 to 2006, Feldner worked in Sandia™s Electronics Systems 
+Center as an RF/microwave circuit and antenna
+ designer in the Advanced Radar Development 
+Group. He has been actively involved in the an
+alysis, measurement, and design of advanced 
+antenna and RF systems for more than a dozen
+ years and has developed and conducted multiple 
+training exercises for government and military fiel
+d officers. Feldner is a member of the IEEE 
+Antennas and Propagation, Microwave Theory and 
+Techniques, and Communications Societies, 
+as well as the Center for Strategic and International Studies project on Nuclear Issues. He 
+received a B.S. degree in electrical engineering 
+from the Milwaukee School of Engineering, and 
+the Dipl.-Ing. (FH) degree in electrical engi
+neering from the Lübeck University of Applied 
+Sciences, Lübeck, Germany, in 1999; an M.
+S. degree in electrical engineering from the 
+University of Wisconsin-Madison in 2001; and a Ph.D. degree in electrical engineering from the 
+University of New Mexico in 2006. 
+ 
+Timothy M. Hancock 
+received a B.S. degree in electrical engineering from the Rose-Hulman 
+Institute of Technology and M.S. and Ph.D. degrees 
+in electrical engineering from the University 
+of Michigan, where he was involved with the 
+development of SiGe integrated microwave 
+components from 6 to 77 GHz. In the past he worked for Conexant Systems on a single-chip GPS 
+receiver and at M/A-COM on a Silicon Germaniu
+m 24 GHz automotive radar solution. For 6 
+years he was a staff member in the Analog Device Technology Group at MIT Lincoln 
+
+Laboratory, where he was involved with the 
+development of low-power, small-form-factor 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.20 SUMMARY OF A WORKSHOP ON THE FUTURE OF ANTENNAS 
+ wireless devices and reconfigurable and multip
+le-input-multiple-output (MIMO) communication 
+systems in work focused on integrated circuit 
+design and wireless system design. As assistant 
+leader of the same group since 2011, he has con
+tinued to develop programs in the area of MIMO 
+communications and small-form-factor wireless devices as well as technology for radar and 
+ELINT systems. 
+
+ 
+Robert Newgard 
+is the director of the Advanced 
+Radio Systems within the Advanced 
+Technology Center at Rockwell Collins, Inc. Hi
+s principal technical responsibilities are in the 
+design and development of airborne communi
+cation systems and technologies. Newgard has 
+performed as principal investigator on numerous
+ Defense Advanced Research Program Agency 
+(DARPA)-funded research programs, including th
+e Chip-Scale Atomic Clock (CSAC), Next 
+Generation Spectral Sensor (XG), Analog Spectral Processors (ASP), Dynamics-Enabled 
+
+Frequency Source (DEFYS), and Chip-Scale Spectrum Analyzers (CSSA). Newgard™s 
+
+department is focused on the development of
+ technologies and systems focused on the high-
+performance radio frequency (RF) fr
+ont ends. Included in this 
+focus are antennas, receivers, 
+transmitters, synthesizers, photonics, and frequency standards. 
+ Lon Pringle is the principal research scientist at Geor
+gia Tech Research Institute and is the 
+director of the Signature Technology Laborat
+ory. Pringle™s research encompasses infrared 
+phenomenology, advanced infrared measurements 
+and simulations, the detection and tracking of 
+low observable targets in clutter, the management
+ and control of optical energy by active and 
+passive techniques, radiative energy transfer pr
+ocesses in optical color tr
+ansparencies and prints, adaptive signature control technologies, radio 
+frequency (RF) and infrared (IR) seeker and fuze 
+designs, advanced RF beam forming using phase-onl
+y control (as contrasted with amplitude and 
+phase control), and recently a revolutionary ne
+w methodology for the design of wideband, multi-
+function, reconfigurable apertures. This research
+ led to more than 25 technical publications, and 
+two patents and was supported by approximatel
+y $18 million in sponsorship, for $9.5 million of 
+which Pringle has served as project director/princip
+al investigator. Of special note has been his 
+successful direction of the DARPA-sponsored reconf
+igurable aperture program and its follow-on 
+application in the Future Combat System program. 
+
+ Yahya Rahmat-Samii (NAE) received M.S. and Ph.D. degrees in electrical engineering from the 
+University of Illinois, Urbana-Champaign, and 
+a B.S. degree, with highest distinction, in 
+electrical engineering from the University of Tehr
+an, Iran. Before joining UCLA in 1989, he was 
+a senior research scientist at NASA's Jet Pr
+opulsion Laboratory/California Institute of 
+Technology and was a guest professor at the Technical University of Denmark (TUD) in the 
+summer of 1986. He has also been a consultant 
+to many aerospace companies. He served as chair 
+of UCLA's Electrical Engineering Department from April 2000 through June 2005. Since 2007, 
+
+he has held the Northrop Grumman Chair in 
+Electromagnetics at UCLA. Rahmat-Samii has 
+authored and co-authored more than 750 techni
+cal journal articles and conference papers, has 
+written 25 book chapters, is the co-author of three 
+books, and holds several patents. He has made 
+pioneering research contributions in diverse ar
+eas of electromagnetics, antennas, measurement 
+and diagnostics techniques, numerical a
+nd asymptotic methods, satellite and personal 
+communications, antennas for remote sensing an
+d astronomical applications, human/antenna 
+interactions, frequency selective surfaces, electro
+magnetic and photonic band gap structures, and 
+the applications of genetic algorithms and par
+ticle swarm optimization. On several occasions, 
+Rahmat-Samii's work has been featured on journal 
+covers and in magazines,
+ as well as in several 
+TV newscasts. 
+ Sebastian Rowson is one of the founders and also the chief scientist at Ethertronics, a privately 
+held antenna design and manufacturing company 
+that manufactures primarily embedded antennas 
+Summary of a Workshop on the Future of AntennasCopyright National Academy of Sciences. All rights reserved.APPENDIX C  21 
+ for personal and industrial wireless devices. Et
+hertronics has annual shipments of about 100 
+million units to clients that include Samsung, 
+LG Electronics, and Motorola. Ethertronics co-
+founders Laurent Desclos and Se
+bastian Rowson started the company in 2000 to commercialize 
+new antenna technology known as IMD (isolated 
+magnetic dipole). Rowson has filed 49 patents 
+with the U.S. Patent and Trademark Office, and 
+30 of those have currently been issued. He has 
+also served as the director of technology transf
+er and as a senior engineer at Ethertronics. 
+Previously, Rowson was a research engineer at th
+e University of California, Los Angeles. He 
+earned his M.S. and a Ph.D. at the University of 
+Paris-Sud. Rowson is a member of the Institute 
+of Electrical and Electronics Engineers. 
+
+ Mark Schrote 
+is a senior consulting engineer with No
+rthrop Grumman Electronic Systems. He 
+received his BSEE, MSEE, and Ph.D. in elect
+rical engineering in 1978, 1980, and 1983, 
+respectively from Ohio State University. Schrote 
+has more than 28 years of experience in active 
+electronically scanned array design, focusing on advanced development systems. 

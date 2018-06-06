@@ -1,0 +1,3096 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/12036Identification of Research Needs Relating to PotentialBiological or Adverse Health Effects of WirelessCommunication Devices78 pages | 6 x 9 | PAPERBACKISBN 978-0-309-11294-9 | DOI 10.17226/12036Committee on Identification of Research Needs Relating to Potential Biologicalor Adverse Health Effects of Wireless Communications Devices; Nuclear andRadiation Studies Board; Division on Earth and Life Studies; National ResearchCouncilIdentification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.Committee on Identi˜cation of Research Needs Relating to Potential 
+ Biological or Adverse Health Effects of Wireless Communications Devices
+Nuclear and Radiation Studies Board
+Division on Earth and Life Studies
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESS 500 Fifth Street, N.W. Washington, DC 20001
+NOTICE: The project that is the subject of this report was approved by the Govern
+-ing Board of the National Research Council, whose members are drawn from the 
+councils of the National Academy of Sciences, the National Academy of Engineer
+-ing, and the Institute of Medicine. The members of the committee responsible for 
+the report were chosen for their special competences and with regard for appropri
+-ate balance.
+This study was supported by Award No. HHSF223200710005C between the Na
+-tional Academy of Sciences and the Department of Health and Human Services. Any 
+opinions, ˜ndings, conclusions, or recommendations expressed in this publication 
+are those of the author(s) and do not necessarily re˚ect the views of the organiza
+-tions or agencies that provided support for the project.
+International Standard Book Number-13:
+ 978-0-309-11294-9
+International Standard Book Number-10:
+ 0-309-11294-X
+Additional copies of this report are available from the National Academies Press, 
+500 Fifth Street, N.W., Lockbox 285, Washington, DC 20055; (800) 624-6242 or 
+(202) 334-3313 (in the Washington metropolitan area); Internet, http://www.nap.edu
+Copyright 2008 by the National Academy of Sciences. All rights reserved.
+Printed in the United States of America.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.The 
+National Academy of Sciences
+ is a private, nonpro˜t, self-perpetuating society 
+of distinguished scholars engaged in scienti˜c and engineering research, dedicated to 
+the furtherance of science and technology and to their use for the general welfare. 
+Upon the authority of the charter granted to it by the Congress in 1863, the Acad
+-emy has a mandate that requires it to advise the federal government on scienti˜c 
+and technical matters. Dr. Ralph J. Cicerone is president of the National Academy 
+of Sciences.
+The 
+National Academy of Engineering
+ was established in 1964, under the charter 
+of the National Academy of Sciences, as a parallel organization of outstanding 
+ 
+engineers. It is autonomous in its administration and in the selection of its members, 
+sharing with the National Academy of Sciences the responsibility for advising the 
+federal government. The National Academy of Engineering also sponsors engineer
+-ing programs aimed at meeting national needs, encourages education and research, 
+and recognizes the superior achievements of engineers. Dr. Charles M. Vest is presi
+-dent of the National Academy of Engineering.
+The 
+Institute of Medicine
+ was established in 1970 by the National Academy of 
+Sciences to secure the services of eminent members of appropriate professions in 
+the examination of policy matters pertaining to the health of the public. The Insti
+-tute acts under the responsibility given to the National Academy of Sciences by its 
+congressional charter to be an adviser to the federal government and, upon its own 
+initiative, to identify issues of medical care, research, and education. Dr. Harvey V. 
+Fineberg is president of the Institute of Medicine.
+The 
+National Research Council
+ was organized by the National Academy of Sci
+-ences in 1916 to associate the broad community of science and technology with the 
+Academy™s purposes of furthering knowledge and advising the federal government. 
+Functioning in accordance with general policies determined by the Academy, the 
+Council has become the principal operating agency of both the National Academy 
+of Sciences and the National Academy of Engineering in providing services to 
+the government, the public, and the scienti˜c and engineering communities. The 
+ 
+Council is administered jointly by both Academies and the Institute of Medicine. 
+Dr. Ralph J. Cicerone and Dr. Charles M. Vest are chair and vice chair, respectively, 
+of the National Research Council.
+www.national-academies.org
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.iv
+COMMITTEE
+ ON IDENTIFICATION OF RESEARCH NEEDS 
+RELATING TO POTENTIAL BIOLOGICAL OR ADVERSE HEALTH 
+EFFECTS OF WIRELESS COMMUNICATIONS DEVICES
+FRANK S. BARNES
+ (Chair
+), University of Colorado, Boulder
+OM P. GANDHI, University of Utah, Salt Lake City
+MAILA HIETANEN,
+ Finnish Institute of Occupational Health, Helsinki, 
+Finland
+LEEKA KHEIFETS,
+ University of California, Los Angeles
+RÜDIGER MATTHES,
+ Federal Of˜ce of Radiation Protection, 
+Oberschleißheim, Germany
+DAVID L. MCCORMICK,
+ IIT Research Institute, Chicago
+BERNARD VEYRET, University of Bordeaux, France
+Nuclear And Radiation Studies Board Liaison
+DANIEL KREWSKI, University of Ottawa, Ontario, Canada
+Staff
+RICK JOSTES, Study Director
+NAOKO ISHIBE, Program Of˜cer
+TONI
+ G
+REENLEAF
+, F
+inancial and Administrative Associate
+SHAUNTE
+É W
+HETSTONE
+, Program Assistant
+JAMES YATES, JR., Of˜ce Assistant
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.vNUCLEAR AND RADIATION STUDIES BOARD
+RICHARD A. MESERVE
+ (Chair
+), Carnegie Institution, Washington, D.C.
+S. JAMES ADELSTEIN (
+Vice
+ Chair
+), Harvard Medical School, Boston, 
+Massachusetts
+JOEL S. BEDFORD, 
+Colorado State University, Fort Collins
+SUE
+ B. C
+LARK
+, Washington State University, Pullman
+ALLEN
+ G. C
+ROFF
+, Oak Ridge National Laboratory (retired), 
+St.
+ Augustine, Florida
+DAVID
+ E. D
+ANIEL
+, University of Texas at Dallas
+SARAH C. DARBY, 
+Clinical Trial Service Unit, Oxford, United Kingdom
+JAY
+ D
+AVIS
+, 
+Lawrence Livermore National Laboratory (retired), 
+Livermore, California
+ROGER
+ L. H
+AGENGRUBER
+, University of New Mexico, Albuquerque
+DANIEL KREWSKI, University of Ottawa, Ontario, Canada
+KLAUS
+ KÜ
+HN
+, Technische Universität Clausthal, Clausthal-Zellerfeld, 
+Germany
+MILTON
+ L
+EVENSON
+, Bechtel International (retired), Menlo Park, 
+California
+C. C
+LIFTON
+ L
+ING
+, Memorial Hospital, New York City, New York
+PAUL
+ A. L
+OCK
+E, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, Maryland
+WARREN
+ F. M
+ILLER
+, Texas A&M University, Albuquerque, New Mexico
+BORIS 
+F. M
+YASOEDO
+V, 
+Russian Academy of Sciences, Moscow, Russia
+ANDREW M. SESSLER, E.O. Lawrence Berkeley National Laboratory, 
+Berkeley,
+ California
+JOHN C. VILLFORTH,
+ Food and Drug Law Institute (retired), 
+Gaithersburg, Maryland
+PAUL L. ZIEMER, Purdue University (retired), West Lafayette, Indiana
+Staff
+KEVIN D. CROWLEY
+, Director
+EVAN B. DOUPLE,
+ Scholar
+RICK JOSTES
+, Senior Program Of˜cer
+MICAH D. LOWENTHAL
+, Senior Program Of˜cer
+ JOHN R. WILEY, 
+Senior Program Of˜cer
+NAOKO ISHIBE, 
+Program Of˜cer
+TONI GREENLEAF,
+ Administrative and Financial Associate
+ LAURA D. LLANOS,
+ Administrative and Financial Associate
+ COURTNEY
+ GIBBS
+, Senior Program Assistant
+MANDI M. BOYKIN, Senior Program Assistant
+SHAUNTE
+É WHETSTONE, Senior Program Assistant
+JAMES YATES, JR., Of˜ce Assistant
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.vii
+Acknowledgements
+The report bene˜ted from the contribution of the speakers and partici
+-pants in the workshop. The agenda, speakers, and participants are included 
+as appendices to the report. The committee would like to thank Rick
+ Jostes, Shaunteé Whetstone, Toni Greenleaf, and Naoko Ishibe for helping to make 
+the workshop a success. A special thanks to the sponsor, the U.S. Food and 
+Drug Administration (FDA), as well.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.ix
+Reviewers
+This report has been reviewed in draft form by persons chosen for their 
+diverse perspectives and technical expertise in accordance with procedures 
+approved by the National Research Council™s Report Review Committee.
+  The purposes of this review are to provide candid and critical comments 
+that will assist the institution in making the published report as sound 
+as possible and to ensure that the report meets institutional standards of 
+objectivity, evidence, and responsiveness to the study charge.
+  The review 
+comments and draft manuscript remain con˜dential to protect the integrity 
+of the deliberative process.
+  We wish to thank the following for their par
+-ticipation in the review of this report:
+Joel S. Bedford,
+ Colorado State University
+Maria Feychting, 
+Karolinska Institutet
+Lennart Hardell
+, University Hospital
+Niels Kuster, 
+Foundation for Research on Information 
+  Technologies in Society (IT™IS)
+Harri Lindholm,
+ Finnish Institute of Occupational Health
+Gabor Mezei,
+ Electric Power Research Institute
+Frank S. Prato,
+ University of Western Ontario
+Jerome S. Puskin,
+ U.S. Environmental Protection Agency 
+E. Van Rongen,
+ Health Council of the Netherlands
+Teri L. Vierima,
+ Resource Strategies Inc.
+Peter M. Wiedemann, 
+Federal Research Center
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.x REVIEWERS
+Although the reviewers listed above have provided many construc
+-tive comments and suggestions, they were not asked to endorse, nor did 
+they see the ˜nal draft of the report before its release. The review of this 
+report was overseen by May R. Berenbaum, University of Illinois
+ and 
+Daniel E
+. Wartenberg, University of Medicine & Dentistry of New Jersey. 
+Appointed by the National Research Council, they were responsible for 
+making certain that an independent examination of this report was car
+-ried out in accordance with institutional procedures and that all review 
+comments were carefully considered.
+  Responsibility for the ˜nal content 
+of this report rests entirely with the authoring committee and the National 
+Research Council.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.xi
+Contents
+Executive Summary 
+  1
+Summary 
+ 3Introduction
+ 10
+Dosimetry and Exposure
+ 13
+Epidemiology
+ 19
+Human Laboratory Studies
+ 27
+Mechanisms
+ 33
+In Vivo and In Vitro Studies in Experimental Model Systems
+ 37
+References
+ 45 
+Appendixes 
+A Statement of Task
+ 51
+B Committee Biographical Sketches
+ 52
+C Workshop Agenda
+ 57
+D Workshop Participants
+ 64
+E  
+List of Individuals Who Submitted Statements Identifying 
+ Needs and Gaps in Research Prior to Workshop
+ 66
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.1Executive Summary
+The U.S. Food and Drug Administration (FDA) of the Department of 
+Health and Human Services asked the National Academies to organize a 
+workshop of national and international experts to identify research needs 
+and gaps in knowledge of biological effects and adverse health outcomes 
+of exposure to radiofrequency (RF) energy from wireless communications 
+devices. To accomplish this task, the National Academies appointed a seven 
+member committee to plan the workshop.
+1 Following the workshop, the 
+committee was asked to issue a report based on the presentations and dis
+-cussions at the workshop that identi˜ed research needs and current gaps in 
+knowledge. The committee™s task did not include the evaluation of health 
+effects or the generation of recommendations relating to how the identi˜ed 
+research needs should be met. 
+For the purposes of this report, the committee de˜nes research needs as 
+research that will increase our understanding of the potential adverse effects 
+of RF energy on humans. Research gaps are de˜ned as areas of research 
+where the committee judges that scienti˜c data that have potential value are 
+presently lacking, but that 
+closingofthesegapsiseitherongoingandresults
+closing of these gaps is either ongoing and results 
+should be awaited before judgments are made on further research needs, or 
+the gaps are not judged by the committee to be of as high a priority with 
+respect to 
+directlyaddressinghealthconcernsatthistime.
+directly addressing health concern
+satthistime.
+ at this time
+. The research needs and gaps identi˜ed by the committee are presented 
+in abbreviated form in the report Summary and in more detail in the text. 
+1 
+Committee
+ on Identi˜cation of Research Needs Relating to Potential Biological or Adverse 
+Health Effects of Wireless Communications Devices.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.2 IDENTIFICATION OF RESEARCH NEEDS
+These needs and gaps are committee judgments derived from the workshop 
+presentations and discussions, and the report does not necessarily re˚ect 
+the views of the FDA, individual workshop speakers, or other workshop 
+participants.
+The committee judged that important research needs included, in order 
+of appearance in the text, the following:
+ Ł Characterization of exposure to juveniles, children, pregnant 
+women, and fetuses from personal wireless devices and RF ˜elds from base 
+station antennas.
+Ł Characterization of radiated electromagnetic ˜elds for
+ typical
+ multiple-
+element base station antennas and exposures to affected individuals.
+Ł Characterization of the dosimetry of evolving antenna con˜gura
+-tions for cell phones and text messaging devices.
+Ł Prospective epidemiologic cohort studies of children and pregnant 
+women.
+Ł Epidemiologic case-control studies and childhood cancers, includ
+-ing brain cancer.
+Ł Prospective epidemiologic cohort studies of adults in a general 
+population and retrospective cohorts with medium to high occupational 
+exposures.
+Ł Human laboratory studies that focus on possible adverse effects 
+on electroencephalography
+2 activity and that include a suf˜cient number 
+of subjects.
+Ł Investigation of the effect of RF electromagnetic ˜elds on neural 
+networks.
+Ł Evaluation of doses occurring on the microscopic level. 
+Ł Additional experimental research focused on the identi˜cation 
+of potential biophysical and biochemical/molecular mechanisms of RF 
+action.
+2 
+Electroencephalography
+ is a neurological diagnostic procedure that records the changes in 
+electrical potentials (brain waves) in various parts of the brain.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.3Summary
+In recent years there has been a rapid increase in the use of wireless 
+communications devices, and a great deal of research has been carried out 
+to investigate possible biological or human health effects resulting from the 
+use of these devices. In a more focused initiative, the U.S. Food and Drug 
+Administration (FDA) of the Department of Health and Human Services 
+asked the National Academies to organize a workshop of national and inter
+-national experts to identify research needs and gaps in knowledge of bio
+-logical effects and adverse health outcomes of exposure to radiofrequency 
+(RF) energy from wireless communications devices (for full statement of 
+task see Appendix A). To accomplish this task, the National Academies 
+appointed a seven member committee to plan the workshop (Appendix B).
+1 Following the workshop, the committee was asked to issue a report based 
+on the presentations and discussions at the workshop that identi˜es, in 
+the committee™s judgment, research needs and current gaps in knowledge. 
+The committee™s task did not include the evaluation of health effects or the 
+generation of recommendations relating to how identi˜ed research needs 
+should be met. 
+The requested workshop was held on August 7-9, 2007 (Appendix C). 
+It was organized into ˜ve sessions to identify research needs and gaps in 
+the following areas: 
+Ł  dosimetry and exposure,
+Ł  epidemiology,
+1 
+Committee on Identi˜cation of Research Needs Relating to Potential Biological or Adverse 
+Health Effects of Wireless Communications Devices.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.4 IDENTIFICATION OF RESEARCH NEEDS
+Ł  human laboratory studies,
+Ł  mechanisms, and
+Ł  animal and cell biology. 
+A sixth session, which was held on the morning of the third day of the 
+workshop, introduced overarching issues and solicited research needs and 
+gaps from workshop speakers and other interested parties.
+The organizing committee invited experts from 9 countries (Appen
+-dix
+ D) to speak on research needs and gaps relating to potential biologi
+-cal or adverse health effects of wireless communications devices. Written 
+contributions relating to research needs and gaps were also solicited for 
+consideration prior to and at the workshop (individuals who submitted 
+written contributions are listed in Appendix E).
+The report contains the committee™s evaluation of the workshop pre
+-sentation and discussion sessions followed by the committee™s identi˜cation 
+of research needs and gaps. 
+RESEARCH NEEDS AND GAPS
+For the purposes of this report, the committee de˜nes ﬁresearch needsﬂ 
+as research that will increase our understanding of the potential adverse 
+effects of RF energy on humans. ﬁResearch gapsﬂ are de˜ned as areas of 
+research where the committee judges that scienti˜c data that have potential 
+value are presently lacking, but that 
+closingofthesegapsisongoing,and
+closing of these gaps is ongoing, and 
+results should be awaited before judgments are made on further research 
+needs, or the gaps ar
+enotjudgedbythecommitteetobeofashighaprior-
+ notjudgedbythecommitteetobeofashighaprior-
+not judged by the committee to be of as high a prior
+-ity at this time.
+To the extent possible, near-, mid-, and long-term research opportuni
+-ties have been characterized as follows: the committee judged that ﬁresearch 
+needsﬂ are near-term research opportunities. ﬁResearch gapsﬂ that are cur
+-rently being ˜lled may result in mid-term research opportunities, depending 
+on the outcome of the current research. ﬁResearch gapsﬂ de˜ned as being of 
+lower priority 
+withrespecttodirectlyaddressinghealthconcernscomprise
+with respect to 
+directlyaddressinghealthconcernscomprise
+directly addressing health concern
+scomprise
+ comprise
+comprise 
+possible long-term research opportunities.
+Abbreviated versions of committee judgments on research needs and 
+gaps are organized below in the Summary in order of the ˜ve sessions that 
+comprised the ˜rst two days of the workshop. The reader is referred to the 
+text of the report for details on research needs and gaps.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.SUMMARY
+ 5DOSIMETR
+Y 
+AND
+ EX
+POSURE
+ Research Needs
+1.
+ There is a need to characterize exposure of juveniles, children, 
+pre
+gnant women, and fetuses, both for personal wireless devices (e.g., 
+cell phones, wireless personal computers [PCs]) and for RF ˜elds from 
+base station antennas including gradients and variability of exposures, the 
+env
+ironment in which devices are used, and exposures from other sources, 
+multilateral exposures, and multiple frequencies. 
+2.
+ Wireless networks are being built very rapidly, and many more base 
+station antennas are being installed. A crucial research need is to character
+-ize radiated electromagnetic ˜elds for typical multiple-element base station 
+antennas and for the highest radiated power conditions with measurements 
+conducted during peak hours of the day at locations close to the antennas 
+as well as at ground level. 
+3.
+ The use of evolving types of antennas for hand-held cell phones 
+and text messaging devices need to be characterized for the Speci˜c Absorp
+-tion Rates (SARs) that they deliver to different parts of the body so that 
+this data is available for use in future epidemiologic studies. 
+4.
+ RF exposure of the operational personnel close to multi-element 
+newer base station antennas is unknown and could be high. These expo
+-sures need to be characterized. Also needed are dosimetric absorbed power 
+calculations using realistic anatomic models for both men and women of 
+different heights.
+Research Gaps
+Research Ongoing
+1.
+ Although several dosimetric models are currently available for 
+children and individuals of reduced stature, a research gap remains in the 
+further development of models of several heights for men, women, and chil
+-dren of various ages for use in the characterization of SAR distributions for 
+exposures characteristic of cell phones, wireless PCs, and base stations.
+Judged to Be of Lower Priority
+2.
+ Presently, there is negligible or relatively little knowledge of local 
+SAR concentration (and likely heating) in close proximity to metallic adorn
+-ments and implanted medical devices for the human body. 
+3.
+ There is a need for improved exposure systems for human labo
+-ratory studies including reliable and accurate exposure assessment for 
+designs of next generation exposure systems for human laboratory studies. 
+Furthermore, location-dependent ˜eld strength needs to be accounted for 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.6 IDENTIFICATION OF RESEARCH NEEDS
+in the characterization of exposures. A very important consideration is the 
+validation of results by several independent investigators so that reliable 
+and accurate exposure assessments are available for both comparisons 
+between systems and between laboratories.
+4.
+ There is a need for an updated survey in a properly selected sample 
+of the U.S. population to characterize and document rapidly changing expo
+-sures to electromagnetic ˜eld strengths that would improve our knowledge 
+of the exposure levels for the population at large, taking into account the 
+large number of new cell phones and base stations, radio and TV stations, 
+and a wide array of other communications devices, including a survey of 
+measured personal exposure with information on location and activity at 
+the time of measurement including the difference between indoor and out
+-door environments. 
+EPIDEMIOLOG
+YThe committee identi˜ed signi˜cant research needs for a number of 
+epidemiologic studies, particularly of children.
+Adults
+Research Needs
+1.
+ Prospective Cohort Studies. A prospective cohort study will allow 
+for the evaluation of diverse outcomes, but a very large sample size and 
+extended follow-up is required for rare outcomes or those that occur only 
+with very long latencies.
+2.
+ Occupational Cohorts with Medium to High Exposure. None of 
+the occupational studies to date have been based on an adequate exposure 
+assessment. Much work is needed to identify occupations with potentially 
+high RF exposures and to characterize them. 
+Research Gaps
+Judged to Be of Lower Priority
+1.
+ Nested case-control studies of rare diseases. 
+2.
+ Observational studies on subjective outcomes.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.SUMMARY
+ 7Children
+Research Needs
+1.
+ Prospective Cohort Studies of Pregnancy and Childhood. Children 
+are potentially exposed from conception through maternal wireless device 
+use and then postnatally when they themselves become users of mobile 
+phones. 
+2.
+ Case-control Study of Children Mobile Phone Users and Brain 
+Cancer. Owing to widespread use of mobile phones among children and 
+adolescents and the possibility of relatively high exposures to the brain, 
+investigation of the potential effects of RF ˜elds in the development of 
+childhood brain tumors is warranted. 
+Research Gaps
+Research Ongoing
+1.
+ Case-control studies of childhood cancer with improved exposure 
+assessment taking into account all major ˜xed point sources of RF exposure 
+(base stations, AM, FM, TV antennas, and other sources).
+HUMAN LABORATOR
+Y STUDIES
+Research Needs
+There are some signi˜cant research needs for human laboratory studies. 
+Due to the paucity of data from identically replicated experiments,
+1.
+ There is a need for experiments focusing on possible adverse RF 
+effects identi˜ed by changes in electroencephalogram activity as well as a 
+need to include an increased number of subjects.
+Research Gaps
+Research Ongoing
+1.
+ Little or no information is available on possible neurophysiological 
+effects developing during long-term exposure to RF ˜elds.
+2.
+ Risks of exposure to RF ˜elds in elderly volunteers are not 
+well
+ explored. 
+3.
+ There is a continuing need for experiments focusing on possible ad
+-verse RF effects identi˜ed by changes in cognitive performance functions.
+ Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.8 IDENTIFICATION OF RESEARCH NEEDS
+Judged to Be of Lower Priority
+4.
+ There is a need to conduct human volunteer studies to investigate 
+potential 
+healthimplicationsarisingfrominteractionofcellphoneswith
+health implications arising from 
+interactionofcellphoneswith
+interaction of cell phones with 
+hearing aids and cochlear implants.
+MECHANISMS
+Research Needs
+1.
+ The effect of RF electromagnetic ˜elds on neural networks is a 
+topic needing further investigation. There are indications that neural net
+-works are a sensitive biological target
+. 2.
+ Evaluation of doses occurring on the microscopic level is a topic 
+needing further investigation.
+Research Gaps
+Research Ongoing
+1.
+ Mechanisms that can be modeled theoretically with the use of 
+software-based nonlinear cell models that describe ˜eld-induced molecular 
+changes
+.Itiscurrentlyunclearifanonlinearbiologicalmechanismexists
+ It is currently unclear if a nonlinear biological mechanism exists 
+that could lead to demodulation effects. There is some research with respect 
+to this question underway. 
+Judged to Be of Lower Priority
+2.
+ It is unclear whether low-level RF exposure can trigger effects 
+through stimulation of cellular thermo-receptors. 
+3.
+ Knowledge is lacking concerning the effects of electromagnetic 
+˜elds on ion
+ and molecular transport through the cell membrane.
+IN V
+IVO
+ AND
+ I
+N V
+ITRO
+ S
+TUDIES
+ IN
+ EX
+PERIMENTAL
+ M
+ODEL
+ SY
+STEMS
+Research Needs
+1.
+ Additional experimental research focused on the identi˜cation of 
+potential biophysical and biochemical/molecular mechanisms of RF action 
+is considered to be of the highest priority. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.SUMMARY
+ 9Research Gaps
+ Research Ongoing
+1.
+ Following completion of several large ongoing studies, a ﬁweight-
+of-the-evidenceﬂ analysis can be conducted to synthesize and evaluate the 
+entire data set. At that time, rational, informed decisions can be made 
+concerning the value of conducting additional oncogenicity
+2 studies in 
+standard-bred laboratory animals.
+2.
+ The use of genetically engineered animals may increase the sensi
+-tivity of laboratory studies to detect weak effects, and may be particularly 
+suitable to evaluate the possible interactions between RF ˜elds and other 
+agents in disease causation.
+3.
+ The overall database for RF ˜elds and cancer would be strength
+-ened by additional studies using multi-stage model systems for cancer in 
+tissues (such as the brain) that have been hypothesized to be targets of RF 
+action.
+4.
+ Although genetic toxicology studies have failed to identify potential 
+RF health effects, additional genetic toxicology studies may be warranted 
+should evidence of oncogenicity be identi˜ed in any of the ongoing chronic 
+toxicity/oncogenicity bioassays of RF ˜elds in laboratory animals, or in 
+any future studies to be performed using genetically engineered animal 
+models.
+5.
+ A number of potentially critical cancer-related endpoints have re
+-ceived only very limited study and are identi˜ed in the report text.
+6.
+ In addition to cancer-related endpoints, data gaps exist in a num
+-ber of other areas of toxicology in which knowledge is needed to support 
+a complete evaluation of the possible health effects of RF exposure; these 
+gaps are identi˜ed in the body of the report.
+2 
+Oncogenicity
+ is the capacity to cause tumors.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.10Introduction
+The U.S. Food and Drug Administration (FDA) of the Department of 
+Health and Human Services asked the National Academies to organize a 
+workshop of national and international experts to discuss research needs 
+and gaps in our knowledge of the biological effects and adverse health 
+outcomes of exposure to radiofrequency (RF) energy from wireless com
+-munications devices. Although the sponsor™s main interest centers on hand-
+held devices such as cell phones or portable home phones, base stations and 
+antennas were also considered by the committee based on discussions with 
+the sponsors indicating that consideration of these components would not 
+be discouraged.
+The workshop was announced on the National Academies™ Current 
+Projects site, and attendance was available to anyone interested in attending 
+the workshop. This workshop announcement included instructions for sub
+-mitting written comments for consideration at the workshop. A workshop 
+announcement was also provided to the FDA and the
+ Bioelectromagnetics 
+Society for distribution as deemed appropriate, as well as to
+ individuals 
+who expressed an interest in the workshop.
+It was clear from the presentations and discussions at the workshop 
+that a great deal of research has been accomplished to date, but sometimes 
+with inconsistent results. This workshop, however, was not intended to 
+evaluate health effects, and the report based on a workshop does not 
+assess health effects or make recommendations as to how the identi˜ed 
+research needs should be met. The National Academies was asked to issue 
+a report following the workshop that exclusively draws on the workshop 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.INTRODUCTION
+ 11
+presentations and discussions to identify current research needs and gaps 
+in knowledge. The committee was also asked to provide its consensus ˜nd
+-ings on near-, mid-, and long-term research opportunities. The report is a 
+committee product and does not necessarily re˚ect the views of the FDA, 
+individual workshop speakers, or other workshop participants.
+To organize the workshop and to identify experts to address research 
+needs and gaps relating to potential biological or adverse health effects 
+of wireless communications devices, the committee (Appendix B) held a 
+workshop planning meeting on July 9-10, 2007. As a result of this plan
+-ning meeting, international experts from 9 countries were invited to speak 
+at the workshop. Written contributions on research needs and gaps for 
+the committee™s consideration were also solicited for submission prior to 
+the workshop, which was held on August 7-9, 2007. A total of 16 writ
+-ten contributions were received from individuals listed in Appendix E. 
+The
+ speakers™ presentations, panel discussions, comments from interested 
+workshop attendees, and written contributions were considered by the com
+-mittee as it developed this report.
+The workshop itself was organized into six sessions (Appendix C). The 
+˜rst ˜ve sessions consisted of invited participants and panel discussions that 
+identi˜ed research needs and gaps in the following areas: 
+Ł  exposure and dosimetry,
+Ł  epidemiology,
+Ł  human laboratory studies,
+Ł  mechanisms, and
+Ł  animal and cell biology. 
+A sixth session, which was held on the morning of the third day, intro
+-duced overarching issues and solicited research needs from speakers and 
+other interested participants. Overarching issues were determined by the 
+committee at the workshop planning meeting held in July 2007. The pur
+-pose of the sixth session was to make sure that research needs that might 
+reach across the disciplines were discussed and identi˜ed. The issues were 
+thus designed to address current topics in RF research. A short introduc
+-tion of each subject was made by a committee member and unrestricted 
+input was then invited from interested parties attending the workshop. The 
+overarching issues were as follows:
+Ł Are there differences in health effects of short-term vs. long-term 
+exposure?
+Ł Are there differences between local vs. whole-body exposures?
+Ł Can the knowledge of biological effects from current signal types 
+and exposure patterns be extrapolated to emerging exposure scenarios?
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.12
+ IDENTIFICATION OF RESEARCH NEEDS
+Ł Are there any biological effects that are not caused by an increase 
+in tissue temperature (nonthermal effects)?
+Ł Does RF exposure alter (synergize, antagonize, or potentiate)
+1 the 
+biological effects of other chemical or physical agents?
+Ł Are there differences in risk to children?
+Ł Are there differences in risk to other subpopulations such as the 
+elderly and individuals with underlying disease states?
+These overarching issues and the general discussions that followed 
+were factored into the committee™s deliberations in developing the report. 
+From the presentations and discussions that took place at the workshop 
+sessions, the committee identi˜ed research needs and gaps; the selection of 
+these research needs and gaps are committee judgments. 
+For the purposes of this report, the committee de˜nes research needs as 
+research that will increase our understanding of the potential adverse effects 
+of RF energy on humans.
+  Research gaps are de˜ned as areas of research 
+where the committee judges that scienti˜c data that have potential value 
+are presently lacking, but that 
+closingofthesegapsisongoing,andresults
+closing of these gaps is ongoing, and results 
+should be awaited before judgments are made on further research needs, 
+or the gaps ar
+enotjudgedbythecommitteetobeofashighapriorityat
+ notjudgedbythecommitteetobeofashighapriorityat
+not judged by the committee to be of as high a priority at 
+this time.
+To the extent possible, near-, mid-, and long-term research opportuni
+-ties have been characterized as follows: the committee judged that research 
+needs are near-term research opportunities. Gaps that are currently being 
+˜lled may result in mid-term research opportunities, depending on the out
+-come of the current research. Gaps de˜ned as being of lower priority 
+with
+with 
+respect to 
+directlyaddressinghealthconcernscomprisepossiblelong-term
+directly addressing health concern
+scomprisepossiblelong-term
+ comprisepossiblelong-term
+comprise possible long-term 
+research opportunities.
+1 
+Synergize:
+ two or more agents or forces interacting so that their combined effect is greater 
+than the sum of their individual effects. 
+Antagonize: 
+two or more agents or forces interacting 
+so that one agent counteracts the effect of another agent.
+ Potentiate:
+ one agent promotes or 
+strengthens a biochemical or physiological action or effect of another agent.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.13
+Dosimetry and Exposure
+This section reports on the workshop session on radiofrequency (RF) 
+energy,
+1 dosimetry,
+2 and exposure.
+3 As discussed by Dr. van Deventer at the workshop (van Deventer 2007) 
+there is a need to characterize exposure of juveniles, children, pregnant 
+women, and fetuses both for personal wireless devices (e.g., cell phones, 
+wireless personal computers [PCs]) and for RF ˜elds from base station 
+antennas. This characterization includes taking into account gradients and 
+variability of exposures due to the actual use of the device, the environ
+-ment in which it is used, and exposures from other sources, multilateral 
+exposures, and multiple frequencies. The data thus generated would help to 
+de˜ne exposure ranges for various groups of exposed populations.
+There is a need for reliable and accurate exposure assessment for de
+-signs of the next generation of epidemiologic studies, such as development 
+of an index that integrates service technology and location of use (both 
+1 
+RF energy
+ includes waves with frequencies ranging from about 3000 waves per second 
+(3
+ kHz) to 300 billion waves per second (300 GHz). Microwaves are a subset of radio waves 
+that have frequencies ranging from around 300 million waves per second (300 MHz) to 300 
+billion waves per second (300 GHz).
+2 
+RF dosimetry
+ is the science pertaining to coupling of RF waves, e.g., from cell phones to 
+the human body. Because of the human anatomy, RF dosimetry must take into account the 
+shape as well as the heterogeneity of the tissues. The unit for absorbed dose (i.e., rate of energy 
+absorption per unit mass) is Watts/kg.
+3 
+RF exposure
+ is the quanti˜cation of the absorbed RF energy and its distribution for the 
+various parts of the body. The absorbed energy and its distribution within the exposed body 
+is a function of the incident electromagnetic ˜elds described in units of Watts/meter-squared 
+and the spatial variation of these ˜elds
+. Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.14
+ IDENTIFICATION OF RESEARCH NEEDS
+geographic location and whether a phone is primarily used indoors or 
+outdoors). Towards this end, we need tissue-characterized models of chil
+-dren of different ages and of pregnant women for dosimetric calculations. 
+Speci˜c Absorbtion Rates (SARs)
+4 for children are likely to be higher than 
+for adults, both for cell phones and for base station exposures, due to the 
+fact that the exposure frequency is closer to the whole-body resonance fre
+-quency for shorter individuals such as children (ANSI 1982; Gandhi 1979; 
+Wang et al. 2006; Hirata et al. 2007). Better characterization of SARs for 
+children of various age groups is, therefore, needed. Furthermore, models 
+are not presently adequate for men and women of various heights and for 
+children of various ages.
+BASE
+ STATIONS
+Wireless networks are being built very rapidly, and many more base sta
+-tion antennas are being installed
+. 
+Maintenance personnel may be exposed 
+to fairly high electromagnetic ˜elds emanating from base station antennas
+5 unless all of the typically four to six antennas mounted on the base station 
+are turned off. For all of the base station antennas, the radiated power is 
+on the order of several tens of watts, with higher powers being radiated at 
+peak hours of the day. Though not as well characterized, particularly for 
+multiple co-located base station antennas, the radiated RF ˜elds for roof
+-tops near base stations may also be fairly high. The quanti˜cation of SAR 
+distributions from base stations is fairly minimal and those distributions 
+are of concern for professionals involved in maintenance of base stations, 
+building/roof maintenance personnel, and members of the public that live 
+in close proximity to the antennas. There are also subpopulations among 
+the employees, which might be exposed to greater amounts of RF energy 
+than the average population. The characterization of these subpopulations 
+is important.
+Thus, the interest in base station exposures close to the antennas is 
+driven by the potential health effects on antenna repair professionals and 
+building/roof maintenance workers from relatively high, acute exposures, 
+but the interest in exposures for members of the public that live in close 
+proximity to the antennas or for the public at the ground level at larger 
+distances is motivated by the need to address public concern about very low 
+4 
+Speci˜c Absorption Rate
+ (SAR) is a measure of the rate at which radiofrequency (RF) en
+-ergy is absorbed by the body when exposed to an RF electromagnetic ˜eld. The most common 
+use is in relation to cellular telephones.
+5 
+Base station antennas mounted on rooftops, on poles, or other elevated positions are the 
+important intermediaries for cell phone communications.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.DOSIMETRY AND EXPOSURE
+ 15
+level, chronic exposures that are in fact similar to those from existing TV 
+and radio antennas albeit at different frequencies.
+Most of the reported studies to date have involved one base station 
+antenna and have used mostly homogeneous models, often of simpli˜ed 
+circular or rectangular cross sections of the exposed human. One study 
+involving a heterogeneous, anatomically based model consisting of di
+-verse constituents, but still assuming a single antenna rather than typical 
+arrang
+ements of four to six antennas, is given in Gandhi and Lam (2003). 
+In other words, the studies to date do not pertain to the commonly used 
+multiple-element base station radiators. Also, unlike highly localized cell 
+phone RF energy deposition, the base station exposures involve much, 
+if not all, of the body and would have slightly different radiator origins 
+(for multi
+-element base stations) and may be multi-frequency as well, par
+-ticularly if several different-frequency base station antennas are co-located. 
+Furthermore,
+ because of the whole-body resonance
+6 phenomenon, the SAR 
+is likely to be higher for shorter individuals due to the closeness of the 
+frequency
+/frequencies of exposure to the whole-body resonance frequency. 
+In addition to the rapid growth in the number of base stations since 1990, 
+there has also been growth in other sources of RF radiation from cordless 
+phones, wireless computer communications, and other communications 
+systems. The last general survey of RF levels in U.S. cities was during the 
+1970s, and an updated survey of RF intensities would be useful background 
+for future epidemiologic studies. There are many indoor wireless systems 
+as well as cell phones, which are used both indoors and outdoors. Mea
+-surements of the differences in the exposures generated by the use of these 
+devices in these environments will be of value in determining if there are 
+any health effects resulting from exposures to low levels and intermittent 
+sources of RF radiation.
+MOBILE
+ PHONES
+The use of evolving types of antennas for cell phones and text mes
+-saging devices needs to be characterized for the SARs that they deliver to 
+different parts of the body so that this data is available for use in future 
+epidemiologic studies.
+ A great deal of research has been done by many 
+laboratories worldwide to understand coupling of RF energy irradiation 
+from cell phone antennas to the human head. For most of these studies, the 
+6 
+Whole-body resonance
+: It has been shown that each individual absorbs maximum energy 
+from incident RF ˜elds at frequencies that are higher for shorter individuals. Furthermore the 
+SAR at this resonance frequency is increasingly higher for shorter individuals (Gandhi 1979). 
+As the absorbed energy diminishes inversely with frequency in the post-resonance region, it 
+is still quite high for the shorter individuals at base station frequencies because of the relative 
+proximity of these frequencies to the resonance frequencies.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.16
+ IDENTIFICATION OF RESEARCH NEEDS
+researchers have assumed that cell phones are held against one of the ears, 
+and studies have used a variety of anatomically based models. Cell phones 
+were assumed to have
+ pull-out linear rod antennas with dimensions on the 
+order of several centimeters. However, most of the recent telephones use 
+built-in antennas of various shapes for which additional published informa
+-tion is needed.
+The published results on pull-out linear rod antennas are generally in 
+agreement in that the RF energy coupled to the human head is the highest 
+for the ear and for a limited volume (approximately 3 × 3 × 3 cm) of the 
+brain proximal to the cell phone (IEEE 1996). As expected, the penetration 
+of the coupled electromagnetic ˜elds
+7 into the brain is shallow (approxi
+-mately 2 cm) at higher frequencies (i.e., 1800-1900 MHz). For cell phones 
+held against the ear, the SAR drops off rapidly for the regions of the brain 
+away from the antenna and is negligible for the rest of the human body 
+except for the hand.
+Wireless technology is leading to devices such as wireless PCs, handheld 
+devices used for video calls, and other handheld devices for text messaging. 
+In their typical usage, the antennas are closer to the hand or other parts 
+of the body. SAR distributions for these newer devices have been obtained 
+using homogeneous liquid-˜lled ˚at phantom models. Though these models 
+are reasonably accurate to get the 1 or 10 Watts/kg average SAR needed 
+for safety compliance testing, they are incapable of providing detailed SAR 
+distributions because of lack of detailed anatomical features, e.g., for the 
+hand or the human lap or parts of the body close to the devices. Addition
+-ally, such models cannot resolve the detailed RF ˜eld distribution at the 
+cellular and subcellular levels. Given a set of anatomical data, the RF ˜eld 
+distributions can be modeled and estimates can be made of the effects of 
+various wave forms and carrier frequencies. An important research gap is 
+the lack of models of several heights for men, women, and children of vari
+-ous ages for use in the characterization of SAR distributions for exposures 
+characteristic of cell phones, wireless PCs, and base stations.
+Presently, there is negligible or relatively little knowledge of local SAR 
+concentration (and likely heating) in close proximity to metallic adorn
+-ments and implanted medical devices for the human body. Examples in
+-clude metal rim glasses, earrings, and various prostheses (e.g., hearing aids, 
+cochlear implants, cardiac pacemakers). Research is therefore lacking to 
+quantify the enhanced SARs close to metallic implants and external metal
+-lic adornments.
+7 
+If either the electric or magnetic ˜eld has a time dependence, then both ˜elds must be con
+-sidered together as a coupled electromagnetic ˜eld using Maxwell™s equations.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.DOSIMETRY AND EXPOSURE
+ 17
+LABORATOR
+Y 
+EXPOSURE
+ SYSTEMS
+There is a need for improved exposure systems for human laboratory 
+studies. Furthermore, location-dependent ˜eld strength needs to be ac
+-counted for in the characterization of exposures. Most of the present-day 
+exposure systems used in laboratory studies focus on the exposure of the 
+head. Though exposures to the head are relevant for most cell phone ex
+-posures, whole-body exposures due to base stations are a research need. 
+The laboratory exposure systems also need to include ELF
+8 and pertinent 
+modulation protocols.
+9There is a need for reliable and accurate exposure assessment for de
+-signing the next generation of epidemiologic studies, such as development 
+of an index that integrates service technology and location of use (both 
+geographic location and whether a phone is primarily used indoors or 
+outdoors). For human laboratory studies there has been considerable effort 
+to quantify the uncertainties of the different methods used in dosimetry. 
+However, there is little information about the overall accuracy of the dosi
+-metric approaches with respect to reality and variability. The accuracy of
+ dosimetric approaches is particularly important as well as the validation of 
+results by several independent investigators to establish SAR variability. 
+The committee™s evaluation of presentations and discussions at the 
+workshop has resulted in the identi˜cation of the following research needs 
+and gaps.
+Research Needs
+1.
+ There is a need to characterize exposure of juveniles, children, 
+pregnant women, and fetuses both for personal wireless devices (e.g., cell 
+phones, wireless PCs) and for RF ˜elds from base station antennas includ
+-ing gradients and variability of exposures, the environment in which devices 
+are used, and exposures from other sources, multilateral exposures, and 
+multiple frequencies.
+ The data thus generated would help to de˜ne expo
+-sure ranges for various groups of exposed populations. 
+2.
+ Wireless networks are being built very rapidly, and many more base 
+station antennas are being installed. A crucial research need is to character
+-ize radiated electromagnetic ˜elds for typical multiple-element (four to six 
+elements) base station antennas for the highest radiated power conditions 
+and with measurements conducted during peak hours of the day at loca
+-tions close to the antennas as well as at ground level. A study of the wire
+-8 
+ELF: 
+Extremely low frequency ˜elds, such as the 50 and 60 Hz power frequency ˜elds used 
+in Europe and the United States, respectively.
+9 
+Some commonly used modulation protocols are TDMA (time division multiple access) and 
+CDMA (code division multiple access).
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.18
+ IDENTIFICATION OF RESEARCH NEEDS
+less RF ˜elds in a properly selected sample of the population is needed to 
+characterize and document rapidly changing exposures. 
+3.
+ The use of evolving types of antennas for hand-held cell phones 
+and text messaging devices need to be characterized for the SARs that they 
+deliver to different parts of the body so that this data is available for use in 
+future epidemiologic studies. 
+4.
+ RF exposure of the operational personnel close to newer multi-
+ 
+element base station antennas is unknown and could be high. These expo
+-sures need to be characterized. Also needed are dosimetric absorbed power 
+calculations using realistic anatomic models for individuals, including both 
+men and women of different heights.
+Research Gaps 
+Research Ongoing
+1.
+ Although several models are available for children and individuals 
+of reduced stature, a research gap remains in the further development of 
+models of several heights for men, women, and children of various ages for 
+use in the characterization of SAR distributions for exposures characteristic 
+of cell phones, wireless PCs, and base stations.
+Judged to Be of Lower Priority
+2.
+ Presently, there is negligible or relatively little knowledge of local 
+SAR concentration (and likely heating) in close proximity to metallic adorn
+-ments and implanted medical devices for the human body.
+3.
+ There is a need for improved exposure systems for human labo
+-ratory studies including reliable and accurate exposure assessment for 
+designs of next generation exposure systems for human laboratory studies. 
+Furthermore, location-dependent ˜eld strength needs to be accounted for 
+in the characterization of exposures. A very important consideration is the 
+validation of results by several independent investigators so that reliable 
+and accurate exposure assessments are available for both comparisons 
+between systems and between laboratories.
+4.
+ An updated survey of the electromagnetic ˜eld strengths in the U.S. 
+would improve our knowledge of the exposure levels for the population 
+at large. This survey should take into account the large number of new 
+cell phone stations, radio stations, and TV stations and a wide array of 
+other communications devices. It would include a survey of the difference 
+between indoor and outdoor environments.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.19
+Epidemiology
+The second session of the workshop focused on epidemiologic studies. 
+The following sections are organized into cancer and noncancer effects, and 
+effects in children.
+Epidemiologic studies are of primary importance in health risk assess
+-ment, because they are able to provide direct information on the health of 
+people exposed to an agent. While epidemiologic investigations are dif˜cult 
+to conduct and easy to criticize, they offer unique advantages over experi
+-mental models. In particular, epidemiologic studies permit for associations 
+between an environmental exposure, under actual rather
+ than arti˜cial 
+conditions, and a health outcome to be evaluated in human populations. 
+Moreover, because epidemiologic research is conducted in natural settings, 
+the joint in˚uence of multiple factors on disease occurrence can be studied, 
+while taking into account an individual™s susceptibility. Equally important, 
+extrapolation from high doses to low doses is not necessary because epi
+-demiologic studies examine a wide range of exposures at relevant doses. 
+However, epidemiologic studies may be affected by bias,
+1 confounding,
+2 and exposure misclassi˜cation.
+3 A large amount of exposure misclassi˜ca
+-tion is likely to be present for radiofrequency (RF) exposure. Furthermore, 
+1 
+Bias
+ is any trend in the collection, analysis, interpretation, publication, or review of data 
+that can lead to conclusions that are systematically different from the truth. Types of bias 
+include recall and selection. 
+2 
+Confounding
+ occurs when an observed association between an exposure and disease is 
+distorted by other risk factors for the disease that are also associated with exposure. 
+3 
+Misclassi˜cation
+ is inaccuracies in how subjects are categorized by exposure or disease 
+status. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.20 IDENTIFICATION OF RESEARCH NEEDS
+large studies are needed to have enough statistical power to detect effects 
+when exposures and outcomes are rare. Thus, while the observational 
+nature of the epidemiologic studies makes them dif˜cult to conduct and 
+interpret, they remain indispensable by providing direct information on the 
+health of people exposed to an agent.
+ C
+ANCER
+ E
+FFECTS
+Recent concerns about possible health effects of exposure to RF radia
+-tion from cellular phones have centered on brain cancer (Krewski 2007), 
+and a series of epidemiologic studies looking at the association between 
+cellular phone use and malignant and benign brain tumors, as well as 
+salivary gland tumors, have been published since 1999 (Johansen et al. 
+2001; Lonn 2004; Shoemaker et al. 2005; Schuz et al. 2006; Hardell et al. 
+2006; Lahkola 2007). The majority of these have been case-control stud
+-ies.
+4 Limitations of these studies have included inclusion of only a small 
+number of heavy users, inability to account for a suf˜ciently long latency
+5 period, differential participation by cases and controls according to his
+-tory of cellular phone use, inclusion of both prevalent and incident cases,
+6 and relatively crude exposure assessment. All of these
+ case-control studies 
+relied on self-reported histories of cellular phone use, which can be prone 
+to both random and systematic errors.
+7 The latter could occur if cases or 
+their proxies tended to over-report cellular phone use relative to controls 
+or if tumor laterality
+8 in˚uenced reported laterality of phone use. It also is 
+possible that cognitive impairment would cause brain cancer cases to incor
+-rectly report phone use. 
+Analyses conducted as part of the INTERPHONE study, a multi-center 
+international case-control study of brain and parotid gland tumors, point 
+to selection bias
+9 due to likely under-enrollment of nonexposed controls, 
+4 
+A 
+case-control study
+ is a type of observational study in which subjects are selected on the 
+basis of whether they have or do not have a disease under investigation. Characteristics such 
+as previous exposure are then compared between cases and controls.
+5 
+Latency
+ is the period of subclinical disease following exposure that ends with the onset 
+of disease.
+6 
+Prevalence
+ is the number or proportion of cases or events or conditions present in a given 
+population. Incident cases are those who are newly diagnosed with the disease of interest.
+7 
+Random errors
+ vary in a nonreproducible way around a limiting mean. These errors can be 
+treated statistically by use of the laws of probability. 
+Systematic errors
+ are reproducible and 
+tend to bias a result in one direction. Their causes can be assigned, at least in principle, and 
+they can have constant and variable components.
+8 
+Tumor laterality
+ is the preference in location of tumor in one portion of the body over 
+other locations in the body.
+9 
+Selection bias 
+occurs when the association that is observed among those who participate in 
+a study is different from what would have been observed because individuals who were eligible 
+to participate refused or were not selected.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.EPIDEMIOLOGY
+ 21
+which would tend to bias estimates of the odds ratio downward (Vrijheid 
+et al. 2006). Random errors in reported use of cellular phones also could 
+obscure a small increase in risk. In the simulation study based on different 
+assumptions about random and systematic errors using preliminary data 
+of a study on short-term recall of mobile phone use among healthy volun
+-teers, sensitivity analyses indicated that random errors in recall were likely 
+to outweigh plausible systematic errors in recall that can lead to a large 
+under-estimation, if there is a true risk, in the risk of brain cancer associ
+-ated with use of wireless communication devices (Vrijheid et al. 2006).
+ The 
+pending results of the INTERPHONE study, by far the largest case-control 
+study of head and neck tumors to date, are likely to have a major in˚uence 
+on the direction and scope of future research concerning the use of cellular 
+phones and cancer. 
+An international collaborative study with prospective follow-up of 
+mobile phone use is being launched in Europe. A key advantage of cohort 
+studies
+10
+ is the ability to evaluate multiple outcomes, providing the op
+-portunity for a more comprehensive assessment of possible health risks. 
+In addition, more accurate exposure data may be
+ obtained because recall 
+of exposure information would be independent of the outcome of interest 
+and the self-reported mobile phone use could be complemented more read
+-ily with information from mobile service providers. Furthermore, selection 
+bias should not be an issue as it can be in a case-control study. Suf˜ciently 
+long exposure and follow-up would allow for the detection of effects that 
+occur with a latency of several years. Additionally, it might be possible to 
+collect data to evaluate dose-response relationships in a prospective cohort 
+study. Mortality is probably inadequate as the sole measure of effect and 
+incidence
+11
+ could also be included.
+ Occupational studies
+12
+ have been performed over a longer time period, 
+but the exposure frequencies may not always be relevant for an assessment 
+of effects at frequencies of interest from wireless communication devices, 
+and we are only beginning to measure and learn about RF exposures in 
+various occupations. The most extensive literature addresses brain tumors 
+and leukemia, but also of note are cancers of the breast (Tynes et al. 1996; 
+Morgan et al. 2000), testis (Hayes et al. 1990), lung (
+Armstrongetal.1994;
+Armstrong et al. 1994; 
+Groves et al. 2002
+),anduvealmelanoma
+), and uveal melanoma
+13
+ (Stang et al. 2001). These stud
+-ies have several methodological weaknesses related to the fact that none 
+10
+ A 
+cohort study
+ is a type of epidemiologic study where a group of individuals are followed 
+over time to assess the occurrence of a given disease or condition. Enrollment into the study 
+is based on exposure characteristics or membership in a group. 
+11
+ Incidence
+ is a measure of disease occurrence that quanti˜es the number of new cases of a 
+disease that develop in a population of individuals at risk during a speci˜ed time period.
+12
+ Occupational studies
+ are studies of workers.
+13
+ Uveal melanoma
+ is cancer of the eye.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.22
+ IDENTIFICATION OF RESEARCH NEEDS
+of the studies measured RF exposures. 
+Theincludedoccupationsdidnot
+The included occupations did not 
+necessarily represent truly highly exposed occupations. 
+Anotherweakness
+Another weakness 
+is that exposure classi˜cation has often been based on a single job title. In 
+addition, limited control of confounding, if any, has been made.
+Evaluation of effects and adjustment for exposure measurement error 
+and selection bias in case-control studies is needed. By better characterizing 
+exposure measurement error and evaluating the magnitude of selection bias, 
+such information may be used to adjust for exposure misclassi˜cation in 
+existing and future studies. 
+Several ecologic studies
+14
+ (Hocking et al. 1996; McKenzie et al. 1998) 
+have examined cancer risk, including risk of childhood leukemia, among 
+populations living in
+ proximity to radio and television broadcast towers. 
+Often driven by a previously identi˜ed cluster, thes
+eanalysesarebased
+ analyse
+sarebased
+ are based 
+simply on distance from the source and often include an extremely small 
+number of cases. 
+ Such studies have been mostly uninformative. More 
+rigorous investigations might be feasible with a development of new instru
+-ments capable of capturing personal RF exposures. 
+Furthermore, in addition to the rapid growth in the number of base 
+stations, there has been a growth of other sources of RF radiation from 
+cordless phones and wireless systems. The last general survey of RF levels 
+in U.S. cities was conducted in the 1970s (Tell and 
+Mantiply1980),and
+Mantiply 1980
+),and
+), and 
+an updated survey of RF intensities would be useful background for future 
+epidemiologic studies. Measurements of the differences in the exposures 
+generated by the use of cell phones and other wireless systems will be of 
+value in determining if there are any health effects resulting from exposures 
+to low levels and/or intermittent sources of RF radiation.
+NON
+CANCER
+ H
+EALTH
+ E
+FFECTS
+Few studies have been conducted on health effects other than cancer 
+risk of RF electromagnetic ˜elds from wireless communication devices 
+(Auvinen 2007). The existing studies have been small and have meth
+-odological limitations such as lack of rigorous exposure assessment, in
+-adequate control of confounding, and cross-sectional design. Exposure 
+settings have included mobile phone use, residence close to base stations, 
+and occupational exposures (broadcasting). The health endpoints evaluated 
+include reproductive effects, cardiovascular health (Morgan et al. 2000; 
+Groves et al. 2002), and nonspeci˜c symptoms such as headache, sleep 
+disturbances, fatigue, and depressed mood (Chia et al.
+ 2000; Sandstrom 
+et al. 2001). Several reports of increased prevalence of symptoms among 
+14
+ Ecologic studies
+ contain only information on population averages and lack joint distribu
+-tions of individual-level variables
+.Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.EPIDEMIOLOGY
+ 23
+subjects exposed to communication devices have been published, but the 
+quality of the research is generally low. At present, the knowledge base of 
+health effects other than cancer is grossly inadequate. 
+Due to lack of knowledge on possible mechanisms and the wide range 
+of potential effects, assessment of research needs cannot be very speci˜c. 
+Little indication to guide future efforts is available from other ˜elds of re
+-search related to wireless communications devices (in vivo studies, animal 
+studies, or laboratory studies of volunteers). Thus, multi-endpoint
+ studies 
+are needed, and in this case a cohort approach of both children and adults is 
+most suitable. In addition, there is the possibility of obtaining more accurate 
+exposure data, which is important considering how rapidly wireless tech
+-nology is changing in both exposure characteristics (e.g., frequencies and 
+modulation) and usage pattern (e.g., phone use vs. text messaging or web 
+sur˜ng). The following outcomes are of particular interest: cancer, cardio
+-vascular, neurological, neurodegenerative, and cerebrovascular diseases; 
+and reproductive, behavioural, cognitive, neurophysiologic, and neuro
+-psychological effects, including headaches, sleep disturbances,
+ tinnitus,
+15
+ psychiatric disorders, and well-being (health-related quality of life).
+ Children
+With the rapid advances in technologies and communications utilizing 
+RF ˜elds, children are increasingly exposed to RF energy at earlier ages 
+(starting at age 6 or before). Environmental exposures could be particularly 
+harmful to children because of their vulnerability during periods of develop
+-ment before and after birth. Although it is unknown whether children are 
+more susceptible to RF exposures, they may be at increased risk because 
+of developing organ and tissue systems, particularly of the nervous system 
+(Kheifets et al. 2005). In addition, they may have a greater speci˜c absorp
+-tion rate (SAR) and higher absorption of RF energy at frequencies utilized 
+in wireless communications devices and greater RF penetration relative 
+to head size. Finally, the current generation of children will experience a 
+longer period of exposure to RF ˜elds from mobile phone use than adults 
+since they started using mobile phones at an early age and are likely to 
+continue to use them. Data from the INTERPHONE study show that both 
+the prevalence of regular mobile phone users and daily use were highest 
+in the younger age groups (Cardis et al. 2007). Moreover, several recent 
+trends (such as increased popularity, reduced price, and advertising to 
+children) have led to increased mobile phone use among children. A steep 
+increase in mobile phone ownership among children has been reported in 
+15
+ Tinnitus
+ is ringing of the ears.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.24
+ IDENTIFICATION OF RESEARCH NEEDS
+several
+ surveys. In spite of this, there is virtually no relevant epidemiology 
+at
+ present that examines health effects in children.
+Children are potentially exposed from conception through maternal 
+wireless device use and then postnatally when they themselves become users 
+of mobile phones. Both short-term and long-term health consequences of 
+mobile phone use can be ef˜ciently studied by adding information on the 
+mobile phone use to the existing birth cohorts using a life course approach. 
+Cognitive and behavioral effects are of particular importance and can be 
+evaluated in the near term.
+Owing to widespread use of mobile phones among children and adoles
+-cents and the possibility of relatively high exposures to the brain, investiga
+-tion of the potential effects of RF ˜elds in the development of childhood 
+brain tumors is warranted. Brain cancer is an important endpoint to study 
+but is rare in children and so a cohort study is unlikely to be feasible.
+There is at present a lack of information concerning the health effects 
+associated with living in close proximity to base stations. Epidemiologic 
+studies of mobile phone base stations present unique challenges that need 
+to be addressed to make such studies rigorous. One particular dif˜culty in a 
+study of populations near transmitters such as TV, radio, and base stations, 
+with both residential exposure and cell phone use, is the development of 
+accurate indexes of exposure that are closely correlated to the exposures 
+that a person receives. Assuming a nonspeci˜c effect from RF exposure 
+implies that in an epidemiologic study all major RF sources should be evalu
+-ated (i.e., from both base stations and TV and radio towers as exposure 
+from these sources are whole body and of similar magnitude; additionally, 
+exposure from one™s own cell phone use should be considered). Further 
+investigation into improved measurements is a critical step in better captur
+-ing exposure data from these sources and in determining the feasibility of 
+epidemiologic studies of children living in the vicinity of these sources.
+The committee™s evaluation of presentations and discussions at the 
+workshop has resulted in the identi˜cation of the following research needs 
+and gaps.
+Adults
+Research Needs
+1.
+ Prospective Cohort Studies. A prospective cohort study will allow 
+for the evaluation of diverse outcomes, but a very large sample size and 
+extended follow-up is required for rare outcomes or those that occur only 
+with very long latencies.
+2.
+ Occupational Cohorts with Medium to High Exposure. None of 
+the occupational studies to date have been based on an adequate exposure 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.EPIDEMIOLOGY
+ 25
+assessment.
+ Much work is needed to identify occupations with potentially 
+high RF exposures and to characterize them.
+ Among the particular ˜nd
+-ings in need of follow-up are uveal cancer, leukemia, lung, breast, testicular 
+cancers, and sperm quality. If feasible, epidemiologic studies could focus on 
+the health effects of potential RF exposures at high levels that might occur 
+in a few workplace tasks (e.g., antenna construction and maintenance). In 
+addition, several groups of ˜re˜ghters have expressed concerns about their 
+exposure from base stations located in ˜rehouses and possible exposure to 
+antennas on the ˜re trucks. A feasibility study might be useful in determin
+-ing whether these groups have a suf˜cient exposure range and if an infor
+-mative study is feasible. 
+Research Gaps
+Judged to Be of Lower Priority
+1.
+ Case-control Studies of Rare Diseases. 
+For rare diseases, such as 
+adult leukemia, non-Hodgkin lymphoma
+ and neurodegenerative diseases, 
+additional case-control studies may be justi˜ed as a cohort study will likely 
+not have suf˜cient statistical power. Such case-control studies would better 
+characterize exposure and try to adjust for exposure measurement error and 
+selection bias as needed.
+2.
+ Observational Studies on Subjective Outcomes.
+16
+ Subjective out
+-comes from long-term exposures can be addressed in appropriately de
+-signed, observational studies (e.g., prospective cohort study) that include 
+provisions for avoiding or minimizing reporting and selection and misclas
+-si˜cation biases.
+Children
+Research Needs
+1.
+ Prospective Cohort Studies of Pregnancy and Childhood.
+ Children 
+are potentially exposed from conception through maternal wireless device 
+use and then postnatally when they themselves become users of mobile 
+phones.
+ Both short-term and long-term health consequences of mobile 
+phone use can be ef˜ciently studied by adding information on the mobile 
+phone use to the existing birth cohorts using a life course approach. Cogni
+-tive and behavioral effects are of particular importance and can be evalu
+-ated in the near term.
+16
+ Subjective outcomes
+ are outcomes or symptoms that are dif˜cult to quantify objectively 
+(e.g., pain, headaches, sleep disturbances). 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.26
+ IDENTIFICATION OF RESEARCH NEEDS
+2. Case-control Study of Children Mobile Phone Users and Brain 
+Cancer.
+ Owing to widespread use of mobile phones among children and 
+adolescents and the possibility of relatively high exposures to the brain, 
+investigation of the potential effects of RF ˜elds in the development of 
+childhood brain tumors is warranted.
+ Brain cancer is an important end
+-point to study but is rare in children and so a cohort study is unlikely to 
+be feasible.
+Research Gaps
+Research Ongoing
+1.
+ Case-control studies on childhood cancer with improved exposure 
+assessment taking into account all major ˜xed point sources of RF expo
+-sure (base stations, AM, FM, TV antennas, and other sources)
+.Thereisat
+ There is at 
+present a lack of information concerning the health effects associated with 
+living in close proximity to base stations
+.Epidemiologicstudiesofmobile
+. Epidemiologic studies of mobile 
+phone base stations present unique challenges that need to be addressed to 
+make such studies rigorous
+. Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.27
+Human Laboratory Studies
+The third session of the workshop focused on human laboratory stud
+-ies. Human laboratory studies of radiofrequency (RF) exposure investigate 
+the effects of RF exposure to humans in a controlled laboratory environ
+-ment to determine potential RF effects on relevant biological endpoints 
+including changes in electroencephalogram (EEG) amplitudes, increase in 
+blood pressure, sleep disturbances, cardiac arrhythmia, changes in cognitive 
+performance, and headaches. This report section is organized into neuro
+-physiological and cognitive effects, effects on the ear and hearing, effects 
+on heart rate and blood pressure, 
+andsubjectivesymptomsandelectro-
+and subjective symptoms and electro
+-magnetic hypersensitivity (EHS).
+NEUROPH
+YSIOLOGICAL
+ AND
+ COGNITIVE
+ EFFECTS
+ In spite of the large number of investigations, RF-induced neurophysi
+-ological effects need further study. While several studies have focused on 
+spectral power of EEG, regional cerebral blood ˚ow (rCBF),
+1 and event-
+related (evoked) potentials (ERP),
+2 most of the present data are collected 
+by investigations evaluating acute effects on healthy adults during short 
+1 
+Cerebral blood ˚ow
+ (CBF) is the blood supply to the brain in a given time, being about 
+15
+ percent of the cardiac output. An increase or decrease in normal CBF will cause an increase 
+or decrease in cerebral arterial blood volume because of arterial dilatation or constriction.
+2 
+An 
+event-related potential
+ (ERP) is any stereotyped electrophysiological response to an 
+internal or external stimulus. More simply, it is any measured brain response that is directly 
+the result of a thought or perception.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.28
+ IDENTIFICATION OF RESEARCH NEEDS
+exposures to RF ˜elds.
+ Dosimetric measurements for different cortical func
+-tional subregions can be conducted inside a head phantom ˜lled with liquid 
+having tissue-equivalent dielectric properties. A calibrated RF ˜eld scanning 
+probe, moved by a robotic arm, records the spatial values of electric ˜eld 
+strengths and Speci˜c Absorption Rates (SARs) within cubic volumes in 
+the head phantom.
+It is generally recognized that the interpretation of EEG ˜ndings is dif˜
+-cult because of the high intra-individual variability in attention and waking 
+state of volunteers. Some of the waking EEG studies reveal an enhancement 
+of cortical activity, as measured by the increase of spectral power in the 
+alpha band
+3 during RF exposure. Also, the most convincing effects of RF 
+exposure on the sleep EEG indicate an increase of the power of the alpha 
+waves, while studies on ERPs have given mixed and inconclusive results 
+(Hamblin and Wood, 2002; Cook et al. 2006).
+For other spectral ranges,
+4 reduction of beta band, attenuation in the 
+theta activity, and increase of gamma response have been reported, as well 
+as reduced amplitude and latency of N100 waves
+5 and an increased P300 
+latency.
+6 However, these ˜ndings could not be replicated with an experi
+-ment that had more statistical power (Hamblin et al. 2006). The inconsis
+-tency with the previous studies was attributed to the small sample size or 
+the lack of a double blind protocol of the previous study. 
+Cognitive performance was assessed using several cognitive tasks, but 
+no statistically signi˜cant effects were found on task performances in a 
+recent study on effects on cognitive performance of exposure to 888 MHz 
+signals using 168 volunteers (Russo et al. 2006). Another comprehensive 
+study focused on cognitive performance of 120 subjects 
+exposedto900
+exposed to 900 
+MHz mobile phones (Keetley et al. 2006). 
+Cognitiveperformancewas
+Cognitive performance was 
+assessed using eight cognitive tests. 
+Afteradjustingforgender,ageand
+After adjusting for gender, age and 
+education, simple and choice reaction times showed signi˜cant impairment, 
+whereas performance on the trail-making task,
+7 which involves working 
+memory, signi˜cantly improved.
+3 
+The 
+alpha band
+ is the spectral component in the EEG signal, which falls between 8-13 Hz.
+4 
+EEG has usually been described in terms of frequency bands: GAMMA (greater than 30
+ Hz), 
+BETA (13-30 Hz), ALPHA (8-13 Hz), THETA (4-8 Hz), and DELTA (less than 4 Hz).
+5 
+N100
+ is an ERP component, characterized as a negative de˚ection in voltage, peaking ap
+-proximately 100 ms after the stimulus. Anomalies in N100 may give rise to cognitive de˜cits 
+(i.e., impairments of memory and learning abilities).
+6 
+P300
+ is an ERP potential component, characterized as a positive de˚ection in voltage, 
+peaking approximately 300 ms after the stimulus.
+7 
+This test consists of two parts, A and B. Part A consists of encircled numbers from 1 to 
+25 spread across a sheet of paper. The object of the test is for the subject to connect the 
+numbers in order, beginning with 1 and ending with 25, whereas Part B requires the subject 
+to connect numbers and letters in an alternating pattern (1-A-2-B-3-C, etc.), both in as little 
+time as possible.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.HUMAN LABORATORY STUDIES
+ 29
+ E
+FFECTS
+ ON
+ THE
+ EAR
+ AND
+ HEARING
+ Because of the close proximity of mobile phones to human ears, the 
+area around the ear receives the highest RF exposure, and a lot of inter
+-est has focused on possible effects on auditory perception or on acoustic 
+evoked potentials.
+8 However, in the majority of experiments on hearing 
+threshold levels or transient evoked otoacoustic emissions,
+9 no signi˜cant 
+effects have been reported. Accordingly, no effects of RF exposure on 
+auditory functions of the cochlea or auditory brainstem responses have 
+been found by several research groups (Pau et al. 2005; 
+Sievert et al. 2005
+; Parazzini et al. 2005
+).
+While there is no evidence on adverse effects on hearing, there are 
+anecdotal reports on interaction of cell phones with hearing aids and co
+-chlear implants. At present, however, there are very few experimental data 
+from human volunteer studies concerning health problems with auditory 
+prostheses.
+EFFECTS
+ ON
+ HEART
+ RATE
+ AND
+ BLOOD
+ PRESSURE
+ Acute changes in the blood pressure and in other cardi
+ophysiological 
+parameters during RF exposure have been studied using healthy adult 
+volunteers. In a study of 32 volunteers, an extensive set of test condi
+-tions including controlled and spontaneous breathing, head-up tilt table 
+test, and deep breathing tests was applied during real and sham exposure 
+ 
+(Tahvanainen et al. 2004
+). The results indicated no statistically signi˜cant 
+effects on heart rate or blood pressure. Also a later comprehensive study 
+with 125 volunteers concluded that RF exposure from cellular phones 
+does not cause noticeable effects on heart rate regulation in healthy adults 
+(Barker et al. 2007). 
+Although there is no clear evidence concerning the negative cardio
+-vascular, in˚ammatory, or respiratory health effects of the electromagnetic 
+˜eld (EMF) produced by wireless communications tools at the macro
+-physiological level, further studies focusing on the early phase of potentially 
+harmful changes are needed. The new techniques focusing on endothelial 
+dysfunction or prolonged oxidative stress have not been extensively used 
+8 
+Evoked potentials
+ are brain reactions on stimulus with amplitude much lower than EEG 
+voltage measured during regular brain activity. While different evoked potentials occur as a 
+result of different stimuli, acoustic evoked potentials (AEP) are a result of acoustic stimuli.
+9 
+An 
+otoacoustic emission
+ (OAE) is a sound that is generated from within the inner ear.
+ Broadly speaking, there are two types of otoacoustic emissions: Spontaneous Otoacoustic 
+Emissions (SOAEs) and Evoked Otoacoustic Emissions (EOAEs). As their names suggest, 
+SOAEs arise spontaneously and EOAEs require an evoking stimulus.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.30 IDENTIFICATION OF RESEARCH NEEDS
+in the human studies. Also, the rapidly developing salivary biochemical 
+analysis techniques offer new possibilities.
+SUBJECTIVE
+ SYMPTOMS
+ AND
+ ELECTROMAGNETIC
+ HYPERSENSITIVIT
+YDuring recent years, numerous individuals have reported a variety 
+of health problems that they relate to exposure to RF ˜elds from mobile 
+phones. While some perceive only mild symptoms and react by avoiding 
+phones, others are so severely affected that they change their entire lifestyle. 
+This reported sensitivity has been generally termed ﬁelectromagnetic hyper
+-sensitivityﬂ or EHS (WHO 2005).
+A number of studies have been conducted where EHS individuals were 
+exposed to RF ˜elds similar to those emitted by cellular phones. In one 
+provocation study,
+10
+ 20 EHS volunteers were exposed to cellular phone 
+signals, which they attributed to the cause of their symptoms (
+Hietanen et 
+al. 2002)
+. The aim was to elicit symptoms under controlled conditions with 
+low-background ˜elds. The number of reported symptoms was higher dur
+-ing sham exposure than during RF exposure, which could have been due to 
+higher postural and mental tension at the beginning of the experiment when 
+subjects were not yet adapted to the experimental conditions. In another 
+study, persons with self-reported sensitivity to mobile phone signals did not 
+react to RF exposure with any increased severity of perceived symptoms 
+(Rubin et al. 2006)
+. Hence there is little support in the research commu
+-nity for the perception that RF ˜elds can be related to EHS or symptoms 
+(Roosli 2007). 
+The conclusion of the Fact Sheet on EHS published by the World Health 
+Organization™s (WHO™s) EMF project is that ﬁEHS is characterized by a 
+ 
+variety of non-speci˜c symptoms that differ from individual to individual. 
+The symptoms are certainly real and can vary widely in their severity. What
+-ever its cause, EHS can be a disabling problem for the affected individual. 
+EHS has no clear diagnostic criteria and there is no scienti˜c basis to link 
+EHS symptoms to EMF exposure. Further, EHS is not a medical diagnosis, 
+nor is it clear that it represents a single medical problemﬂ (WHO 2005).
+The committee™s evaluation of presentations and discussions at the 
+workshop has resulted in the identi˜cation of research needs and gaps. 
+Because of the paucity of data from identically replicated experiments, any 
+future studies would bene˜t from experiments focusing on possible adverse 
+effects on EEG activity, as well as on cognitive performance functions, and 
+should include an increased number of subjects (Croft 2007). 
+10
+ An investigation into the basis of symptoms attributed to RF emissions.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.HUMAN LABORATORY STUDIES
+ 31
+For further research, the workshop attendees noted the following im
+-portant considerations:
+Ł appropriate exposure regimes,
+Ł multi-center collaborations using identical research protocols,
+Ł large sample sizes, and
+Ł reliable EEG analysis techniques.
+In addition, most human studies have examined healthy young adults, 
+a group not necessarily representing the most susceptible part of the popu
+-lation. Therefore, future research needs to include children, the elderly, 
+and people with underlying diseases. While the basic thermoregulatory 
+physiology of healthy people in relation to external heat stress and internal 
+heat load generated by RF radiation is well known, elderly people may be 
+particularly vulnerable to the effects of heat stress (coronary and cerebral 
+thrombosis); therefore, a gap exists in the study of this population.
+Current research gaps include little existing information about
+ neuro
+-physiological changes during
+ heavy (occupational) use of cellular phones for 
+several years. A second gap is that no studies using elderly volunteers
+ are 
+available
+, 
+but could be performed.
+ Finally, there is a continuing need for 
+experiments focusing on possible adverse RF effects identi˜ed by changes 
+in cognitive performance functions.
+Research Needs
+There are some considerable research needs for human laboratory stud
+-ies. Due to the paucity of data from identically replicated experiments,
+ 1.
+ There is a need for experiments focusing on possible adverse RF 
+effects identi˜ed by changes in EEG activity, as well as a need to include a 
+larger number of subjects.
+Research Gaps 
+Research Ongoing
+1.
+ Little or no information is available on possible neurophysiologic 
+effects developing during long-term exposure to RF ˜elds.
+2.
+ Risks of exposure to RF ˜elds in elderly volunteers are
+ not well 
+explored.
+3.
+ There is a continuing need for experiments focusing on possible ad
+-verse RF effects identi˜ed by changes in cognitive performance functions
+.Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.32
+ IDENTIFICATION OF RESEARCH NEEDS
+Judged to Be of Lower Priority
+4.
+ Because the use of cell phones by individuals with auditory pros
+-theses is increasing, there is a need to conduct human volunteer studies 
+to investigate potential 
+healthimplicationsarisingfrominteractionofcell
+health implications arising fro
+minteractionofcell
+ interaction of cell 
+phones with hearing aids and cochlear implants.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.33
+Mechanisms
+Knowledge of the basic interaction mechanisms of radiofrequency (RF) 
+electromagnetic ˜elds (EMFs) with cellular and subcellular (molecular) 
+structures provides a basis for extrapolation of existing knowledge to fu
+-ture technologies and exposure conditions. Thus, research on interaction 
+mechanisms is an important topic and a relevant part of most research 
+programs worldwide. In Europe and the United States, such research has 
+been ongoing for decades. 
+Some of the interaction mechanisms that have been identi˜ed so far 
+are well understood and widely accepted. Those include mechanisms that 
+lead to thermal effects in biological tissues and forces exerted at high 
+˜eld strengths that result in dielectrophoresis,
+1 electroporation,
+2 and pearl 
+chain formation
+3 of cells (Schwan 1982, 1985; Holzapfel et al. 1982). The 
+responses of cells to elevated temperature are well documented and seem 
+to be independent from the heating source. The electroporation effects 
+are technically used, for example in pharmacology and for basic scienti˜c 
+research in the integration of external DNA into cells. For wireless
+ com
+-munication devices electroporation is not relevant as it becomes signi˜cant 
+1 
+Dielectrophoresis
+ is de˜ned as the lateral motion imparted on uncharged particles as a 
+result of polarization induced by nonuniform electric ˜elds.
+2 
+Electroporation
+ is a mechanical method used to introduce polar molecules into a host cell 
+through the cell membrane. In this procedure, a large electric pulse temporarily disturbs the 
+phospholipid bilayer, allowing molecules like DNA to pass into the cell.
+3 Chains of living or nonliving particles (pearl chains) form along the lines of force of electro
+-magnetic ˜elds (including RF ˜elds).
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.34
+ IDENTIFICATION OF RESEARCH NEEDS
+only at very high ˜eld strengths. The minimum RF signal that can modify 
+the transport of ions and molecules is an open question. 
+The basic question still under debate is whether there are other inter
+-action mechanisms of low-intensity RF electromagnetic ˜elds that could 
+have health consequences. Of particular interest is the possible existence of 
+health effects that occur due to the accumulation of multiple, long-term, 
+low-intensity RF exposures.
+Currently, the most appropriate ways to answer these basic questions 
+include the use of biophysical
+4 (theoretical), biochemical, and biological ap
+-proaches. At the physical and chemical levels, the prime goal is to identify 
+a candidate mechanism that could overcome the various sources of ﬁnoiseﬂ 
+in the biological system. 
+From the biochemical and biological perspective, two approaches were 
+suggested at the workshop to identify mechanisms that may be operating 
+at low exposures:
+Ł Successive- or multiple-hypothesis testing based on hazard mecha
+-nisms or stress responses that are relevant for cancer (Roti Roti 2007).
+ The 
+pitfall of this approach seems to be that the number of parameters to be 
+tested is high and not all parameters are known.
+Ł The use of high-throughput screening methods (Leszczynski 2007) 
+such as genomics,
+5 proteomics,
+6 metabolomics,
+7 and others not yet devel
+-oped (the so called ﬁ-omicsﬂ). Such methods have already been used in 
+EMF research programs. The pitfall of these methods is the very high num
+-ber of reactions that might be detected. Many of those reactions might be 
+of no relevance or be false positives. Thus all ˜ndings need to be validated 
+using complementary methods. 
+From the biophysical perspective a series of mechanisms has been 
+suggested by various investigators. Those mechanisms include but are not 
+limited to:
+4 
+A 
+biophysical approach
+ is one that applies physical principles and methods to biological 
+problems.
+5 
+Genomics
+ is a branch of biotechnology concerned with applying the techniques of genetics 
+and molecular biology to the genetic mapping and DNA sequencing of sets of genes or the 
+complete genomes of selected organisms using high-speed methods.
+6 
+Proteomics
+ is a branch of biotechnology concerned with applying the techniques of molecu
+-lar biology, biochemistry, and genetics to analyzing the structure, function, and interactions 
+of the proteins produced by the genes of a particular cell, tissue, or organism, including the 
+organization of the information in databases.
+7 
+Metabolomics 
+is the systematic study of the unique chemical ˜ngerprints that speci˜c 
+ 
+cellular processes leave behindŠspeci˜cally, the study of their small-molecule metabolite 
+pro˜les.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.MECHANISMS
+ 35
+Ł Temperature rise (ﬁheatingﬂ),
+Ł voltage-gated ion channels (includes action potential-related 
+channels),
+Ł ion channel electro-denaturation,
+Ł membrane enzyme electro-conformational coupling,
+Ł magnetically sensitive radical pair reactions,
+Ł magnetite-based mechanical coupling, and
+Ł temporary membrane pore creation.
+None of these possible mechanisms has so far been positively identi˜ed as 
+a candidate for causation of health effect.
+Testing for the sensitivity of the central nervous system (CNS) to detect 
+modulated RF signals using the pattern recognition capability of the brain 
+and neural networks would improve our understanding of the minimum 
+signal level that biological systems can sense and distinguish from back
+-ground noise.
+It was noted at the workshop that mechanisms can be modeled theo
+-retically with the use of software-based nonlinear cell models that describe 
+˜eld-induced molecular changes (Weaver 2007; Gowrishankar et al. 2006). 
+It was also noted (D™Inzeo 2007) that investigation of doses occurring on 
+the microscopic level may lead to a better understanding of possible interac
+-tions of RF electromagnetic ˜elds on the cellular and subcellular level. The 
+utility of this observation is supported by recent ˜ndings (Barnes and Kwan 
+2005) that suggest a higher energy absorption at the microscopic scale, e.g., 
+at the boundary between cellular structures with different dielectric proper
+-ties. Several national and international expert groups, including the World 
+Health Organization, have requested more research into micro-dosimetry 
+and appropriate dielectric models as a medium- to long-term research need. 
+Some research programs in Europe already include such investigations.
+It is unclear whether low-level RF exposure can trigger effects through 
+stimulation of cellular thermo-receptors. 
+Itisalsocurrentlyunclearifanon-
+It is also currently unclear if a non
+-linear biological mechanism exists that could lead to demodulation effects. 
+As a result, different modulations and wave characteristics would affect 
+biological systems differently. There is some research with respect to this 
+question underway, such as 
+anexperimentbeingconductedintheUK.
+an experiment being conducted in the
+ UK.
+8 Knowledge is lacking concerning the effects of electromagnetic ˜elds on 
+ion and molecular transport through the cell membrane. Work is ongoing at 
+the Massachusetts Institute of Technology, and the outcome should be eval
+-uated before further work is initiated (Weaver and
+ Chizmadzhev
+ 2006).
+8 
+http://www.mthr.org.uk/research_projects/HO_funded_projects_excell.htm Accessed Sep
+-tember 2
+0, 2007.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.36
+ IDENTIFICATION OF RESEARCH NEEDS
+The committee™s evaluation of presentations and discussions at the 
+workshop has resulted in the identi˜cation of the following research needs 
+and gaps.
+Research Needs
+1.
+ Effects of RF electromagnetic ˜elds on neural networks are re
+-search needs.
+ There are indications that neural networks are a sensitive 
+biological target
+. 2.
+ Investigations of doses occurring on the microscopic level are 
+needed to better understand possible interactions of RF electromagnetic 
+˜elds on the cellular and subcellular level.
+ Several national and inter
+-national expert groups, including the World Health Organization, have 
+requested more research into micro-dosimetry and appropriate dielectric 
+models as a medium- to long-term research need
+.Research Gaps 
+Research Ongoing
+1.
+ Mechanisms that can be modeled theoretically with the use of 
+software-based nonlinear cell models that describe ˜eld-induced molecular 
+changes
+.Itiscurrentlyunclearifanonlinearbiologicalmechanismexists
+ It is currently unclear if a nonlinear biological mechanism exists 
+that could lead to demodulation effects. There is some research with respect 
+to this question underway. 
+Judged to Be of Lower Priority
+2.
+ It is unclear whether low-level RF exposure can trigger effects 
+through stimulation of cellular thermo-receptors. 
+3.
+ Knowledge is lacking concerning the effects of electromagnetic 
+˜elds on ion
+ and molecular transport through the cell membrane.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.37
+In Vivo and In Vitro Studies in 
+Experimental Model Systems
+Studies performed using in vivo and in vitro (animal and cellular) 
+experimental model systems are critical components of the effort to iden
+-tify adverse health effects of exposure to radiofrequency (RF) ˜elds gen
+-erated by wireless communications devices. Experimental studies permit 
+the evaluation of possible risks of RF exposure using well-studied model 
+systems under closely controlled conditions. Well-designed studies in ex
+-perimental biological models permit the precise quanti˜cation of exposure 
+levels, generate essential dose-response data, provide the opportunity to 
+eliminate many external variables that could confound or otherwise alter 
+responses to RF ˜elds, and support comparisons of RF responses to those 
+of chemical and other physical agents using large historical databases in 
+which the effects of those agents have been evaluated in biological models 
+with known ability to predict human responses. Experimental studies can 
+also be designed to include speci˜c endpoint evaluations that can generate 
+important data concerning possible biological mechanisms of RF action. 
+Conversely, however, an unavoidable limitation to data from experimental 
+studies is the requirement to extrapolate data (a) between animal species 
+and (b) from high exposure levels used in the laboratory to lower exposure 
+levels to which humans are commonly exposed. Interspecies differences 
+and high-dose to low-dose extrapolations remain important challenges to 
+the interpretation and application of experimental data to assessments of 
+human risk. 
+The body of experimental data from studies designed to investigate the 
+possible health effects of exposure to RF ˜elds continues to expand. Well-
+designed bioassays will include consideration of dose-response
+ relationships.
+ Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.38
+ IDENTIFICATION OF RESEARCH NEEDS
+The state-of-the-science does currently, or will soon, support reasonable 
+conclusions related to the effects of RF exposure on a number of health-
+related endpoints in laboratory animals (Sienkiewicz 2007; Lai 2007; Roti 
+Roti 2007) and cell-based model systems (Vijayalaxmi 2007). However, 
+data gaps do exist, and a number of possibly critical health effects of RF 
+˜elds remain to be investigated. In this regard, it should be noted that 
+essentially all experimental studies of RF health effects have been descrip
+-tive (e.g., Chou et al. 1992; Vijayalaxmi and Obe 2004) in that they have 
+not been designed to investigate speci˜c hypotheses of disease causation. 
+Indeed, lacking compelling biophysical and biochemical/molecular mecha
+-nisms through which RF exposure could play a role in disease causation, 
+investigations of possible links between RF exposure and disease are neces
+-sarily empirical. Additional experimental research focused on the identi˜ca
+-tion of potential biophysical, biochemical, and molecular mechanisms of RF 
+action is therefore considered to be an important research need, because it 
+serves as an essential element of a comprehensive hazard assessment.
+ The following sub-sections are organized into Cancer, Cancer-related 
+Endpoints: Genetic Toxicology, Cancer-related Endpoints: Other, and Non
+-cancer Health Effects.
+CANCER
+Perhaps the single most important question concerning the health 
+ 
+effects of exposure to RF ˜elds is the possible link between such exposures 
+and cancer risk. Several well-designed, large-scale studies to evaluate the 
+possible oncogenicity of chronic exposure to RF ˜elds in laboratory animals 
+have been conducted (Zook and Simmens 2001; La Regina et al. 2003; 
+Anderson et al. 2004; Tillmann et al. 2007) or are currently in progress. 
+In consideration of the size and strength of the emerging database for 
+studies of the potential carcinogenicity and general toxicity of RF ˜elds, 
+and the quality of the studies that have been and are being conducted, 
+there appears to be only limited value to be gained by initiating addi
+-tional
+ oncogenicity studies using standard-bred animal models until ongo
+-ing studies have been completed. Following completion of these studies, a 
+ﬁweight-of-the
+-evidenceﬂ analysis can be conducted (for example, using 
+criteria established by the International Agency for Research on Cancer) to 
+synthesize and evaluate the entire data set. At that time, rational, informed 
+decisions can be made concerning (a) the value of conducting additional 
+oncogenicity studies in standard-bred
+ laboratory animals and (b) speci˜c 
+design elements that can be incorporated into any such studies in order to 
+address identi˜ed data gaps. 
+Although a large database will soon be available to support evalua
+-tions of the possible oncogenicity of RF ˜elds in standard-bred animals, 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.IN VIVO AND IN VITRO STUDIES IN EXPERIMENTAL MODEL SYSTEMS
+ 39
+few
+ studies have been conducted in which potential cancer risks have been 
+evaluated using genetically engineered models in which animals demon
+-strate increased sensitivity to carcinogenesis. The results of such studies 
+could be essential to assessing possible risks of RF exposure in susceptible 
+subpopulations, including individuals with underlying disease, those with 
+genetic alterations that predispose them to oncogenesis, and prior or simul
+-taneous exposure to other carcinogenic or potentially carcinogenic agents. 
+The use of genetically engineered animals may also increase the sensitivity 
+of laboratory studies to detect weak effects, and may be particularly suit
+-able to evaluate the possible interactions between RF ˜elds and other agents 
+in disease causation. 
+The possible risks of neoplasia (the process of tumor formation) associ
+-ated with RF exposure in individuals that have been (or are currently) exposed 
+to other environmental or occupational carcinogens may also be investigated 
+experimentally through the use of multi-stage (ﬁinitiation
+-promotionﬂ or co-
+carcinogenesis) cancer models (Adey et al. 1999, 2000; Zook and Simmens 
+2001; Bartsch et al. 2002; Anane et al. 2003; Yu et al. 2006). Several such 
+studies have been performed in animal models for cancer in several different 
+organ sites, with uniformly negative results. However, the overall database 
+for RF ˜elds and cancer would be strengthened considerably by additional 
+studies using multi-stage model systems for cancer in tissues (such as the 
+brain) that have been hypothesized to be targets of RF action. Currently the 
+value of such studies is often limited by the lack of suitable animal models 
+that demonstrate the (a) organ speci˜city and (b) background tumor re
+-sponses to make them suitable for use in hazard identi˜cation. 
+CANCER
+-R
+ELATED
+ E
+NDPOINTS
+: G
+ENETIC
+ T
+OXICOLOG
+YAs noted at the workshop (Lai 2007, Vijayalaxmi 2007), substantial 
+effort has been put forth to evaluate the possible genetic toxicity of RF 
+˜elds, both in vivo and in vitro. Although a number of positive outcomes 
+have been reported, efforts to replicate
+ the results of positive studies have 
+generally failed. Furthermore, the majority of experimental studies designed 
+to identify genotoxic effects of exposure to RF ˜elds have not found sig
+-ni˜cant mutagenic or clastogenic activity in any model system that is in 
+broad general use for genetic toxicology evaluations. On this basis, most 
+investigators in the ˜eld agree that no compelling body of evidence exists 
+to support the hypothesis that RF ˜elds are genotoxic. The committee con
+-cludes that additional studies using standard genetic toxicology test systems 
+are unlikely to increase our understanding of the possible risks associated 
+with RF exposure at this time.
+That said, additional genetic toxicology studies may be warranted 
+should evidence of oncogenicity be identi˜ed in any of the ongoing chronic 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.40 IDENTIFICATION OF RESEARCH NEEDS
+toxicity/oncogenicity bioassays of RF ˜elds in laboratory animals, or in 
+any future studies to be performed using genetically engineered animal 
+models. In the event that RF ˜elds are identi˜ed as being oncogenic in one 
+or more of these studies, further genetic toxicology studies of RF ˜elds may 
+be warranted as a means to identify possible mechanisms underlying such 
+oncogenicity. Should evidence of oncogenicity be identi˜ed in a genetically 
+engineered animal model, additional genetic toxicology studies could be 
+particularly valuable if conducted using cells demonstrating the same mo
+-lecular defect. Additional genetic toxicology studies could also be of value 
+if performed in cells that demonstrate a predisposition to DNA damage, 
+such as defects in the ataxia-telangiectasia (AT) gene (associated with AT)
+1 or de˜ciencies in DNA repair (e.g., 
+xeroderma pigmentosum
+ cells).
+2  C
+ANCER
+-R
+ELATED
+ E
+NDPOINTS
+: O
+THER
+Although substantial experimental data are emerging that can be used 
+to evaluate the possible oncogenicity of RF ˜elds, a number of potentially 
+critical cancer-related endpoints have received only very limited study. 
+These include:
+Ł Possible in˚uences of RF exposure on the structure and function of 
+the immune system. Modulation of immune surveillance provides a known 
+mechanism through which exogenous agents may stimulate oncogenesis. 
+The effects of RF on speci˜c arms of host immune function have received 
+very little study in validated immunotoxicology model systems.
+Ł Possible in˚uences of RF exposure on the endocrine system. In 
+consideration of the high incidence of hormone-dependent cancers in the 
+population at large, modulation of hormone synthesis and/or action could 
+also provide an indirect mechanism through which agents may stimulate or 
+inhibit carcinogenesis in hormone-dependent tissues. 
+Ł In vitro
+ studies of the effects of RF exposure on cell proliferation, 
+apoptosis,3 and biochemical and molecular pathways of known signi˜cance 
+to carcinogenesis. Although labor-intensive and relatively narrow in scope, 
+1 
+Ataxia-telangiectasia
+ is an inherited disorder with symptoms that may include 
+telangiectasi
+s (dilation of capillaries), ataxic (uncoordinated) gait, proneness to infection, defective humoral 
+and cellular immunity, and increased risk of malignancies.
+2 
+Xeroderma pigmentosum
+ is a genetic condition inherited as a recessive autosomal trait that 
+is caused by a defect in mechanisms that repair DNA mutations (as those caused by ultraviolet 
+light) and is characterized by the development of pigment abnormalities and multiple skin 
+cancers in body areas exposed to the sun.
+3 
+Apoptosis
+ is a genetically directed process of cell self-destruction that is activated either 
+by a stimulus or removal of a suppressing agent or stimulus, and is a normal physiological 
+process eliminating unwanted cells.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.IN VIVO AND IN VITRO STUDIES IN EXPERIMENTAL MODEL SYSTEMS
+ 41
+such studies may identify mechanisms through which RF may induce or 
+stimulate neoplastic development. 
+Ł Broadly based (whole genome) investigations of alterations in gene 
+and protein expression in cells exposed to RF ˜elds. Because no repro
+-ducible effects of RF exposure on cancer-related endpoints have yet been 
+identi˜ed, genome-wide and proteome-wide screening studies can provide 
+an unbiased (although untargeted) approach through which RF-induced 
+changes in biological activities may be identi˜ed. Following the initial 
+genome-wide/proteome-wide screening, targeted data analyses and further 
+investigations of pathways that are modulated by RF will be required to 
+identify alterations in gene or protein expression that may underlie neoplas
+-tic activity or other toxic effects of RF exposure. 
+OTHER
+ H
+EALTH
+ E
+FFECTS
+ (N
+ON
+CANCER
+) In addition to cancer-related endpoints, data gaps exist in a number 
+of other areas of toxicology in which knowledge is essential to support a 
+complete evaluation of the possible health effects of RF exposure. These 
+include:
+Ł Possible in˚uences of RF exposure on fetal and neonatal develop
+-ment. Developmental and reproductive toxicity evaluations could include 
+possible teratogenic
+4 effects at nonthermal exposure levels, effects on ma
+-ternal behavior, effects on male and female fertility, and effects on matu
+-ration patterns in neonatal and juvenile animals. Although clear evidence 
+of teratogenicity has been demonstrated at RF exposure levels that induce 
+temperature changes, the possible teratogenicity of RF ˜elds at lower (non
+-thermal) exposure levels has been studied much less extensively. Similarly, 
+the possible effects of RF exposure on neonatal and juvenile growth and 
+development (for example, using endpoints included in perinatal and post
+-natal development, including maternal function, and toxicology evalua
+-tions) have received little study.
+Ł Possible in˚uences of RF exposure on the structure and function of 
+the immune system, including prenatal, neonatal, and juvenile exposures. In 
+addition to possible effects on cancer risk (as discussed above), modulation 
+of immune function could alter host resistance to infectious agents. This 
+could be particularly important in juvenile animals (and children), since 
+their immune system is less developed than in adults.
+Ł Possible in˚uences of RF exposure on the structure and function 
+of the central nervous system, including prenatal, neonatal, and juvenile 
+ 
+exposures. Effects on the structure of the nervous system (including the 
+4 
+Teratogenic
+ means to be of, relating to, or causing developmental malformations.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.42
+ IDENTIFICATION OF RESEARCH NEEDS
+blood-brain barrier) could impact a variety of behavioral, emotional, learn
+-ing, and other higher cognitive functions. It is important to note, however, 
+that changes in central nervous system (CNS) function may also occur with
+-out histopathologic evidence of underlying structural damage. Such changes 
+could be assessed through comprehensive neurobehavioral evaluations, 
+such as functional observational batteries that are commonly included in 
+nonclinical toxicology studies; through specialized evaluations of CNS 
+function (e.g., motor activity, acoustic startle, and other more speci˜c neuro
+-toxicology evaluations); and through electrophysiological assessments of 
+CNS function (e.g., electroencephalograms). Neurobehavioral evaluations 
+in juvenile animals exposed to RF may be particularly important, as the 
+juvenile blood-brain barrier is less well developed than in adults; alterations 
+in the blood-brain barrier could have both direct effects on CNS function, 
+and could underlie neurotoxicity by allowing the entry into the brain of 
+substances that are ordinarily excluded.
+ The data gaps identi˜ed above can be addressed, at least initially, 
+through the conduct of descriptive (empirical) toxicology, carcinogenesis, 
+and molecular studies whose goal is general assessment of the impact of 
+exposure to RF ˜elds on toxicological or disease endpoints. Following com
+-pletion of this set of empirical studies, further progress in the evaluation of 
+the possible health effects of RF exposure will depend on the conduct of 
+hypothesis-driven investigations of putative mechanisms of RF action. At 
+the present time, no generally accepted biological or molecular mechanism 
+has been identi˜ed through which RF exposure may impact disease pro
+-cesses. Should exposure to RF ˜elds be found to induce toxicity or increase 
+the risk of any speci˜c disease, the importance of fundamental mechanistic 
+research in our understanding of these effects cannot be overstated, as it 
+will provide the only realistic pathway to a complete assessment of any 
+hazards posed to exposure to RF ˜elds. 
+The committee™s evaluation of presentations and discussions at the 
+workshop has resulted in the identi˜cation of the following research needs 
+and gaps.
+Research Needs
+1.
+ Additional experimental research focused on the identi˜cation of 
+potential biophysical and biochemical/molecular mechanisms of RF action 
+are considered to be of the highest priority. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.IN VIVO AND IN VITRO STUDIES IN EXPERIMENTAL MODEL SYSTEMS
+ 43
+Research Gaps
+Cancer
+Research Ongoing
+1.
+ In consideration of the size and strength of the emerging database 
+for studies of the potential carcinogenicity and general toxicity of RF ˜elds, 
+there appears to be only limited value to be gained by initiating additional 
+oncogenicity studies using standard-bred animal models until ongoing stud
+-ies have been completed. Following completion of these ongoing studies, 
+a ﬁweight-of-the-evidenceﬂ analysis can be conducted to synthesize and 
+evaluate the entire data set. At that time, rational, informed decisions can 
+be made concerning:
+ a.
+ the value of conducting additional oncogenicity studies in 
+ 
+standard-bred laboratory animals, and
+ b.
+ design elements that should be incorporated into any such 
+ 
+studies in order to address identi˜ed data gaps. 
+2.
+ The use of genetically engineered animals may increase the sensi
+-tivity of laboratory studies to detect weak effects, and may be particularly 
+suitable to evaluate the possible interactions between RF ˜elds and other 
+agents in disease causation. 
+3.
+ The overall database for RF ˜elds and cancer would be strength
+-ened by additional studies using multi-stage model systems for cancer in 
+tissues (such as the brain) that have been hypothesized to be targets of RF 
+action. At the present time, however, the value of such studies is often lim
+-ited by the lack of suitable animal models that demonstrate:
+ a.
+ appropriate organ speci˜city, and 
+ b.
+ background tumor responses (incidence and latency) to make 
+them suitable for use in hazard identi˜cation. 
+Cancer-related Endpoints: Genetic Toxicology
+4.
+ Although genetic toxicology studies have failed to identify potential 
+RF health effects (in part due to lack of replication of ˜ndings from key 
+positive studies), additional genetic toxicology studies may be warranted 
+should evidence of oncogenicity be identi˜ed in any of the ongoing chronic 
+toxicity/oncogenicity bioassays of RF ˜elds in laboratory animals, or in 
+any future studies to be performed using genetically engineered animal 
+models. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.44
+ IDENTIFICATION OF RESEARCH NEEDS
+Cancer-related Endpoints: Other
+5.
+ A number of potentially critical cancer-related endpoints have re
+-ceived only very limited study. These include:
+ a.
+ possible in˚uences of RF exposure on the structure and function 
+of the immune system,
+ b.
+ possible in˚uences of RF exposure on the endocrine system,
+ c.
+ in vitro
+ studies of the effects of RF exposure on cell prolifera
+-tion, apoptosis, and biochemical and molecular pathways of known signi˜
+-cance to carcinogenesis, and
+ d.
+ broadly based (whole genome) investigations of alterations in 
+gene and protein expression in cells exposed to RF ˜elds. 
+Other Health Effects (Noncancer) 
+6.
+ In addition to cancer-related endpoints, data gaps exist in a number 
+of other areas of toxicology in which knowledge is essential to support a 
+complete evaluation of the possible health effects of RF exposure. These 
+include:
+ a.
+ possible in˚uences of RF exposure on fetal and neonatal 
+development,
+ b.
+ possible in˚uences of RF exposure on the structure and function 
+of the immune system, including prenatal, neonatal, and juvenile exposures, 
+and
+ c.
+ possible in˚uences of RF exposure on the structure and function 
+of the central nervous system, including prenatal, neonatal, and juvenile 
+exposures.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.45
+References
+Adey, W. R., C. V. Byus, C. D. Cain, R. J. Higgins, R. A. Jones, C. J. Kean, N. Kuster, A. 
+MacMurray, R. B. Stagg, and W. Haggren. 1999. Spontaneous and nitrosourea-induced 
+primary tumors of the central nervous system in Fischer 344 rats chronically exposed to 
+836 MHz modulated microwaves. Radiat. Res. 152:293-302.
+Adey, W. R., C. V. Byus, C. D. Cain, R. J. Higgins, R. A. Jones, C. J. Kean, N. Kuster, A. 
+MacMurray, R. B. Stagg, and G. Zimmerman. 2000. Spontaneous and nitrosourea-
+induced primary tumors of the central nervous system in Fischer 344 rats chronically 
+exposed to frequency-modulated microwave ˜elds. Cancer. Res. 60:1857-1863.
+Anane, R., P. E. Dulou, M. Taxile, M. Geffard, F. Crespeau, and B. Veyret. 2003. Effects of 
+GSM-900 microwaves on female rats bearing DMBA-induced tumours. Radiat. Res. 
+160:492-497.
+Anderson, L. E., D. M. Sheen, B. W. Wilson, S. L. Grumbein, J. A. Creim, and L. B. Sasser. 
+2004. Two-year chronic bioassay study of rats exposed to a 1.6 GHz radiofrequency 
+signal. Radiat. Res. 162:201-210.
+ANSI (American National Standards Institute). 1982. American National Standard Safety 
+Levels with respect to Human Exposure to Radio Frequency Electromagnetic Fields, 300 
+kHz to 100 GHz. ANSI C95.1-1982.
+Armstrong, B., G. Theriaul, P. Guenel, J. Deadman, M. Goldberg, and P. Heroux. 1994. As
+-sociation between exposure to pulsed electromagnetic ˜elds and cancer in electric utility 
+workers in Quebec, Canada, and France. Am. J. Epidemiol. 140:805-820.
+Auvinen, A. 2007. Non-cancer Epidemiology. Presented at the workshop organized by the 
+Committee on Identi˜cation of Research Needs Relating to Potential Biological or 
+Adverse Health Effects of Wireless Communications Devices, Washington, DC, August 
+7-9, 2007. 
+Barker, A. T., P. R. Jackson, H. Parry, L. A. Coulton, G. G. Cook, and S. M. Wood. 2007. The 
+effect of GSM and TETRA mobile handset signals on blood pressure, catechol levels and 
+heart rate variability. Bioelectromagnetics 28(6):433-438.
+Barnes, F., and Y. Kwon. 2005. A theoretical study of the effects of rf ˜elds in the vicinity of 
+membranes. Bioelectromagnetics 26(2):118-124.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.46
+ IDENTIFICATION OF RESEARCH NEEDS
+Bartsch, H., C. Bartsch, E. Seebald, F. Deerberg, K. Dietz, L.Vollrath, and D. Meeke. 2002. 
+Chronic exposure to a GSM-like signal (mobile phone) does not stimulate the develop
+-ment of DMBA-induced mammary tumors in rats: Results of three consecutive studies. 
+Radiat. Res. 157:183-190.
+Cardis, E., L. Richardson, I. Deltour, B. Armstrong, M. Feychting, C. Johansen, et al. 2007. 
+The INTERPHONE study: Design, epidemiological methods, and description of the 
+study population. Eur. J. Epidemiol. DOI 10.1007/s10654-007-9152-z.
+Chia, S. E., H. P. Chia, and J. S. Tan. 2000. Prevalence of headache among handheld cel
+-lular telephone users in Singapore: A community study. Environ. Health Perspect. 108: 
+1059-1062.
+Chou, C. K., A. W. Guy, L. L. Kunz, R. B. Johnson, J. J. Crowley, and J. H. Krupp. 1992. 
+Long-term low-level microwave irradiation of rats. Bioelectromagnetics 13:469-496.
+Cook, C. M., D. M. Saucier, A. W. Thomas, and F. S. Prato. 2006. Exposure to ELF magnetic 
+and ELF-modulated radiofrequency ˜elds: The time course of physiological and cognitive 
+effects observed in recent studies (2001-2005). Bioelectromagnetics 27:613-627. 
+Croft, R. 2007. Human Laboratory SessionŠSleep, Cognition. Presented at the workshop 
+organized by the Committee on Identi˜cation of Research Needs Relating to Potential 
+Biological or Adverse Health Effects of Wireless Communications Devices, Washington, 
+DC, August 7-9, 2007.
+D™Inzeo, G. 2007. Mechanisms (Biophysics). Presented at the workshop organized by the 
+Committee on Identi˜cation of Research Needs Relating to Potential Biological or 
+Adverse Health Effects of Wireless Communications Devices, Washington, DC, August 
+7-9, 2007.
+Gandhi, O. P. 1979. DosimetryŠThe absorption properties of man and experimental animals. 
+Bulletin of the New York Academy of Medicine 55:(11)999-1020.
+Gandhi, O. P., and M. S. Lam. 2003. An on-site dosimetry system for safety assessment of 
+wireless base stations using spatial harmonic components. IEEE Transactions on Anten
+-nas & Propagation 51(4):840-847.
+Gowrishankar, T. R., A. T. Esser, Z. Vasilkoski, K. C. Smith, and J. C. Weaver. 2006. Microdo
+-simetry for conventional and supra-electroporation in cells with organelles. Biochemical 
+and Biophysical Research Communications 341:1266-1276.
+Groves, F. D., W. F. Page, G. Gridley, L. Lisimaque, P. A. Stewart, R. E. Tarone, et al. 2002. 
+Cancer in Korean War navy technicians: Mortality survey after 40 years. Am. J. Epide
+-miol. 155:810-818.
+Hamblin, D. L., R. J. Croft, A. W. Wood, C. Stough, and J. Spong. 2006. The sensitivity of hu
+-man event-related potentials and reaction time to mobile phone emitted electromagnetic 
+˜elds. Bioelectromagnetics 27:265-273.
+Hamblin, D. L., and A.W. Wood. 2002. Effects of mobile phone emissions on human brain 
+activity and sleep variables. Int. J. Radiat. Biol. 78(8):659-669.
+Hardell, L., M. Carlberg, and K. Mild. 2006. Pooled analysis of two case-control studies on 
+the use of cellular and cordless telephones and the risk for malignant brain tumours 
+diagnosed in 1997-2003. Int. Arch. Occup. Environ. Health 79:630-639.
+Hayes, R. B., L. M. Brown, L. M. Pottern, M. Gomez, J. W. Kardaun, R. N. Hoover, K. J. 
+O™Connell, R. E. Sutzman, and N. Javadpour. 1990. Occupation and risk for testicular 
+cancer: A case-control study. Int. J. Epidemiology 19:825-831.
+Hietanen, M., A.-M. Hämäläinen, and T. Husman. 2002. Hypersensitivity symptoms as
+-sociated with exposure to cellular telephones: No causal link. Bioelectromagnetics 23: 
+264-270. 
+Hirata, A., S. Kodera, J. Wang, and O. Fujiwara. 2007. Dominant factors in˚uencing whole-
+body average SAR due to far-˜eld exposure in whole-body resonance frequency and GHz 
+regions. Bioelectromagnetics 28:484-487.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.REFERENCES
+ 47
+Hocking, B., I. Gordon, H. Grain, and G. Hat˜eld. 1996. Cancer incidence and mortality and 
+proximity to TV towers. 
+Med.J.Aust.165:601-605.
+Med. J. Aust. 165:601-605.
+Holzapfel, C., J. Vienken., and U. Zimmermann. 
+1982.Rotationofcellsinanalternating
+1982. Rotation of cells in an alternating 
+electric ˜eld: Theory and experimental proof. J. Membr. Biol. 67:13-26.
+IEEE (Institute of Electrical and Electronics Engineers). 1996. Microwave Theory & Tech
+-niques, Special Issue on Medical Application and Biological Effects of Microwaves Part 
+II.
+Keetley, V., A. W. Wood, J. Spong, and C. Stough. 2006. Neuropsychological sequelae of 
+digital mobile phone exposure in humans. 
+Neuropsychologia44(10):1843-1848.
+Neuropsychologia 44(10):1843-1848.
+Kheifets, L., M. Repacholi, R. Saunders, and E. van Deventer. 2005. Sensitivity of children to 
+EMF. Pediatrics 116(2):e303-e313.
+Krewski, D. 2007. Cancer Epidemiology. Presented at the workshop organized by the Commit
+-tee on Identi˜cation of Research Needs Relating to Potential Biological or Adverse Health 
+Effects of Wireless Communications Devices, Washington, DC, August 7-9, 2007. 
+Lahkola, A., A. Auvinen, J. Raitanen, M. Schoemaker, H. C. Christensen, M. Feychting, 
+C. Johansen, L. Klaboe, S. Lonn, A. J. Swerdlow, T. Tynes, and T. Salminen. 2007. 
+Mobile phone use and risk of glioma in 5 North European countries. Int. J. Cancer 
+120:1769-1775.
+Lai, H. 2007. In VivoŠAnimal and Cell Biology. Presented at the workshop organized by 
+the Committee on Identi˜cation of Research Needs Relating to Potential Biological or 
+Adverse Health Effects of Wireless Communications Devices, Washington, DC, August 
+7-9, 2007. 
+La Regina, M., E. G. Moros, W. F. Pickard, W. L. Straube, J. Baty, and J. L. Roti Roti. 
+2003. The effect of chronic exposure to 835.62 MHz FDMA or 847.74 MHz CDMA 
+radiofrequency radiation on the incidence of spontaneous tumors in rats. Radiat. Res. 
+160:143-151.
+Leszczynski, D. 2007. In VitroŠAnimal and Cell Biology. Presented at the workshop or
+-ganized by the Committee on Identi˜cation of Research Needs Relating to Potential 
+Biological or Adverse Health Effects of Wireless Communications Devices, Washington, 
+DC, August 7-9, 2007. 
+Lonn, S., A. Ahlbom, P. Hall, and M. Feychting. 2004. Mobile phone use and the risk of 
+acoustic neuroma. Epidemiology 15(6):653-659.
+McKenzie, D., Y. Yin, and S. Morrell. 1998. Childhood incidence of acute lymphoblastic 
+leukemia and exposure to broadcast radiation in SydneyŠa second look. Aust. N. Z. J. 
+Public Health 22:360-367.
+Mezei, G., M. Benyi, and A. Muller. 2007. Mobile phone ownership and use among school 
+children in three Hungarian cities. Bioelectromagnetics 28(4):309-315. 
+Morgan, R. W., M. A. Kelsh, K. Zhao, K. A. Exuzides, S. Heringer, and W. Negrete. 2000. 
+Radiofrequency exposure and mortality from cancer of the brain and lymphatic/hema
+-topoietic systems. Epidemiology 11:118-127. 
+Parazzini, M., S. Bell, G. Thuroczy, F. Molnar, G. Tognola, M. E. Lutman, and P. Ravazzani. 
+2005. In˚uence on the mechanisms of generation of distortion product otoacoustic emis
+-sions of mobile phone exposure. Hear. Res
+. 208:68-78.
+Pau, H. W., U. Sievert, S. Eggert, and W. Wild. 2005. Can electromagnetic ˜elds emitted 
+by mobile phones stimulate the vestibular organ? Otolaryngol. Head Neck Surg. 132: 
+43-49.
+Roti Roti, J. 2007. In VivoŠAnimal and Cell Biology. Presented at the workshop organized 
+by the Committee on Identi˜cation of Research Needs Relating to Potential Biological or 
+Adverse Health Effects of Wireless Communications Devices, Washington, DC, August 
+7-9, 2007. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.48
+ IDENTIFICATION OF RESEARCH NEEDS
+Rubin, G. J., G. Hahn, B. S. Everitt, A. J. Cleare, and S. Wessely. 2006. Are some people sensi
+-tive to mobile phone signals? Within participants double blind randomised provocation 
+study. BMJ 332:886-891. 
+Russo, R., E. Fox, C. Cinel, A. Boldini, M. A. Defeyter, D. Mirshekar-Syahkal, and A. Mehta. 
+2006. 
+Doesacuteexposuretomobilephonesaffecthumanattention?Bioelectromagnet-
+Does acute exposure to mobile phones affect human attention? Bioelectromagnet
+-ics 27(3):215-220.
+Sandstrom M., J. Wilen, G. Oftedal, and K. Mild. 2001. Mobile phone use and subjective 
+symptoms. Comparison of symptoms experienced by users of analogue and digital mobile 
+phones. Occup. Med. (Lond) 51:25-35.
+Schuz, J., R. Jacobsen, J. Olsen, J. Boice, J. McLaughlin, and C. Johansen. 2006. Cellular 
+telephone use and cancer risk: Update of a nationwide Danish cohort. J. Natl. Cancer 
+Inst. 98:1707-1713.
+Schwan, H. P. 1982. Nonthermal cellular effects of electromagnetic ˜elds: AC-˜eld induced 
+ponderomotoric forces. Br. J. Cancer. 45 (Suppl. V):220-224.
+Schwan, H. P. 1985. EM-˜eld induced effects. 
+InA.Chiabrera,C.Nicolini,andH.P.Schwan,
+In A. Chiabrera, C. Nicolini, and H. P. Schwan, 
+editors. 
+Interactionsbetweenelectromagnetic˜eldsandcells.NewYork:PlenumPress.
+Interactions between electromagnetic ˜elds and cells. New York: Plenum Press. 
+Pp 371-390.
+Sienkiewicz, Z. 2007. In VitroŠAnimal and Cell Biology. Presented at the workshop organized 
+by the Committee on Identi˜cation of Research Needs Relating to Potential Biological or 
+Adverse Health Effects of Wireless Communications Devices, Washington, DC, August 
+7-9, 2007. 
+Sievert, U., S. Eggert, and H. W. Pau. 2005. Can mobile phone emissions affect auditory func
+-tions of cochlea or brain stem? Otolaryngol. Head Neck Surg. 132:451-455. 
+Stang, A., G. Anastassiou, W. Ahrens, K. Bromen, N. Bornfeld, and K. H. Jockel. 2001. The 
+possible role of radiofrequency radiation in the development of uveal melanoma. Epi
+-demiology 12:7-12.
+Tell, R., and E. D. Mantiply. 1980. Population exposure to VHF and UHF broadcast radiation 
+in the U.S. Proceedings of the IEEE 68:6-12. 
+Tillmann, T., H. Ernst, S. Ebert, N. Kuster, W. Behnke, S. Rittinghausen, and C.
+ Dasenbrock. 
+2007. Carcinogenicity study of GSM and DCS wireless communication signals in B6C3F1 
+mice. Bioelectromagnetics 28:173-187.
+Tynes, T., M. Hannevik, A. Andersen, A. I. Vistnes, and T. Haldorsen. 1996. Incidence of 
+breast cancer in Norwegian female radio and telegraph operators. Cancer Causes Control 
+7:197-204.
+van Deventer, E. 2007. Research Needs for RF Fields: A WHO Perspective. Presented at the 
+workshop organized by the Committee on Identi˜cation of Research Needs Relating to 
+Potential Biological or Adverse Health Effects of Wireless Communication Devices, Wash
+-ington, DC, August 7-9, 2007 (see also 
+www.who.int/em
+f for RF Research Agenda).
+Vijayalaxmi, and G. Obe. 2004. Controversial cytogenetic observations in mammalian somatic 
+cells exposed to radiofrequency radiation. Radiat. Res. 162:481-496.
+Vijayalaxmi. 2007. In VitroŠAnimal and Cell Biology. Presented at the workshop organized 
+by the Committee on Identi˜cation of Research Needs Relating to Potential Biological or 
+Adverse Health Effects of Wireless Communications Devices, Washington, DC, August 
+7-9, 2007. 
+Vrijheid, M., I. Deltour, D. Krewski, M. Sanchez, and E. Cardis. 2006. The effects of recall 
+errors and of selection bias in epidemiologic studies of mobile phone use and cancer risk. 
+J. Expo. Sci. Environ. Epidemiol. 16(4):371-384.
+Wang, J., O. Fujiwara, S. Koder, and S. Watanabe. 2006. FDTD calculation of whole-body 
+average SAR in adult and child models for frequencies from 30 MHz to 3 GHz. Phys. 
+Med. Biol. 51:4119-4127.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.REFERENCES
+ 49
+Weaver, J., and Y. Chizmadzhev. 2006. Handbook of Biological Effects of Electromagnetic 
+Fields (3rd Edition), F. Barnes and B. Greenbaum,
+ editors. Biological and Medical Aspects 
+of Electromagnetic Fields. Chapter 9:293-333. New York: CRC Press.
+ Weaver, J. 2007. In Silico Bioelectromagnetics and In Vivo Biochemical Noise. Presented at 
+the workshop organized by the Committee on Identi˜cation of Research Needs Relating 
+to Potential Biological or Adverse Health Effects of Wireless Communications Devices, 
+Washington, DC, August 7-9, 2007. 
+WHO (World Health Organization). 2005. Electromagnetic Hypersensitivity. Fact Sheet No 
+296, Geneva, Switzerland.
+Yu, D., Y. Shen, N. Kuster, Y. Fu, and H. Chiang. 
+2006.Effectsof900MHzGSMwire-
+2006. Effects of 900 MHz GSM wire
+-less communication signals on DMBA-induced mammary tumors in rats. Radiat. Res. 
+165:174-180.
+Zook, B. C., and S. J. Simmens. 2001. The effects of 860 MHz radiofrequency radiation on 
+the induction or promotion of brain tumors and other neoplasms in rats. Radiat. Res. 
+155:572-583.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.51
+Appendix A
+Statement of Task
+The National Academies will organize a workshop of national and in
+-ternational experts to discuss research needs and gaps in knowledge of bio
+-logical effects and adverse health outcomes of exposure to radiofrequency 
+energy from wireless communications devices. Following the workshop, 
+the National Academies will issue a report that draws on the presentations 
+and discussions at the workshop to identify current gaps in knowledge and 
+future research needed to address those gaps. The report will also provide 
+the committee™s consensus ˜ndings on near-, mid-, and long-term research 
+opportunities.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.52
+Appendix B
+Committee Biographical Sketches
+Frank S. Barnes, Ph.D., NAE, 
+is distinguished professor in the Department 
+of Electrical and Computer Engineering at the University of Colorado at 
+Boulder. He received a Ph.D. in electrical engineering from Stanford Uni
+-versity. His career has included research in a wide variety of applications 
+in physics and electrical engineering, focusing on fundamental research on 
+the biological effects of electromagnetic ˜elds, surgical procedures, and 
+telecommunications education. His research has included the effects of 
+radio waves, ˜elds from power lines, and ultrasonic ˜elds on biological 
+systemsŠtrying to understand the mechanisms of interaction that might 
+lead to identi˜cation of hazards, the setting of safety standards, and the 
+establishment of minimum detectable ˜elds. He has been an author of more 
+than 150 papers. Dr. Barnes is an AAAS fellow, an Institute of Electrical and 
+Electronics Engineers (IEEE) fellow, and was elected to the National Acad
+-emy of Engineering in 2001. He received the Gordon Prize for Innovations 
+in Engineering Education and is a past-president of the Bioelectromagnetics 
+Society (BEMS). Dr. Barnes chaired a National Academies™ committee that 
+assessed in four reports potential health effects from exposures to low-level 
+radiofrequency energy produced by a phased-array radar
+.Om P. Gandhi, Ph.D.,
+ has been a faculty member in the Department of 
+Electrical Engineering at the University of Utah since 1967, where he has 
+been a professor since 1973. He also served as the department chairman 
+from 1992 to 2000. Having worked in the ˜eld of bioeletromagnetics 
+(safety assessment and medical applications of electromagnetic ˜elds) since 
+1973, Dr. Gandhi has expertise regarding electromagnetic (EM) absorption 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.APPENDIX B
+ 53
+in humans for various public and personnel radio frequency EM exposure 
+environments using anatomically based models of the human body and 
+numerical electromagnetic techniques that are used to understand coupling 
+of EM ˜elds for far- and near-˜eld exposures from power line to microwave 
+frequencies. This expertise includes the use of numerical and experimental 
+techniques for compliance testing of wireless communication devices and 
+development of instrumentation for assessing personnel safety. From 1995 
+to 2003, Dr. Gandhi served as chairman of the National Council of Ra
+-diation Protection™s Scienti˜c Committee 89-4 on ﬁBiological Effects and 
+Exposure Recommendations for Pulse-Modulated RF Fields.ﬂ Dr. Gandhi 
+was elected a fellow of the IEEE in 1979 and received the distinguished 
+research award from the University of Utah for 1979-1980. He received 
+the Utah Governor™s Medal for Science and Technology in 2002 and the 
+Microwave Pioneer Award of the IEEE-Microwave Theory and Techniques 
+Society in 2001. He has been president of the Bioelectromagnetics Society 
+(1992-1993), co-chairman of IEEE SCC 28.IV Subcommittee on the RF 
+Safety Standards (1988-1997), and chairman of the IEEE Committee on 
+Man and Radiation (1980-1982). Dr. Gandhi is author or co-author of 
+several book chapters and over 250 peer-reviewed journal articles on elec
+-tromagnetic dosimetry, microwave tubes, and solid-state devices. When 
+the Speci˜c Absorption Rate (SAR) testing of the cell phone industry was 
+mandated by the FCC in 1993, his laboratory at the University of Utah 
+provided a service to test cell phones during the years 1993-1999 from a 
+number of manufacturers.
+Maila Hietanen, Ph.D.,
+ is head of the Non-Ionizing Radiation (NIR) Sec
+-tion at the Finnish Institute of Occupational Health (FIOH) in Helsinki, 
+Finland. She has a background in applied physics, and her research inter
+-ests focus on assessment and prevention of health risks related to human 
+exposure to non-ionizing radiation. In recent years Dr. Hietanen with her 
+research team has been doing research on the neurophysiological and cardio
+-physiological effects associated with the use of mobile phones. In addition, 
+her research work includes a study on subjective symptoms of persons with 
+perceived electrical hypersensitivity. Dr. Hietanen has been a board member 
+(2001Œ2007) of the European Bioelectromagnetic Association (EBEA). She 
+has also served on the board of the BEMS, and was an associate editor 
+for the 
+Bioelectromagnetics Journal
+ during the years 2003-2005. She has 
+been involved in research cooperation within the European Coordination 
+Action (EMF-NET). She is also the vice-chair of the European COST 281 
+Action (ﬁPotential Health Implications from Mobile Communicationﬂ), 
+and a member of several European and international standards commit
+-tees (CENELEC, IEC). She was also nominated as the Finnish representa
+-tive at the International Advisory Committee of the WHO EMF Project. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.54
+ APPENDIX B
+Dr.
+ Hietanen was invited as a member of the International Commission on 
+Non-Ionizing Radiation Protection (ICNIRP) in 1996, and elected as the 
+ICNIRP vice-chair for 2004-2008. Currently she is involved in a national 
+research program, which receives funding from the Finnish Technological 
+Agency, which in turn receives some funding from industry in addition to 
+the governmental budget.
+Leeka Kheifets, Ph.D.,
+ is a professor of epidemiology in UCLA™s School 
+of Public Health. Most recently she was head of the Radiation Studies 
+Program at the World Health Organization. Previously she was a techni
+-cal executive at the Electric Power Research Institute, where she directed 
+a multidisciplinary electric and magnetic ˜elds (EMFs) research program. 
+She taught at the Stanford University School of Medicine in the Depart
+-ment of Health Research and Policy and is widely known for her work 
+in environmental and occupational epidemiology. Dr. Kheifets serves on 
+international and national committees that provide advice to governments 
+on environmental policy. She is a member of the International Committee of 
+the Swedish Radiation Protection Authority (SSI). She has served on com
+-mittees for the National Research Council, IEEE, and National Council on 
+Radiation Protection and Measurements. Dr. Kheifets was also a member of 
+the National Institute of Environmental Health Sciences, the International 
+Agency for Research on Cancer Working Groups, and WHO EHC Task 
+Groups charged with evaluating potential health effects from EMF expo
+-sure. Her research interests include epidemiology of cardiovascular and 
+neurodegenerative diseases and cancer, as well as a methodologic research 
+in risk assessment and policy development. Dr. Kheifets has been a member 
+of the standing committee on epidemiology of the ICNIRP since March 
+2002. A portion of Dr. Kheifets™s funding comes from the nonpro˜t Electric 
+Power Research Institute (EPRI) to study effects of power-frequency ˜elds 
+(60 Hz). EPRI in turn receives funding from the electrical power industry. 
+She has also consulted for electric utilities.
+Rüdiger Matthes
+ received his M.E. degree in electronic engineering from 
+the Technical University in Munich. Since 1989 he has served as head of 
+the group ﬁNon-Ionizing Radiation (Dosimetry)ﬂ at the German Federal 
+Of˜ce for Radiation Protection. The interests of this group cover all aspects 
+of nonionizing radiation protection with the main focus on dosimetry. He 
+has been the scienti˜c secretary of the ICNIRP since 1993. Mr. Matthes 
+is currently coordinating a 
+17 million German research program on pos
+-sible health effects from mobile communication technologies. Mr. Matthes 
+himself is a civil servant and thus completely independent from external 
+funding. In addition, the Federal Of˜ce for Radiation Protection has a close 
+liaison to the International EMF Project of the World Health Organization. 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.APPENDIX B
+ 55
+Mr. Matthes is the German expert in this program that currently reviews 
+scienti˜c evidence in the radio frequency area. ICNIRP is also reviewing 
+the scienti˜c literature in that ˜eld. At that organization, Mr. Matthes is 
+chairing the standing committee on physics and technology.
+David L. McCormick, Ph.D., D.A.B.T.,
+ is senior vice-president and
+ director of IIT Research Institute (IITRI). At IITRI, Dr. McCormick leads the
+ research 
+activities of approximately 150 scientists, technicians, and support staff 
+working in the ˜elds of toxicology, carcinogenesis and cancer prevention, 
+microbiology, molecular biology, and biodefense. He also serves as chair
+-man of Technology Research, Inc., a wholly owned subsidiary of IITRI. 
+Dr. McCormick is the IITRI professor of biology at the Illinois
+ Institute of 
+Technology (IIT), where he teaches undergraduate and graduate courses in 
+physiology and toxicology. He joined the IITRI staff in 1979 and the IIT 
+faculty in 1982. Dr. McCormick received his A.B. degree from Middlebury 
+College (Middlebury, VT) with a joint major in chemistry and biology. He 
+received his M.S. and Ph.D. degrees in environmental
+ medicine
+/biology 
+from New York University (New York, NY). He is a diplomate of the 
+American Board of Toxicology. Dr. McCormick™s primary research activi
+-ties are in the areas of carcinogenesis and cancer prevention, preclinical 
+and environmental toxicology, and the biological effects of magnetic ˜elds. 
+He has published more than 225 research papers, abstracts, and reviews 
+in these
+ areas. He currently serves as principal investigator on four multi-
+year research programs supported by the National Cancer Institute, and is 
+principal investigator on the National Institute of Environmental Health 
+Sciences/National Toxicology Program project entitled ﬁStudies to Evalu
+-ate the Toxic and Carcinogenic Potential of Cell Phone Radiofrequency 
+Radiation.ﬂ Dr.
+ McCormick serves on the editorial boards of three scienti˜c 
+journals (
+Toxicology, Nutrition and Cancer,
+ and 
+The International Journal 
+of Cancer Prevention
+) and regularly reviews manuscripts submitted for 
+publication in 
+Cancer Research; Clinical Cancer Research;
+ Carcinogenesis; 
+Molecular Cancer Therapeutics; Cancer Epidemiology,
+ Biomarkers, and 
+Prevention; Radiation Research;
+ and 
+Bioelectromagnetics
+; among other 
+journals. He has served on several dozen grant and contract review com
+-mittees for the National Cancer Institute and other funding agencies. 
+Dr.
+ McCormic
+k is a member of the American Association for Cancer Re
+-search, the Society of Toxicology, and the Society for Experimental Biology 
+and Medicine.
+Bernard Veyret, Ph.D.,
+ belongs to the Centre National de la Recherche 
+Scienti˜que (CNRS) as ﬁDirecteur de Rechercheﬂ (senior scientist) at the 
+ﬁLaboratoire de l™Intégration du Matériau au Sytème,ﬂ within the College 
+of Chemistry and Physics at the University of Bordeaux 1, France. Trained 
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.56
+ APPENDIX B
+as an engineer in physics and chemistry at the Industrial Physics and Chem
+-istry Higher Educational Institution (ESPCI) in Paris, he joined the CNRS in 
+1979 and did research on the physical chemistry of the troposphere. Since 
+1984, Dr. Veyret has turned towards the new ˜eld of research on biologi
+-cal effects of electromagnetic ˜elds (bioelectromagnetics). He is now head 
+of the Bioelectromagnetics Laboratory of the 
+École Pratique des Hautes 
+Études. His research team in Bordeaux is composed of about 15 scientists, 
+biologists, and physicists. He was one of the founders of the European 
+Bioelectromagnetics Association (EBEA) in 1989. He belongs to the main 
+commission of ICNIRP and is a member of the International Committee of 
+the Swedish Radiation Protection Authority (SSI). Dr. Veyret has authored 
+more than 75 papers in peer-reviewed journals and co-authored several na
+-tional and international expert-group reports on EMF and health. He was 
+the chairman of the French expert group on ﬁExtremely Low Frequency 
+Fields and Healthﬂ and is a consultant for the French Agency for Envi
+-ronmental and Occupational Health Safety (AFSSET) on the same topic. 
+He is currently a consultant with the World Health Organization (WHO), 
+developing a Web-based EMF course for young scientists working in bio
+-electromagnetics, and has served as the chairman of the RF research recom
+-mendation committee of WHO. He was the coordinator of the European 
+program Perform-B and was an external reviewer for the RAMP 2001 and 
+TeraHertz-Bridge European programs. Dr. Veyret was awarded the 2007 
+Medal of the French International Union of Radio Science. Dr. Veyret is a 
+member of the scienti˜c council (consulting board) of Bouygues Telecom, 
+which is one of the three French mobile phone providers. His laboratory 
+has contracts with Alcatel and some of the mobile telephone providers to 
+write scienti˜c reports and conduct research.
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.57
+Appendix C
+Workshop Agenda
+Committee on Identi˜cation of Research Needs Relating to Potential 
+Biological or Adverse Health Effects of Wireless Communications Devices
+Workshop
+August 7-9, 2007
+The National Academies
+Keck Center, Room 100
+500 Fifth Street, NW
+Washington, DC 20001
+Tuesday, August 
+7, 
+200
+7Open Session
+ Room 100
+9:00 am
+ Call to order
+  
+Description of Meeting, Introduction of Committee Members 
+and Participants
+ Frank Barnes, University of Colorado at Boulder
+ Committee Chair
+9:20
+ Perspective on Gaps in Research Needs
+  Emilie van Deventer, World Health Organization
+ 9:40
+ Questions and comments
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.58
+ APPENDIX C
+Session 1: Exposure and Dosimetry
+9:50
+ Introduction by Moderator, Rüdiger Matthes
+ Om Gandhi, Rapporteur
+9:55
+ Exposure Systems Presentation
+ Gernot 
+Schmid,AustrianResearchCenters
+Schmid, 
+AustrianResearchCenters
+Austrian Research Centers 
+ GmbH Œ ARC
+,Seibersdorf,Austria
+ Seibersdorf, Austria
+10:15
+ Questions and comments
+10:20
+ Dosimetry Presentation
+  
+Soichi Watanabe, National Institute of Information and Com
+-munications Technology, Tokyo, Japan
+10:40
+ Questions and comments
+10:45
+ Comments on Exposure Issues
+ Ray Neutra, California State Department of Health
+11:05
+ Questions and comments
+11:10
+ Exposure Assessment
+  
+Joe Bowman, National Institute for Occupational Safety and 
+Health
+11:30
+ Questions and comments
+11:35
+ Panel DiscussionŠSession 1 Presenters and Moderator 
+12:00 pm
+ LUNCH in Refectory
+Session 2: Epidemiology
+1:15 
+ Introduction by Moderator, Leeka Kheifets 
+ Naoko Ishibe, Rapporteur
+1:20
+ Cancer Epidemiology
+  
+Dan Krewski, University of Ottawa, Institute of Population 
+Health, Ottawa, Canada
+1:40
+ Questions and comments
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.APPENDIX C
+ 59
+1:45
+ Noncancer Epidemiology
+  
+Anssi Auvinen
+, 
+Tampere School of Public Health, Tampere, 
+Finland
+2:05
+ Questions and comments
+2:10
+ Epidemiology Methods
+  
+Peter Inskip, Division of Cancer Epidemiology and Genetics, 
+National Cancer Institute
+2:30
+ Questions and comments
+2:35
+ Panel DiscussionŠSession 2 Presenters and Moderator 
+3:05
+  
+Opportunity for Public Comment on Gaps in Research Needs 
+(see sign-up sheet)
+4:00 
+ Adjourn Open Session for the Day
+Wednesday, August 
+8, 
+200
+7Open Session
+ Room 100
+8:30 am
+ Call to order
+  
+Description of Meeting, Introduction of Committee Members 
+and Participants
+ Frank Barnes, Committee Chair
+Session 3: Human Laboratory Session
+8:45
+ Introduction by Moderator, Leeka Kheifets 
+ Maila Hietanen, Rapporteur 
+8:50
+ Sleep, Cognition 
+  
+Rodney Croft, Centre for Neuropsychopharmacology, 
+ 
+Swinburne University of Technology, Melbourne, Australia 
+9:10
+ Questions and comments
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.60 APPENDIX C
+9:15
+ EHS and Well-being
+ Martin Roosli, University of Bern, Switzerland
+9:30
+ Questions and comments
+9:35
+  
+Human Peripheral and Central Auditory and Cardiovascular 
+Systems
+  Paolo Ravazzani
+,ConsiglioNazionaledelleRicerche,Milan,
+ Consiglio Nazionale delle Ricerche, Milan, 
+Italy
+9:50
+ Questions and comments
+9:55
+ Panel DiscussionŠSession 3 Presenters and Moderator
+Session 4: Mechanisms
+10:25
+ Introduction by Moderator, Frank Barnes
+  Rüdiger Matthes, Rapporteur
+10:35
+ Biology
+  
+Joe Roti Roti, Biochemistry and Molecular Biophysics, 
+ 
+Washington University, St. Louis, MO
+10:55
+ Questions and comments
+11:00
+ Biophysics
+ Guglielmo D™Inzeo
+, 
+Department of Electronic Engineering, 
+  University ﬁLa Sapienzaﬂ of Rome, Italy
+11:20
+ Questions and comments 
+11:25
+  
+Need for Models to Improve Our Understanding of Electro
+-magnetic Effects on Biological Systems. 
+  James Weaver (via telephone), Harvard/Massachusetts Insti
+-tute of Technology Division of Health Sciences and Technol
+-ogy, Cambridge
+11:40
+ Questions and comments
+11:45
+ Panel DiscussionŠSession 4 Presenters and Moderator
+12:15 pm
+ LUNCH in Refectory
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.APPENDIX C
+ 61
+Session 5: Animal and Cell Biology
+1:15
+ Introduction by Moderator, Bernard Veyret 
+ David McCormick, Rapporteur
+1:20
+  
+In VivoŠAnimal and Cell Biology
+  Zenon Sienkiewicz, Health Protection Agency, Radiation Pro
+-tection Division, Chilton, Didcot, Oxfordshire, UK
+1:40
+ Questions and comments
+1:45
+  
+In VivoŠAnimal and Cell Biology
+  Henry Lai, Department of Bioengineering, University of 
+Washington, Seattle, WA
+1:55
+ Questions and comments
+2:00 
+  
+In VivoŠAnimal Studies
+  Chiyoji Ohkubo, Department of Environmental Biology, 
+Meiji Pharmaceutical University, Tokyo, Japan
+2:10
+ Questions and comments
+2:15
+  
+In VitroŠAnimal and Cell Biology
+  Vijayalaxmi, Department of Radiation Oncology, University 
+of Texas Health Science Center, San Antonio, Texas (retired)
+2:35
+ Questions and comments
+2:40
+  
+In VitroŠAnimal and Cell Biology
+  Dariusz Leszczynski, STUK-Radiation and Nuclear Safety 
+Authority, Helsinki, Finland 
+2:50
+ Questions and comments
+2:55
+ Panel DiscussionŠSession 5 Presenters and Moderator
+3:30
+  
+Opportunity for Public Comment on Gaps in Research 
+Needs
+4:00 
+ Adjourn Open Session for the Day
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.62
+ APPENDIX C
+Thursday, August 
+9, 
+200
+7Open Session
+ Room 100
+9:00 am
+ Call to order
+  
+Description of Meeting, Introduction of Committee Members 
+and Participants
+ Frank Barnes, Committee Chair
+Overarching Issues and Identi˜cation of Research Needs
+Introduction of topic: 5 minutes
+ Open discussion: 15 minutes 
+9:15 
+  
+Effects of Short-term vs. Long-term Exposure 
+  Frank Barnes, University of Colorado at Boulder
+ 9:35
+  
+Local vs. Whole-Body Exposure
+ Om Gandhi, University of Utah, Salt Lake City
+9:55
+  
+How Can the Knowledge of Biological Effects from Cur
+-rent Signal Types and Exposure Patterns Be Extrapolated to 
+Emerging Exposure Scenarios?
+  
+Rüdiger Matthes, Federal Of˜ce for Radiation Protection, 
+Oberschleißheim, Germany
+10:15
+   
+Are There Any Biological Effects That Are Not Caused by an 
+Increase in Tissue Temperature (Nonthermal Effects)? 
+  Bernard Veyret, Université de Bordeaux, Pessac cedex, 
+France
+10:35
+  
+Does RF Exposure Alter (synergize, antagonize, or potentiate) 
+the Biological Effects of Other Chemical or Physical Agents? 
+David McCormick, IIT Research Institute, Chicago, Illinois
+10:55
+  
+Differences in Risk to Children
+  Leeka Kheifets, UCLA School of Public Health, Los Angeles, 
+California
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.APPENDIX C
+ 63
+11:15
+  
+Differences in Risk to Other Subpopulations Such as Elderly 
+and Individuals with Underlying Disease States
+ Maila Hietanen, FIOH, Helsinki, Finland
+11:35
+  
+Opportunity for Public Comment on Gaps in Research 
+Needs
+12:05 pm 
+ Adjourn Open Session
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.64
+Appendix D
+Workshop Participants
+Anssi Auvinen, Tampere School of Public Health, Tampere, Finland
+Joe Bowman, National Institute for Occupational Safety and Health, 
+Cincinnati, Ohio, United States
+Rodney Croft, Centre for Neuropsychopharmacology, Swinburne 
+University of Technology, Melbourne, Australia
+Guglielmo D™Inzeo, Department of Electronic Engineering, University ﬁLa 
+Sapienzaﬂ of Rome, Italy
+Peter Inskip, Division of Cancer Epidemiology and Genetics, National 
+Cancer Institute, Bethesda, Maryland, United States
+Dan Krewski, University of Ottawa, Institute of Population Health, 
+Ottawa, Canada
+Henry Lai, Department of Bioengineering, University of Washington, 
+Seattle, United States
+Dariusz Leszczynski, STUK-Radiation and Nuclear Safety Authority, 
+Helsinki, Finland
+Ray Neutra, California State Department of Health
+Chiyoji Ohkubo, Department of Environmental Biology, Meiji 
+Pharmaceutical University, Tokyo, Japan
+Paolo Ravazzani, Consiglio Nazionale delle Ricerche, Milan, Italy
+Martin Roosli, University of Bern, Switzerland
+Joe Roti Roti, Washington University, St. Louis, Missouri, United States
+Gernot Schmid, Austrian Research Centers, Seibersdorf, Austria
+Zenon Sienkiewicz, Health Protection Agency, Radiation Protection 
+Division, UK
+Emilie van Deventer, World Health Organization, Geneva, Switzerland
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.APPENDIX D
+ 65
+Vijayalaxmi, Department of Radiation Oncology, University of Texas 
+Health Science Center, San Antonio, Texas (retired), United States
+Soichi Watanabe, National Institute of Information and Communications 
+Technology, Tokyo, Japan
+James Weaver, Harvard/Massachusetts Institute of Technology Division of 
+Health Sciences and Technology, Cambridge, Massachusetts, United 
+States
+Identification of Research Needs Relating to Potential Biological or Adverse Health Effects of Wireless ...Copyright National Academy of Sciences. All rights reserved.66
+Appendix E
+List of Individuals Who Submitted 
+Statements Identifying Needs and 
+Gaps in Research Prior to Workshop
+Richard Albanese, M.D., As private citizen 
+Igor Y. Belyaev, Ph.D., D.Sc., The Arrhenius Laboratories for Natural 
+Sciences
+Carl Blackman, Ph.D., U.S. Environmental Protection Agency
+Martin Blank, Ph.D., Columbia University
+Ben Greenbaum, Ph.D., University of Wisconsin-Parkside
+Magda Havas, B.Sc., Ph.D, Trent University
+Catherine Kleiber, As private citizen
+Dariusz Leszczyski, STUK-Radiation and Nuclear Safety Authority
+B. Blake Levitt, As private citizen
+James Lin, Ph.D., University of Illinois, Chicago
+Michael Milligan, Secretary General, Mobile Manufacturers Forum
+Lloyd Morgan, Central Brain Tumor Registry of the United States
+Janet Newton, EMR Policy Institute
+Cindy Sage, M.A., Sage Associates
+Asher Sheppard, Ph.D., Asher Sheppard Consulting
+Martin Wolf, Ph.D., Biomedical Optics Research Laboratory

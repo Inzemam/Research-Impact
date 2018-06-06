@@ -1,0 +1,1089 @@
+DETAILSDistribution, posting, or copying of this PDF is strictly prohibited without written permission of the National Academies Press.  (Request Permission) Unless otherwise indicated, all materials in this PDF are copyrighted by the National Academy of Sciences.Copyright © National Academy of Sciences. All rights reserved.THE NATIONAL ACADEMIES PRESSVisit the National Academies Press at NAP.edu and login or register to get:Œ  
+Œ  10% off the price of print titles
+Œ  Special offers and discountsGET THIS BOOKFIND RELATED TITLESThis PDF is available at SHARECONTRIBUTORS
+http://nap.edu/13003Report of the Committee on Proposal Evaluation forAllocation of Supercomputing Time for the Study ofMolecular Dynamics22 pages | 8.5 x 11 | PAPERBACKISBN 978-0-309-16119-0 | DOI 10.17226/13003Committee on Proposal Evaluation for Allocation of Supercomputing Time for theStudy of Molecular Dynamics; Board on Life Sciences; Division on Earth and LifeStudies; National Research CouncilReport of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.   Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular Dynamics   Committee on Proposal Evaluation for Alloca
+tion of Supercomputing Time for the Study of Molecular Dynamics 
+ Board on Life Sciences 
+Division on Earth and Life Studies       Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.ii THE NATIONAL ACADEMIES PRESS 500 Fifth 
+Street, N.W.  Washington, D.C. 20001 
+ NOTICE: The project that is the subject of this report was approved by the Governing Board of the 
+National Research Council, whose members are draw
+n from the councils of the National Academy of 
+Sciences, the National Academy of 
+Engineering, and the Institute of Medicine. The members of the 
+committee responsible for the report were chosen fo
+r their special competences and with regard for 
+appropriate balance. 
+
+ 
+This study was supported by Grant No. UPVI-6375 be
+tween the National Academy of Sciences and D.E. 
+Shaw Research.  Any opinions, fi
+ndings, conclusions, or recommendati
+ons expressed in this publication are those of the author(s) and do not necessarily reflec
+t the views of the organizations or agencies that 
+provided support for the project. 
+
+ 
+  Copyright 2010 by the National Academy 
+of Sciences. All rights reserved.   
+ 
+Printed in the United States of America 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.             September 2, 2010 
+ Jodi Swidzinski Hezky, Ph.D. 
+
+D. E. Shaw Research 
+
+120 West 45th Street, 39th Floor 
+New York, NY 10036  
+ 
+Dear Dr. Hezky: 
+
+ 
+This letter details the work and transmits 
+the final report of the Committee on Proposal 
+Evaluation for Allocation of Supercomputing Time for the Study of Molecular Dynamics.   
+ 
+The committee evaluated submissions in res
+ponse to a Request for Proposals (RFP) for Biomolecular Simulation Time on Anton, a speci
+alized supercomputer d
+esigned and constructed 
+by D.E. Shaw Research that allows for dramat
+ically accelerated molecular dynamics simulations.  
+D.E. Shaw is making time on a 512 node Anton machine available to the non-commercial 
+research community without cost.  During this 
+time, the Anton machine will be housed at the 
+Pittsburgh Supercomputing Center (PSC)™s Nationa
+l Resource for Biomedical Supercomputing; 
+the related support work to enable Anton to be 
+used by the community is supported by a grant 
+from the National Institute of General Medical Sc
+iences to the PSC.  The work of the National Research Council (NRC) committee to evaluate proposals requesting allocations of time on 
+Anton was supported by a contract between D.E.
+ Shaw Research and the National Academy of 
+Sciences and was performed under the auspices of 
+the National Research Council™s Board on Life 
+Sciences. 
+ 
+To undertake this task, the National Resear
+ch Council convened a committee of experts to consider the proposals submitted in response to the Anton allocation RFP.  The committee of 16 
+was chaired by Dr. Robert L. Jernigan, Director
+ of the Baker Center for Bioinformatics and 
+Biological Statistics and Professor of Biochemistry
+, Biophysics, and Molecular Biology at Iowa 
+State University.  The committee members were chosen for their 
+expertise in molecular dynamics simulations, as well as in the subject areas represen
+ted in the 67 proposals that were considered 
+by the committee for simulation time.  The 
+committee comprised a cross section of the 
+biomolecular MD field, including both senior members and more junior investigators.  The 
+
+biographies of all of the committee members can be found in Appendix D. 
+
+ 
+The goal of the RFP for Biomolecular Simulation Time on Anton is to facilitate breakthrough 
+
+science in the study of biomolecular systems 
+by providing access to a dedicated, massively 
+parallel supercomputer that allows significantly faster simulations of biomolecular systems using 
+periodic boundary conditions and explicit solven
+t models.  Anton™s capabilities allow questions to 
+be addressed on multi-microsecond simulation time
+scales, so the program seeks to support 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.2 projects addressing important and potentially high im
+pact questions that would be most advanced 
+by receiving time on this specialized machine. 
+
+ The Anton RFP and a review guidance document 
+listed criteria against which the committee was 
+requested to evaluate proposals, including:   Scientific Merit, including potential to advance understanding of an important problem 
+or question in the field; potential for breakthrough science resulting in new discoveries 
+
+and understanding; impact that successful 
+completion of the proposed research would 
+have on the knowledge, methods, 
+and current barriers in the field; and a scientifically and 
+technologically feasible project with clear, well-developed, a
+nd appropriate goals, objectives, and approach to the proposed studies.   Justification for Requested Time Allocation
+, including a clear and well-justified need for multi-microsecond simulation time and a clear
+ and convincing justification that the 
+length and number of proposed simulation 
+runs and node-hours requested are necessary 
+and sufficient to achieve the scientific objectives. 
+  Investigator Qualifications, including appropriate experience and training to 
+successfully conduct the proposed studies, evidence of knowledge and prior experience 
+
+with molecular simulations, and past publications. 
+ As described in the RFP, staff at PSC provided an initial review of proposal submissions for 
+completeness and to determine whether they met t
+echnical requirements for simulation on Anton.  
+A PSC staff member was also present as an ob
+server during the review committee discussions in 
+the event that additional technical specification questions arose. 
+
+ D.E. Shaw Research and Pittsburgh Supercomputing 
+Center will make time on Anton available in 
+two phases.  During the first six months, 15 propo
+sals will receive allocations of 100,000 node-
+hours each and during the second six months, approx
+imately 30 proposals will receive allocations 
+of 50,000 node-hours each.  The committee was asked
+ to identify the proposals which best met 
+the selection criteria to receive simulation time on Anton for each of these two phases.   
+
+The committee™s judgments are based on a dete
+rmination of which proposals best met or 
+exceeded the selection criteria described above and on the estimates of required simulation time 
+provided by the applicants. 
+
+ 
+In assembling the committee and conducting the revi
+ew, the National Research Council sought to 
+balance the need to include committee members wi
+th specialized expertise in the subfields of 
+biomolecular MD (in order to evaluate the technical
+ details of proposals), the desire of D.E. Shaw 
+Research and the National Resource for Biomedical Supercomputing at the Pittsburgh 
+
+Supercomputing Center (PSC) to allow members of
+ the review committee to take advantage of 
+the specialized opportunity provided by Anton and to submit proposals if they chose, and the 
+
+need for a review process that was fair and cr
+edible. The following pro
+cess was used to address 
+these sometimes conflicting goals: 
+ Committee members were allowed to submit proposals
+1;                                                  1 Three members of the committee submitted proposals 
+as either Principal Investigators or affiliated 
+faculty: Carol Post was the PI for proposal PSCA00077P, Klaus Schulten was the PI for proposal 
+PSCA00024P, and David Beveridge was a member of the ABC Consortium that submitted proposal 
+
+PSCA00033P (PI: Thomas Cheatham). 
+ Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.3  Prior to the committee meeting, each proposal
+ was read by two primary reviewers and 
+evaluated based on the criteria in the RFP.  These criteria are described in Appendix C; 
+ The proposals were divided into two subgroups and any committee member who was 
+either a Principal Investigator (PI) or affilia
+ted faculty on a proposal was only involved in 
+reviewing the subgroup of proposals that did not include their own
+2;  All other committee members participated in 
+the review and discussion of all proposals in 
+both subgroups, except for those proposals submitted by PIs or affiliated faculty from 
+their own institution or for which they eith
+er had a current academic or collaborative 
+relationship, or with whom they had some past
+ academic or personal relationship that led 
+the committee member to voluntarily recuse him/herself and leave the room during the 
+
+discussion of that specific proposal; and 
+ All committee members, except for those who were a PI or affiliated faculty on the 
+proposals under consideration, participat
+ed in a final session on the second day to 
+combine the results of the subgroup discussions and agree on proposals to be identified 
+
+for allocations of time on Anton.  
+Table 1 (Appendix A) lists the subgroups to which all proposals were assigned and the names of 
+the committee members who were not involved in
+ the review or discussion of each proposal. 
+ 
+The NRC committee held its 2-day meeting in Wash
+ington, D.C. on July 26-27, 2010.  On the 
+first day of the meeting, members of the 
+committee first discussed proposals from subgroup A 
+and then proposals from subgroup B, following th
+e general procedures described above.  For each 
+subgroup of proposals, the committee members w
+ho served as primary reviewers were asked to 
+summarize their reviews of the proposals for whic
+h they were responsible, and these summaries 
+were followed by discussion among the group.  
+Committee members considered the relative 
+strengths of the proposals and worked toward 
+reaching consensus on which ones best met the 
+Anton selection criteria.  If a decision could not be made during this round of discussion, an 
+
+additional committee member was a
+ssigned to review the proposal
+ in detail.  Committee members 
+then returned to the discussion at a later time. 
+ 
+On the second day, all committee members, except fo
+r those who were either a PI or affiliated 
+faculty on the proposals, participated in a fina
+l session to combine the results of the subgroup 
+discussions and agree on proposals to be identifie
+d for allocations of time on Anton.  Although 
+the committee was motivated by its desire to 
+enable as many members of the community as 
+possible to have the opportunity to receive time, 
+it particularly sought to identify those proposals 
+which it judged were most likely to lead to hi
+gh impact or breakthrough science, even if these 
+entailed some risk of failure.   
+
+ 
+The proposals listed below addressed important biological questions and were those which the 
+committee judged took best advantage of Anton™
+s specialized capabilities to address questions over multi-microsecond simulation timescales.  The 
+committee debated the relative advantages of 
+using Anton to address kinetic versus equilib
+rium questions.  In many cases, the proposals 
+identified by the committee as best
+ meeting the selection criteria dealt with kinetic questions and 
+incorporated Anton™s ability to generate dyna
+mic trajectories; they frequently involved 
+informative comparisons between experimental a
+nd computational results.  In other cases, the 
+committee judged that proposals addressing important thermodynamic issues or aspects of 
+methods and force-field validation would be of significant practical value to the community and 
+would also be greatly advanced by receiving time 
+on Anton.  Conversely, some of the proposals 
+which were evaluated as meeting the Anton sel
+ection criteria less well were judged by the 
+                                                 2 Dr. Post reviewed proposals in subgroup A; Drs. Beveridge and Schulten reviewed proposals in subgroup 
+B.  Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.4 committee to lack focus, to pose questions th
+at needed additional preliminary research and 
+development, or that might be alternatively me
+t using other computational resources or analysis 
+methods.    The committee has concluded that the proposals lis
+ted below best meet the objectives of the RFP for Biomolecular Simulation Time on Anton.  Mo
+re detailed comments for all 67 proposals are 
+included in Appendix B.  
+
+ Phase 1 (initial six months):  
+The committee was asked to identif
+y 15 proposals that best met the criteria of the RFP to receive 
+approximately 100,000 node-hours each of simulati
+on time on Anton, for a total time allocation 
+of approximately 1,500,000 node-hours.   
+
+ 
+The 44 proposals that initially requested approxi
+mately 60,000-100,000 node-hours of time were 
+evaluated by the committee for Ph
+ase 1.  Of these, the proposals listed below were judged by the 
+committee as being the 15 that ex
+ceeded the Anton selection criteria and would most benefit from 
+receiving full allocations of requested time.  In
+ numerical order by proposal submission number, 
+these are: 
+ PSCA00007 Capturing Large-Scale Structural Transitions in Membrane 
+Transporters at Atomic Resolution
+; PI: Emad Tajkhorshid, University of Illinois at 
+Urbana-Champaign 
+ PSCA00010 Structural Determinants of Flickering in K+ Channels
+; PI: Benoit Roux, University of Chicago 
+ PSCA00013 The Atomistic Scale Kinesin Mechanism Elucidated on the 
+Experimental Time Scale; PI: Wonmuk Hwang, Texas A&M University 
+ PSCA00023 Visualizing the Pathway of Integrin Headpiece Opening Induced by 
+Ligand Binding
+; PI: Timothy Springer, Harvard University 
+ PSCA00024 Determining the Pathway of Nascen
+t-Protein Insertion through the 
+Protein-Conducting Channel and into the Membrane
+; PI: Klaus Schulten3, University of Illinois at Urbana-Champaign 
+ PSCA00028 Long Time Simulations of Protein Folding: a Synergistic Approach; PI: Vijay Pande, Stanford University 
+  PSCA00046 Toward gaining insights into the mechanism of substrate transport by 
+the aspartate transporter GltPh
+; PI: Ivet Bahar, University of Pittsburgh 
+ PSCA00047 Long Timescale Molecular Dynamics 
+Simulation of Protein Folding; PI: Martin Gruebele, University of Illinois at Urbana-Champaign 
+ PSCA00048 Computational Design and Evaluation of Novel Enzyme Catalysts
+; PI: Kendall Houk, University of California-Los Angeles 
+                                                  3 Dr. Schulten is a member of the Committee on Proposal Evaluation for Allocation of Supercomputing 
+Time for the Study of Molecular Dynamics. 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.5 PSCA00052 Sequencing DNA using MspA
+; PI: Aleksei Aksimentiev, University of 
+Illinois at Urbana-Champaign 
+ PSCA00059 Study of microsecond time scale protein dynamics crucial for 
+phosphorylation-mediated signaling; PI: Michael Hagan, Brandeis University 
+ PSCA00065 Atomistic modeling of the resting and 
+activated states of a voltage-gated potassium channel voltage-sensing domain; PI: Alfredo Freites, University of California-Irvine  PSCA00072 Understanding Sec-facilitate protein translocation and membrane 
+integration: New mechanistic insights from microsecond-timescale trajectories on 
+Anton; PI: Thomas Miller, Califor
+nia Institute of Technology  PSCA00074 Resolving the Molecular Mechanisms of Calcium Binding to Cadherins 
+Involved in Hearing and Deafness
+; PI: David Corey, Harvard Medical School  PSCA00077 Investigation of conformational properties of residues near 5-fold 
+symmetry axis during uncoating of rhinovirus 
+capsid by long time scale molecular 
+dynamics simulation using Anton at NRBSC
+; PI: Carol Post
+4, Purdue University 
+ Phase 2 (second six months): The committee also was asked to id
+entify approximately 30 proposals that best met the criteria of 
+the RFP to receive approximately 50,000 node-hours each of simulation time on Anton, for a total 
+
+time allocation of approximately 1,500,000 node-hours. 
+ The proposals identified by the committee for inclusion under this phase of the project fell into 
+three categories:  
+
+ A. Proposals that initially requested approximately 50,000 or fewer node-hours of simulation time and that the committee judged 
+would most benefit from a full allocation 
+of requested time. 
+ 
+B. Proposals that initially requested more than 50,000
+ node-hours of simulation time.  The 
+committee concluded that these proposals well met the criteria of the RFP and addressed 
+
+questions that would benefit from receiving simulation time on Anton.  However, these 
+proposals were evaluated by the committee as meeting the goals of the RFP for 
+Biomolecular Simulation Time on Anton slightly less well that the proposals selected for 
+
+inclusion in Phase 1.  The committee concl
+uded that valuable progress could still be made in addressing the goals of these proposals with a reduced allocation of time of 
+
+50,000 node-hours each. 
+ C. Additional proposals that the committee conc
+luded would also benefit from receiving 
+simulation time on Anton, ranging from 15,0
+00 to 50,000 node-hours, to complete the 
+available allocation of simulation time. 
+ 
+                                                    4 Dr. Post is a member of the Committee on Proposal Evaluation for Allocation of Supercomputing Time 
+for the Study of Molecular Dynamics. 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.6 A. Proposals initially requesting approx
+imately 50,000 node-hours of time  
+ The committee judged that these proposals also ex
+ceeded the Anton selection criteria and should 
+be considered for a full allocation of requ
+ested simulation time of 50,000 node-hours.  In 
+numerical order by proposal submission number, these are: 
+
+ PSCA00014 Dynamic coupling and binding in
+ a GTPase-effector complex
+; PI: Matthias Buck, Case Western Reserve University 
+ PSCA00015 Understanding the mechanics of energy conversion in Na+-dependent 
+co-transporters
+; PI: Michael Grabe, University of Pittsburgh 
+ PSCA00029 Linking Structure and Conductance of Ion Channels; PI: Andrew Pohorille, University of California-San Francisco 
+ PSCA00034 Molecular Dynamics Simulation of Signal Transduction in the Squid 
+Rhodopsin G-Protein Coupled Receptor; PI: Douglas James Tobias, University of 
+California-Irvine  PSCA00037 Dynamics and functional motions of the GlpG intramembrane protease
+; PI: Ana Nicoleta Bondar, University of California-Irvine 
+ PSCA00057 Lipid-mediated assembly of membrane proteins
+; PI: Stephen White, 
+University of California-Irvine  
+ PSCA00058 Application of New Tools for Characterizing Protein Dynamics to 
+Microsecond-Scale, Explicitly-Solvated MD 
+Simulations of Intrinsically Disordered 
+and Natively Folding Proteins; PI: Michael Colvin, University of California-Merced 
+ PSCA00061 Exploring Lipid-Protein Interactions Using Microsecond-scale 
+Molecular Dynamics Simulation
+; PI: Toby Allen, University of California-Davis 
+  PSCA00062 To knot or not to knot: slipknotting in the smallest knotted protein
+; PI: Jose Onuchic, University of California-San Diego 
+ PSCA00067 Development and testing of improved 
+Þxed-charge force Þelds for 
+proteins; PI: David Case, Rutgers University 
+ B. Proposals initially requesting more than 50,0
+00 node-hours of simulation time, to be 
+considered for a modified allo
+cation of 50,000 node-hours. 
+ 
+The committee judged that these proposals well me
+t the Anton selection criteria.  However, because only 15 proposals could receive the maximum allocation of simulation time, the 
+
+committee has included them among those proposals to 
+be considered for a modified allocation of 
+50,000 node-hours.
+  In numerical order by proposal submission number, these are:
+  PSCA00001 Detailed Characterization of the Equilibrium Fluctuations of the 
+Engrailed Homeodomain
+; PI: Christopher Langmead, Carnegie Mellon University 
+ PSCA00026 Characterization of Dynamics Control of Chemotaxis Initiation
+; PI: Jerome Baudry, University of Tennessee at Knoxville   
+ Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.7 PSCA00027 Molecular Flexibility in Drug Design Using Microsecond Molecular 
+Dynamics; PI: James Andrew McCammon, University of California-San Diego  
+ PSCA00033 Molecular Dynamics of DNA and Protein DNA Complexes: A Proposal 
+for Obtaining Micro-second Trajectories using Anton
+; PI: Thomas E. Cheatham5, University of Utah 
+ PSCA00068 Mechanistic insights into the ﬁinside-outﬂ signaling of integrins
+; PI: Marta Filizola, Mount Sinai Medical Center   
+  C. Additional proposals that would benefit from re
+ceiving time allocations on Anton, some with 
+modified allocations, to complete the available allocation of simulation time 
+ The committee judged that these proposals met th
+e Anton selection criteria and would benefit 
+from receiving simulation time on Anton rangi
+ng from 15,000 to 50,000 node hours.  In 
+numerical order by proposal submission number, these are:
+  PSCA00005 Exploration of the Human Adenovirus Protease Activation Pathway via 
+Long Timescale Molecula
+r Dynamics Simulations
+; PI: Ross Walker, University of California-San Diego [identified for 50,000 node-hours]
+  PSCA00006 Continuous Long-Time Dynamics of 
+RNA Molecules: Watching without 
+Blink-ing for Microseconds through Anton™s Microscope
+; PI: Ioan Andricioaei, University of California-Irvine 
+[identified for 50,000 node-hours] 
+ PSCA00009 Simulations of a Sterol Transport Protein (Osh4) that Tethers 
+Membranes of the Endoplasmic Reticulum and Plasma Membrane
+; PI: Jeffery B. 
+Klauda, University of Maryland at College Park 
+[identified for 25,000 node-hours] 
+ PSCA00012 Using ANTON to probe the conformational space of poly-glutamine and 
+its aggregation to understand its role in Huntington™s disease, a protein aggregation 
+disease; PI: Bruce J. Berne, Columbia University 
+[identified for 50,000 node-hours]
+  PSCA00017 Understanding the Transcriptional Regulation of MerR
+; PI: Jerry M. 
+Parks, Oak Ridge National Laboratory 
+[identified for 50,000 node-hours]
+  PSCA00020 A Peptides Interactions with Lipid Bilayers: Implications for 
+Aggregation and Neurotoxicity
+; PI: Jie Zheng, University of Akron 
+[identified for 
+50,000 node-hours] 
+ PSCA00036 Uncovering the mechanism of Protei
+n Tyrosine Phosphatase 1B induced insulin resistance in Type 2 Diabetes Mellitus through MD simulations of the 
+PTP1B-IRK complex; PI: Thanh Truong, University of Utah 
+[identified for 15,000 
+node-hours]
+  PSCA00039 Micro-Second Molecular Dynamics Simu
+lation of the Folding Pathways 
+of Tetratricopeptide Repeat Units in the Cargo Binding Domain of Kinesin Motor 
+Proteins; PI: Carol Parish, University of Richmond 
+[identified for 50,000 node-hours] 
+                                                  5 Dr. Beveridge, a member of the Committee on Proposal Evaluation for Allocation of Supercomputing 
+Time for the Study of Molecular Dynamics, is a member of the Consortium that submitted this proposal. 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.8 PSCA00040 Molecular Dynamics Simulations of 
+Conformational Dynamics in the 
+p38a MAP Kinase: Differential Dynamics in 
+the Crystal and Solution Environments 
+and the Effects of Binding a Small Molecule Inhibitor
+; PI: Adrian H. Elcock, University of Iowa 
+[identified for 50,000 node-hours] 
+ PSCA00041 Growth mechanisms of amyloid fibrils
+; PI: Jian-Min Yuan, Drexel University 
+[identified for 50,000 node-hours] 
+ PSCA00042 Characterizing changes in the conf
+ormation and dynamics of epidermal 
+growth factor receptor induced by muta
+tions associated with anti-cancer drug 
+treatment; PI: Peter Coveney, Yale University 
+[identified for 50,000 node-hours]
+  PSCA00043 Structural and Functional Water Dynamics in Rhodopsin Activation from Picoseconds to Microseconds
+; PI: Mark R. Chance, Case Western Reserve 
+University 
+[identified for 50,000 node-hours]
+  PSCA00045 All Atom Molecular Dynamics Simula
+tion of Connexin Hemichannel 
+Voltage Gating; PI: Thaddeus A. Bargiello, Albe
+rt Einstein School of Medicine 
+[identified for 24,000 node-hours]
+  PSCA00049 Assessment of Multi-Microsecond Simulations of Intrinsically 
+Disordered Proteins Using NMR: Applications to FCP1 in the Unbound State
+; PI: Scott A. Showalter, Pennsylvania State University 
+[identified for 50,000 node-hours]
+  PSCA00063 All-Atom Molecular Dynamics Simulations of S-Adenosyl Methionine 
+(SAM) Assisted SAM-I Riboswitch (Un)Folding Pathways: A Small Molecule with a 
+Strong Arm; PI: Shantenu Jha, Louisiana State University 
+[identified for 50,000 node-
+hours] 
+ PSCA00064 Structural mechanism of integrin activation induced by talin
+; PI: Cheng 
+Zhu, Georgia Institute of Technology 
+[identified for 50,000 node-hours] 
+ PSCA00073 The Effect of 
+-Synuclein on Membrane Structure
+; PI: Jonathan Sachs, University of Minnesota 
+[identified for 50,000 node-hours] 
+ 
+The time allocations for the 47 proposals judged by the committee as best meeting the Anton 
+selection criteria total approximately 3,000,000 
+node-hours.  In carrying out its charge, the 
+committee identified as many promising proposals as feasible given the overall constraints on 
+
+simulation time, to allow the maximum number 
+of users possible the opportunity to take 
+advantage of this special resource.  If additiona
+l node-hours of simulation time become available 
+during the course of the project, the committee en
+courages D.E. Shaw Research and Pittsburgh 
+Supercomputing Center to allocate these hours to the research groups showing the most 
+promising results and which woul
+d benefit most greatly from the additional time.  The committee 
+also encourages D.E. Shaw and PSC to provi
+de a collective repository and to encourage 
+investigators to share the data generated, since 
+the trajectories obtained may be of use to other 
+investigators in the community.  
+
+   
+ 
+ Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.9 The committee wishes to thank D.E. Shaw Res
+earch, Pittsburgh Supercomputing Center, and all 
+of the 2010 Anton applicants for the opportunity
+ to review these proposals and to identify which 
+of the proposals best met the requirements set 
+forth in the RFP.  The committee members were 
+vocal in their enthusiasm for the computationa
+l opportunities provided by Anton and pleased to 
+be a part of helping determine how to al
+locate time on this important resource. 
+ Sincerely, 
+ Robert L. Jernigan Chair  
+ 
+cc:  Dr. Joel Stiles, Pittsburgh Supercomputing Center 
+Dr. Warren Muir, National Research Council 
+   Dr. Frances Sharples, National Research Council  
+   Appendixes:  A. Table 1: Proposals Reviewed by the Committee 
+B. Individual Proposal Summary Evaluations 
+C. Proposal Evaluation Criteria 
+D. Roster and Biographical Sketches of Committee Members 
+E. The Board on Life Sciences and the National Academies 
+F. Acknowledgement of Report Reviewer Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.10  APPENDIX A TABLE 1: PROPOSALS REVI
+EWED BY THE COMMITTEE 
+ This appendix is not available to the public. 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.11 APPENDIX B INDIVIDUAL PROPOSAL SUMMARY EVALUATIONS 
+ This appendix is not available to the public. 
+ 
+ 
+ Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.12  APPENDIX C PROPOSAL REVIEW CRITERIA  
+ The committee used the points below to help guide its review of the proposals.  The 
+reviewers were asked to comment on the strengths and weaknesses of the proposals by 
+
+considering the following:
+   Level of scientific merit  1. Potential to advance understanding of an important problem or question in the 
+field; potential for breakthrough science resulting in new discoveries and 
+
+understanding 2. Impact that successful completion of the proposed research would have on the 
+knowledge, methods, and current barriers in the field  
+3. Project is scientifically and technologically feasible with clear, well-developed, 
+and appropriate goals, objectives, and approach to the proposed studies 
+ Justification for requested time allocation 1. Clear and well-justified need for multi-microsecond simulation time 
+Clear and convincing justification that the length and number of proposed 
+
+simulation runs and node-hours requested are necessary and sufficient to 
+
+achieve the scientific objectives
+  Investigator qualifications and past accomplishments 1. Appropriate experience and training to successfully conduct the proposed studies 
+2. Evidence of knowledge and prior experience with molecular simulations 
+
+3. Past publications 
+   Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.13 APPENDIX D  COMMITTEE ON PROPOSAL EVALUATION FOR ALLOCATION OF 
+SUPERCOMPUTING TIME FOR THE 
+STUDY OF MOLECULAR DYNAMICS  ROBERT L. JERNIGAN
+ (Chair), Director, Laurence H. Baker Center for Bioinformatics and 
+Biological Statistics and Professor, Department
+ of Biochemistry, Biophysics and Molecular 
+Biology, Iowa State University 
+NILESH BANAVALI
+, Research Scientist, Wadsworth Center and Assistant Professor, School of 
+Public Health, State University of New York, Albany 
+
+DAVID L. BEVERIDGE
+, Professor of Theoretical Chemistry and Molecular Biophysics, 
+Wesleyan University 
+
+CHARLES L. BROOKS III
+, Warner-Lambert/Parke-Davis Professor of Chemistry and 
+Professor of Biophysics, University of Michigan 
+XIAOLIN CHENG
+, Staff Scientist, Oak Ridge National Laboratory and Adjunct Professor, 
+University of Tennessee, Knoxville 
+
+RUXANDRA DIMA
+, Assistant Professor of Chemistry, University of Cincinnati 
+BARRY H. HONIG
+, Director, Center for Computational Biology and Bioinformatics and 
+Professor of Biochemistry and Molecular Biophysics, Columbia University 
+GERHARD HUMMER
+, Chief, Theoretical Biophysics Section, The National Institute of 
+Diabetes and Digestive and Kidney Diseases, National Institutes of Health  
+
+RONALD M. LEVY
+, Board of Governors Professor of Chemistry & Chemical Biology and 
+Director, BioMaPS Institute for Quantitative Biology, Rutgers University 
+GLENN J. MARTYNA
+, Researcher, IBM 
+GREGORY PETSKO
+, Gyula and Katica Tauber Professor of Biochemistry and Chemistry, 
+Brandeis University 
+CAROL B. POST
+, Professor of Medicinal Chemistry 
+and Molecular Pharmacology, Purdue 
+University 
+
+KLAUS J. SCHULTEN, Swanlund Professor of Physics, University of Illinois, Urbana-
+Champaign 
+JEFFREY SKOLNICK
+, Professor and Director of the Center for the Study of Systems Biology, 
+Georgia Research Alliance Eminent Scholar in 
+Computation Systems Biology, Georgia Institute 
+of Technology 
+
+FENG WANG, Assistant Professor, Department of Chemistry, Boston University 
+ARIEH WARSHEL
+, Professor of Chemistry and Biochemistry, University of Southern 
+California  STAFF  KATHERINE BOWMAN
+, Senior Program Officer,
+ Board on Life Sciences 
+KATHRYN HUGHES
+, Program Officer, Board on Chemical Sciences and Technology 
+CARL-GUSTAV ANDERSON
+, Senior Program Assistant, Board on Life Sciences 
+JAMES MULLER, Intern, Board on Life Sciences 
+  Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.14  BIOGRAPHICAL SKETCHES OF COMMITTEE MEMBERS 
+ CHAIR 
+ Robert L. Jernigan
+ is the Director of the Laurence H. Baker Center for Bioinformatics and 
+Biological Sciences as well as a Professor in the Department of Biochemistry, Biophysics, and 
+Molecular Biology at Iowa State University.  
+He received his B.S. in Chemistry from the 
+California Institute of Technology in 1963 a
+nd completed his Ph.D. in 1968 at Stanford 
+University.  He has previously served as Deputy Chief of the Laboratory of Experimental and 
+
+Computational Biology and Chief of the Section on Molecular Structure in the National Cancer 
+Institute of the National Institutes of Health.  He is also a former Chair of the NIH Advisory Committee on Computer Usage and has served on multiple committees on computing resources.  
+
+Dr. Jernigan is currently on the editorial boards for the journals 
+Biochemistry
+, the Journal of Data 
+Mining in Genomics and Proteomics
+, and 
+Bioinformatics and Biological Insights
+.    MEMBERS 
+ Nilesh Banavali received his Ph.D. from the University of Maryland in 2001 for studies on 
+nucleic acid force fields and base flipping with Alexander MacKerell Jr.  He pursued postdoctoral 
+training at Weill Medical College of Cornell University and the University of Chicago with 
+Benoît Roux on implicit and implicit/explicit solvent 
+models and free energy characterization of 
+conformational change and allostery in macromol
+ecules.  He currently serves as a Research 
+Scientist at the Wadsworth Center and as Assistant Professor in the School of Public Health at the 
+State University of New York, Albany.  The prim
+ary goal of his research is to use computational 
+calculations and refined analysis techniques 
+to optimally extract free energy landscapes 
+describing biologically relevant macromolecula
+r conformational change.  Dr. Banavali also 
+develops techniques to facilitate validation of computational pr
+edictions with structural and 
+biochemical data. 
+  David L. Beveridge attended the College of Wooster, Woos
+ter Ohio graduating in 1959, with a 
+major in chemistry.  After two years at Monsan
+to Research Laboratory, he went for graduate 
+studies at the University of Cincinnati.  Based 
+on his studies and research under the mentorship of the eminent physical chemist, Hans H. Jaffe, he
+ was awarded a Ph.D. in Physical Chemistry in 
+1965.  He was granted an NIH Postdoctoral Fellows
+hip to study molecular quantum mechanics at 
+the Centre de Mecanique Ondulatoire Appliquee in Paris, France with Dr. Odilon Chalvet.  Dr. 
+Beveridge continued his postdoctoral studies at Carn
+egie Mellon University with Prof. J.A. Pople, 
+where he worked on the development of INDO mole
+cular orbital theory.  In 1968, Dr. Beveridge 
+joined faculty of the City University of New Yo
+rk, at first in a joint appointment with Hunter 
+College Chemistry Department and The Mount Si
+nai School of Medicine and subsequently full 
+time at Hunter College.  In 1986, Dr. Beveridge 
+moved from New York City to become Professor 
+of Chemistry at Wesleyan University.  In 1988,
+ he was granted a Merit Award by the NIH and 
+named University Professor of the Natural Sciences and Mathematics.  His current research 
+
+involves theoretical and computational modeling studies of the structure, motions, salvation, and 
+ligand binding properties of DNA and RNA using 
+molecular dynamics simulation.  He served as 
+Dean of Natural Sciences and Mathematics (
+1992-1999) and has authored or co-authored over 
+200 papers in the scientific literature.  In a
+ddition to research and teaching, he now serves 
+Wesleyan as Director of the NIH supported Program in Molecular Biophysics and Biological 
+
+Chemistry. 
+
+ Charles L. Brooks received a B.S. from Alma College in 1978.  Dr. Brooks pursued graduate 
+studies at Purdue University under the direction of Professor Stephen A. Adelman.  His graduate 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.15 work focused on the development of non-equilibrium
+ statistical mechanical
+ theories for reactions 
+on surfaces, in solids and in liquids using mol
+ecular timescale generalized Langevin (MTGLE) 
+theory.  In 1982, he received his Ph.D. in Ph
+ysical Chemistry from Purdue University.  Dr. 
+Brooks was engaged in postgraduate work at Harv
+ard University with Professor Martin Karplus 
+between the years of 1982 and 1985, focusing on theoretical and computational biophysics.  Dr 
+
+Brooks was also the recipient of an NIH Postdoctoral Fellowship between 1983 and 1985.  In 
+1985, Professor Brooks joined the Chemistry Facu
+lty of Carnegie Mellon University and was 
+promoted to Professor of Chemistry in 1992.  He received an Alfred P. Sloan Research 
+
+Fellowship in 1992 and during this period, 1992-1993, spent a sabbatical year working at the 
+Karolinska Institute in Stockholm Sweden and 
+The Scripps Research Institute in La Jolla 
+California.  Dr. Brooks has recently moved to the University of Michigan, where he holds the 
+
+positions of Warner-Lambert/Parke-Davis Professor of Chemistry and Professor of Biophysics.  
+
+Dr. Brooks™ research includes multi-scale modeling of the dynamics and assembly of complex 
+
+biological assemblies, protein folding, unfolding and aggregation, and free energy 
+approximations. 
+ 
+Xiaolin Cheng
+ is a staff scientist at the Center for Molecular Biophysics of the Oak Ridge 
+National Laboratory.  He is also an adjunct pr
+ofessor in the Department of Biochemistry and 
+Cellular and Molecular Biology at the Univers
+ity of Tennessee, Knoxville.  Dr. Cheng received 
+his B.S. from Nanjing University, China, and 
+his Ph.D. in Computational Chemistry from the 
+State University of New York at Stony Br
+ook, where he worked with Professor Carlos Simmerling on application of enhanced sampli
+ng approaches to biomolecular simulations.  He 
+subsequently joined Professor Andy McCammon's 
+group at University of California, San Diego 
+as a postdoctoral research associate, mainly 
+working on nicotinic acetylcholine receptor 
+simulation, and methodological development fo
+r fast and scalable continuum electrostatic 
+calculation.  Dr. Cheng moved to Oak Ri
+dge National Laboratory in early 2008. 
+ 
+Ruxandra I. Dima 
+has an interdisciplinary training in th
+eoretical and computational physics and 
+physical chemistry and her current research 
+focuses on the area of computational biophysical 
+chemistry with special emphasis on single molecule experiments and aggregation.  After 
+receiving her undergraduate degree from the Univer
+sity of Bucharest, Romania in 1994, she studied at the Pennsylvania State University wher
+e she obtained her PhD in 1999.  Her thesis was 
+concerned with the determination of mean field 
+free-energy potentials between amino acids in 
+proteins.  She then took a postdoctoral appoint
+ment (2000-2005) at the Institute for Physical 
+Science and Technology, University of Mary
+land where she worked on problems related to 
+protein aggregation, allostery, RNA folding, and single-molecule biophysics.  In 2005 she took a 
+faculty position at the University of Massachuset
+ts, Lowell.  She joined the faculty at the 
+University of Cincinnati in 2006. 
+
+ 
+Barry H. Honig
+ is a biophysicist who specializes in bi
+oinformatics and in developing theoretical 
+methods for analyzing the physical chemical properties of macromolecules.  He received a B.A. 
+from the Polytechnic Institute of Brooklyn in 1963,
+ an M.A. from Johns Hopkins University in 
+1964, and completed a Ph.D. in chemistry at th
+e Weismann Institute of Sciences.  He is 
+particularly noted for innovating methods to com
+pute and display the electrostatic potentials of 
+macromolecules based on their 3D structures.  The computer programs DelPhi and GRASP were 
+
+developed in his laboratory and are widely used
+ by the academic and industrial communities.  
+Since 1981, Dr. Honig has been a Professor of Biochemistry and Molecular Biophysics at 
+Columbia University.  In 1990, Dr. Honig was elected President of the Biophysical Society, he 
+received an NIH Merit Award in 1995, and he is 
+a recipient of the 2002 Founders Award of the 
+Biophysical Society.  Dr. Honig is a Howard H
+ughes Medical Institute (HHMI) Investigator.  He serves on the editorial boards of several journals and has published over 190 scientific papers 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.16 throughout his distinguished career.  He was elect
+ed to membership in the National Academy of 
+Sciences in 2004. 
+ Gerhard Hummer
+ received a doctoral degree in physics for work done jointly at the Max-Planck 
+Institute for Biophysical Chemistry in Göttingen an
+d the University of Vienna (1992).  In 1996, 
+he started his independent career in the Theore
+tical Division of Los Alamos National Laboratory 
+after his postdoctoral work there.  In 1999, Dr. Hummer joined the Laboratory of Chemical 
+Physics in the National Institute of Diabetes 
+and Digestive and Kidney Diseases at the National 
+Institutes of Health where he is a Senior Investigator.  His research focuses on areas including 
+theory of single-molecule experiments; channel 
+function; peptide and protein folding; complex 
+formation and ligand binding; pr
+oton pumping and bioenergetics; 
+reaction-rate calculations; and the development of new methods for biom
+olecular simulation a
+nd electrostatics.  
+Ronald M. Levy 
+is a Board of Governors Professor of Chemistry at Rutgers University.  He 
+received his B.A. from Reed College in 1970 a
+nd completed his Ph.D. in 1976 at Harvard 
+University.  His research is primarily in the areas of protein simulation and modeling and 
+
+molecular solvation.  He h
+as been awarded a Sloan Foundation Fellowship, a Johnson and 
+Johnson Discovery Research Award, an NIH Res
+earch Career Development Award, and a 
+Guggenheim Fellowship.  Over the past two d
+ecades he has developed the IMPACT molecular 
+modeling code.  Current interests include the e
+xploration of energy landscapes for protein binding 
+and folding, new molecular simulation methods 
+and multi-scale models, and the determination of 
+solvation free energies. 
+ 
+Glenn J Martyna received a Ph.D. in chemical from Columb
+ia University in 1989.  He was then 
+a NSF postdoctoral fellow in computational sci
+ence and engineering at the University of 
+Pennsylvania.  Dr. Martyna was appointed to faculty of Indiana University, Bloomington, in 1993 
+and was awarded tenure in 2000.  In 2001, he jo
+ined IBM's TJ Watson Research Lab in Yorktown 
+Heights, NY.  Dr. Martyna was awarded an honorary Professorship of Physics at the University 
+
+of Edinburgh, UK in 2008.  His research fo
+cuses on the use of novel methodology, parallel 
+algorithms, and computer simulation to probe biophysical, materials and chemical systems 
+including studies of aqueous solutions, comp
+lex heterogeneous inte
+rfaces, phase change 
+materials, and nanomaterials. 
+
+ 
+Gregory A. Petsko
+ is the Gyula and Katica Tauber Professor of Biochemistry and Molecular 
+Pharmacodynamics and the director of the Rosenstiel Basic Medical Sciences Research Center at 
+
+Brandeis University.  He was elected to memb
+ership in the National Academy of Sciences in 
+1995 and to the Institute of Me
+dicine in 2001.  He has devel
+oped low-temperature methods in 
+protein crystallography and their use to study en
+zymatic mechanisms and has pioneered the study 
+of protein dynamics in enzymatic reactions.  For 
+over 25 years, he has worked to understand how 
+enzymes achieve their extraordinary catalytic power, developing crystallographic methods for 
+
+direct observation of productive enzyme-substrate 
+and enzyme-intermediate complexes that led to 
+techniques for studying protein crystal structures at
+ very low temperatures.  Dr. Petsko is also a 
+founding scientist of the combinatorial-chemistry company ArQule, Inc. 
+ Carol Post received her B.S. from the University of Arizona in 1975, and received a Ph.D. from 
+the University of California, San Diego in 1981.
+  She pursued post-graduate research between 
+1982 and 1985 at Harvard University.  She is 
+currently a Professor of Medicinal Chemistry and 
+Molecular Pharmacology at Purdue University, 
+where she operates the Post Lab (Computational 
+and Structural Biology Research Group).  The research focus of the Post Lab is broadly described 
+as investigations to understand the regulation 
+and function of protein-protein interactions 
+associated with cell signaling and viruses.  Multi-dimensional, multinuclear NMR methods are 
+
+used to determine 3-dimensional structure of protein complexes.  Computational methods are 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.17 used to study the mechanism of action of antiv
+iral compounds, and the molecular mechanism for 
+phosphotyrosine control of protein function in signal transduction. 
+
+ Klaus Schulten received his Ph.D. from Harvard University in 1974. He is Swanlund Professor 
+of Physics and is also affiliated with the Depart
+ment of Chemistry as well as with the Center for 
+Biophysics and Computational Biology at the Un
+iversity of Illinois, Urbana-Champaign.  
+Professor Schulten is a full-time faculty member
+ in the Beckman Institute and directs the 
+Theoretical and Computational Biophysics Group.
+  His professional interests are theoretical 
+physics and theoretical biology. His current 
+research focuses on the structure and function of 
+supramolecular systems in the living cell, and on
+ the development of non-equilibrium statistical 
+mechanical descriptions and efficient computing tools for structural biology. 
+
+ 
+Jeffrey Skolnick received his B.A. in Chemistry, Summa Cum Laude, from Washington 
+University, St. Louis in 1975.  He received his 
+M. Phil. in Chemistry from Yale University in 
+1977 and his Ph.D. in Chemistry from Yale Univer
+sity in 1978, with Professor Marshall Fixman.  
+Dr. Skolnick is a Professor at Georgia Technical 
+University and Director of the Center for the 
+Study of Systems Biology.  Dr. Skolnick has recently completed a very promising study in cancer 
+
+metabolomics where he and his research group va
+lidated a predictive algorithm that can identify 
+novel metabolites with anticancer properties. Th
+ey have also developed a new, powerful 
+algorithm that can predict protein function and bi
+nding sites, and which can be used for rapid 
+screening ligand libraries.  In addition, Dr. Skolnick has developed physics based, atomic 
+
+potentials for protein structure refinement.  He a
+nd his team demonstrated that the library of all 
+protein folds is above the percolation threshhold, 
+i.e., any protein structure can be related to any 
+other by no more than eight intermediate structures. 
+
+ Feng Wang received his B.S. in Chemistry from Peking University (1998) and Ph.D. in 
+Theoretical Chemistry from the University of Pitts
+burgh (2003).  He did post-doctoral research in 
+computational physical chemistry at the Univers
+ity of Utah with Professor Gregory A. Voth.  
+Since 2005, he has been an Assistant Professor 
+in the Department of Chemistry at Boston 
+University.  Dr. Wang received a Mellon Fellowship 
+at the University of Pittsburgh in 2002, an 
+NSF CAREER Award in 2007, and an HP Outstanding Junior Faculty award in 2010.  His 
+research focuses on systematic development 
+of high quality force fields, free energy 
+determinations, and enhanced sampling. 
+
+ 
+Arieh Warshel received his BS degree in Chemistry, Summa Cum Laude, from Technion Israel 
+in 1966, and his MS and PhD degrees in Chemical 
+Physics in 1967 and 1969, respectively, from 
+the Weizmann Institute of Science, Israel. Afte
+r his PhD, he did postdoctoral work at Harvard 
+University. From 1972 to 1976, he was at the We
+izmann Institute and at the MRC Laboratory for 
+Molecular Biology in Cambridge, England. In 1976 
+he joined the faculty of the Department of 
+Chemistry at USC, where he now is Professo
+r of Chemistry and Biochemistry. and a Full 
+Member of the USC Norris Cancer Center. Dr. 
+Warshel has authored over 350 peer-reviewed 
+research articles (H index 92) and book chapters, 
+two books, and several key computer programs.  
+Dr. Warshel™s research focuses on simulations of 
+the functions of biological system and other 
+challenging problems in modern computational bi
+ophysics and chemistry. He and his coworkers 
+have pioneered the key approaches for simulating 
+the functions of biological molecules, including 
+introducing molecular dynamics (MD) in
+ Biology, developing the quantum 
+mechanical/molecular-mechanical (QM/MM) approach, introducing simulations of enzymatic 
+reactions, developing simulations of electron tran
+sfer and proton transfer processes in proteins, 
+pioneering microscopic modeling of electrostatic effects in macromolecules and introducing 
+
+simulation of protein folding. Dr. Warshel receive
+d the Tolman Medal in 2003, has been elected a 
+Fellow of the Biophysical Society in 2000, a Fello
+w of the Royal Society of Chemistry in 2008, 
+and a Member of the National Academy of Science in 2009. 
+Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.18 APPENDIX E  THE BOARD ON LIFE SCIENCES
+ AND THE NATIONAL ACADEMIES 
+  
+BOARD ON LIFE SCIENCES, NA
+TIONAL RESEARCH COUNCIL 
+  KEITH YAMAMOTO
+ (Chair), University of Califor
+nia, San Francisco, CA ANN M. ARVIN,
+ Stanford University School of Medicine, Stanford, CA 
+BONNIE L. BASSLER
+, Princeton University, Princeton, NJ 
+VICKI L. CHANDLER
+, Gordon and Betty Moore Foundation, Palo Alto, CA 
+SEAN EDDY
+, Howard Hughes Medical Institute, Janelia Farm Research Campus, Ashburn, VA 
+MARK D. FITZSIMMONS
+, John D. and Catherine T. MacArthur Foundation, Chicago, IL 
+DAVID R. FRANZ
+, Midwest Research Institute, Frederick, MD 
+LOUIS J. GROSS, University of Tennessee, Knoxville, TN 
+JO HANDELSMAN, University of Wisconsin, Madison, WI 
+CATO T. LAURENCIN, 
+University of Connecticut Health Center, Farmington, CT 
+JONATHAN D. MORENO
+, University of Pennsylvania, Philadelphia, PA 
+ROBERT M. NEREM
+, Georgia Institute of Technology, Atlanta, GA 
+CAMILLE PARMESAN, 
+University of Texas, Austin, TX MURIEL E. POSTON, Skidmore College, Saratoga Springs, NY 
+ALISON G. POWER, 
+Cornell University, Ithaca, NY BRUCE W. STILLMAN
+, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 
+CYNTHIA WOLBERGER
+, Johns Hopkins University Sch
+ool of Medicine, Baltimore, MD 
+MARY WOOLLEY
+, Research!America, Alexandria, VA 
+  STAFF  FRANCES E. SHARPLES
+, Director JO L. HUSBANDS
+, Scholar/Senior Project Director 
+KATHERINE BOWMAN
+, Senior Program Officer 
+MARILEE K. SHELTON-DAVENPORT
+, Senior Program Officer 
+INDIA HOOK-BARNARD
+, Program Officer 
+ANNA FARRAR
+, Financial Associate 
+CARL-GUSTAV ANDERSON
+, Senior Program Assistant 
+AMANDA L. MAZZAWI
+, Senior Program Assistant 
+SAYYEDA AYESHA AHMED
+, Program Assistant 
+ Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.19   The National Academy of Sciences
+ is a private, nonprofit, self-perpetuating society of 
+distinguished scholars engaged in scientific and engineering research, dedicated to the furtherance 
+of science and technology and to their use for th
+e general welfare.  Upon the authority of the 
+charter granted to it by the Congress in 1863, 
+the Academy has a mandate that requires it to 
+advise the federal government on scientific and technical matters.  Dr. Ralph J. Cicerone is 
+president of the National Academy of Sciences. 
+ The National Academy of Engineering was established in 1964, under the charter of the 
+National Academy of Sciences, as a parallel orga
+nization of outstanding engineers.  It is 
+autonomous in its administration and in the selec
+tion of its members, sharing with the National 
+Academy of Sciences the responsibility for a
+dvising the federal government.  The National 
+Academy of Engineering also sponsors engineer
+ing programs aimed at meeting national needs, 
+encourages education and research, and recognizes th
+e superior achievements of engineers.  Dr. 
+Charles M. Vest is president of the National Academy of Engineering. 
+
+ 
+The Institute of Medicine
+ was established in 1970 by the National Academy of Sciences to 
+secure the services of eminent members of appropriate professions in the examination of policy 
+matters pertaining to the health of the public.  
+The Institute acts under the responsibility given to 
+the National Academy of Sciences by its congressiona
+l charter to be an adviser to the federal government and, upon its own initiative, to id
+entify issues of medical care, research, and 
+education.  Dr. Harvey V. Fineberg is 
+president of the Institute of Medicine. 
+ 
+The National Research Council
+ was organized by the National Academy of Sciences in 1916 to 
+associate the broad community of science and technology with the Academy™s purposes of 
+furthering knowledge and advising the federal 
+government.  Functioning in accordance with general policies determined by the Academy, 
+the Council has become the principal operating 
+agency of both the National Academy of Scien
+ces and the National Academy of Engineering in 
+providing services to the government, the public, and the scientific and engineering communities.  
+The Council is administered jointly by both Academies and the Institute of Medicine.  Dr. Ralph 
+J. Cicerone and Dr. Charles M. Vest are chair and vice chair, respectively, of the National 
+
+Research Council.  www.national-academies.org 
+ Report of the Committee on Proposal Evaluation for Allocation of Supercomputing Time for the Study of Molecular DynamicsCopyright National Academy of Sciences. All rights reserved.20 APPENDIX F ACKNOWLEDGEMENT OF REPORT REVIEWER 
+ This report has been reviewed in draft form 
+by an individual chosen for his perspective 
+and technical expertise, in accordance with
+ procedures approved by the NRC's Report 
+Review Committee. The purpose of this independent review is to provide candid and critical comments that will assist the institut
+ion in making its published report as sound as 
+possible and to ensure that the report m
+eets institutional standards for objectivity, 
+evidence, and responsiveness to the study charge. The review comments and draft manuscript remain confidential to protect the 
+integrity of the deliberative process. We wish to thank the following individual for his review of this report:  
+Sean Eddy, Howard Hughes Medical Institute, Janelia Farm Research Campus 
+ 
+Although the reviewer listed above has provided many constructive comments and 
+suggestions, he was not asked to endorse the conclusions. In addition, he was asked to ensure that an independent examination of th
+is report was carried out in accordance with 
+institutional procedures and that all review comments were carefully considered. Responsibility for the final content of this report rests entirely with the authoring committee and the institution. 
